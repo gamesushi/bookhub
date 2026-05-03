@@ -1,79 +1,422 @@
 ---
-title_zh: "1966 年致股东的信"
+title_chs: "1966 年致股东的信"
 dg-publish: true
 ---
-# 1966-巴菲特致股东信
+
+:::lang chs
+
+原文信息：
+
+:::
+
+:::lang chs
+
+- 标题：1966 Letter to Berkshire Shareholders
+- 作者：Malcolm Chace & Kenneth Chace
+- 发表时间：1966-12-02
+- 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1966-Berkshire-AR.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Terrellchen
+- 校译：
+
+:::
+
+---
+
+:::lang eng
+
+December 2, 1966
+
+:::
+
+:::lang chs
+
+1966 年 12 月 2 日
+
+:::
+
+:::lang eng
+
+To the Stockholders of Berkshire Hathaway Inc.:
+
+:::
+
+:::lang chs
 
 致伯克希尔·哈撒韦公司全体股东：
 
-为便于各位参考，我们在信的首页以对比形式重点列示了1966财年与前五个财年的财务数据。
+:::
 
-本信将就以下几个方面作详细说明：
+:::lang eng
 
-## 一、1966年运营状况
+For your information, we have highlighted the financial information for fiscal 1966 in comparison with the five preceding years on the facing page.
 
-本年度营业总额为4,940万美元，与去年基本持平，但产品结构出现了较大变化。合成部门的销售额有所下滑，不过家居纺织品部门业绩相应增长，弥补了这一缺口。梭箱织机部门销售略有改善，却又被菲利普国王工厂D分厂的销售下滑所抵消。
+:::
 
-1966年下半年，市场整体低迷。染纱进口大量涌入，加上流行趋势发生转变，导致我们梭箱织机部门销量受损、价格承压。醋酸面料产能过剩，加之尼龙面料进口冲击，使合成部门面临更多织机厂商的竞争。进口增加与国内产能扩张双重夹击，压低了普通涤棉混纺产品的价格。我们预计，这一态势将驱使行内织机转向棉织品，从而对我们菲利普国王工厂D分厂生产的精梳棉面料销售产生不利影响。
+:::lang chs
 
-鉴于1966财年第四季度出现的种种不利因素，我们决定主动关停产线以避免库存积压——1966年10月9日当周，位于新贝德福德市 (New Bedford) 的梭箱织机部门与合成部门均暂停生产。截至本信撰写之时，纺织市场仍未回暖，若要防止库存继续堆积，可能还需进一步削减产能。
+为便于股东参考，我们在这封信的首页突出列示 1966 财年的财务与前五个财年的对比情况。
 
-过去几年，家居纺织品部门持续增长，很大程度上有赖于新产品的开发以及对老产品的创新应用。去年，我们加大了研发投入，力求推出价格与销量更为稳健的纺织品。
+:::
 
-1966年初，我们与美国劳工联合会—产业工会联合会 (AFL-CIO) 旗下的美国纺织工人工会签订了一份为期三年的新合同，有效期至1969年4月15日。合同涵盖工资与福利条款，不设中途重新谈判条款。
+:::lang eng
 
-本年度我们投入约97万美元用于购置和安装新设备，目标是降低成本、提升产品质量并增强生产灵活性。
+In this letter we will discuss in some detail the following areas:
 
-1966财年，我们已完成对剩余闲置资产的处置。
+:::
 
-截至1966财年末，税收亏损结转额度已基本用尽，仅余极小部分。因此，公司未来产生盈利时，将须照常缴纳企业所得税。
+:::lang chs
 
-## 二、运营回顾（1960年10月1日至1966年10月1日）
+在这封信中，我们将详细讨论以下几方面：
 
-对于纺织这样高度周期性的行业，伯克希尔·哈撒韦 (Berkshire Hathaway) 过去十年的故事，不过是盈利期与亏损期交替上演的老剧本。过去这一年在这段历史中格外重要——1966年不仅实现了盈利，更见证了公司财务实力恢复到1960年底的水平。各位或许还记得：1959年和1960年的盈利尚未完全弥补1957年和1958年的巨额亏损，公司旋即又遭受了长达三年的亏损冲击。
+:::
 
-这几年间，公司财务状况不仅受到上述亏损的侵蚀，还要同时承受1960年代初大规模资本支出计划带来的重压。
+:::lang eng
 
-下表概括了伯克希尔·哈撒韦过去六年[[账面价值|账面价值]]的变动情况：
+1. Operating Conditions-1966
+2. Survey of Operations 1961-1966
+3. Maintenance of Financial Condition
+4. Dividends
 
-| 项目 | 金额（美元） |
-| --- | --- |
-| 1960年10月1日账面价值 | 37,981,820 |
-| 加：1961至1966年净收益（已扣除固定资产处置损失620万美元） | 40,476 |
-| 减：1961至1966年已派股息 | 1,366,273 |
-| 股息超出净收益部分 | 1,325,797 |
-| 小计 | 36,656,023 |
-| 减：1961至1966年累计回购607,972股股票 | 7,161,103 |
-| 1966年10月1日账面价值 | 29,494,920 |
+:::
+---
+:::lang chs
 
-从表中可以看出，这六年里股息支付额超过了净收益，但[[账面价值|账面价值]]下降22%的主要原因，是公司依照回购计划持续买回自家股票——流通股已缩减至1,017,547股，较1960年10月1日减少了37%。考虑到公司因关闭亏损工厂而主动缩减经营规模，这一流通股数量的减少实属合理。
+1. 1966 年运营状况；
+2. 1961~1966 年的运营情况分析；
+3. 保持健康的财务状况；
+4. 股息分配政策。
 
-股票回购计划对现有股东的好处，可以从每股[[账面价值|账面价值]]的变化中得到印证：1966年10月1日，公司流通普通股每股账面价值为28.99美元，而六年前这一数字仅为23.37美元。
+:::
 
-截至1960年10月1日的那一财年，公司销售总额为6,260万美元；1966年则为4,940万美元，降幅约21%，与总[[账面价值|账面价值]]22%的降幅基本吻合。公司目前的账面价值周转率已大致恢复到六年前的水平，这再次印证了公司实力的回归。
+# Operating Conditions - 1966 运营状况——1966 年
 
-## 三、财务状况的维护
+## Sales 销售状况
 
-保持健康的财务状况，始终是伯克希尔·哈撒韦的核心目标之一。正是这一原则，使公司得以在高度周期性的行业中存活至今。截至1966年10月1日，公司营运资金达23,158,187美元，充分体现了当前财务状况的稳健。这一数字与1960年10月1日的营运资金规模相当；但由于期间股票[[回购|回购]]导致流通股减少，每股营运资金已从六年前的14.41美元上升至22.76美元。
+:::lang eng
 
-维持强健财务状况，还有几层考虑，不仅仅是应对业务的周期性波动。正如此前向各位汇报的，公司一直在积极寻找合适的[[收购|收购]]标的，范围涵盖纺织业内外。尽管迄今尚无成功案例，我们对此类收购的兴趣不减。目前货币市场的状况几乎无法为收购融资，因此保持充足的流动资产至关重要——一旦期待中的收购机会出现，我们才有能力出手。此外，战争风险、税率变动以及商业活动可能进一步萎缩等不确定因素，也都强调了持续保持健康财务状况的必要性。
+Although total sales of $49.4 million were very close to last year's, there were significant changes in the product mix. The Synthetic Division sales dropped in dollar volume, but this was offset by a corresponding increase in Home Fabrics sales. The Box Loom Division sales showed some gain, but this was offset by a drop in sales of our King Philip D Division.
 
-另一个可能需要大额投入的领域，是我们增长迅猛的家居纺织品部门。过去三年，该部门销售额几近翻番。若未来几年继续保持这一势头，我们可能需要在增量库存和应收账款上追加高达700万美元的投资。
+:::
 
-最后，技术变革的威胁在纺织业如影随形。我们在厂房与设备上的账面投资为2,440万美元（扣除累计折旧后为630万美元），而纺织机械行业始终在努力让现有设备更快淘汰。生产流程任何环节的重大变革，都可能需要按未来重置价格进行大规模资本支出。我们会继续审慎权衡每一项资本支出计划的潜在收益与风险。但一旦认定资本支出符合公司最佳利益，就必须具备相应的财务实力去付诸实施。尤其需要警惕的情形是：重要的降本设备问世，偏偏又赶上纺织行业盈利低迷，届时外部融资极为困难甚至毫无可能——充足的营运资金在这种时候就显得格外关键。
+:::lang chs
 
-正是出于上述考量，公司年末在营运资本中保留了540万美元的有价证券，包括短期市政债券、商业票据和普通股。由于难以判断公司何时可能需要大笔现金，也存在相当长一段时间内根本不需要的可能性，我们的董事们认为，对于这部分资本，应当与投入工厂、库存、应收账款等其他资产一样积极追求合理回报。因此，董事会目前的意向是，将这些资金中的大部分暂时投资于普通股。这样做，不仅有望获得比非权益类有价证券更高的收益，还能使我们有机会参与[[纺织业务|纺织业务]]以外的利润，哪怕只是阶段性的、间接的参与。
+尽管 4,940 万美元的营业总额和去年基本持平，但是生产情况还是有较大变化。合成部门的营业额下降，但是这已被家居纺织品部门的业绩增长所弥补。梭箱织机部门的销售略有增长，但又被菲利普国王工厂 D 分厂的经营亏损而冲销。
 
-## 四、[[股息|股息]]政策
+:::
 
-公司财务状况的逐步恢复，为实施[[股息|股息]]政策提供了条件——向股东分配当期税后利润中合理比例的股息。当然，任何股息政策都必须以维护现有财务实力为前提，不能顾此失彼。
+:::lang eng
 
-为落实这一政策，董事会已于1966年11月14日宣布派发每股10美分的[[股息|股息]]，股权登记日为1966年12月2日，派发日期为1967年1月3日。
+The sales picture for the last half of 1966 was one of generally depressed markets. Heavy imports of yarn dyed goods plus a change in styling trends caused loss of sales and depressed prices in our Box Loom Division. Overproduction of acetate fabrics plus importation of nylon fabrics brought more looms into competition with us in our Synthetic Division. The combination of imports and increased domestic production depressed prices of plain polyester/cotton blends. We estimate that this development will cause looms to swing back on to cotton goods and thereby adversely affect our sales position on lawns woven at King Philip D Division.
 
-马尔科姆·G·蔡斯二世 (Malcolm G. Chace, Jr.)
+:::
+
+:::lang chs
+
+1966 年下半年的销售情况反映市场总体呈现低迷的态势。大量染纱的进口以及流行趋势的变化导致我们的梭箱织机业务销售亏损而且价格下跌。醋酸面料(内衬布)的过度生产加上尼龙面料的进口使得合成部门直面更多织机的竞争。进口以及国内产能的增长共同压低了普通涤棉混纺产品的价格。我们预计这种趋势会导致织布机转到棉织品上来，从而对我们菲利普国王工厂的 D 分厂生产的精梳棉面料的销售造成不利影响。
+
+:::
+
+:::lang eng
+
+The negative factors, which prevailed in the last quarter of our 1966 fiscal year, contributed to our decision to avoid inventory buildup by shutting down the Box Loom and Synthetic Divisions in New Bedford for the week of October 9, 1966. Inasmuch as the textile market has not, at this writing, shifted to a more active level, further cutbacks in production may be necessary to avoid inventory buildup.
+
+:::
+
+:::lang chs
+
+考虑到 1966 年第 4 季度的这些严重不利因素，我们被迫决定关闭梭箱织机业务，并在 1966 年 10 月 9 日也关闭了位于新贝德福德市的合成部门，从而避免了库存大量积压。截至撰写本股东信之时，纺织市场还没有复苏迹象，削减产能以避免库存积压就显得非常必要。
+
+:::
+
+## New Products 新产品开发
+
+:::lang eng
+
+The growth of our Home Fabrics Division over the past few years is, in large part, due to our development of both new products and new application of old products. In the past year, we have increased our expenditures for development so as to provide fabrics that will yield more stable prices and volumes.
+
+:::
+
+:::lang chs
+
+过去几年，家居纺织品部门的业绩增长在很大程度上得益于新产品开发和对老产品的创新应用。去年，我们为发展这个部门增加了更多的资本支出，以期纺织品价格和销售更加稳健。
+
+:::
+
+## Labor 劳工关系
+
+:::lang eng
+
+In early 1966, we signed a contract with the Textile Workers Union of America AFL-CIO for three years ending April 15, 1969. This contract covers wages and benefits with no reopening clause.
+
+:::
+
+:::lang chs
+
+1966 年初，我们与美国劳工联合会—产业工会联合会下的美国纺织工人工会签订了一份为期 3  年的新合同，截止日期为 1969 年 4 月 15 日。该合同条款涵盖了工资和福利政策，未增加二次谈判的条款。
+
+:::
+
+## Plant and Equipment 厂房和设备
+
+:::lang eng
+
+We have spent approximately $970,000 for purchase and installation of new equipment in order to lower costs, improve quality, and increase our manufacturing flexibility.
+
+:::
+
+:::lang chs
+
+我们花费了大约 97 万美元购置新机器，以期降低成本、提高产品质量并提高我们的制造灵活性。
+
+:::
+
+:::lang eng
+
+During fiscal 1966, we disposed of the remainder of our unused property.
+
+:::
+
+:::lang chs
+
+在 1966 财年，我们已处置剩余的闲置机器。
+
+:::
+
+## Income Tax Payments 所得税支付
+
+:::lang eng
+
+All but a small portion of our tax carryforward has been used as of the end of fiscal 1966. We therefore will incur income tax liability with respect to future earnings.
+
+:::
+
+:::lang chs
+
+截至 1966 财年末，除了一小部分税收额度结转外，其余部分已全部使用。因此，我们在未来盈利时将需要缴纳公司所得税。
+
+:::
+
+# Survey of Operations October 1, 1960 - October 1, 1966 公司运营回顾 (1960年10月1日~1966年10月1日)
+
+:::lang eng
+
+As one might expect, in a business as highly cyclical as the textile business, the past decade for Berkshire Hathaway has been a recurring story of a period of earnings followed by a period of relatively heavy losses. The past year has been a significant one in this history because, not only was 1966 a year of profitable operations, but, also, it witnessed the restoration of our financial strength to the level that existed at the end of 1960. You will recall that the heavy losses of the years 1957 and 1958 had not yet been fully recouped by the profitable operations of the years 1959 and 1960, when our business was again hit with a three-year period of loss operations.
+
+:::
+
+:::lang chs
+
+正如人们所预料的那样，伯克希尔哈撒韦公司身处具有高度周期性的纺织品行业中，其过去十年经常出现盈利的年份，其后几年出现相对巨大的亏损。过去一年在这段历史中是一个重要年份，因为 1966 年不仅是业务盈利的一年，而且它见证了我们的财务实力已恢复到 1960 年底的水平。你或许记得 1959 年和 1960 年的盈利尚未完全挽回 1957 年和 1958 年产生的巨大亏损，当时我们的业务再次遭受三年亏损的打击。
+
+:::
+
+:::lang eng
+
+Not only did our financial condition in these years suffer from the inroads created by these losses, but it also had to absorb the impact of our heavy capital expenditure program of the early 1960s.
+
+:::
+
+:::lang chs
+
+这些年来，我们的财务状况不仅受到这些损失的影响，而且还必须承受我们 1960 年代初重大资本支出计划的影响。
+
+:::
+
+:::lang eng
+
+The following table summarizes the change in the net worth position of Berkshire Hathaway,Inc. during the past six years:
+
+:::
+
+:::lang chs
+
+下表概括了过去 6 年伯克希尔哈撒韦账面价值的变化：
+
+:::
+
+:::lang common
+
+Items|Amount
+---:|---:
+Net Worth October 1,1960|$ 37,981,820
+&emsp;Net Earnings 1961-1966 (after reflecting \$6,200,000 losses on disposal of fixed assets)|$ 40,476
+&emsp;Less Dividends Paid 1961-1966|1,366,273
+Excess of Dividends over Net Earnings 1961-1966|1,325,797
+ ||36,656,023
+Repurchases of a total of 607,972 shares of Capital Stock 1961-1966|7,161,103
+Net Worth October 1,1966|$ 29,494,920
+
+:::
+
+:::lang eng
+
+You will note that while dividends exceeded net earnings during this six-year period, the major reason for the 22% decrease in net worth has been the repurchase by the Company of its own stock, pursuant to a program whereby the Company's outstanding shares have been1 reduced to 1,017,547 shares -- a 37% reduction compared with the shares outstanding on October 1,1960. This decrease in outstanding shares has been appropriate, considering the reduction in scale of the Company's operations due to closing of unprofitable mills.
+
+:::
+
+:::lang chs
+
+你会注意到过去 6 年中支付的股息额度超过了净利润，账面价值下降 22% 的主要原因是公司回购自己的股票，因这一计划，公司的流通股缩减至 1,017,547 股，比 1960 年 10 月 1  日的流通股数量减少了 37%。考虑到公司因关闭不赚钱的工厂而导致业务规模缩小，因而流通股份的这种缩减是合理的。
+
+:::
+
+:::lang eng
+
+The benefit to the present stockholders of this program of share repurchases is indicated, in part, by the fact that net worth per share of the Company's outstanding common stock on October 1, 1966 was \$28.99, compared with \$23.37 six years previously.
+
+:::
+
+:::lang chs
+
+股票回购计划对当前股东是有好处的，这在每股账面价值数据方面有所体现，1966 年 10 月 1 日公司流通在外的普通股每股账面价值为 28.99 美元，而 6 年前为每股 23.37 美元。
+
+:::
+
+:::lang eng
+
+In the year ended October 1, 1960, our sales totaled $62.6 million, whereas in 1966, they totaled \$49.4 million, a decrease of approximately 21%. This corresponds to the 22% decrease in total net worth. The fact that the Company is now achieving approximately the same net worth turnover as existed at the beginning of this six-year period is again some indication of the restoration of its strength.
+
+:::
+
+:::lang chs
+
+截至 1960 年 10 月 1 日的那一财年，我们的销售总额为 6,260 万美元，而在 1966 年只有 4,940 万美元，大约下降了 21%。这也与总账面价值 22% 的降幅基本一致。公司目前基本实现了与 6 年前持平的账面价值周转率，这一事实再次表明公司在恢复其实力。
+
+:::
+
+# Maintenance of Financial Condition 财务状况
+
+:::lang eng
+
+It has always been among the goals of Berkshire Hathaway to maintain a strong financial condition. Indeed, it has been this practice that has enabled the Company to survive in the light of the highly cyclical nature of its business. The present strength of the Company's financial condition is demonstrated by its \$23,158,187 of working capital at October 1, 1966. This figure is about equal to the Company's working capital on October 1, 1960 although on a per share basis, because of the reduction in the number of shares through repurchasing, our working capital is now \$22.76 compared with \$14.41 six years ago.
+
+:::
+
+:::lang chs
+
+保持健康的财务状况一直是伯克希尔哈撒韦的目标之一。确实如此，公司依靠这一切实原则在其所处的高度周期性产业中存活了下来。截至 1966 年 10 月 1 日，公司持有营运资本多达  23,158,187 美元，这是公司财务状况健康的直接证据。这一数据，若按每股为基础计算，相当于公司在 1960 年 10 月 1 日的营运资本 2343 万。因为期间进行了股票回购导致股票缩减，目前每股营运资本为 22.76 美元，而 6 年前每股营运资本为 14.41 美元。
+
+:::
+
+:::lang eng
+
+In addition to the cyclical nature of our business, there are other reasons why a strong financial condition is advisable. As you have been advised previously, the Company has been searching for suitable acquisitions within, and conceivably without, the textile field. Although to date none has been success- fully concluded, we continue to have an active interest in such acquisitions. The present state of the money market, in which funds are virtually unobtainable for acquisition purposes, makes it imperative that we have available the liquid assets with which to consummate such acquisitions, should the hoped-for opportunities present themselves. Present uncertainties such as war, tax rates and decreased level of business activity also all combine to emphasize the continuing need for a strong financial condition.
+
+:::
+
+:::lang chs
+
+促使公司保持健康财务状况的原因不仅在于公司的业务具备周期性特点，而且还有其他几个考虑。如前所述，公司在考虑纺织业内或者其他行业的潜在合适收购机会。尽管目前还无法给出具体日期，但是我们肯定对这种收购有强烈意向。目前很难在货币市场融资到收购所需要的资金，公司为准备收购而保持流动资产就势在必行，万一突然出现心仪的收购机会呢。目前还有诸如越南战争、税率升高，和商业活动萎缩等外部风险，所有这些风险都特别要求公司持续保持健康的财务状况。
+
+:::
+
+:::lang eng
+
+A second area in which substantial investment may be necessary is our fast-growing Home Fabrics Division. Home Fabrics' sales have nearly doubled in the past three years. Should a corresponding increase be attained in the coming years, we may be called upon to invest up to \$7 million in additional inventory and receivables.
+
+:::
+
+:::lang chs
+
+另外，我们快速成长的家用纺织品部门可能有较大的投资需求。在过去三年，我们的家用纺织品部门营业额几近翻倍。万一未来几年实现相应的成长，那么我们可能需要投资多达 700 万美元在增量库存和应收账款上。
+
+:::
+
+:::lang eng
+
+Finally, the threat of technological change is ever present in the textile field. We have an investment of \$24.4 million (\$6.3 million after accrued depreciation) in plant and equipment. This is an investment which the textile machinery industry is constantly striving to render obsolete. An important change at any level of our manufacturing process could require major capital expenditures at tomorrow's replacement prices. We shall continue to weigh most carefully the possible rewards and risks of any capital expenditure program. However, should we decide that it is in our best interests to make capital expenditures, we must be in a financial position to do so. Sufficient working capital would be particularly necessary if the advent of important cost-cutting equipment coincided with a period of depressed textile earnings, making outside capital difficult or impossible to obtain.
+
+:::
+
+:::lang chs
+
+最后，纺织业一直存在技术升级的威胁。我们在工厂和设备方面的投资为 2,440 万美元(扣除应计折旧后为 630 万美元)。这是纺织机械行业持续努力应对技术落后而做的投资。我们的制造工艺在任何程度上的重要更新都需要按照未来的重置价格来进行大额资本支出。我们会持续仔细权衡所有资本支出计划的潜在回报和风险。然而，一旦我们认为资本支出符合我们的最大利益，那么必须保持健康的财务状况才能实施。如果重要的降低成本设备的出现恰逢纺织行业盈利的低迷期，那时难以甚至无法获得外部资本，所以保持充足的营运资本相当必要。
+
+:::
+
+:::lang eng
+
+It is these considerations which caused the Company at year end to include in its working capital \$5.4 million of marketable securities, composed of short-term municipal bonds, commercial paper and common stock. Because of the uncertainties in knowing when the Company may be called upon to produce substantial sums of cash, and the possibility that this might not occur for a considerable period of time, your directors have felt that we should be as zealous to achieve a realistic return on this portion of our capital as we are on the other funds that are at the time invested in plant, inventories, receivables, etc. Accordingly, it is the present intention of the directors to proceed toward the interim investment of a major portion of these funds in marketable common stocks. This should hold promise not only of greater income than can be achieved through alternative investment possibilities in the field of non- equity marketable securities, but also provides us with the opportunity to participate in earnings derived outside of our textile business, even if only temporarily and indirectly.
+
+:::
+
+:::lang chs
+
+正是出于这些考虑，公司在年底的营运资本中包含了 540 万美元的有价证券(包括短期市政债券、商业票据和普通股)。由于不知道什么时候公司才会需要大量现金，并且可能在相当长一段时间内不会发生这种情况，你们的董事们认为，我们应该像投资于工厂、库存和其他资本金一样，积极实现这部分资本的实际回报。因此，董事们目前的意向是继续把这些资金中很大一部分暂时投资于普通股。这不仅可以带来比非权益类有价证券领域的其他替代投资机会更高的收益，而且还有机会让我们参与纺织业务以外的收益机会，即便只是短期且间接的。
+
+:::
+
+# Dividends 股息分配
+
+:::lang eng
+
+This restoration of the Company's financial position now permits a dividend policy reflecting the distribution to our stockholders of a reasonable proportion of current after-tax earnings. Such a policy, however, must be consistent with the need for preserving the strength of our present financial position.
+
+:::
+
+:::lang chs
+
+目前公司财务状况有所恢复，这使得向我们的股东分配一定比例的当期税后利润这一股息政策具备实施条件。然而这一股息政策绝对不能以损害当前的财务健康程度为代价。
+
+:::
+
+:::lang eng
+
+To implement this policy, a dividend of 10é per share was declared on November 14, 1966, payable January 3, 1967 to stockholders of record on December 2, 1966.
+
+:::
+
+:::lang chs
+
+股息政策已于 1966 年 11 月 14 日公布，其分配方案为每股股息 10 美分，股权登记日为  1966 年 12 月 2 日，股息支付日为 1967 年 1 月 3 日。
+
+:::
+
+:::lang eng
+
+Malcolm G. Chace, Jr.
+
+:::
+
+:::lang chs
+
+马尔科姆·G·蔡斯二世
+
+:::
+
+:::lang eng
+
+Chairman of the Board
+
+:::
+
+:::lang chs
 
 董事长
 
-肯尼思·V·蔡斯 (Kenneth V. Chace)
+:::
+
+:::lang eng
+
+Kenneth V. Chace
+
+:::
+
+:::lang chs
+
+肯尼斯·V·蔡斯
+
+:::
+
+:::lang eng
+
+President
+
+:::
+
+:::lang chs
 
 总裁
+
+:::

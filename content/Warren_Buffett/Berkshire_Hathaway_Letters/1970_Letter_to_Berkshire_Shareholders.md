@@ -1,45 +1,229 @@
 ---
-title_zh: "1970 年致股东的信"
+title_chs: "1970 年致股东的信"
 dg-publish: true
 ---
-# 1970-巴菲特致股东信
 
-伯克希尔·哈撒韦公司 (Berkshire Hathaway Inc.)
+:::lang chs
+
+原文信息：
+
+:::
+
+:::lang chs
+
+- 标题：1970 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：1971-03-15
+- 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1970-Berkshire-AR.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Terrellchen
+- 校译：
+
+:::
+
+---
+
+:::lang eng
+
+**Berkshire Hathaway Inc.**
+
+:::
+
+:::lang eng
+
+March 15, 1971
+
+:::
+
+:::lang chs
 
 1971 年 3 月 15 日
 
+:::
+
+:::lang eng
+
+To the Stockholders of Berkshire Hathaway Inc.:
+
+:::
+
+:::lang chs
+
 致伯克希尔·哈撒韦公司全体股东：
 
-过去一年，我们各营运单位的盈利结果差异之大，令人瞩目。伊利诺伊州国民银行信托公司（Illinois National Bank & Trust）创下历史最高收益，以经营收益占平均资产的百分比衡量，在全美银行中继续名列前茅。我们的保险业务承保成绩有所退步，但投资收益的增加令整体回报依然相当可观。[[纺织业务|纺织业务]]则在全年中持续走下坡路——考虑到行业整体环境，最终能维持损益平衡，已属情有可原。
+:::
 
-综合上述各因素，股东平均资本回报率约为 10%。这个数字大约只与美国工业企业的平均水平持平，但比起五年前我们把全部资源押注在纺织业上时所能取得的回报，仍要高出许多。
+:::lang eng
 
-## [[纺织业务|纺织业务]]
+The past year witnessed dramatically diverse earnings results among our various operating units. The Illinois National Bank & Trust reported record earnings and continued to rank right at the top, nationally, among banks in terms of earnings as a percentage of average resources. Our insurance operations had some deterioration in underwriting results, but increased investment income produced a continued excellent return. The textile business became progressively more difficult throughout the year and the final break-even result is understandable, considering the industry environment.
 
-年内，男装衬里及家居布料的销售均大幅下滑。为此，我们不得不一再调整生产计划，以防库存积压。减产措施让公司付出了沉重代价，也给员工的生活带来了不小的冲击。
+:::
 
-价格持续低迷，需求并未回暖。虽经一番努力，库存较一年前有所下降，但相对于当前的销售水平而言，仍属偏高。我们仍在积极推动制造和营销层面的必要变革，力求实现盈利经营，并为员工提供更稳定的工作。
+:::lang chs
 
-在肯尼思·蔡斯（Ken Chace）的带领下，这项业务的[[管理层|管理层]]和工人所展现出的努力、态度与进取精神，丝毫不亚于我们那些盈利丰厚的业务。然而过去这一年，他们始终在逆流中挣扎——写这封信的时候，这种局面依然没有改变。
+过去一年，我们各营运单位的经营业绩差异显著。伊利诺伊州国民银行信托公司公布了创纪录的收益，按经营收益占平均资本的百分比计算，该公司在全美银行中继续名列前茅。我们的保险业务在承保业绩方面有所恶化，但投资收益增加带来持续的良好回报。纺织业务于年内逐渐变得更为困难，而考虑到行业环境，最终盈亏平衡结果是可以理解的。
 
-## [[保险业|保险业]]务
+:::
 
-我们的[[保险业|保险业]]务在这一年实现了出色的增长，尽管承保表现有所不及。随着传统汽车保险市场受到越来越多的限制，我们的传统业务量急剧攀升。这与我们一贯的历史规律相符——作为一家非常规的承保商，每当标准市场出现产能紧张或承保亏损时，我们便会以"浪涌"的方式获得业务量的增长。尽管年内传统业务的综合赔付及费用比率（combined ratio）上升至约 100%，但我们以杰克·林沃特（Jack Ringwalt）和菲尔·利舍（Phil Liesche）为首的管理层，既有能力、也有决心让它重回承保盈利。
+:::lang eng
 
-由乔治·扬（George Young）主管的新设再保险部门，在本年度取得了重大进展。要全面评估该部门的承保成绩还需几年时间，但初步迹象令人振奋。我们正在再保险的多个领域建立可观的业务量，同时扩充团队，为将来承接更大规模的业务做好准备。
+The combination of these factors produced a return of approximately 10% on average shareholder's investment. While this figure is only about average for American industry, it is considerably in excess of what would have been achieved had resources continued to be devoted exclusively to the textile business, as was the pattern until five years ago.
 
-去年年报中提到的担保业务，在 1970 年出现了相当大的承保亏损。承包商保证金业务令人失望，我们已将承保范围收缩至杂项保证金领域。这意味着业务量会大幅减少，但我们希望届时能带来承保利润。
+:::
 
-我们的"本州"业务——内布拉斯加意外险公司（Cornhusker Casualty Company）——势头良好。该公司于 1970 年初成立，是[[国民保险公司|国民保险公司]]（National Indemnity）的全资子公司，仅通过内布拉斯加州的代理商承接标准业务。大公司的实力与小公司的亲和力相结合，对一流代理商而言正是强大的营销利器。约翰·林沃特（John Ringwalt）将这一构想变成了现实，功不可没。我们目前计划进一步推广"本州"模式，预计今年晚些时候再开设一家此类公司。
+:::lang chs
 
-## [[银行业|银行业]]务
+综合上述因素，平均股东资本回报率约为 10% 。虽然这一数字仅约为美国工业企业的平均水平，但这一数字大大超过了像五年前那样继续将资本投向纺织行业所能实现的回报水平。
 
-1969 年本已是[[银行业|银行业]]务的丰收年，而尤金·阿贝格（Eugene Abegg）在 1970 年面临的难题，就是要在存款规模毫无变化的情况下超越这个高基数——他做到了。在维持高于平均水平的流动性之余，不含证券增值收益的净经营收益，与平均存款额之比超过了 2%。这一成绩充分说明，这是一家经营得格外出色的银行。
+:::
 
-鲍勃·克莱恩（Bob Kline）于 1971 年 1 月出任伊利诺伊州国民银行行长，阿贝格先生则继续担任董事长兼首席执行官。伊利诺伊州实行单一银行制度（unit banking，即不允许银行设立多家分支机构），存款增长着实不易。在加入银行的这一年里，克莱恩在拓展新存款方面展现出了充分的努力与主动。与全国趋势一致，此类存款增长将主要来自消费储蓄领域，随之而来的是较高的资金成本。加之当前全国贷款利率普遍走低，如何在使用高成本存款的同时维持盈利，对[[管理层|管理层]]而言将是一大考验。
+# Textile Operations 纺织业务
 
-1970 年底，美国通过了新的银行控股公司立法，这对伯克希尔·哈撒韦（Berkshire Hathaway）产生了直接影响——因为我们持有伊利诺伊州国民银行的控股权益。根据该法规，我们大约有十年时间来处置该银行的股份（这可能涉及将银行股份分拆派发给股东），具体的行动方案还需一段时间才能确定。与此同时，伯克希尔集团旗下所有实体的若干活动——包括并购——均须受该法案及联邦储备委员会相关法规的约束。
+:::lang eng
 
-沃伦·E·巴菲特 (Warren E. Buffett)
+Sales in both menswear linings and home fabrics declined significantly during the year.Thus we were continuously forced to modify production plans to prevent inventories from mounting. Such production curtailments were costly to the Company and disruptive to the lives of our employees.
+
+:::
+
+:::lang chs
+
+年内，男装衬里及家居布料的销售均大幅下跌。因此，我们不断被迫调整生产计划，以防止库存增加。减产措施令本公司付出沉重代价，而且给我们员工的生活带来负担。
+
+:::
+
+:::lang eng
+
+Prices continue at poor levels and demand has not strengthened. Inventory levels, while reduced from a year ago through great effort, continue high in relation to current sales levels. We continue to work at making the changes required in manufacturing and marketing areas that will result in profitable operations with more stable employment.
+
+:::
+
+:::lang chs
+
+价格继续处于低水平，需求没有走强。存货水平虽然经过一番努力已较一年前有所下降，但相对于当前销售水平而言仍属偏高。我们继续努力在制造和营销领域进行必要的变革，以实现盈利经营和更稳定的就业。
+
+:::
+
+:::lang eng
+
+Led by Ken Chace, the effort, attitude and enterprise manifested by management and labor in this operation have been every bit the equal of their counterparts in our much more profitable businesses. But in the past year they have been swimming against a strong tide and, at this writing, that situation still prevails.
+
+:::
+
+:::lang chs
+
+在肯·蔡斯 (Ken Chace) 的带领下，管理层和工人在这项业务中表现出的努力、态度和进取精神与我们利润更高的业务中的同行完全相同。但在过去的一年里，他们一直在逆势而行，在撰写本文时，这种情况仍无改善。
+
+:::
+
+# Insurance Operations 保险业务
+
+:::lang eng
+
+We enjoyed an outstanding year for growth in our insurance business, accompanied by a some- what poorer underwriting picture. Our traditional operation experienced a surge in volume as conventional auto insurance markets became more restricted. This is in line with our history as a non- conventional carrier which receives volume gains on a “wave” basis when standard markets are experiencing capacity or underwriting problems. Although our combined loss and expense ratio on the traditional business rose to approximately 100% during the year, our management, led by Jack Ringwalt and Phil Liesche, has the ability and determination to return it to an underwriting profit.
+
+:::
+
+:::lang chs
+
+我们的保险业务在这一年增长出色，但承保表现较差。随着传统汽车保险市场受到更多限制，我们的传统业务量激增。这与我们非常规的承保历史相一致，当标准市场出现产能或承保亏损问题时，我们会以"波动"形式获得保费量增长。尽管我们传统业务的综合赔付及费用比率于年内上升至约 100%，但我们的管理层在杰克·林沃尔特 (Jack Ringwalt)  及菲尔·列舍 (Phil Liesche) 的领导下，有能力及决心令其恢复承保盈利。
+
+:::
+
+:::lang eng
+
+Our new reinsurance division, managed by George Young, made substantial progress during the year. While an evaluation of this division's underwriting will take some years, initial signs are encouraging. We are producing significant volume in diverse areas of reinsurance and developing a more complete staff in order to handle a much larger volume of business in the future.
+
+:::
+
+:::lang chs
+
+年内，由乔治·扬 (George Young) 管理的新设再保险部门取得重大进展。虽然对该部门承销业务的评估需要几年的时间，但初步迹象令人鼓舞。我们正在再保险的不同领域创造大量业务，并培养更完美的员工，以便将来处理更大的业务。
+
+:::
+
+:::lang eng
+
+The surety business, referred to in last year's report, operated at a significant underwriting loss during 1970. The contractor's bond field was a disappointment and we are restricting our writings to the miscellaneous bond area. This will mean much less volume but, hopefully, under- writing profits.
+
+:::
+
+:::lang chs
+
+去年的报告中提到的担保业务在 1970 年的承保亏损很大。合同工保证金业务令人失望，我们将我们的承保限制在兜底保证金领域。这将意味着成交量大幅下降，但有望带来承销利润。
+
+:::
+
+:::lang eng
+
+Our "home-state" operation -- Cornhusker Casualty Company, formed in early 1970 as a 100% owned subsidiary of National Indemnity, writing standard business through Nebraska agents only -- is off to a strong start. The combination of big-company capability and small-company accessibility is proving to be a strong marketing tool with first class agents. John Ringwalt deserves credit for translating the concept into reality.Our present plans envision extension of the home-state approach and we plan to have another company in operation later this year.
+
+:::
+
+:::lang chs
+
+我们的 Home-State 住宅保险业务——内布拉斯加意外险公司 (Cornhusker account affairs) 有着良好的开端。该公司成立于 1970 年初，是国民保险公司旗下一家 100%  控股的子公司，只通过内布拉斯加州的代理商承接标准业务。大公司的财务能力和小公司便利的渠道网络相结合，将为一流的代理商提供强大的营销工具。杰克·林沃尔特将这一概念转化为现实值得赞扬。我们目前的计划为住宅保险业务 (Home-State) 的扩张打下了基础，我们预计在今年下半年增设另一家公司。
+
+:::
+
+# Banking Operations 银行业务
+
+:::lang eng
+
+Eugene Abegg had the problem in 1970 of topping a banner year in 1969-and in the face of an unchanged level of deposits, managed to do it. While maintaining a position of above average liquidity, net operating earnings before security gains came to well over 2% of average deposits.This record reflects an exceptionally well-managed banking business.
+
+:::
+
+:::lang chs
+
+1969 年的银行业务业绩就相当不错，而 1970 年尤金·阿贝格在存款规模不变的情况下仍然实现了上佳业绩。在维持高于平均水平的流动性的同时，不考虑有价证券的增值，其净经营收益与平均存款额之比高于2%。这一业绩记录表明银行业务得到了特别妥善的管理。
+
+:::
+
+:::lang eng
+
+Bob Kline became President of the Illinois National Bank in January, 1971, with Mr. Abegg continuing as Chairman and Chief Executive Officer. Illinois is a unit banking state, and deposit growth is hard to come by. In the year he has been with the bank, Mr. Kline has demonstrated effort and initiative in generating new deposits. Such deposit growth, in line with national trends, will largely be in the consumer savings area with attendant high costs. With generally lower interest rates prevailing on loans throughout the country, it will be a challenge to management to maintain earnings while utilizing a higher cost deposit mix.
+
+:::
+
+:::lang chs
+
+鲍勃·克莱恩 (Bob Kline) 于 1971 年 1 月成为伊利诺伊州国民银行行长，阿贝格先生继续担任董事长兼首席执行官。伊利诺伊州是一个单一银行制的州(注： unit banking 不允许银行有多家分行或其它分支机构)，存款增长很难。在为该行工作的这一年里，克莱恩在筹集新存款方面非常努力和主动。这种符合国家趋势的存款增长将主要在消费储蓄领域，伴随而来的是高成本。由于全国各地的贷款利率普遍较低，管理层在利用较高成本存款组合的同时保持盈利将面临挑战。
+
+:::
+
+:::lang eng
+
+In the closing days of 1970, new bank holding company legislation was passed which affects Berkshire Hathaway because of its controlling ownership of The Illinois National Bank. In effect, we have about ten years to dispose of stock in the bank (which could involve a spin-off of bank stock to our shareholders) and it will probably be some time before we decide on a course of action. In the meantime, certain activities of all entities in the Berkshire Hathaway group -- including acquisitions -- are subject to the provisions of the Act and Regulations of the Federal Reserve Board.
+
+:::
+
+:::lang chs
+
+1970 年底，美国通过了一项有关银行控股公司的新法案，该法案对伯克希尔哈撒韦公司将产生影响，因为伯克希尔拥有伊利诺伊州国民银行的控股权。实际上，我们有大约 10 年的时间来处置该银行的股份(这可能涉及到将银行股票分拆给股东)，我们可能需要一段时间才能决定采取什么行动。与此同时，伯克希尔哈撒韦集团所有实体的某些活动——包括收购——均须遵守该法案的规定和联邦储备委员会的规定。
+
+:::
+
+:::lang eng
+
+Warren E.Buffett
+
+:::
+
+:::lang chs
+
+沃伦·巴菲特
+
+:::
+
+:::lang eng
+
+Chairman of the Board
+
+:::
+
+:::lang chs
 
 董事长
+
+:::
+

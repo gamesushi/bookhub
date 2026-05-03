@@ -1,57 +1,346 @@
 ---
-title_zh: "1972 年致股东的信"
+title_chs: "1972 年致股东的信"
 dg-publish: true
 ---
-# 1972-巴菲特致股东信
+
+:::lang chs
+
+原文信息：
+
+:::
+
+:::lang chs
+
+- 标题：1972 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：1973-03-16
+- 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1972-Berkshire-AR.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Terrellchen
+- 校译：
+
+:::
+
+---
+
+:::lang eng
+
+To the Stockholders of Berkshire Hathaway Inc.:
+
+:::
+
+:::lang chs
 
 致伯克希尔·哈撒韦公司全体股东：
 
-1972年伯克希尔·哈撒韦 (Berkshire Hathaway) 的经营收益令人振奋，达到年初股东权益的19.8%，成绩相当亮眼。我们所有主要业务都取得了显著进步，其中进步最为突出的是保险承保利润。由于多重有利因素罕见地同时出现——汽车事故频率下降、事故严重程度趋缓，以及全年未发生重大灾难——承保利润率远超以往平均水平，也远超我们对未来的预期。
+:::
 
-虽然我们预计1973年经营收益会略有回落，但可以肯定的是，近年来的多元化布局已为公司奠定了明显更高的正常盈利基础。现任管理层于1965年5月接手公司。八年后，1972年的经营收益达到11,116,256美元，比我们若将资本全部投入[[纺织业务|纺织业务]]所能产生的回报高出许多倍。1964财年末，伯克希尔的股东权益合计22,138,753美元。自那以后，我们没有向外部引入任何新增股权资本，无论是现金增发还是通过并购。恰恰相反，我们还回购了一部分股票，使流通股数减少了14%。每股账面价值从1964财年末的19.46美元增长至1972年末的69.72美元，年复合增长率约为16.5%。
+:::lang eng
 
-近年来我们完成的三项主要[[收购|收购]]，无论从财务还是人的角度来看，结果都堪称出色。三笔交易里，创始人均为主要卖家，以现金形式套现了可观的资金——而且三位同样的人，杰克·林沃特 (Jack Ringwalt)、吉恩·阿贝格 (Gene Abegg) 和维克·罗伯 (Vic Raab)，都继续以饱满的精力和创造力经营着各自的业务，在此前已经相当优秀的记录上继续精益求精。
+Operating earnings of Berkshire Hathaway during 1972 amounted to a highly satisfactory 19.8% of beginning shareholders’ equity. Significant improvement was recorded in all of our major lines of business, but the most dramatic gains were in insurance underwriting profit. Due to an unusual convergence of favorable factors -- diminishing auto accident frequency, moderating accident severity, and an absence of major catastrophes -- underwriting profit margins achieved a level far above averages of the past or expectations of the future.
 
-我们将继续寻找与现有业务合乎逻辑的延伸方向，同时也积极物色新的业务机会，确保资本得到有效运用。
+:::
 
-正如去年年报所预告的，纺织行业在1972年有所回暖。过去几年里，肯·蔡斯 (Ken Chace) 和拉尔夫·里格比 (Ralph Rigby) 建立起了一支出色的销售团队，在服务质量和可靠性方面口碑越来越好。生产能力也经过重组，更好地配合了我们的销售优势。
+:::lang chs
 
-借助行业复苏的东风，我们在1972年开始收获这些努力的成果。库存管理得当，既把关线损失压到最低，也降低了资本占用需求；产品结构也得到了大幅优化。行业整体盈利水平始终是决定我们[[纺织业务|纺织业务]]收益的首要因素，但我们相信，我们在行业内的相对竞争地位已有明显提升。1973年的前景值得期待。
+1972 年伯克希尔的经营收益令人兴奋的达到了年初股东权益的 19.8%。我们所有的主要业务都取得了显著改善。但最大的利润贡献是我们的保险承保业务。由于有利因素的异常趋同——汽车事故频率降低、事故严重程度缓和以及没有重大灾难——承保利润率远高于过去对未来预期的平均水平。
 
-1972年，[[国民保险公司|国民保险公司]] (National Indemnity Company) 在我们传统保险业务的核心领域创下了出色的承保利润，但这里面有一个值得深思的悖论。这份利润大幅拉高了1972年的整体公司盈利，然而正是产生这种利润的市场环境，吸引了大量新竞争者以我们认为难以为继的费率水平蜂拥入市。从长远来看，如果今年的利润没有这样大幅飙升，我们未来五年的前景反而可能更好。
+:::
 
-去年年报中我们已经预告了竞争加剧的趋势，1972年保费量确实如预期般有所下滑。我们认为，行业承保利润率将在1973年或1974年大幅收窄，但这最终可能会形成一种新格局，让我们过去的那种历史性增长得以重现。遗憾的是，承保业绩恶化与竞争趋缓之间存在一段时滞。在这段时间里，我们预计传统业务的保费量仍将继续萎缩。以杰克·林沃特 (Jack Ringwalt) 和菲尔·利舍 (Phil Liesche) 为首的经验丰富的管理团队，将坚守承保盈利的底线——虽然利润水平无法重现1972年的高峰——我们的定价依据是长期预期而非短期憧憬。这一做法在过去曾导致保单量时有起伏，但长期而言已经产生了极为出色的业绩。
+:::lang eng
 
-再[[保险业|保险业]]务也和去年年报的预判一样，在1972年遭遇了许多同样的竞争压力。大量新机构涌入这个历来规模不大的市场，费率往往被大幅压低，我们认为这是不理性的，在巨灾领域尤为如此。好在过去这一年巨灾发生极少，我们的承保业绩表现不错。
+While we anticipate a modest decrease in operating earnings during 1973, it seems clear that our diversification moves of recent years have established a significantly higher base of normal earning power. Your present management assumed policy control of the company in May, 1965. Eight years later, our 1972 operating earnings of \$11,116,256 represent a return many‐fold higher than would have been produced had we continued to devote our resources entirely to the textile business. At the end of the 1964 fiscal year, shareholders’ equity totaled \$22,138,753. Since that time, no additional equity capital has been introduced into the business, either through cash sale or through merger. On the contrary, some stock has been reacquired, reducing outstanding shares by 14%. The increase in book value per share from \$19.46 at fiscal year‐end 1964 to \$69.72 at 1972 year‐end amounts to about 16.5% compounded annually.
 
-乔治·杨 (George Young) 仅用几年时间便建立起一项规模可观、盈利稳健的再[[保险业|保险业]]务。从长远看，我们计划在再保险领域成为举足轻重的重要力量。但在费率持续恶化的背景下，贸然扩大规模并不明智。在我们看来，目前的承保风险敞口比以往任何时候都大。一旦这些潜在损失成为现实，市场将重新定价，到那时才是我们大举扩张的好时机。
+:::
 
-"本土化"业务方面，我们历史最悠久、规模最大的内布拉斯加州居民意外险公司 (Cornhusker Casualty Company) 仅在内布拉斯加州开展业务，取得了良好的承保业绩。这项业务进入第二个完整年度，其市场竞争力已经得到验证——承保量已相当于在该州深耕数十年的"老牌"巨头的三分之一左右。
+:::lang chs
 
-我们在明尼苏达州和得克萨斯州的两家规模较小的公司，在极小的保费量上却产生了令人不满意的损失赔付比率。这些本土化公司的[[管理层|管理层]]清楚地知道：承保盈利是衡量成功的唯一标尺，只有在承保业务真正做对了的前提下，才能谈得上大规模扩张。新公司的费用比率偏高，这在发展初期是可以理解的。
+虽然我们预测 1973 年经营收益会略有降低，但是近年来我们的多元化的举措已经建立了一个明显更高的盈利基础。我们在 1965 年接管伯克希尔，假定我们继续将资金投入到纺织业务中，我们的利润将是非常低的。八年后 1972 年的经营收益为 11,116,256 美元，这比我们继续将资本完全投入纺织业务所产生的回报高出许多倍。 1964 年底，伯克希尔的股东权益总额为 22,138,753 美元。从那时起，我们没有把额外的资本投入纺织业务，无论是现金购买或者通过合并。相反，我们对股票进行了回购，减少了 14% 流通股。每股账面价值从 1964 年的 19.46 美元增加到 1972 年底的 69.72 美元，年复合增长率为 16.5%。
 
-约翰·林沃特 (John Ringwalt) 在启动这项业务方面做得非常出色，并计划在1973年将业务至少扩展到另外一个州。眼下还有许多工作要做，但本土化[[保险业|保险业]]务的长期潜力相当可观。
+:::
 
-去年报告中提到，我们[[收购|收购]]了位于芝加哥的家庭和汽车保险公司 (Home and Automobile Insurance Company)。当时我们就对这笔收购感觉良好，现在感觉更好。由维克·罗伯 (Vic Raab) 领导，该公司在1972年继续保持了出色的业绩记录。1973年，我们计划进入佛罗里达州戴德县 (Dade County) 和加州洛杉矶 (Los Angeles) 市场，提供那套在库克县 (Cook County) 已成功实践的专业城市汽车险业务。维克拥有掌管更大规模公司的管理能力。我们预期，家庭和汽车保险公司将在未来几年实现大幅扩张。
+:::lang eng
 
-我们非常幸运，在1969年至1971年间，保费收入大幅增长与历史高位附近的利率水平恰好同时出现。大量可投资资金在此时涌入，恰好得以投向收益极为可观的资产。大部分资金被配置在免税[[债券|债券]]上，因此我们的投资收益虽然从1969年的2,025,201美元增长至1972年的6,755,242美元，实际税率却相当低。
+Our three major acquisitions of recent years have all worked out exceptionally well -- from both the financial and human standpoints. In all three cases, the founders were major sellers and received significant proceeds in cash—and, in all three cases, the same individuals, Jack Ringwalt, Gene Abegg and Vic Raab, have continued to run the businesses with undiminished energy and imagination which have resulted in further improvement of the fine records previously established.
 
-我们的[[债券|债券]]投资组合拥有异常出色的赎回保护，未来多年将持续受益于当前组合的高平均收益率。然而，目前保费增长乏力，将使未来数年内投资收益的增速明显放缓。
+:::
 
-我们的银行子公司——伊利诺伊州银行及信托公司 (The Illinois Bank and Trust Co.) 罗克福德 (Rockford) 分行，在盈利水平上继续保持行业领先地位。1972年，税后收益占平均存款的2.2%，结合以下几个制约因素来看，这一数字更显难能可贵：(1) 定期存款组合中有50%的比重集中于消费者储蓄工具，全部按照法定最高利率支付；(2) 始终保持强劲的流动性头寸，不依赖货币市场借款；(3) 贷款政策极为审慎，过去两年的净坏账冲销率仅相当于普通商业银行平均水平的5%左右。这份成绩，是对吉恩·阿贝格 (Gene Abegg) 和鲍勃·克莱因 (Bob Kline) 领导力的最好褒奖——在他们掌舵的这家银行，股东和储户都能吃得好、睡得好。
+:::lang chs
 
-1972年，我们向储户支付的利息是1969年的两倍。我们积极争取消费者定期存款，但没有刻意追逐大额"货币市场"存单——尽管过去几年这类存单往往是成本更低的定期资金来源。
+近年来，不论从财务方面还是人力方面，我们的三项主要收购表现的都非常的好。在这三个收购中，创始人是主要卖方，在将公司卖给我们时收到了现金，同时 Jack Ringwalt，Gene Abegg 和 Vic Raab 三个人继续不遗余力地经营着企业，热情和想象力丝毫没有减少，使公司的业务继续保持好的发展势头。
 
-过去一年，客户贷款规模扩大了约38%。这一增幅比附上的资产负债表所呈现的数字要显著得多——因为1971年贷款总额中包含了1090万美元的短期商业票据，而1972年末则没有任何此类票据。
+:::
 
-1972年，我们"罗克福德领先银行"的地位进一步巩固。然而，目前的利率结构、美联储新的资金清算程序导致可投资资金减少，以及本已可观的非联邦税可能进一步增加，都使得伊利诺伊州银行在1973年提升盈利变得相当困难。
+:::lang eng
 
-1973年3月15日，伯克希尔向20家机构投资人借款2000万美元，年利率8%。该笔借款于1993年3月1日到期，本金自1979年3月1日起开始分期偿还。借款所得中，900万美元用于偿还银行贷款，余款将注入保险子公司。我们预期，未来将周期性地出现大幅扩展[[保险业|保险业]]务的好机会，我们要确保届时有充足的财务资源，将这些机会的价值最大化。
+We will continue to search for logical extensions of our present operations, and also for new operations which will allow us to continue to employ our capital effectively.
 
-我们的银行和保险子公司对客户承担着重要的信托责任。在这些业务中，我们维持着远高于行业标准的资本实力，同时仍能在这部分资本上实现良好的盈利水平。我们将继续坚守前者的目标，并竭尽全力保持后者的成绩。
+:::
 
-沃伦·E·巴菲特 (Warren E. Buffett)
+:::lang chs
+
+我们将继续稳健拓展现有的主要业务，同时也开拓新业务，使我们的资本更有效率的运用。
+
+:::
+
+# Textile Operations 纺织业务
+
+:::lang eng
+
+As predicted in last year’s annual report, the textile industry experienced a pickup in 1972. In recent years, Ken Chace and Ralph Rigby have developed an outstanding sales organization enjoying a growing reputation for service and reliability. Manufacturing capabilities have been restructured to complement our sales strengths.
+
+:::
+
+:::lang chs
+
+正如去年年报所说的，我们的纺织业务 1972 年有了些起色。这几年，Ken Chace 和 Ralph Rigby 建立了一支出色的销售队伍，在服务和信任度上享有越来越高的声誉。我们对产品线进行了调整，使其可以与我们的销售相适应。
+
+:::
+
+:::lang eng
+
+Helped by the industry recovery, we experienced some payoff from these efforts in 1972. Inventories were controlled, minimizing close‐out losses in addition to minimizing capital requirements; product mix was greatly improved. While the general level of profitability of the industry will always be the primary factor in determining the level of our textile earnings, we believe that our relative position within the industry has noticeably improved. The outlook for 1973 is good.
+
+:::
+
+:::lang chs
+
+受惠于行业复苏，我们的努力在 1972 年获得了一些成绩。除了最大限度的减少资本需求，库存也得到了控制，还最大限度地减少了生产线的关停损失，产品结构也大大提高了。虽然行业的总体盈利水平将始终是决定我们纺织业务收入水平的主要因素，但是我们相信，我们在行业的相对竞争力亦得到了很大的提升。 1973 年的前景应该会比较好。
+
+:::
+
+# Insurance Underwriting 保险承保业务
+
+:::lang eng
+
+Our exceptional underwriting profits during 1972 in the large traditional area of our insurance business at National Indemnity present a paradox. They served to swell substantially total corporate profits for 1972, but the factors which produced such profits induced exceptional amounts of new competition at what we believe to be a non‐compensatory level of rates. Over‐all, we probably would have retained better prospects for the next five years if profits had not risen so dramatically this year.
+
+:::
+
+:::lang chs
+
+1972 年，国民保险公司在传统保险领域获得卓越的承保利润，这与现实经营环境貌似相冲突。 1972 年公司利润大增，但这样的利润导致产生大量的新竞争对手，我们认为这是一种非补偿性的利润水平。总之，如果今年利润没有这样大幅的增加，我们反而会预测未来 5 年发展前景良好。
+
+:::
+
+:::lang eng
+
+Substantial new competition was forecast in our annual report for last year and we experienced in 1972 the decline in premium volume that we stated such competition implied. Our belief is that industry underwriting profit margins will narrow substantially in 1973 or 1974 and, in time, this may produce an environment in which our historical growth can be resumed. Unfortunately, there is a lag between deterioration of underwriting results and tempering of competition. During this period we expect to continue to have negative volume comparisons in our traditional operation. Our seasoned management, headed by Jack Ringwalt and Phil Liesche, will continue to underwrite to produce a profit, although not at the level of 1972, and base our rates on long‐term expectations rather than short‐term hopes. Although this approach has meant dips in volume from time to time in the past, it has produced excellent long‐term results.
+
+:::
+
+:::lang chs
+
+我们在去年年度报告里已经预测了将会有大量新的竞争对手出现，依据是去年的保费量的下降。我们认为行业承保利润率在 1973-1974 年将会大幅收窄，但这反而可能迟早会产生新的竞争格局，使我们历史上的那种增长得以继续。不幸的是，承保业绩的恶化与竞争的缓和之间存在滞后，在这段时间，我们希望继续减少我们的传统业务保单数量。我们经验丰富的管理层(由 Jack Ringwalt 和 Phil Liesche 领导)将继续坚持承保盈利，虽然利润水平不会像 1972 年那样高，但我们的费率水平是基于长期而非短期的。虽然现在情况可能意味着保单量继续下滑，但长期来看我们的业绩会很好。
+
+:::
+
+:::lang eng
+
+Also as predicted in last year’s report, our reinsurance division experienced many of the same competitive factors in 1972. A multitude of new organizations entered what has historically been a rather small field, and rates were often cut substantially, and we believe unsoundly, particularly in the catastrophe area. The past year turned out to be unusually free of catastrophes and our underwriting experience was good.
+
+:::
+
+:::lang chs
+
+正如去年报告预测的那样，我们的再保险部门也同样在 1972 年经历了许多相似的竞争。大量新公司进入到这个原本就不大的市场，而且费率水平也出现了大幅下降，尤其是在可能发生巨大灾难的区域。由于 1972 年没有出现重大灾难，我们承保业务运转良好。
+
+:::
+
+:::lang eng
+
+George Young has built a substantial and profitable reinsurance operation in just a few years. In the longer term we plan to be a very major factor in the reinsurance field, but an immediate expansion of volume is not sensible against a background of deteriorating rates. In our view, underwriting exposures are greater than ever. When the loss potential inherent in such exposures becomes an actuality, repricing will take place which should give us a chance to expand significantly.
+
+:::
+
+:::lang chs
+
+George Young 在几年时间里就已经建立起一个规模可观且有利可图的的再保险业务。从长远来看，我们计划成为该领域的领头羊。但是在价格战费率不断恶化的背景下，冒然增加规模不是一个明智的做法。在我们看来，承保的风险比以往任何时候都大。如果潜在的损失变为现实，市场将进行重新定价，这将给我们一个大幅扩张的机会。
+
+:::
+
+:::lang eng
+
+In the “home state” operation, our oldest and largest such company, Cornhusker Casualty Company, operating in Nebraska only, achieved good underwriting results. In the second full year, the home state marketing appeal has been proven with the attainment of volume on the order of one‐third of that achieved by “old line” giants who have operated in the state for many decades.
+
+:::
+
+:::lang chs
+
+在住宅保险业务 (Home-State) 上，我们历史最悠久、规模最大的内布拉斯加州居民意外险公司 (Cornhusker Casualty) 取得了非常理想的业绩，该公司只在内布拉斯加州有业务。在第二年，该业务的市场竞争力就得到证明，承保量达到了在该州经营数十年的"老牌"巨头的三分之一左右。
+
+:::
+
+:::lang eng
+
+Our two smaller companies, in Minnesota and Texas, had unsatisfactory loss ratios on very small volume. The home state managements understand that underwriting profitably is the yardstick of success and that operations can only be expanded significantly when it is clear that we are doing the right job in the underwriting area. Expense ratios at the new companies are also high, but that is to be expected when they are in the development stage.
+
+:::
+
+:::lang chs
+
+我们在明尼苏达州和得克萨斯州的两家较小的公司发生了少量的承保亏损。该业务的管理层明白对我们业绩衡量的唯一标尺为承保的盈利能力，我们只有在我们的业务被证明是明智的情况下，才开始拓展我们的业务。新公司的营运费用较高，这符合发展初期的预期。
+
+:::
+
+:::lang eng
+
+John Ringwalt has done an excellent job of launching this operation, and plans to expand into at least one additional state during 1973. While there is much work yet to be done, the home state operation appears to have major long‐range potential.
+
+:::
+
+:::lang chs
+
+John Ringwalt 在新业务启动运营方面做的非常出色，并计划在 1973 年将业务至少扩展到另外一个州。现在还有很多的工作需要做。本土化保险业务的前景会相当的好。
+
+:::
+
+:::lang eng
+
+Last year it was reported that we had acquired Home and Automobile Insurance Company of Chicago. We felt good about the acquisition at the time, and we feel even better now. Led by Vic Raab, this company continued its excellent record in 1972. During 1973 we expect to enter the Florida (Dade County) and California (Los Angeles) markets with the same sort of specialized urban auto coverage which Home and Auto has practiced so successfully in Cook County. Vic has the managerial capacity to run a much larger operation. Our expectation is that Home and Auto will expand significantly within a few years.
+
+:::
+
+:::lang chs
+
+去年我们说了我们收购了位于芝加哥的家庭和汽车保险公司 (Home & Auto)。那时我们感觉良好，现在感觉更好。公司由 Vic Raab 领导， 1972 年业务仍然相当不错。我们计划明年进入佛罗里达州的戴德县 (Dade County) 和加州的洛杉矶 (Los Angeles) 市场，提供在库克县 (Cook County) 已经成功实践的相同类型的专业城市汽车保险。 Vic Raab 拥有管理大公司的才能。我们预期该业务将在未来几年大幅度扩张。
+
+:::
+
+# Insurance Investment Results 保险投资业务
+
+:::lang eng
+
+We were most fortunate to experience dramatic gains in premium volume from 1969 to 1971 coincidental with virtually record‐high interest rates. Large amounts of investable funds were thus received at a time when they could be put to highly advantageous use. Most of these funds were placed in tax‐exempt bonds and our investment income, which has increased from $2,025,201 in 1969 to $6,755,242 in 1972, is subject to a low effective tax rate.
+
+:::
+
+:::lang chs
+
+我们非常幸运的经历了 1969 年到 1971 年保费收入的大幅增长，费率几乎创历史新高，我们因此而受惠。在投资市场非常有利的时候，收到大量可投资资金。大部分资金投资在了免税债券。我们的投资收益从 1969 年的 2,025,201 美元增加到 1972 年的 6,755,242 美元，但实际税率很低。
+
+:::
+
+:::lang eng
+
+Our bond portfolio possesses unusually good call protection, and we will benefit for many years to come from the high average yield of the present portfolio. The lack of current premium growth, however, will moderate substantially the growth in investment income during the next several years.
+
+:::
+
+:::lang chs
+
+我们的债券投资组合具有非常好的看涨期权保护，我们将从当前投资组合的高平均收益率中受益多年。然而，当前保费增长的乏力，将在未来几年内大幅减缓投资收益的增长。
+
+:::
+
+# Banking Operations 银行业务
+
+:::lang eng
+
+Our banking subsidiary, The Illinois Bank and Trust Co. of Rockford, maintained its position of industry leadership in profitability. After‐tax earnings of 2.2% on average deposits in 1972 are the more remarkable when evaluated against such moderating factors as: (1) a mix of 50% time deposits heavily weighted toward consumer savings instruments, all paying the maximum rates permitted by law; (2) an unvaryingly strong liquid position and avoidance of money‐market borrowings; (3) a loan policy which has produced a net charge‐off ratio in the last two years of about 5% of that of the average commercial bank. This record is a direct tribute to the leadership of Gene Abegg and Bob Kline who run a bank where the owners and the depositors can both eat well and sleep well.
+
+:::
+
+:::lang chs
+
+我们的银行子公司(伊利诺斯州银行及信托公司)，继续在盈利水平上保持行业领先地位，1972 年平均存款的税后收益为 2.2%，这在对比以下不利因素时更为显著： (1) 定期存款组合占消费者储蓄工具的比重 50%，并按法律允许的最高利率支付利息，(2) 保持了强劲的流动性头寸并避免了从货币市场借款，(3) 这两年贷款产生的坏账率水平只有一般商业银行平均值的 5%。这些好成绩都归功于 Gene Abegg 和 Bob Kline 的领导。在他们的领导下，股东和储户都可以吃的好睡的好。
+
+:::
+
+:::lang eng
+
+During 1972, interest paid to depositors was double the amount paid in 1969. We have aggressively sought consumer time deposits, but have not pushed for large “money market” certificates of deposit although, during the past several years, they have generally been a less costly source of time funds.
+
+:::
+
+:::lang chs
+
+1972 年我们向储户支付的利息是 1969 年的两倍。我们积极寻求客户定期存款，却没有追求大型货币市场存单，尽管过去几年这是一种成本较低的定期资金来源。
+
+:::
+
+:::lang eng
+
+During the past year, loans to our customers expanded approximately 38%. This is considerably more than indicated by the enclosed balance sheet which includes $10.9 million in short‐term commercial paper in the 1971 loan total, but which has no such paper included at the end of 1972.
+
+:::
+
+:::lang chs
+
+1972 年客户贷款增加了大约 38%，实际比资产负债表里所示的要多得多，因为该表在 1971 年的贷款总额中包括 1090 万美元的短期商业票据，但去年没有此类票据。
+
+:::
+
+:::lang eng
+
+Our position as “Rockford’s Leading Bank” was enhanced during 1972. Present rate structures, a decrease in investable funds due to new Federal Reserve collection procedures, and a probable increase in already substantial non‐federal taxes make it unlikely that Illinois National will be able to increase its earnings during 1973.
+
+:::
+
+:::lang chs
+
+1972 年，我们作为"罗克福德领先银行"的地位得到了加强。目前的利率结构、由于新的美联储税收程序而导致的可投资基金的减少，以及相当可观的非联邦税的可能增加，使得伊利诺伊州国民银行在 1973 年利润增长变得困难。
+
+:::
+
+# Financial 融资
+
+:::lang eng
+
+On March 15, 1973, Berkshire Hathaway borrowed $20 million at 8% from twenty institutional lenders. This loan is due March 1, 1993, with principal repayments beginning March 1, 1979. From the proceeds, $9 million was used to repay our bank loan and the balance is being invested in insurance subsidiaries. Periodically, we expect that there will be opportunities to achieve significant expansion in our insurance business and we intend to have the financial resources available to maximize such opportunities.
+
+:::
+
+:::lang chs
+
+1973 年 3 月 15 日，伯克希尔从 20 家机构借款 2000 万美元，利率为 8%。这批借款在 1993 年 3 月 1 日到期，本金从 1979 年 3 月 1 日开始偿还。其中 900 万被用来偿还我们的银行贷款，其余的将投资于我们的保险子公司。周期性地，我们预计将有机会实现我们的保险业务的重大扩张，我们加强公司资本金，最大限度的为这些机会的到来准备。
+
+:::
+
+:::lang eng
+
+Our subsidiaries in banking and insurance have major fiduciary responsibilities to their customers. In these operations we maintain capital strength far above industry norms, but still achieve a good level of profitability on such capital. We will continue to adhere to the former objective and make every effort to continue to maintain the latter.
+
+:::
+
+:::lang chs
+
+我们的银行和保险子公司对其客户负有重要的信托责任。 在这些业务中，我们保持了远高于行业标准的资本实力，而且保持了良好的盈利水平。 我们将继续坚持前者的目标，并尽一切努力继续保持后者。
+
+:::
+
+:::lang eng
+
+Warren E. Buffett
+
+:::
+
+:::lang chs
+
+沃伦·巴菲特
+
+:::
+
+:::lang eng
+
+Chairman of the Board
+
+:::
+
+:::lang chs
 
 董事长
 
-1973年3月16日
+:::
+
+:::lang eng
+
+March 16, 1973
+
+:::
+
+:::lang chs
+
+1973 年 3 月 16 日
+
+:::

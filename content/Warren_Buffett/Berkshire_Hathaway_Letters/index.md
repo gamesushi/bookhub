@@ -1,4 +1,4 @@
 ---
 title: "Berkshire Hathaway Letters"
-title_zh: "伯克希尔哈撒韦股东信"
+title_chs: "伯克希尔哈撒韦股东信"
 ---

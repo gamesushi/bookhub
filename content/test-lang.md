@@ -4,13 +4,13 @@
 
 :::
 
-:::lang en
+:::lang eng
 
 This is English.
 
 :::
 
-:::lang zh
+:::lang chs
 
 这是中文。
 

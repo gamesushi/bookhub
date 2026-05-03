@@ -1,586 +1,2676 @@
 ---
-title_zh: "2004 年致股东的信"
+title_chs: "2004 年致股东的信"
 dg-publish: true
 ---
-# 2004-巴菲特致股东信
 
-注：以下业绩对比表刊载于年度报告中董事长致辞的对页，并在信中有所引用。
+:::lang chs
 
-## 伯克希尔与标普500指数业绩对比
+原文信息：
 
-| 年份 | 伯克希尔每股账面价值年度变动百分比 (1) | 含股息标普500指数年度变动百分比 (2) | 相对收益 (1)-(2) |
-| --- | --- | --- | --- |
-| 1965 | 23.8 | 10.0 | 13.8 |
-| 1966 | 20.3 | (11.7) | 32.0 |
-| 1967 | 11.0 | 30.9 | (19.9) |
-| 1968 | 19.0 | 11.0 | 8.0 |
-| 1969 | 16.2 | (8.4) | 24.6 |
-| 1970 | 12.0 | 3.9 | 8.1 |
-| 1971 | 16.4 | 14.6 | 1.8 |
-| 1972 | 21.7 | 18.9 | 2.8 |
-| 1973 | 4.7 | (14.8) | 19.5 |
-| 1974 | 5.5 | (26.4) | 31.9 |
-| 1975 | 21.9 | 37.2 | (15.3) |
-| 1976 | 59.3 | 23.6 | 35.7 |
-| 1977 | 31.9 | (7.4) | 39.3 |
-| 1978 | 24.0 | 6.4 | 17.6 |
-| 1979 | 35.7 | 18.2 | 17.5 |
-| 1980 | 19.3 | 32.3 | (13.0) |
-| 1981 | 31.4 | (5.0) | 36.4 |
-| 1982 | 40.0 | 21.4 | 18.6 |
-| 1983 | 32.3 | 22.4 | 9.9 |
-| 1984 | 13.6 | 6.1 | 7.5 |
-| 1985 | 48.2 | 31.6 | 16.6 |
-| 1986 | 26.1 | 18.6 | 7.5 |
-| 1987 | 19.5 | 5.1 | 14.4 |
-| 1988 | 20.1 | 16.6 | 3.5 |
-| 1989 | 44.4 | 31.7 | 12.7 |
-| 1990 | 7.4 | (3.1) | 10.5 |
-| 1991 | 39.6 | 30.5 | 9.1 |
-| 1992 | 20.3 | 7.6 | 12.7 |
-| 1993 | 14.3 | 10.1 | 4.2 |
-| 1994 | 13.9 | 1.3 | 12.6 |
-| 1995 | 43.1 | 37.6 | 5.5 |
-| 1996 | 31.8 | 23.0 | 8.8 |
-| 1997 | 34.1 | 33.4 | .7 |
-| 1998 | 48.3 | 28.6 | 19.7 |
-| 1999 | .5 | 21.0 | (20.5) |
-| 2000 | 6.5 | (9.1) | 15.6 |
-| 2001 | (6.2) | (11.9) | 5.7 |
-| 2002 | 10.0 | (22.1) | 32.1 |
-| 2003 | 21.0 | 28.7 | (7.7) |
-| 2004 | 10.5 | 10.9 | (.4) |
-| 1965-2004年年复合增长率 | 21.9 | 10.4 | 11.5 |
-| 1964-2004年累计总收益 | 286,865 | 5,318 |  |
+:::
 
-注：数据按日历年度统计，以下年份除外：1965年和1966年截至9月30日；1967年为截至12月31日的15个月。
+:::lang chs
 
-自1979年起，会计准则要求保险公司以市价而非此前的成本与市价孰低法计量其持有的权益证券。本表中1978年及以前的伯克希尔数据已按新规则进行了重述。其余数据均沿用最初报告的数字。
+- 标题：2004 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：2005-02-28
+- 链接：[PDF](https://www.berkshirehathaway.com/letters/2004ltr.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：孙萧萧
+- 校译：
 
-标普500指数的数据为税前收益，而伯克希尔的数据为税后收益。如果像伯克希尔这样的公司只是简单地持有标普500指数并计提相应税款，那么在标普500指数正收益的年份，其表现将落后于指数；而在标普500指数负收益的年份，其表现将超越指数。长期累积来看，税负成本将导致相当大的滞后差距。
+:::
+
+---
+
+:::lang eng
+
+**Note: The following table appears in the printed Annual Report on the facing page of the Chairman's Letter and is referred to in that letter.**
+
+:::
+
+# Berkshire's Corporate Performance vs. the S&P 500
+
+:::lang common
+
+Year|Annual Percentage Change in Per-Share Book Value of Berkshire (1)|Percentage Change in S&P 500 with Dividends Included (2)|Relative Results (1)-(2)
+---|---:|---:|---:
+1965|23.8|10.0|13.8
+1966|20.3|(11.7)|32.0
+1967|11.0|30.9|(19.9)
+1968|19.0|11.0|8.0
+1969|16.2|(8.4)|24.6
+1970|12.0|3.9|8.1
+1971|16.4|14.6|1.8
+1972|21.7|18.9|2.8
+1973|4.7|(14.8)|19.5
+1974|5.5|(26.4)|31.9
+1975|21.9|37.2|(15.3)
+1976|59.3|23.6|35.7
+1977|31.9|(7.4)|39.3
+1978|24.0|6.4|17.6
+1979|35.7|18.2|17.5
+1980|19.3|32.3|(13.0)
+1981|31.4|(5.0)|36.4
+1982|40.0|21.4|18.6
+1983|32.3|22.4|9.9
+1984|13.6|6.1|7.5
+1985|48.2|31.6|16.6
+1986|26.1|18.6|7.5
+1987|19.5|5.1|14.4
+1988|20.1|16.6|3.5
+1989|44.4|31.7|12.7
+1990|7.4|(3.1)|10.5
+1991|39.6|30.5|9.1
+1992|20.3|7.6|12.7
+1993|14.3|10.1|4.2
+1994|13.9|1.3|12.6
+1995|43.1|37.6|5.5
+1996|31.8|23.0|8.8
+1997|34.1|33.4|.7
+1998|48.3|28.6|19.7
+1999|.5|21.0|(20.5)
+2000|6.5|(9.1)|15.6
+2001|(6.2)|(11.9)|5.7
+2002|10.0|(22.1)|32.1
+2003|21.0|28.7|(7.7)
+2004|10.5|10.9|(.4)
+Average Annual Gain -- 1965-2004|21.9|10.4|11.5
+Overall Gain -- 1964-2004|286,865|5,318
+
+:::
+
+:::lang eng
+
+Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
+
+:::
+
+:::lang eng
+
+Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire's results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported.
+
+:::
+
+:::lang eng
+
+The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-tax**. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
+
+:::
+
+# BERKSHIRE HATHAWAY INC.
+
+:::lang eng
+
+**To the Shareholders of Berkshire Hathaway Inc.:**
+
+:::
+
+:::lang chs
 
 致伯克希尔·哈撒韦公司所有股东：
 
-2004年，公司净资产增加了83亿美元，A/B股每股[[账面价值|账面价值]]增长10.5%。自现任管理层接手的40年以来，每股账面价值由当初的19美元成长到目前的55,824美元，年复合增长率约为21.9%。[^*]
+:::
 
-[^*]: 本报告中使用的所有数字均适用于伯克希尔的A股，它是公司在1996年之前唯一流通股的继承者。B股的经济利益为A股的三十分之一。
+:::lang eng
 
-然而，真正重要的是每股[[内在价值|内在价值]]，而非账面价值。好消息是，从1964年到2004年，伯克希尔已经从一家摇摇欲坠的北方纺织企业——当时内在价值还不及账面价值——蜕变成一个多元化的大型集团，内在价值远远超过账面价值。因此，40年来我们内在价值的增长幅度其实超过了账面价值21.9%的增长率。（想了解更多关于内在价值以及查理·芒格 (Charlie Munger)——我的合伙人兼伯克希尔副董事长——和我经营伯克希尔的原则，请参阅股东手册，从第73页开始。）
+Our gain in net worth during 2004 was $8.3 billion, which increased the per-share book value of both our Class A and Class B stock by 10.5%. Over the last 40 years (that is, since present management took over) book value has grown from $19 to $55,824, a rate of 21.9% compounded annually.[^*]
 
-尽管有其局限性，年度账面价值的计算对伯克希尔而言仍是衡量[[内在价值|内在价值]]长期增长率一个略偏保守的有效工具。不过，将单一年度的账面价值表现与标普500指数进行对比（见首页对照表），其参考意义已不如从前。我们的股票投资（包括可转换优先股在内）占净资产的比重已大幅下降，比如1980年代平均占114%，而近年已不足50%。因此，股市的年度波动对我们净资产的影响远不如以前那么大。这意味着在股市大幅上涨的年份，我们的表现通常会不如指数；而在股市下跌的年份，我们的表现通常会超越指数。
+:::
 
-无论单一年度的对比结果如何，伯克希尔对标普500的长期表现始终至关重要。我们的股东可以用极低的成本通过指数基金投资标普500。除非未来我们能够以超越标普500的速度积累每股[[内在价值|内在价值]]，否则查理跟我就没有存在的价值。
+:::lang chs
 
-去年伯克希尔的[[账面价值|账面价值]]仅增长了10.5%，略低于标普500指数10.9%的回报率。我们平庸的表现与旗下各业务的CEO毫无关系——一如既往，他们承担了超出自身份额的重任。我给他们的指示很简单：请用经营自家百年老店的心态来经营这些业务。他们几乎每个人都照办了，在打理好自家业务的需求之后，把多余的资金送回奥马哈交由我来调配。
+公司 2004 年的账面价值增加 83 亿美元，A/B 股每股的账面价值增加 10.5%（标普 10.9%），自现任管理层接手的 40 年以来，每股账面价值由当初的 19 美元成长到目前的 55,824 美元，年复合成长率约为 21.9%。[^*]
 
-去年是我没做好自己的分内事。我本来希望能谈成几笔数十亿美元的[[收购|收购]]，为我们已经相当丰富的收益来源再增添新的重要来源。但我颗粒无收。此外，我也很难找到什么有吸引力的证券可买。就这样，到年底伯克希尔账上积压了430亿美元的现金等价物，这可不是什么让人高兴的局面。查理跟我会在2005年努力把这些闲钱转化成更有意思的资产，不过我们实在不敢打包票。
+:::
 
-从另一个角度来看，2004年的股市表现倒颇为不同寻常，只是这个事实淹没在第2页的数字迷宫里了。如果你审视自1960年代结束以来的35年，会发现投资者持有标普500（含[[股息|股息]]）的年均回报率高达11.2%（远高于我们对未来回报率的预期）。但如果你要找回报率接近这个11.2%的年份——比如在8%到14%之间——你会发现2004年以前只有一个年份符合条件。换句话说，去年看起来"正常"的回报恰恰是反常的。
+:::lang eng
 
-过去35年来，美国企业创造了极为出色的业绩。投资者理应轻轻松松地赚到丰厚回报——他们只需要以分散且低成本的方式搭上美国企业的顺风车就行了。买一只指数基金然后什么都不碰，就能达到目的。但实际上，大多数投资者的经历从平庸到惨不忍睹不等。
+[^*]: All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
 
-这其中有三个主要原因。第一，成本太高，要么是交易过于频繁，要么是在投资管理上花了太多钱。第二，投资决策建立在小道消息和赶时髦的基础上，而非对企业进行深思熟虑的定量分析。第三，在错误的时点进出市场——牛市涨了好久之后才冲进去买，在长期低迷或下跌之后才卖出。投资者应当牢记，兴奋和费用是他们的大敌。如果他们执意要择时进出股市，那就应该努力做到：别人贪婪时恐惧，别人恐惧时贪婪。
+:::
 
-身为管理者，查理跟我设身处地为各位着想，希望提供给大家换位思考后我们自己也想得到的财务信息和评论。随着伯克希尔的业务版图日益庞杂，要兼顾清晰与适度简洁越来越难。我们旗下有些业务的经济特征截然不同，这意味着把所有数字混在一起的合并报表，几乎不可能做出有意义的分析。
+:::lang chs
 
-因此，在接下来的篇幅中，我们将分别列示四大业务板块的资产负债表和收益数字，并逐一加以评述。我们尤其希望大家了解我们在什么有限的情况下才会使用负债，因为我们通常是避之不及的。但我们也不会拿一堆对估算伯克希尔[[内在价值|内在价值]]毫无用处的数据来淹没各位。那样做只会模糊真正重要的信息。
+本报告中使用的所有数字均适用于伯克希尔公司的 A 股，它是公司在 1996 年之前唯一流通股的继承者。B 股的经济利益为A股的三十分之一。
 
-## 受管制的公用事业
+:::
 
-我们持有[[中美能源|中美能源]]控股公司 (MidAmerican Energy Holdings) 80.5%的权益（完全稀释），该公司拥有多种公用事业业务。其中最主要的包括：（1）约克郡电力与北方电力公司 (Yorkshire Electricity and Northern Electric)，拥有370万电力用户，是英国第三大电力分销商；（2）中美能源 (MidAmerican Energy)，主要在爱荷华州服务69.8万电力用户；（3）科恩河管道与北方天然管道 (Kern River and Northern Natural)，运输全美7.9%的天然气消费量。
+:::lang eng
 
-剩余19.5%的权益由我们的三位合伙人持有：戴夫·索科尔 (Dave Sokol) 和格雷格·阿贝尔 (Greg Abel)，两位都是这些业务出色的管理者；还有沃尔特·斯科特 (Walter Scott)，我多年的老友，当初就是他把这家公司介绍给我的。由于[[中美能源|中美能源]]受限于《公用事业控股公司法》（PUHCA），伯克希尔的投票权最高只能达到9.9%，控制权由沃尔特持有。
+It's per-share intrinsic value that counts, however, not book value. Here, the news is good: Between 1964 and 2004, Berkshire morphed from a struggling northern textile business whose intrinsic value was less than book into a diversified enterprise worth far more than book. Our 40-year gain in intrinsic value has therefore somewhat exceeded our 21.9% gain in book. (For an explanation of intrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire's vice-chairman, and me in running Berkshire, please read our Owner's Manual, beginning on page 73.)
 
-受限的投票权迫使我们只能以简略的方式入账[[中美能源|中美能源]]的财务数据。我们无法将该公司的资产、负债、收入和费用全部并入伯克希尔的报表，而只能在资产负债表和损益表中各列一行。不过，PUHCA总有一天——也许很快——会被废除，或者会计准则会有所变更。届时伯克希尔的合并报表将纳入中美能源的全部财务数据，包括其大量的负债（当然，这些负债无论现在还是将来，都不是伯克希尔的义务）。
+:::
 
-截至年底，[[中美能源|中美能源]]欠伯克希尔的次级债务为14.78亿美元。这笔借款使得中美能源在进行收购时，我们的合伙人不必追加他们已经相当可观的投资。通过收取11%的利息，伯克希尔获得了合理的回报，而我们的合伙人也避免了股权被稀释。由于中美能源去年没有进行重大收购，所以偿还了欠我们的1亿美元。
+:::lang chs
 
-中美能源还拥有一项重要的非公用事业——[[美国家庭服务|美国家庭服务]]公司 (HomeServices of America)，全美第二大房地产经纪商。与公用事业不同，这个行业的周期波动相当大，但我们仍然对此充满热情。我们拥有一位出色的经理人罗恩·佩尔蒂尔 (Ron Peltier)，凭借其收购和经营才能，正在打造一个房地产经纪王国。
+真正重要的是内在价值，而不是账面价值，而好消息是，在 1964 年到 2004 年期间，伯克希尔已经从一家原本摇摇欲坠的北方纺织公司，蜕变成一个跨足各个产业的大型集团，其内在价值大幅超越账面价值，可以这样说，40 年来内在价值的成长率甚至远超过账面价值 21.9% 的成长率，（想要对内在价值以及本人与查理·芒格经营伯克希尔的原则有更多的了解的人，我建议大家阅读股东手册）。
 
-2004年，HomeServices参与了598亿美元的交易，较2003年增长了112亿美元。其中约24%的增长来自年内完成的六笔收购。通过旗下17家经纪公司——全部保留各自的当地[[品牌|品牌]]——我们在18个州雇用了超过1.8万名经纪人。随着我们继续收购各地的领先经纪公司，HomeServices在未来十年几乎肯定还会大幅增长。
+:::
 
-去年[[中美能源|中美能源]]核销了一项锌回收项目的重大投资。该项目于1998年启动，2002年投入运营。我们在加州地热业务中产生的卤水含有大量的锌，我们相信可以从中获利地提取这种金属。一连好几个月，商业化回收看起来似乎近在眼前。但冶矿这一行，跟石油勘探一样，总是让开发者看到希望又一次次落空。每解决一个问题，另一个又冒了出来。到了9月份，我们终于举白旗投降。
+:::lang eng
 
-我们的这次失败再度印证了一项原则的重要性——坚持简单的事情——我们通常在投资和经营中都遵循这一原则。如果一项决策只取决于一个关键变量，而该变量有90%的成功概率，那么成功的几率显然就是90%。但如果需要十个独立变量同时朝有利方向发展才能成功，每个变量各有90%的概率，那么最终胜出的可能性就只有35%。在锌回收项目上，我们解决了大部分问题。但有一个始终无法攻克，而一个就已经太多了。一根链条不会比其最薄弱的一环更牢固，所以最明智的做法是寻找——请原谅这个矛盾修辞——单环链条。
+Despite their shortcomings, yearly calculations of book value are useful at Berkshire as a slightly understated gauge for measuring the *long-term* rate of increase in our intrinsic value. The calculations are less relevant, however, than they once were in rating any single year's performance versus the S&P 500 index (a comparison we display on the facing page). Our equity holdings (including convertible preferreds) have fallen considerably as a percentage of our net worth, from an average of 114% in the 1980s, for example, to less than 50% in recent years. Therefore, yearly movements in the stock market now affect a much smaller portion of our net worth than was once the case, a fact that will normally cause us to underperform in years when stocks rise substantially and overperform in years when they fall.
 
-下表是[[中美能源|中美能源]]的经营业绩明细。2004年"其他"项下包含一笔7,220万美元的出售安然 (Enron) 应收账款的利润，这笔应收款是两年前我们收购北方天然管道时附带过来的。沃尔特、戴夫和我作为土生土长的奥马哈人，把这笔意外之财视为战争赔款——部分补偿1986年肯·莱 (Ken Lay) 在承诺保留北方天然在本地之后却将其搬到休斯顿，给我们城市造成的损失。（详情请参阅伯克希尔2002年的年报。）
+:::
 
-以下是[[中美能源|中美能源]]的几项重要数据：
+:::lang chs
 
-|  | 2004年收益（百万美元） | 2003年收益（百万美元） |
-| --- | --- | --- |
-| 英国电力 | $ 326 | $ 289 |
-| 爱荷华电力 | 268 | 269 |
-| 管道运输业务 | 288 | 261 |
-| 家庭服务 | 130 | 113 |
-| 其他（净额） | 172 | 190 |
-| 锌项目亏损 | (579) | (46) |
-| 息税前收益 | 605 | 1,076 |
-| 利息支出——其他企业债务 | (212) | (225) |
-| 利息支出——伯克希尔次级债务 | (170) | (184) |
-| 所得税 | (53) | (251) |
-| 净收益 | $ 170 | $ 416 |
-| 归属于伯克希尔的净收益\* | $ 237 | $ 429 |
-| 应付其他企业债务 | 10,528 | 10,296 |
-| 应付伯克希尔债务 | 1,478 | 1,578 |
+虽然账面价值并非完美，但仍不失为衡量内在价值长期成长率的有效工具，当然单一年度账面价值的表现与标普 500 指数的比较(相关比较参阅首页)，其意义已不若以往，主要原因在于，我们的股票投资部分，含可转换特别股在内，占账面价值的比重已大幅下降，从 1980 年代早期的 114%，到近年 50% 不到，也因此股市波动对于我们账面价值影响的程度也大不如前。
 
-\* 包含伯克希尔赚取的利息收入（已扣除相关所得税），2004年为1.1亿美元，2003年为1.18亿美元。
+:::
 
-## [[保险业|保险业]]务
+:::lang eng
 
-自从伯克希尔在1967年买下[[国民保险公司|国民保险公司]] (National Indemnity, "NICO") 之后，财产意外险就成了我们的核心业务，也是驱动增长的引擎。保险业为我们提供了源源不断的资金泉源，使我们得以收购那些如今贡献出越来越多样化收益来源的证券和企业。所以在这一部分，我会花点时间告诉大家我们是怎么走到今天这一步的。
+However the yearly comparisons work out, Berkshire's long-term performance versus the S&P remains all-important. Our shareholders can buy the S&P through an index fund at very low cost. Unless we achieve gains in per-share intrinsic value in the future that outdo the S&P, Charlie and I will be adding nothing to what you can accomplish on your own.
 
-我们保险资金的来源是"浮存金"，这笔钱不属于我们，但暂时由我们代管。我们的浮存金之所以产生，主要有两个原因：（1）保费是预先收取的，而我们提供的服务——保险保障——通常要在之后一年时间内交付；（2）今天发生的损失事件并不总是让我们立即支付理赔金，因为有时损失要在发生后许多年才会被报告（石棉损失就是一个例子），然后还要经历协商和解。我们1967年[[收购|收购]]时附带的2,000万美元浮存金，如今已经通过内部增长和外部收购增加到了461亿美元。
+:::
 
-浮存金是好东西——前提是取得成本不能太高。浮存金的成本取决于承保业绩，也就是我们最终支付的理赔和费用与收取的保费之比。当实现承保盈利时——伯克希尔在从事[[保险业|保险业]]务的38年中约有一半的年头做到了——浮存金就比免费还好。在这些年份里，别人实际上是付钱请我们帮他们保管资金。然而对大多数保险公司来说，日子就没这么好过了：总体而言，财产意外险行业几乎总是处于承保亏损状态。当亏损很大时，浮存金的成本就变得非常高昂，有时甚至高得令人窒息。
+:::lang chs
 
-保险公司之所以普遍回报不佳，原因很简单：他们卖的是同质化的商品。保单格式都是标准化的，产品由许多供应商提供，其中一些是互助制公司（由保户而非股东所有），利润目标有限。而且大多数投保人根本不在乎从谁那里买保险。数以百万计的顾客会说"我要吉列 (Gillette) 刮胡刀"或"给我来杯可乐"，但你绝对等不到有人说"请给我一份国民保险的保单"。因此，[[保险业|保险业]]的价格竞争通常极为激烈。想想航空公司的机票就明白了。
+不过即便如此，伯克希尔相对于标普 500 长期的表现还是很重要的，因为股东们现在可以非常低的手续费买到指数型基金，间接投资标普 500，因此除非在往后我们能够以高于标普 500 的速度累积每股内在价值，否则查理跟我就没有存在的价值。
 
-那么你也许会问，伯克希尔的保险业务是如何摆脱这个行业的惨淡经济状况，并取得持久[[竞争优势|竞争优势]]的呢？我们从多个方面攻克这个难题。首先来看国民保险的策略。
+:::
 
-当我们买下这家公司时——它专做商用车险和一般责任险——看不出有什么特质能克服行业的痼疾。它知名度不高，没有信息优势（公司甚至从来没有过一个精算师），不是低成本运营商，而且通过普通代理商销售，这在当时被很多人视为过时的做法。然而，在过去38年的绝大多数时间里，国民保险都是一颗耀眼的明星。实际上，如果当年我们没有完成这笔[[收购|收购]]，伯克希尔今天的价值很可能连现在的一半都不到。
+:::lang eng
 
-我们的法宝是一种大多数保险公司无法复制的管理思维。请看下表。你能想象任何一家上市公司会接受一种导致营收从1986年到1999年持续下滑的[[商业模式|商业模式]]吗？我必须强调，那种大幅下滑并不是因为没有生意可做。只要我们愿意降低价格，数十亿美元的保费唾手可得。但我们始终坚持有利可图的定价，而不是去追随最乐观的竞争对手。我们从未抛弃客户——是客户自己离开了我们。
+Last year, Berkshire's book-value gain of 10.5%6 fell short of the index's 10.9% return. Our lackluster performance was not due to any stumbles by the CEOs of our operating businesses: As always, they pulled more than their share of the load. My message to them is simple: Run your business as if it were the only asset your family will own over the next hundred years. Almost invariably they do just that and, after taking care of the needs of their business, send excess cash to Omaha for me to deploy.
 
-大多数美国企业都有一种"制度性惯性"，不能忍受营收的持续下降。哪个CEO愿意告诉股东，不仅去年业务萎缩了，而且还将继续下滑？在保险行业，继续签发保单的冲动更加强烈，因为愚蠢定价保单的后果要过上好一阵子才会显现。如果保险公司在提列准备金时过于乐观，账面收益就会被夸大，可能要等上好几年真实的损失成本才会浮出水面（正是这种自欺欺人的把戏让[[盖可保险|盖可保险]] (GEICO) 在1970年代差点倒闭）。
+:::
 
-严谨的承保人画像
+:::lang chs
 
-[[国民保险公司|国民保险公司]]
+去年伯克希尔的账面价值仅增加了 10.5%，略低于标普 500 指数 10.9% 的回报率，这种平庸的表现与我们旗下经理人完全无关，一如往常，他们已分担了许多重担，我给他们的指示相当简单明确，以继承自家百年老店的心来经营事业，而他们大多都照办，并把多余的资金送回奥马哈交由我运用。
 
-| 年份 | 保费收入（百万美元） | 年末雇员数 | 承保费用率 | 承保利润率（截至2004年底）\* |
-| --- | --- | --- | --- | --- |
-| 1980 | $ 79.6 | 372 | 32.3% | 8.2% |
-| 1981 | 59.9 | 353 | 36.1% | (.8%) |
-| 1982 | 52.5 | 323 | 36.7% | (15.3%) |
-| 1983 | 58.2 | 308 | 35.6% | (18.7%) |
-| 1984 | 62.2 | 342 | 35.5% | (17.0%) |
-| 1985 | 160.7 | 380 | 28.0% | 1.9% |
-| 1986 | 366.2 | 403 | 25.9% | 30.7% |
-| 1987 | 232.3 | 368 | 29.5% | 27.3% |
-| 1988 | 139.9 | 347 | 31.7% | 24.8% |
-| 1989 | 98.4 | 320 | 35.9% | 14.8% |
-| 1990 | 87.8 | 289 | 37.4% | 7.0% |
-| 1991 | 88.3 | 284 | 35.7% | 13.0% |
-| 1992 | 82.7 | 277 | 37.9% | 5.2% |
-| 1993 | 86.8 | 279 | 36.1% | 11.3% |
-| 1994 | 85.9 | 263 | 34.6% | 4.6% |
-| 1995 | 78.0 | 258 | 36.6% | 9.2% |
-| 1996 | 74.0 | 243 | 36.5% | 6.8% |
-| 1997 | 65.3 | 240 | 40.4% | 6.2% |
-| 1998 | 56.8 | 231 | 40.4% | 9.4% |
-| 1999 | 54.5 | 222 | 41.2% | 4.5% |
-| 2000 | 68.1 | 230 | 38.4% | 2.9% |
-| 2001 | 161.3 | 254 | 28.8% | (11.6%) |
-| 2002 | 343.5 | 313 | 24.0% | 16.8% |
-| 2003 | 594.5 | 337 | 22.2% | 18.1% |
-| 2004 | 605.6 | 340 | 22.5% | 5.1% |
+:::
 
-\* 要了解特定年度的真实盈利情况，通常需要很长一段时间。首先，很多理赔申请在年底之后才会提交，我们必须估计这些申请的数量和金额。（用保险术语说，这些叫做IBNR——已发生但尚未报告的索赔。）其次，索赔往往需要数年甚至数十年才能和解，这意味着其间会出现很多变数。
+:::lang eng
 
-因此，本栏的数字仅代表我们在2004年底对往年业绩的最佳估计。截至1999年的各年度利润率应该比较接近实际，因为这些年度已经"成熟"，即尚未结案的索赔已所剩无几。年份越近，猜测的成分就越大。尤其是2003年和2004年的数字，日后很可能会有重大变化。
+I didn't do that job very well last year. My hope was to make several multi-billion dollar acquisitions that would add new and significant streams of earnings to the many we already have. But I struck out. Additionally, I found very few attractive securities to buy. Berkshire therefore ended the year with $43 billion of cash equivalents, not a happy position. Charlie and I will work to translate some of this hoard into more interesting assets during 2005, though we can't promise success.
 
-最后，还有一个恐惧因素在起作用——业务萎缩通常意味着裁员。为了保住饭碗，员工会为不当的定价找理由，告诉自己低价接单是为了维持组织的完整和分销渠道的满意度。如果不这样做，员工们会争辩说，一旦景气回暖——他们总觉得转角就是春天——公司将无法参与复苏。
+:::
 
-为了抵消员工这种自保的天性，我们始终向国民保险的员工承诺，没有人会因为业务下滑而被解雇，不管萎缩多么严重。（这里可不是唐纳德·特朗普 (Donald Trump) 那种地方。）国民保险不是劳力密集型企业，如上表所示，它能承受额外的管理费用。但它承受不了不当的定价以及随之而来的[[承保纪律|承保纪律]]崩坏。一家今年不把承保盈利放在心上的保险公司，明年也不会在乎。
+:::lang chs
 
-当然，实行不裁员政策的企业，在景气好的时候就必须格外注意避免人员冗余。30年前，时任大都会 (Cap Cities) CEO的汤姆·墨菲 (Tom Murphy) 用一个假想的小故事向我阐明了这一点。话说有位员工向老板申请增聘一名助手。这位员工觉得每年多花2万美元的薪水不算什么。但他的老板告诉他，考虑到加薪、福利和其他开支（人多了，厕纸也得多买），一个员工终其一生的成本至少要300万美元，应该把这当成一个300万美元的决策来看待。而且除非公司真的快撑不下去了，这个新增的人手恐怕很难被辞退，不管他对公司的贡献有多微薄。
+去年是我没有做好份内的工作，我本来希望能够谈成几个数十亿美元的并购案，好让我们能够再增加稳定的收益创造能力，可惜我一事无成，此外我也找不到什么股票可以买，就这样到年底伯克希尔帐上累积的高达 430 亿美元的约当现金，真伤脑筋，明年查理跟我会更努力地将这些闲置资金转化为较吸引人的资产，不过我们实在是不敢打包票。
 
-要让国民保险这样运营，需要深植于[[企业文化|企业文化]]中的真正魄力。翻看上面这张表，你可以一眨眼扫过1986年到1999年那些年份。但日复一日地眼看着业务缩水——而竞争对手们在大吹大擂自己的增长、赢得华尔街的掌声——这种煎熬很少有经理人能扛得住。然而，国民保险自1940年成立以来的四任CEO却无一屈服。（值得一提的是，这四位CEO中只有一位念过大学。经验告诉我们，非凡的商业才能大多是天生的。）
+:::
 
-国民保险现任的管理明星——不，应该说是超级巨星——是唐·沃斯特 (Don Wurster)（没错，上大学的就是他），自1989年起执掌公司。他的长打率堪比巴里·邦兹 (Barry Bonds)（棒球巨星），因为跟巴里一样，唐宁可选择保送也不会对着烂球挥棒。目前唐已经为国民保险积累了9.5亿美元的浮存金，而且几乎可以肯定，长期来看这是负成本的浮存金。由于保费价格正在下降，唐的业务量很快将大幅下滑，而随着它的下滑，查理跟我只会越来越大声地为他喝彩。
+:::lang eng
 
-在同质化产品行业中取得成功的另一条路是成为低成本运营者。在大型汽车保险公司中，[[盖可保险|盖可保险]] (GEICO) 毫无疑问地摘得了这顶桂冠。对国民保险而言，如我们所见，潮起潮落的商业模式是合理的。但拥有低成本优势的公司必须奉行永不松懈的油门到底的策略。而这正是我们在GEICO所做的。
+In one respect, 2004 was a remarkable year for the stock market, a fact buried in the maze of numbers on page 2. If you examine the 35 years since the 1960s ended, you will find that an investor's return, including dividends, from owning the S&P has averaged 11.2% annually (well above what we expect future returns to be). But if you look for years with returns anywhere close to that 11.2% -- say, between 8% and 14% -- you will find only *one* before 2004. In other words, last year's “normal" return is anything but.
 
-一百年前，当汽车刚问世的时候，财产意外险行业是以卡特尔的方式运作的。大多数位于东北部的主要公司制定了统一的"费率局"价格，就这么定了。没有人通过降价来争抢生意。相反，保险公司争相笼络实力强大、信誉良好的代理商，此举导致了代理商的高额佣金和消费者的高昂保费。
+:::
 
-1922年，乔治·梅切尔 (George Mecherle)——伊利诺伊州梅尔纳市的一个农场主——创立了[[州立农业保险|州立农业保险]]公司 (State Farm)，旨在打破行业高成本巨头维持的价格保护伞。州立农业保险采用了"专属"代理人团队，其获客成本远低于费率局体系下的保险公司（那些公司的"独立"代理商擅长让各家保险公司互相竞价）。凭借低成本结构，州立农业保险最终拿下了约25%的个人险种（车险和住宅险）市场份额，远远甩开了昔日强大的对手。好事达保险 (Allstate) 成立于1931年，也建立了类似的营销体系，很快成为个人险种市场的老二，仅次于州立农业保险。资本主义再度施展了它的魔力，这些低成本运营者看起来已势不可挡。
+:::lang chs
 
-但有一个叫利奥·古德温 (Leo Goodwin) 的人构想了一种效率更高的汽车保险模式，并在1936年以仅仅20万美元创立了GEICO。古德温的计划是彻底取消代理商，直接与车主打交道。他心想，汽车保险既是强制性的又很昂贵，为什么分销环节中一定要有不必要且昂贵的中间人呢？他认为企业保险的客户或许需要专业建议，但大多数消费者完全清楚自己在车险保单上需要什么。这在当时是一个极其深刻的洞见。
+从另一方面来说，2004 年的股市表现确实不错，如果看看自 1960 年以来的 35 年间，你会发现包含股息在内的投资回报率，年化高达 11.2%，这远高于未来我们预期可获得的回报率，但如果看看最近几年回报率，你会发现 2004 年之前只有一年达到以前的水准，所以说去年看起来“正常的”回报可以说是特例。
 
-起初，GEICO把低价讯息邮寄给有限的政府公务员群体。后来，它拓宽了视野，把营销重心转向电话，通过广播和平面广告引来的咨询进行销售。而如今，互联网渠道正在异军突起。
+:::
 
-从1936年到1975年，GEICO从白手起家发展到4%的市场份额，成为全美第四大汽车保险公司。在这段时期的大部分时间里，公司管理得极为出色，实现了出色的业务增长和高额利润。看起来势不可挡。但在我的朋友和偶像洛里默·戴维森 (Lorimer Davidson) 于1970年退任CEO之后，他的继任者们很快犯了一个大错——损失准备金提列严重不足。这导致了错误的成本信息，进而导致了不当的定价。到1976年，GEICO已濒临倒闭。
+:::lang eng
 
-杰克·伯恩 (Jack Byrne) 随后加入GEICO担任CEO，几乎凭一己之力，通过包括大幅涨价在内的英勇努力挽救了公司。虽然这些举措是GEICO存活下去的必要之举，但保户却纷纷出走，到1980年其市场份额跌至1.8%。此后，公司又进行了一些不明智的多元化尝试。这种偏离核心业务的做法阻碍了GEICO的增长，到1993年市场份额仅微增到1.9%。然后托尼·奈斯利 (Tony Nicely) 接手了。
+Over the 35 years, American business has delivered terrific results. It should therefore have been easy for investors to earn juicy returns: All they had to do was piggyback Corporate America in a diversified, low-expense way. An index fund that they never touched would have done the job. Instead many investors have had experiences ranging from mediocre to disastrous.
 
-这可真是天壤之别：2005年GEICO的市场份额很可能会达到6%。更妙的是，托尼在增长的同时保持了盈利能力。事实上，GEICO给它的所有参与方都带来了显著的好处：2004年GEICO为保户节省了大约10亿美元的保费支出，员工获得了1.91亿美元的利润分享奖金——平均占工资的24.3%，而它的股东——也就是我们——则享受到了优异的财务回报。
+:::
 
-好消息还不止这些。当杰克·伯恩在1976年拯救公司时，新泽西州拒绝批准他盈利所需的费率。他立刻——也完全正确地——撤出了该州。此后，GEICO一直回避新泽西和马萨诸塞两个州，认定它们是保险公司注定要吃苦头的地方。
+:::lang chs
 
-然而到了2003年，新泽西州终于正视其由来已久的车险问题，通过立法遏制欺诈行为并为保险公司提供公平的竞争环境。即便如此，人们还是预期该州的官僚作风会让改革缓慢而艰难。
+过去 35 年来，美国企业创造出优异的成绩单，按理说投资人也应该跟着获得丰厚的回报，只要大家以分散且低成本的方式搭顺风车即可，事实上指数型基金同样可以达到这样的目的，但为什么实际上大多数投资人的绩效却惨不忍睹呢？
 
-结果恰恰相反。新泽西州保险专员霍莉·巴克 (Holly Bakke) 是一位干哪行都会出色的人才，她决心把法律的精神变为现实。在她团队的配合下，GEICO敲定了重返该州的所有细节，并于去年8月获得了营业执照。从那以后，新泽西驾车者的响应程度是我预期的好几倍。
+:::
 
-我们目前服务14万名保户——约占新泽西市场的4%——为他们节省了可观的保费（正如我们为各地的驾车者所做的一样）。口碑推荐让咨询电话如潮水般涌来。而且据报告，我们在该州的成交率——即签发保单数与收到咨询数之比——远高于全国平均水平。
+:::lang eng
 
-当然，我们并不宣称能为所有人省钱。有些公司采用与我们不同的评级体系，可能会为某些类别的驾车者提供更低的费率。但我们相信，在服务全部公众群体的全国性保险公司中，GEICO提供最低价格的频率高于任何其他公司。此外，在大多数州（包括新泽西），伯克希尔股东可享受8%的折扣。所以花上15分钟，去GEICO.com看看——或者打电话800-847-7536——看看你能不能省下一大笔钱（当然，省下来的钱你可以用来购买伯克希尔的其他产品）。
+There have been three primary causes: first, high costs, usually because investors traded excessively or spent far too much on investment management; second, portfolio decisions based on tips and fads rather than on thoughtful, quantified evaluation of businesses, and third, a start-and-stop approach to the market marked by untimely entries (after an advance has been long underway) and exits (after periods of stagnation or decline). Investors should remember that excitement and expenses are their enemies. And if they insist on trying to time their participation in equities, they should try to be fearful when others are greedy and greedy only when others are fearful.
 
-再保险——卖给其他保险公司、帮助它们分散风险的保险——不应该是同质化的商品产品。说到底，任何保险保单不过就是一个承诺，而大家都知道，承诺的质量千差万别。
+:::
 
-在直保层面，做出承诺的是谁往往不太紧要。以个人险种为例，各州会向经营正常的保险公司征收分摊金，用来赔付那些破产公司的保户。在商业险领域，工伤赔偿保险也有类似的安排。这类受保护的保单约占财产意外险行业保费的60%。经营稳健的保险公司对于被迫补贴那些管理不善或鲁莽经营的同行深感不满，但这个行业的规矩就是如此。
+:::lang chs
 
-其他形式的直保商业险涉及的承诺对投保人有更大的风险。比如当信实保险 (Reliance Insurance) 和家庭保险 (Home Insurance) 被搞垮的时候，它们的承诺被证明一文不值。因此，许多持有其商业保单（工伤赔偿险除外）的客户蒙受了惨痛的损失。
+我认为这其中主要有三个原因，第一，频繁交易的成本太高，投资人的进出往往过于频繁，或者是花太多费用在投资管理之上；第二、投资决策往往基于小道消息和追逐热点，而不是基于企业的理性和定量的评价标准；第三，错误的介入时点，高买低卖。如在牛市上涨多时后高点买入，或是漫长熊市下跌后低位卖出。投资人必须谨记，过度兴奋与过高的交易成本是其大敌，而如果大家一定要投资股票，我认为正确的心态应该是，别人贪婪时要恐惧，别人恐惧时要贪婪。
 
-但直保保单中的偿付风险，与再保险保单中潜藏的风险比起来根本不值一提。当一家再保险公司破产时，与其合作的直保公司几乎总会遭受巨额损失。这个风险绝不容小觑：GEICO在1980年代初期就曾因为选择再保险公司不当而蒙受了数千万美元的损失。
+:::
 
-如果未来一二十年内发生一场真正的超级大灾难——这完全有可能——一些再保险公司将无法幸免。迄今为止最大的保险损失是世贸中心灾难，估计给[[保险业|保险业]]造成了350亿美元的损失。1992年的安德鲁飓风给保险业造成了约155亿美元的损失（以今天的币值计算会高出许多）。这两场灾难都震撼了整个保险和再保险世界。但如果一场特别猛烈的大地震或飓风恰好袭击了最糟糕的地方，1,000亿美元甚至更大的灾害损失并非没有可能。2004年有四场大飓风袭击了佛罗里达，合计造成了约250亿美元的保险损失。其中两场——查理 (Charley) 和伊万 (Ivan)——如果登陆地点稍有偏差，造成的损失至少会是实际的三倍。
+# Sector Results 各部门绩效
 
-许多保险公司认为1,000亿美元的行业损失"不可想象"，根本不会为此做任何准备。但在伯克希尔，我们早已未雨绸缪。我们承担的损失份额大概在3%到5%之间，而我们每年从投资和其他业务获得的收益将轻松覆盖这些损失。"劫后余生"那一天真的来临时，伯克希尔开出的支票照样能兑现。
+:::lang eng
 
-虽然飓风给我们带来了12.5亿美元的损失，但我们的再保险业务去年总体表现不俗。在[[通用再保险|通用再保险]] (General Re)，乔·布兰登 (Joe Brandon) 恢复了这家公司长期以来引以为豪的承保纪律文化——此前一度偏离了轨道。然而，他在2004年当年业务上取得的优异业绩，被他接手之前遗留下来的不利发展所抵消。在国民保险的再保险业务方面，阿吉特·贾恩 (Ajit Jain) 继续成功地承保其他再保险公司不愿或无力承接的巨额风险。阿吉特对伯克希尔的价值不可估量。
+As managers, Charlie and I want to give our owners the financial information and commentary we would wish to receive if our roles were reversed. To do this with both clarity and reasonable brevity becomes more difficult as Berkshire's scope widens. Some of our businesses have vastly different economic characteristics from others, which means that our consolidated statements, with their jumble of figures, make useful analysis almost impossible.
 
-我们的保险业务经理人将我在本节提到的[[竞争优势|竞争优势]]发挥到了极致，去年再度交出了一流的承保业绩。因此，我们的浮存金依然比免费还好。以下是他们的成绩单：
+:::
 
-| 保险业务 | 2004年承保利润（百万美元） | 2004年末浮存金（百万美元） | 2003年末浮存金（百万美元） |
-| --- | --- | --- | --- |
-| 通用再保险 | $ 3 | $ 23,120 | $ 23,654 |
-| 伯克希尔再保险 | 417 | 15,278 | 13,948 |
-| 盖可保险 | 970 | 5,960 | 5,287 |
-| 其他直保\* | 161 | 1,736 | 1,331 |
-| 合计 | $ 1,551 | $ 46,094 | $ 44,220 |
+:::lang chs
 
-\* 除国民保险外，还包括罗德·埃尔德雷德 (Rod Eldred)、约翰·基泽尔 (John Kizer)、汤姆·纳尼 (Tom Nerney) 和唐·托尔 (Don Towle) 经营的其他多项出色的[[保险业|保险业]]务。
+身为管理者，查理跟我设身处地的为大家着想，希望自己能够提供给各位所有重要的财务信息与看法，虽然随着伯克希尔的规模日益庞杂，要兼顾简洁与明了的困难度大大提高，因为我们有些产业的性质截然不同，这代表将所有数字混在一起的大杂烩，对于分析一点用处都没有。
 
-2004年伯克希尔的浮存金增加了19亿美元，尽管有少数客户选择解约（即终止）某些再保险合同。我们只在判断对我们有利的条件下才同意解约（同时充分考虑退回资金后未来可能减少的投资收益）。
+:::
 
-总结一下，去年我们因保管平均约452亿美元的资金而额外获得了超过15亿美元的回报。2005年的市场定价将不如过去那么有吸引力。尽管如此，只要不发生超级大灾难，我们今年仍有不错的机会再次实现无成本的浮存金。
+:::lang eng
 
-## 金融与金融产品
+On the following pages, therefore, we will present some balance sheet and earnings figures from our four major categories of businesses along with commentary about each. We particularly want you to understand the limited circumstances under which we will use debt, given that we typically shun it. We will not, however, inundate you with data that has no real value in estimating Berkshire's intrinsic value. Doing so would tend to obfuscate the facts that count.
 
-去年在这一部分我们讨论了五花八门的业务。今年我们略过几项已不太重要的：Berkadia已接近尾声；Value Capital引入了其他投资者，不再需要并入我们的报表；而我个人负责的交易业务也在持续收缩。
+:::
 
-[[通用再保险|通用再保险]]证券的衍生品合约一直被要求按市值计价，我也相信公司管理层已尽心尽力地做出了切合实际的"估值"。但在一个交易结算有时要等几十年、往往还涉及多个变量的世界里，衍生品的市场价格可能非常模糊。在此期间，这些估值影响着每年发放的管理层和交易员奖金。虚幻的利润满天飞也就不足为奇了。
+:::lang chs
 
-投资者应当明白，在各类金融机构中，快速增长有时会掩盖严重的深层问题（偶尔还有欺诈）。检验[[衍生品|衍生品]]业务真正盈利能力的方法，是看它在零增长的状态下运营一段较长时间后的表现。只有等退潮了，你才知道谁在裸泳。
+因此在接下来的报告中，我们将按产业类别分类列示各产业的资产负债表、收益数字以及我们的看法，我必须让各位了解除非在极少数的情况下，我们尽量避免对外举债，同时我们也不会塞给你一大堆对于分析伯克希尔内在价值没有帮助的数字，因为这样做反而会模糊了焦点。
 
-由于主要的贷款机构一个接一个地撤离，融资问题继续困扰着预制房屋的制造商、零售商和购房者。在这方面，伯克希尔的支持对克莱顿大有裨益。只要合理，我们随时准备提供资金，而去年克莱顿的[[管理层|管理层]]找到了很多合格的项目。
+:::
 
-正如我们在2003年年报中解释的，我们相信用借来的钱支撑可获利息的应收款是明智之举。去年初，我们借了20亿美元转借给克莱顿（加收一个百分点的利差），到2005年1月总额已达73.5亿美元。新增的大部分借款是我们在2005年1月4日借入的，用于资助克莱顿在2004年12月30日从一家退出该业务的银行手中购买的一批成熟的应收款组合。
+## Regulated Utility Businesses 受管制的公用事业
 
-目前还有另外两笔应收款组合[[收购|收购]]正在洽谈中，总额约16亿美元，但我们不太可能再有其他大笔交易了。因此，克莱顿的应收款规模（新增金额大致会被还款所抵消）可能会在90亿美元左右维持一段时间，并持续贡献稳定的收益。这与过去的模式截然不同——过去克莱顿和所有同行一样，把应收款证券化，导致收益提前实现。过去两年里，证券化市场几乎停摆。今天能拿到的有限资金不仅利率更高，条款也更苛刻。如果克莱顿在这段时期仍然单打独斗，在融资难题的困扰下，它的收益将相当惨淡。
+:::lang eng
 
-去年4月，克莱顿完成了对奥克伍德房屋 (Oakwood Homes) 的[[收购|收购]]，一举成为行业最大的预制房屋制造商和零售商。我们乐意把更多资源交到凯文·克莱顿 (Kevin Clayton) 手中，他是这家公司的CEO，一位典型的伯克希尔式经理人。目前克莱顿拥有11,837名员工，而我们收购时只有7,136人。查理跟我很高兴伯克希尔能够助力这种增长。
+We have an 80.5% (fully diluted) interest in MidAmerican Energy Holdings, which owns a wide variety of utility operations. The largest of these are (1) Yorkshire Electricity and Northern Electric, whose 3.7 million electric customers make it the third largest distributor of electricity in the U.K.; (2) MidAmerican Energy, which serves 698,000 electric customers, primarily in Iowa; and (3) Kern River and Northern Natural pipelines, which carry 7.9% of the natural gas consumed in the U.S.
 
-为了简化起见，我们把克莱顿的所有收益都归入此板块，尽管其中有相当一部分并非来自消费金融。
+:::
 
-| （百万美元） | 2004年税前收益 | 2003年税前收益 | 2004年有息负债 | 2003年有息负债 |
-| --- | --- | --- | --- | --- |
-| 交易——经常性收入 | $ 264 | $ 355 | $ 5,751 | $ 7,826 |
-| 通用再保险证券 | (44) | (99) | 5,437\* | 8,041\* |
-| 人寿及年金业务 | (57) | 85 | 2,467 | 2,331 |
-| 价值资本 (Value Capital) | 30 | 31 | N/A | N/A |
-| Berkadia | 1 | 101 | -- | 525 |
-| 租赁业务 | 92 | 34 | 391 | 482 |
-| 预制房屋金融（克莱顿） | 220 | 37\\ | 3,636 | 2,032 |
-| 其他 | 78 | 75 | N/A | N/A |
-| 资本利得前收益合计 | 584 | 619 |  |  |
-| 交易——资本利得 | 1,750 | 1,215 |  |  |
-| 合计 | $ 2,334 | $ 1,834 |  |  |
+:::lang chs
 
-\* 包含所有负债
+我们持有中美能源控股公司 80.5% 股权（完全稀释），该公司拥有众多公用事业业务，其中主要的项目包括：（1）约克郡电力与北方电力公司（Yorkshire Electricity，Northern Electric），拥有 370 万电力用户，为英国第三大的电力分销商；（2）中美能源（MidAmerican Energy），在爱荷华州拥有 69.8 万电力用户；（3）科恩河与北方天然管道公司（Kern River，Northern Natural pipelines），两条天然气输送管道运输全美 7.9% 的天然气。
 
-\\ 自[[收购|收购]]日2003年8月7日起
+:::
 
-## 制造、服务与零售业务
+:::lang eng
 
-这个板块涵盖的业务范围极广。让我们直接来看把所有业务合并后的资产负债表和损益表。
+The remaining 19.5% of MidAmerican is owned by three partners of ours: Dave Sokol and Greg Abel, the brilliant managers of these businesses, and Walter Scott, a long-time friend of mine who introduced me to the company. Because MidAmerican is subject to the Public Utility Holding Company Act("PUHCA”), Berkshire's voting interest is limited to 9.9%. Voting control rests with Walter.
 
-资产负债表 2004年12月31日（百万美元）
+:::
 
-| 资产 | 金额 | 负债和权益 | 金额 |
-| --- | --- | --- | --- |
-| 现金及等价物 | $ 899 | 应付票据 | $ 1,143 |
-| 应收账款和应收票据 | 3,074 |  |  |
-| 存货 | 3,842 |  |  |
-| 其他流动资产 | 254 | 其他流动负债 | 4,685 |
-| 流动资产合计 | 8,069 | 流动负债合计 | 5,828 |
-| 商誉及无形资产 | 8,362 | 递延所得税 | 248 |
-| 固定资产 | 6,161 | 长期负债及其他负债 | 1,965 |
-| 其他资产 | 1,044 | 所有者权益 | 15,595 |
-|  | $ 23,636 |  | $ 23,636 |
+:::lang chs
 
-损益表（百万美元）
+剩下的 19.5% 权益则由伯克希尔三位合作伙伴所持有，他们分别是 Dave Sokol 及Greg Abel，他们是中美能源优秀的经理人，另外一位则是 Walter Scott，他是我个人长期的好友，也是他引荐我投资这家公司的，由于中美能源公司受限于公用事业控股公司法（PUHCA）的规定，限制伯克希尔的投票权最高只能达到 9.9%，所以 Walter 他拥有绝对的控制权。
 
-| 科目 | 2004年 | 2003年 |
-| --- | --- | --- |
-| 收入 | $ 44,142 | $ 32,106 |
-| 营业费用（其中折旧费用：2004年6.76亿美元，2003年6.05亿美元） | 41,604 | 29,885 |
-| 净利息费用 | 57 | 64 |
-| 税前利润 | 2,481 | 2,157 |
-| 所得税 | 941 | 813 |
-| 净利润 | $ 1,540 | $ 1,344 |
+:::
 
-这些精挑细选的企业，卖的产品从冰激凌到波音737客机的部分所有权，应有尽有。去年平均有形净资产回报率高达21.7%，高于2003年的20.7%。尤其值得一提的是，这些业务在取得如此回报时几乎没有使用财务杠杆。我们拥有的确实是一批优秀的企业。不过，我们收购其中很多企业时付出了远高于净资产的溢价——这反映在资产负债表上的商誉科目中——这使得我们按平均[[账面价值|账面价值]]计算的回报率降至9.9%。
+:::lang eng
 
-以下是主要业务类别或部门的税前收益：
+Our limited voting interest forces us to account for MidAmerican in an abbreviated manner. Instead of our fully incorporating the company's assets, liabilities, revenues and expenses into Berkshire's statements, we make one-line entries only in both our balance sheet and income account. It's likely. though, that PUHCA will someday -- perhaps soon -- be repealed or that accounting rules will change. Berkshire's consolidated figures would then incorporate all of MidAmerican, including the substantial debt it utilizes (though this debt is not now, nor will it ever be, an obligation of Berkshire).
 
-| （百万美元） | 2004年税前收益 | 2003年税前收益 |
-| --- | --- | --- |
-| 建筑产品 | $ 643 | $ 559 |
-| Shaw地毯 | 466 | 436 |
-| 服装鞋类 | 325 | 289 |
-| 珠宝、家具及糖果零售 | 215 | 224 |
-| 航空服务 | 191 | 72 |
-| 麦克莱恩 (McLane) | 228 | 150\* |
-| 其他业务 | 413 | 427 |
-|  | $ 2,481 | $ 2,157 |
+:::
 
-\* [[麦克莱恩|麦克莱恩]]自收购日2003年5月23日起。
+:::lang chs
 
-Shaw地毯在这一年遭受了主要纤维材料价格的连番上涨，成本增加超过3亿美元。（你踩在地毯上，实际上踩的是经过加工的石油。）虽然我们随之提高了售价，但不可避免地存在时间差。因此，利润率在年内持续收窄，目前仍承受压力。尽管面临这些障碍，在鲍勃·肖 (Bob Shaw) 和朱利安·索尔 (Julian Saul) 的领导下，Shaw地毯2004年的有形净资产回报率仍高达25.6%。这家公司是一台动力十足的机器，前途光明。
+受限制的投票权使得我们仅能以相当简略的方式将中美能源的财务数字列入财务报表中，而无法将该公司所有的资产负债以及营收损益列入伯克希尔报表，依照现行会计原则，我们只能按投资比例认列该公司的投资金额及损益，或许在不久的将来，PUHCA 会被取消或是会计原则有重大变革，那么届时中美能源所有的财务数字就会被列入伯克希尔的合并报表之中，当然也包含其大量的融资负债在内。不管现在还是将来，这些债务都不会是伯克希尔的债务。
 
-规模较小的加兰公司 (Garan) 去年也有出色的表现。在西摩·利希滕斯坦 (Seymour Lichtenstein) 和杰里·卡米尔 (Jerry Kamiel) 的带领下，该公司生产广受欢迎的Garanimals儿童[[品牌|品牌]]。下次你去沃尔玛的时候，记得去看看这个充满创意的产品。
+:::
 
-本布里奇的同店销售增长了11.4%，是我所见的所有上市珠宝商中最好的。此外，公司的利润率也有所扩大。去年的成绩绝非侥幸：过去十年公司的同店销售平均增长率达到8.8%。
+:::lang eng
 
-埃德 (Ed) 和乔恩·布里奇 (Jon Bridge) 是家族的第四代掌门人，经营这家公司就像经营自家产业一样——事实上除了股票证书上的名字换成了伯克希尔，其他一切都不变。靠着选址准确，布里奇家族成功地扩张了业务，更重要的是每个门店都配备了充满热情和专业知识的员工。今年我们将进军明尼阿波利斯-圣保罗双子城。
+At yearend, $1.478 billion of MidAmerican's junior debt was payable to Berkshire. This debt has allowed acquisitions to be financed without our partners needing to increase their already substantial investments in MidAmerican. By charging 11% interest, Berkshire is compensated fairly for putting up the funds needed for purchases, while our partners are spared dilution of their equity interests. Because MidAmerican made no large acquisitions last year, it paid down $100 million of what it owes us.
 
-在犹他州的威利家具，扩张带来的增长更加惊人——2004年销售额中有41.9%来自1999年以前不存在的州外门店。公司2004年的利润率也有所提升，得益于拉斯维加斯的两家新店。
+:::
 
-我倒是很想告诉大家这些门店是我的主意。事实上，我原来以为它们会失败。我当然知道比尔·柴尔德 (Bill Child) 把威利家具在犹他州经营得有多出色——它在当地的市场份额多年来一直很高。但我觉得我们周日不营业的政策在外地肯定行不通。就连我们在爱达荷州博伊西 (Boise) 的第一家州外门店取得巨大成功后，我还是不信。我不断追问拉斯维加斯的居民——已经习惯了一周七天营业的零售商——是否能适应我们。我们2001年在拉斯维加斯开的第一家店用响亮的业绩回答了这个问题，一开张就成了我们业绩最好的门店。
+:::lang chs
 
-比尔和他的继任CEO斯科特·海马斯 (Scott Hymas) 随后提议开设第二家拉斯维加斯门店，距第一家只有大约20分钟车程。我觉得这样扩张会蚕食第一家店的生意，成本大增但销售平平。结果呢？两家店的销量现在都比连锁中的其他任何门店高出约26%，而且年年保持大幅增长。
+截至年底，伯克希尔对于中美能源尚有 14.78 亿美元的次级债务（junior debt），这笔借款将可使得中美能源在进行并购时，其它大股东不用再掏钱出来。此外通过收取 11% 的利息，一方面伯克希尔可获得合理的回报，另一方面我们的合伙人则可避免持股权益遭到稀释，但由于中美能源去年未进行任何重大的并购案，所以偿还了欠我们的 1 亿美元借款。
 
-威利家具即将在雷诺 (Reno) 开店。在做出这一决定之前，比尔和斯科特又来征求我的意见。起初，被他们来请教让我颇为自豪。但很快我就回过神来——一个永远都判断错误的人的意见，对决策者来说自有其特殊的反面参考价值。
+:::
 
-另外一件事是，1951年以1万美元创立[[飞安公司|飞安公司]]的阿尔·厄尔齐 (Al Ueltschi) 去年把CEO的位子交给了布鲁斯·惠特曼 (Bruce Whitman)，公司43年的老将。（但Al哪儿也不去；我不会让他走的。）布鲁斯跟Al一样坚信，驾驶飞机是一项特权，只能给予那些定期接受最高质量训练且毋庸置疑具备能力的人。几年前，查理受一位在飞安被判定不合格的企业大亨朋友之托，想替他向Al说情。Al对查理的回答是："告诉你那位朋友，他应该待在飞机后舱，不是驾驶舱。"
+:::lang eng
 
-[[飞安公司|飞安公司]]的第一大客户是NetJets，我们的飞机部分所有权子公司。它的2,100名飞行员平均每年花18天进行训练。此外，这些飞行员只飞一种机型，而许多航空运营商的飞行员要在多种机型之间切换。NetJets在这两方面的高标准，是我早在伯克希尔收购它之前就成为其客户的两个主要原因。
+MidAmerican also owns a significant non-utility business, HomeServices of America, the second largest real estate broker in the country. Unlike our utility operations, this business is highly cyclical, but nevertheless one we view enthusiastically. We have an exceptional manager, Ron Peltier, who through both his acquisition and operational skills is building a brokerage powerhouse.
 
-同样重要的是，我决定使用并[[收购|收购]]NetJets还因为它由里奇·桑图利 (Rich Santulli) 经营。他是飞机部分所有权行业的开创者，对安全和服务的要求近乎偏执。在我看来，选择飞行服务提供商就跟选脑外科医生一样：你只想要最好的。（低价竞标者就留给别人去试验吧。）
+:::
 
-去年NetJets再次拿下了四大行业巨头中约70%的净新增业务（按金额计）。我们的部分增长来自Marquis Jet Partners推出的25小时飞行卡。Marquis并非NetJets的子公司，而是一个客户——它从我们这里批量采购飞行时数后，重新包装成更小的套餐通过飞行卡对外销售。Marquis专做NetJets一家的生意，并以我们的声誉作为营销的核心。
+:::lang chs
 
-我们在美国的合同数（包括Marquis客户）从2004年的3,877份增长到4,967份（相比之下，1998年伯克希尔[[收购|收购]]NetJets时约为1,200份）。有些客户（包括我本人）签订了多份合同，因为他们希望使用多种机型，每次出行选择最适合当次任务的机型。
+中美能源另外还拥有一项重要的非公用事业，全美第二大不动产经纪商美国家庭服务公司 HomeServices，不同于公用事业，这行业的周期波动相当的大，但我们仍然对其抱予热烈的期待，我们拥有一位优异的经理人 Ron Peltier，通过其经营及并购能力，正逐渐建立起一个房屋中介王国。
 
-NetJets去年在美国赚了一笔不多不少的利润。但我们在国内赚的钱大部分被欧洲的亏损所抵消。不过，我们目前在海外正在积蓄真正的势头。包括我们自己在欧洲销售的25小时飞行卡在内，合同数从364份增加到了693份。2005年我们在欧洲仍将有很大的亏损，但美国国内的盈利应该能让整体保持黑字。
+:::
 
-欧洲让NetJets付出了高昂的代价——远超我的预期——但要打造一个永远独一无二的飞行运营体系，这是不可或缺的。我们的美国客户走到哪里都希望享受高品质的服务，而他们对海外飞行时数的需求在未来几十年肯定会急剧增长。去年美国客户在欧洲飞了2,003个航班，比上年增长22%，比2000年增长137%。同样重要的是，我们的欧洲客户在美国飞了1,067个航班，比2003年增长65%，比2000年增长239%。
+:::lang eng
 
-下表列示了我们的普通股投资。截至2004年底市值超过6亿美元的均已逐一列出。
+HomeServices participated in $59.8 billion of transactions in 2004, a gain of $11.2 billion from 2003. About 24% of the increase came from six acquisitions made during the year. Through our 17 brokerage firms -- all of which retain their local identities -- we employ more than 18,000 brokers in 18 states. HomeServices is almost certain to grow substantially in the next decade as we continue to acquire leading localized operations.
 
-2004年12月31日
+:::
 
-| 股份数量 | 公司名称 | 持股比例 | 成本\*（百万美元） | 市值（百万美元） |
-| --- | --- | --- | --- | --- |
-| 151,610,700 | 美国运通 (American Express Company) | 12.1 | $ 1,470 | $ 8,546 |
-| 200,000,000 | 可口可乐 (The Coca-Cola Company) | 8.3 | 1,299 | 8,328 |
-| 96,000,000 | 吉列 (The Gillette Company) | 9.7 | 600 | 4,299 |
-| 14,350,600 | H&R Block | 8.7 | 223 | 703 |
-| 6,708,760 | M&T银行 (M&T Bank Corporation) | 5.8 | 103 | 723 |
-| 24,000,000 | 穆迪 (Moody's Corporation) | 16.2 | 499 | 2,084 |
-| 2,338,961,000 | 中国石油H股 (PetroChina "H" shares) | 1.3 | 488 | 1,249 |
-| 1,727,765 | 华盛顿邮报 (The Washington Post Company) | 18.1 | 11 | 1,698 |
-| 56,448,380 | 富国银行 (Wells Fargo & Company) | 3.3 | 463 | 3,508 |
-| 1,724,200 | 白山保险 (White Mountains Insurance) | 16.0 | 369 | 1,114 |
-| 其他 |  | 3,531 | 5,465 |  |
-| 普通股投资合计 |  | $ 9,056 | $ 37,717 |  |
+:::lang chs
 
-\* 此为我们的实际买入成本，同时也是计税基础；由于会计准则要求的增值或减值调整，通用会计准则下的"成本"在少数情况下有所不同。
+去年 HomeServices 公司总计搓合了 598 亿美元的交易案，较 2003 年又大大地成长了 112 亿，其中 24% 的成长来自于六件新的并购案，经由全美各地 17 个中介分支，他们全都保留原有中介公司名称，我们在 18 个州聘雇了 18,000 位业务人员，在往后的十年内，中介业务仍将通过并购的方式继续大幅成长。
 
-有些人看到这张表可能会把它当成一份根据K线图、券商意见或短期盈利预测来买卖的股票清单。查理跟我对这些干扰毫不理会，而是把我们的持仓视为对企业的部分所有权。这是一个重要的区别。事实上，自从我19岁读到本杰明·格雷厄姆 (Ben Graham) 的《聪明的投资者》(The Intelligent Investor) 以来，这种思维方式就一直是我投资行为的基石。那时候我恍然大悟，眼前的迷雾一扫而空。（在那之前，我虽然早已沉迷于股市，但对如何投资却根本没有头绪。）
+:::
 
-让我们来看看我们的"四大天王"——美国运通 (American Express)、[[可口可乐|可口可乐]] (Coca-Cola)、吉列 (Gillette) 和富国银行 (Wells Fargo)——自我们买入以来企业本身的表现如何。如上表所示，我们在1988年5月至2003年10月间通过多笔交易向这四家公司总共投入了38.3亿美元。按加权计算，我们的平均买入时间是1992年7月。因此到2004年底，以加权平均计，我们持有这些"企业权益"大约12.5年了。
+:::lang eng
 
-2004年，伯克希尔按持股比例可分享的四大天王的收益合计为12亿美元。这个数字可以被视为"正常"水平。的确，由于吉列和富国银行在列报收益时未将期权成本计入费用，数字有所夸大；但另一方面，[[可口可乐|可口可乐]]提列了一笔非经常性减值，又使数字偏低。
+Last year MidAmerican wrote off a major investment in a zinc recovery project that was initiated in 1998 and became operational in 2002. Large quantities of zinc are present in the brine produced by our California geothermal operations, and we believed we could profitably extract the metal. For many months, it appeared that commercially-viable recoveries were imminent. But in mining, just as in oil exploration, prospects have a way of “teasing” their developers, and every time one problem was solved, another popped up. In September, we threw in the towel.
 
-我们从这四家公司分享的收益几乎年年增长，目前已达到我们投资成本的约31.3%。它们分配给我们的现金股利也稳步增长，2004年达到4.34亿美元，约占成本的11.3%。总的来说，四大天王给了我们满意但远非惊人的业务回报。
+:::
 
-在市场表现方面的感受也是如此。自我们最初买入以来，由于[[市盈率|市盈率]]有所提升，估值增幅略高于收益增长。但从年度来看，企业经营与股价表现往往会出现偏离，有时偏离幅度相当惊人。在大泡沫期间，股价涨幅远远超过了企业本身的表现。泡沫破灭后则恰恰相反。
+:::lang chs
 
-如果我能抓住钟摆的摆动节奏，伯克希尔的业绩显然会好得多。透过一面总是擦得干干净净的后视镜来看，这似乎不难。可惜投资者必须透过的是前挡风玻璃，而那块玻璃总是雾蒙蒙的。我们庞大的持仓规模更加大了灵活进出的难度。
+去年中美能源关闭了一项锌金属回收项目的重大投资，该计划在 1998 年开始，并于 2002 年正式营运，由于地热发电产生的卤水含有大量的锌，而我们相信回收这些金属应该有利可图，近几个月来，回收运用在商业上似乎可行，但冶矿这行，就像是石油探勘一样，希望往往一再戏弄开发商，每当一个问题解决了，另一个问题马上又冒出来，就这样一直拖到九月，我们终于举白旗投降。
 
-尽管如此，在泡沫期间我只是对着令人流鼻血的高估值唠唠叨叨，却没有按自己的判断采取行动——这一点我理应受到批评。虽然我当时说过我们持有的某些股票价格跑在了价值前面，但我[[低估|低估]]了高估的严重程度。我该做的不只是说，还要行动。
+:::
 
-查理跟我现在渴望的是来点实际行动。我们并不乐意坐拥430亿美元的现金等价物吃着微薄的利息。我们渴望购入更多类似现有持仓的企业部分权益——如果能直接买下整家大企业就更好了。但我们只会在价格能让我们预期获得合理投资回报时才出手。
+:::lang eng
 
-我们一再强调，我们每季度或每年报告的"已实现"资本利得，对分析而言毫无意义。我们账上有大量的未实现资本利得，至于什么时候兑现、是否兑现，完全不取决于想在某个特定时点报告多少收益。让我们报告的收益更加复杂的是，通用会计准则要求外汇合约按市值计价，这一规定导致这些持仓的未实现损益就像我们已经卖出一样流入我们公布的收益中。
+Our failure here illustrates the importance of a guideline -- *stay with simple propositions* -- that we usually apply in investments as well as operations. If only one variable is key to a decision, and the variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90%. But if ten independent variables need to break favorably for a successful result, and each has a 90% probability of success, the likelihood of having a winner is only 35%. In our zinc venture, we solved most of the problems. But one proved intractable, and that was one too many. Since a chain is no stronger than its weakest link, it makes sense to look for -- if you'll excuse an oxymoron -- mono-linked chains.
 
-尽管有上述种种问题，大家可能还是想了解我们2003年和2004年报告收益的明细。以下数据反映的是实际出售，外汇收益除外——那是出售和按市值调整的综合结果。
+:::
 
-| 分类 | 2004年税前收益（百万美元） | 2003年税前收益（百万美元） |
-| --- | --- | --- |
-| 普通股 | $ 870 | $ 448 |
-| 美国联邦政府债券 | 104 | 1,485 |
-| 垃圾债券 | 730 | 1,138 |
-| 外汇合约 | 1,839 | 825 |
-| 其他 | (47) | 233 |
-| 合计 | $ 3,496 | $ 4,129 |
+:::lang chs
 
-垃圾[[债券|债券]]的利润包含一部分汇兑收益。几年前我们买入这些债券时，首先考量的当然是发行人的信用质量——它们全部是美国公司。不过，其中一些公司发行了以外币计价的债券。鉴于我们对美元走势的判断，凡有这类债券可供选择，我们都优先买入。
+我们的失败再度突显了一项原则的重要性，那就是别把事情搞得太复杂，尽量让事情简单化，这项原则广泛运用于我们的投资以及事业经营之上，如果某项决策只有一个关键变量，而这变量有九成的成功机率，那么很显然你就会有九成的胜算，但如果你必须克服十项变量才能达到目标，那么最后成功的机率将只有 35%，在锌金属回收的这项业务中，我们几乎克服了所有的问题，但有一项无法解决的难题非常棘手。由于一根链条并不比它最薄弱的一环更牢固，所以最有意义的是去寻找单环链条——如果你不介意自相矛盾的说法的话。
 
-举例来说，我们在2001年以面值的51.7%买入了2.54亿欧元的Level 3公司[[债券|债券]]（2008年到期，年息10.75%），并在2004年12月以面值的85%售出。这笔债券以欧元交易，我们买入时欧元对美元的汇率是0.88美元，卖出时已升至1.29美元。因此，在我们总计1.63亿美元的收益中，大约8,500万美元来自市场对Level 3信用质量的重新评估，其余7,800万美元来自欧元的升值。（此外，在持有期间我们每年还收到了相当于美元成本约25%的现金利息。）
+:::
 
-媒体上不断报道"巴菲特买进"这只或那只股票。这类说法几乎总是基于伯克希尔向美国证监会 (SEC) 提交的文件，因此是不准确的。就像我以前说过的，这些报道应该说"伯克希尔买进"才对。
+:::lang eng
 
-自律型投资人的典范
+A breakdown of MidAmerican's results follows. In 2004, the “other" category includes a $72.2 million profit from sale of an Enron receivable that was thrown in when we purchased Northern Natural two years earlier. Walter, Dave and I, as natives of Omaha, view this unanticipated gain as war reparations -- partial compensation for the loss our city suffered in 1986 when Ken Lay moved Northern to Houston, after promising to leave the company here. (For details, see Berkshire's 2002 annual report.)
 
-路易·辛普森 (Lou Simpson)
+:::
 
-| 年份 | 盖可保险股票投资回报率 | 标普500回报率 | 相对收益 |
-| --- | --- | --- | --- |
-| 1980 | 23.7% | 32.3% | (8.6%) |
-| 1981 | 5.4% | (5.0%) | 10.4% |
-| 1982 | 45.8% | 21.4% | 24.4% |
-| 1983 | 36.0% | 22.4% | 13.6% |
-| 1984 | 21.8% | 6.1% | 15.7% |
-| 1985 | 45.8% | 31.6% | 14.2% |
-| 1986 | 38.7% | 18.6% | 20.1% |
-| 1987 | (10.0%) | 5.1% | (15.1%) |
-| 1988 | 30.0% | 16.6% | 13.4% |
-| 1989 | 36.1% | 31.7% | 4.4% |
-| 1990 | (9.9%) | (3.1%) | (6.8%) |
-| 1991 | 56.5% | 30.5% | 26.0% |
-| 1992 | 10.8% | 7.6% | 3.2% |
-| 1993 | 4.6% | 10.1% | (5.5%) |
-| 1994 | 13.4% | 1.3% | 12.1% |
-| 1995 | 39.8% | 37.6% | 2.2% |
-| 1996 | 29.2% | 23.0% | 6.2% |
-| 1997 | 24.6% | 33.4% | (8.8%) |
-| 1998 | 18.6% | 28.6% | (10.0%) |
-| 1999 | 7.2% | 21.0% | (13.8%) |
-| 2000 | 20.9% | (9.1%) | 30.0% |
-| 2001 | 5.2% | (11.9%) | 17.1% |
-| 2002 | (8.1%) | (22.1%) | 14.0% |
-| 2003 | 38.3% | 28.7% | 9.6% |
-| 2004 | 16.9% | 10.9% | 6.0% |
-| 1980-2004年年均收益率 | 20.3% | 13.5% | 6.8% |
+:::lang chs
 
-即便如此，做出买入决策的通常也不是我。路易·辛普森管理着[[盖可保险|盖可保险]]约25亿美元的股票投资组合，而伯克希尔向SEC申报的交易大多是他的。通常他买入的标的在2亿到3亿美元的规模，比我关注的公司要小。看看上面这张表就知道，路易进入投资名人堂几乎是板上钉钉的事。
+下表系中美能源营运成绩的明细表，2004 年在“其它”项下含有一笔 7,220 万美元的出售安然应收帐款的收益，这是两年前我们买下北方天然时连带进来的款项。Walter、Dave 及我本人身为奥马哈地区的子弟，把这笔意外之财视为战争赔款，以弥补当年 Ken Lay 违背承诺，硬将北方天然从奥马哈迁到休斯顿的部分损失（相关细节请参阅伯克希尔 2002 年的年报）。以下是中美能源的几项重要数据：
 
-你也许会惊讶地得知，路易不一定会事先告诉我他在做什么。当查理跟我授权给一个人时，我们是真的把指挥棒交出去了——对路易如此，对我们旗下的业务经理人也是如此。因此，我通常是在每个月结束后十天左右才知道路易做了哪些交易。说实话，有时候我并不认同他的决策。但他通常是对的。
+:::
 
-截至年底，伯克希尔持有约214亿美元的外汇合约，分布在12种货币中。正如我去年提到的，这类投资对我们来说是一个重大的转变。在2002年3月之前，伯克希尔和我本人都从未做过外汇交易。但越来越多的证据表明，我们的贸易政策将在未来许多年持续给美元施加压力——所以从2002年起，我们就在投资布局上重视了这一警示。（就像老牌喜剧演员W.C. 菲尔兹 (W.C. Fields) 被人讨钱时说的那样："抱歉，小子，我的钱全套在外汇上了。"）
+:::lang eng
 
-请务必搞清楚一点：我们在外汇上的布局绝不代表我们对美国有任何怀疑。我们生活在一个极其富裕的国家，这个国家的制度崇尚市场经济、法治精神和机会平等。我们的经济无疑是世界上最强大的，而且将继续如此。我们何其有幸生活在这里。
+Here are some key figures on MidAmerican's operations:
 
-但正如我在2003年11月10日发表于《财富》(Fortune) 杂志的文章中所论述的（可在伯克希尔网站上查阅），我们国家的贸易政策正在拖累美元。美元的贬值幅度已经相当可观，但很可能还会继续。如果政策不变，外汇市场甚至可能陷入混乱，并在政治和金融层面引发连锁效应。没有人知道这些问题是否会成为现实。但这种情景远非不着边际的假设，政策制定者现在就应该认真考虑。然而他们的倾向是采取一种并不善意的忽视态度：一份长达318页、研究持续贸易赤字后果的国会报告于2000年11月发表后便束之高阁。这份报告是在贸易赤字达到当时令人震惊的2,630亿美元时委托撰写的；到去年，这一数字已飙升至6,180亿美元。
+:::
 
-查理跟我必须强调，我们相信真正的贸易——即与其他国家的货物和服务交换——对双方都大有裨益。去年我们有1.15万亿美元的实实在在的贸易额，这个数字越大越好。但正如前面提到的，我们国家还额外向世界其他地方购买了6,180亿美元的商品和服务，却没有相应的回报。这是一个惊人的数字，而且后果严重。
+:::lang chs
 
-这种单向伪贸易的平衡项——在经济学中总有一个对价——就是财富从美国流向世界其他地方。这种转移可能以我们的私营或政府机构向外国人发出借据的形式实现，也可能以外国人取得我们资产（如股票和房地产）所有权的形式实现。不管哪种方式，最终结果都是美国人拥有自己国家的比例越来越少，而非美国人拥有的比例越来越大。目前，美国的财富正以每天18亿美元的速度流向世界其他地方，比我去年写信时又增加了20%。因此，外国人和他们的政府如今净持有约3万亿美元的美国资产。十年前这个数字还微乎其微。
+以下是中美能源的几项重要数据：
 
-提到"万亿"这种数字，大多数人的大脑会直接宕机。更容易让人混淆的是，经常账户赤字（由三个项目组成，其中最重要的远远是贸易赤字）和我们的国家预算赤字经常被混为一谈，并称为"双胞胎赤字"。但它们根本不是一回事。成因不同，后果也不同。
+:::
 
-预算赤字不会减少美国人能分到的国家蛋糕份额。只要外国人和他们的公民没有净持有美国资产，那么在任何预算方案下——即便是巨额赤字——我们国家100%的产出都归我们的公民所有。
+:::lang common
 
-作为一个商品充裕的富裕"大家庭"，美国人会通过立法者争论政府应该如何重新分配国家产出——也就是谁纳税、谁享受政府福利。如果早年做出的"福利"承诺不得不重新审视，"家族成员"们会愤怒地争辩到底谁来承受损失。也许税收会增加；也许承诺会调整；也许会发行更多国内债务。但争吵结束后，这个家庭巨大的蛋糕——不管怎么切——全部仍然归家族成员享用。不需要把任何一块送往国外。
+||2004 Earnings (in $ millions)</br>2004年收益（百万美元）|2003 Earnings (in $ millions)</br>2003年收益（百万美元）
+---|---:|---:
+U.K. utilities</br>英国电力|$ 326|$ 289
+Iowa utility</br>爱荷华电力|268|269
+Pipelines</br>管道运输业务|288|261
+Home Services</br>家庭服务|130|113
+Other (Net)</br>其他|172|190
+Loss from zinc project|(579)|(46)
+Earnings before corporate interest and tax</br>息税前收益|605|1,076
+Interest, other than to Berkshire</br>利息支出-其它企业债务|(212)|(225)
+Interest on Berkshire junior debt</br>利息支出-伯克希尔次级债券|(170)|(184)
+Income tax</br>所得税|(53)|(251)
+Net Earnings</br>净收益|$ 170|$ 416
+Earnings Applicable to Berkshire \*</br>归属于伯克希尔净收益 \*|$ 237|$ 429
+Debt Owed to Others</br>应付其它企业债务|10,528|10,296
+Debt Owed to Berkshire</br>应付伯克希尔债务|1,478|1,578
 
-然而，巨额且持续的经常账户赤字产生的结果截然不同。随着时间推移，随着对我们的债权不断增长，我们自己的产出中归自己所有的份额越来越少。实际上，世界其他国家在美国产出上享受的"税赋"与日俱增。在这方面，我们就像一个长期入不敷出的家庭。随着时间推移，这个家庭发现自己越来越多地在为"财务公司"打工，留给自己的越来越少。
+:::
 
-如果我们继续维持目前规模的经常账户赤字，十年后外国人净持有的美国资产将达到大约11万亿美元。而如果外国投资者在这些净持有资产上仅获得5%的回报，我们每年就需要向海外输送5,500亿美元的商品和服务，仅仅是为外国人持有的美国投资提供回报。十年后，我们的GDP大概会达到约18万亿美元（假设低通胀——虽然这远非定数）。届时，美国这个"大家庭"每年将不得不把年产出的3%拱手让出，仅仅是为了偿还过去挥霍无度的代价。在这种情况下，不同于预算赤字的情形，真的就变成了父债子还。
+:::lang eng
 
-这笔每年支付给世界的"贡金"——除非美国大幅缩减消费并开始持续实现大额贸易顺差，否则将不会消失——毫无疑问会在美国国内引发严重的政治动荡。美国人仍将生活得非常好，实际上由于经济增长甚至会比现在更好。但一想到要永远向海外的债权人和资产所有者缴纳"贡金"，他们就会满腹怨气。一个正在追求建设"所有权社会"的国家，不会在——请允许我夸张一下以示强调——"佃农社会"中找到幸福感。然而这恰恰正是共和党和民主党一致支持的贸易政策，正带领我们前进的方向。
+\* Includes interest earned by Berkshire (net of related income taxes) of $110 in 2004 and $118 in 2003.
 
-美国政府内外的许多重量级财经人物都声称，目前的经常账户赤字无法持续下去。例如，2004年6月29-30日美联储公开市场委员会的会议纪要中写道："幕僚指出，过大的外部赤字不可能无限期地维持下去。"但尽管这些大人物们不断忧心忡忡地搓着手，他们却拿不出什么实质性的建议来遏制日益膨胀的失衡。
+:::
 
-在我16个月前为《财富》杂志撰写的文章中，我曾警告"温和的美元贬值解决不了问题"。到目前为止确实如此。然而政策制定者们仍然寄希望于"软着陆"，同时劝告其他国家刺激（请读作"通胀"）它们的经济，劝告美国人多存钱。在我看来，这些忠告都没有切中要害：深层次的结构性问题将导致美国继续维持巨额经常账户赤字，除非贸易政策发生根本性的改变，或者美元贬值到足以令金融市场惊慌失措的程度。
+:::lang chs
 
-维持贸易现状的支持者喜欢引用亚当·斯密 (Adam Smith) 的话："如果每个家庭的做法都审慎无误，那么整个国家的方向就错不了。如果外国能比我们自己更便宜地提供某种商品，不如用我们在具有优势领域生产的部分产品去购买。"
+\* 包含伯克希尔赚取的利息收入（已扣除所得税），2004 年 1.1亿美元，2003 年为 1.18 亿美元。
 
-我同意这段话。但请注意，斯密先生说的是产品换产品的贸易，而非像我们国家目前每年以6,000亿美元的规模所做的那样——用财富换产品。而且我确信，他绝不会建议一个"审慎"的家庭每天变卖一部分农场来资助其过度消费的习惯。然而，这个叫美利坚合众国的"大家庭"正在这么做。
+:::
 
-如果美国目前拥有的是6,000亿美元的经常账户顺差，全世界的评论家都会猛烈抨击我们的政策，将其视为极端形式的"重商主义"——一种早已被否定的经济战略：鼓励出口、抑制进口、囤积财富。我也会谴责这种政策。但事实上，即便并非出于本意，世界其他国家正在对美国实行重商主义——而这之所以可能，是因为我们有大量的资产储备和无瑕的信用记录。确实，除了美国，世界绝不会允许任何其他国家以我们目前这种贪得无厌的程度使用以本国货币计价的信用卡。目前，大多数外国投资者还颇为乐观：他们可能觉得我们是花钱如流水的败家子，但他们知道我们是极其富有的败家子。
+## Insurance 保险业务
 
-然而，我们这种挥霍无度的行为不可能被无限期地容忍。虽然无法预测贸易问题将在何时以何种方式得到解决，但解决方案不太可能导致我们的货币相对于贸易伙伴的货币升值。
+:::lang eng
 
-我们希望美国采取能够迅速且大幅削减经常账户赤字的政策。诚然，一个快速的解决方案可能会导致伯克希尔在外汇合约上录得损失。但伯克希尔的资源仍然集中在以美元计价的资产上，强势美元和低通胀的环境完全符合我们的利益。
+Since Berkshire purchased National Indemnity ("NICO") in 1967, property-casualty insurance has been our core business and the propellant of our growth. Insurance has provided a fountain of funds with which we've acquired the securities and businesses that now give us an ever-widening variety of earnings streams. So in this section, I will be spending a little time telling you how we got where we are.
 
-如果你想持续跟踪贸易和汇率问题，建议阅读《金融时报》(Financial Times)。这份伦敦出版的报纸长期以来一直是每日国际财经新闻的领先信息源，现在还有出色的美国版。它在贸易方面的报道和评论都堪称一流。
+:::
 
-话说回来，照例还是要提醒大家：宏观经济是个极难的游戏，包括查理和我在内，很少有人在这方面展现出真正的本事。我们在汇率上的判断很可能是错的。（事实上，如今有这么多专家跟着预测美元走弱，反而让我们感到不安。）如果我们真的错了，那可就丢人丢到公开场合了。讽刺的是，如果我们选择相反的做法——把伯克希尔所有的资产都留在美元上，即使美元的价值大幅缩水——也不会有人注意到我们的错误。
+:::lang chs
 
-约翰·梅纳德·凯恩斯 (John Maynard Keynes) 在他的巨著《通论》(The General Theory) 中说过："普世的智慧告诉我们，循规蹈矩地失败比标新立异地成功对声誉更好。"（或者，用不那么文雅的话说，旅鼠作为一个物种可以被嘲笑，但单独一只旅鼠绝不会挨骂。）从声誉的角度看，查理跟我在外汇上的做法确实承受着明显的风险。但我们坚持按照自己100%拥有伯克希尔的心态来管理它。如果真是那样的话，我们不会只把钱放在美元资产上。
+自从伯克希尔在 1967 年买下国民保险公司（NICO）之后，财产险便成为我们的核心业务之一，更是促使不断成长的动力来源，保险业使我们取得源源不绝的资金进行投资与并购，让伯克希尔的盈利来源更多更广，所以在接下来的这一段中，我会花一点时间告诉大家我们是如何做到的。
 
-之后其他大专院校也纷纷来访。这个学年，我们将接待来自芝加哥、达特茅斯（塔克商学院）、特拉华州立、佛罗里达州立、印第安纳、爱荷华、爱荷华州立、马里兰、内布拉斯加、西北拿撒勒、宾夕法尼亚（沃顿商学院）、斯坦福、田纳西、得克萨斯、得克萨斯A&M、多伦多（罗特曼商学院）、联合大学和犹他等学校的班级，每班30到100人不等。大多数学生是MBA候选人，他们的素质给我留下了深刻的印象。他们对商业和投资兴趣浓厚，但从他们提的问题可以看出，赚钱并不是他们心中唯一的事。每次与他们见面后，我的心情都很好。
+:::
 
-在交流时，我会给新来的同学讲田纳西那群学生发现克莱顿公司的故事。我这么做的精神就像那个农夫，拿着一颗鸵鸟蛋走进鸡舍，告诫自家母鸡："姑娘们，我不想抱怨什么，但这只是竞争对手的一个小样本。"到目前为止，这些新同学还没有给我们带来什么交易。不过他们的使命已经被我说得很清楚了。
+:::lang eng
 
-我们购买保单时，原持有人的健康状况通常良好。尽管如此，我们支付的价格总是远高于保单的现金退保价值（CSV）。有时原持有人已经用CSV做了抵押借款来支付保费。在这种情况下，剩余的CSV很少，而我们的[[收购|收购]]价是原持有人自行退保所能拿到的金额的许多倍。
+The source of our insurance funds is “float,” which is money that doesn't belong to us but that we temporarily hold. Most of our float arises because (1) premiums are paid upfront though the service we provide -- insurance protection -- is delivered over a period that usually covers a year and; (2) loss events that occur today do not always result in our immediately paying claims, because it sometimes takes many years for losses to be reported (asbestos losses would be an example), negotiated and settled. The $20 million of float that came with our 1967 purchase has now increased -- both by way of internal growth and acquisitions -- to $46.1 billion.
 
-按照会计准则，我们在购买保单时必须立即将超出CSV的支付金额记为已实现资本损失。此外，每年我们还必须就支付的续期保费超出CSV增加额的部分追加费用。但显然，我们不认为这些会计记录代表真正的经济损失。如果我们这样认为，就不会去买这些保单了。
+:::
 
-2004年，我们因购买保单（以及维持保单所需支付的保费）净"亏损"了2.07亿美元，在损益表中从已实现投资收益中扣减（列在"其他"项下）。未来当我们收到保险理赔金时，超出当时CSV的部分将被记为已实现投资收益。
+:::lang chs
 
-第二项改革是"检举热线"——一种让员工可以直接向我和董事会审计委员会提供信息而不用担心遭到报复的渠道。伯克希尔极端分权化的管理模式使这一制度对我和审计委员会都格外宝贵。（在一个拥有18万员工的庞大"城市"里——这是伯克希尔目前的雇员人数——不是每只掉下来的麻雀都能被总部注意到的。）我们收到的大多数投诉属于"我旁边那家伙有口臭"之类，但偶尔我也从中了解到子公司的一些重要问题，否则就会被我错过。这些问题通常不是审计能发现的类型，而是涉及人事管理和业务操作。如果几十年前我就设立了检举热线，伯克希尔今天会更有价值。
+保险公司的资金来源在于浮存金，这笔资金虽然不属于我们所有，但却可暂时为我们所用，而我们的浮存金之所以增加系由于（1）保费通常在我们提供服务之前就先收取，（2）今天发生的损失不代表我们立刻就要理赔，其原因在于损害有时要在发生后好几年才会被发现，从而协调及和解（比如说石棉案就是很好的例子），这笔浮存金从 1967 年最早的 2,000 万美元，经由多年的内部成长及对外并购，累积增加至如今的 461 亿美元之巨。
 
-然而到目前为止，机构投资者的行动可谓乏善可陈。通常他们纠结于细枝末节，却忽略了三个真正重要的问题。第一，公司的CEO是否称职？第二，他/她的薪酬是否过分？第三，拟议中的[[收购|收购]]究竟是在创造还是在毁灭每股价值？
+:::
 
-在这些问题上，CEO的利益很可能与股东的利益大相径庭。而且董事们有时缺乏足够的见识或胆量来否决CEO。因此，大股东们聚焦于这三个问题并在必要时大声发声，就显得至关重要。
+:::lang eng
 
-结果很多人只是按照一份"清单"来照本宣科地处理当前热点问题。去年我自己就成了这种做法的"受害者"。几位机构股东和他们的顾问认定，我作为[[可口可乐|可口可乐]] (Coca-Cola) 董事缺乏"独立性"。一个团体想把我从董事会赶走，另一个只想把我踢出审计委员会。
+Float is wonderful -- *if* it doesn't come at a high price. Its cost is determined by underwriting results, meaning how the expenses and losses we will ultimately pay compare with the premiums we have received. When an underwriting profit is achieved -- as has been the case at Berkshire in about half of the 38 years we have been in the insurance business - float is better than free. In such years, we are actually paid for holding other people's money. For most insurers, however, life has been far more difficult: In aggregate, the property-casualty industry almost invariably operates at an underwriting loss. When that loss is large, float becomes expensive, sometimes devastatingly so.
 
-我的第一反应是偷偷资助第二个团体。谁会想待在审计委员会里，这我真想不通。但既然董事总得被分配到某个委员会，而没有哪个CEO希望我待在他的薪酬委员会里，所以被派到审计委员会就常常是我的命运。结果那些反对我的机构没有成功，我还是被留在了审计委员会的岗位上。（我忍住了要求重新计票的冲动。）
+:::
 
-有些机构质疑我的"独立性"，理由之一是麦克莱恩 (McLane) 和[[冰雪皇后|冰雪皇后]] (Dairy Queen) 购买大量可口可乐产品。（他们难道想让我们改买百事可乐？）但独立性在韦氏词典中的定义是"不受他人控制"。我实在想不通，当天平的另一边是伯克希尔持有的80亿美元可口可乐股票时，怎么会有人得出结论说我们购买可口可乐产品会"控制"我的决策。假设我还算有那么一丁点理性的话，最基本的算术就应该能说明，我的心是站在可口可乐的股东这边，而不是它的管理层那边。
+:::lang chs
 
-我忍不住要提一句，在独立性这件事上，耶稣比那些抗议的机构看得透彻得多。在《马太福音》6:21中，他说过："你的财宝在哪里，你的心也在那里。"即便对机构投资者来说，80亿美元也绝对称得上"财宝"，远远盖过伯克希尔与[[可口可乐|可口可乐]]之间日常交易所能赚取的利润。
+浮存金固然不错，但前提是取得成本要够低，而其成本取决于承保绩效，也就是赔付损失与经营费用占保费收入的比例，当承保盈利时，就像伯克希尔过去 38 年来多数的情况一样，此时浮存金甚至比免费还好，在这些年度，意味着别人付费来请我们帮他们保管资金，然而对于其它大部分的保险同业来说，可就没有那么好过了，总的来说，财产意外险业通常都会承保亏损，当损失过大时，就代表浮存金的成本过高，有时甚至高得离谱。
 
-以圣经的标准衡量，伯克希尔的董事会堪称模范：（a）每位董事的家族都持有至少400万美元的伯克希尔股票；（b）这些股份没有任何是通过期权或赠与从伯克希尔获得的；（c）没有董事从公司领取的委员会费、顾问费或董事费占其年收入的重要比例；（d）虽然我们有标准的公司赔偿安排，但我们不为董事购买责任保险。
+:::
 
-在伯克希尔，董事们与股东走在同一条路上。
+:::lang eng
+
+Insurers have generally earned poor returns for a simple reason: They sell a commodity-like product. Policy forms are standard, and the product is available from many suppliers, some of whom are mutual companies (“owned” by policyholders rather than stockholders) with profit goals that are limited. Moreover, most insureds don't care from whom they buy. Customers by the millions say "I need some Gillette blades" or “I'll have a Coke" but we wait in vain for “I'd like a National Indemnity policy, please.” Consequently, price competition in insurance is usually fierce. Think airline seats.
+
+:::
+
+:::lang chs
+
+保险业者的绩效之所以不好的原因其实很简单，他们销售的是同质化的商品。保单多属制式而且许多保险业者都提供相同的产品，有些甚至以互助的方式经营（公司系由保户而非股东所拥有），所以利润空间相当有限，以至于大部分的投保人根本就不在乎保单是向谁购买的。大部分的消费者或许会说“我要买吉列的刮胡刀”、“我要买可口可乐”，但绝对不会有人说“给我来份国民保险的保单”，也因此价格竞争在保险业界可说是相当的激烈的，看看航空公司的票价就知道是怎么回事了。
+
+:::
+
+:::lang eng
+
+So, you may ask, how do Berkshire's insurance operations overcome the dismal economics of the industry and achieve some measure of enduring competitive advantage? We've attacked that problem in several ways. Let's look first at NICO's strategy.
+
+:::
+
+:::lang chs
+
+所以或许你会问，伯克希尔是如何摆脱产业普遍存在的劣势，同时保有持续的竞争优势的，我们从许多方面来克服这个问题，首先让我们来看看国民保险的策略。
+
+:::
+
+:::lang eng
+
+When we purchased the company-a specialist in commercial auto and general liability insurance -- it did not appear to have any attributes that would overcome the industry's chronic troubles. It was not well-known, had no informational advantage (the company has never had an actuary), was not a low-cost operator, and sold through general agents, a method many people thought outdated. Nevertheless, for almost all of the past 38 years, NICO has been a star performer. Indeed, had we not made this acquisition, Berkshire would be lucky to be worth half of what it is today.
+
+:::
+
+:::lang chs
+
+当我们买下该公司时，这是一家专门从事商用车险及一般责任险的公司，当时它显然并未拥有得以克服同业沉疴的特点，它的名气不够响亮，也没有任何信息上的优势（当时公司甚至没有精算师），营运成本也不是最低的，保单通过一般的中介销售，这在当时被视为落伍的做法，尽管如此，在往后的 38 年内，国民保险的表现却极为优异，我们可以这样说，当时要是我们没没吃下这家公司，伯克希尔的价值可能不及现在的一半。
+
+:::
+
+:::lang eng
+
+What we've had going for us is a managerial mindset that most insurers find impossible to replicate. Take a look at the facing page. Can you imagine *any* public company embracing a business model that would lead to the decline in revenue that we experienced from 1986 through 1999? That colossal slide, it should be emphasized, did not occur because business was unobtainable. Many billions of premium dollars were readily available to NICO had we only been willing to cut prices. But we instead consistently priced to make a profit, not to match our most optimistic competitor. We never left customers -- but they left us.
+
+:::
+
+:::lang chs
+
+我们所做的是一般保险业者绝对无法复制的一种管理思维，请大家看下表，大家肯定没有看过有公司可以忍受营收连续十多年（1986年-1999年）持续下滑的经营模式，我必须强调，那种大幅度下滑的原因并不是没有生意可做，事实上，只要我们愿意降点价格，马上就会有几十亿美元的保单上门，但国民保险宁可坚持有利润承保，也不愿为了营收与同业随波逐流，我们从来不弃客户于不顾，是客户主动离开我们。
+
+:::
+
+:::lang eng
+
+Most American businesses harbor an "institutional imperative" that rejects extended decreases in volume. What CEO wants to report to his shareholders that not only did business contract last year but that it will continue to drop? In insurance, the urge to keep writing business is also intensified because the consequences of foolishly-priced policies may not become apparent for some time. If an insurer is optimistic in its reserving, reported earnings will be overstated, and years may pass before true loss costs are revealed (a form of self-deception that nearly destroyed GEICO in the early 1970s).
+
+:::
+
+:::lang chs
+
+大部分的美国企业都怀有制度上的迫切需求——不愿看到营收大幅下滑，没有公司的 CEO 会愿意跟股东报告，去年不仅业务收缩，且将继续下滑。这在保险公司尤其明显，因为继续签发保单的愚昧的后果，可能要等上好长一段时间才会被发现，如果保险业者对于提列准备金过于乐观，那么帐面的收益便可能被夸大，而真正的损失可能要等好几个年头才会浮现（就是这种自欺欺人的技俩让 GEICO 在 1970 年代差点倒闭）。
+
+:::
+
+:::lang eng
+
+**Portrait of a Disciplined Underwriter**
+
+:::
+
+:::lang chs
+
+**严谨的承保人肖像**
+
+:::
+
+:::lang eng
+
+**National Indemnity Company**
+
+:::
+
+:::lang chs
+
+**国民保险公司**
+
+:::
+
+:::lang common
+
+Year</br>年份|Written Premium (In $ millions)</br>保费收入（百万美元）|No. of Employees at Year-End</br>年末雇员|Ratio of Operating Expenses to Written Premium</br>承保费用率|Underwriting Profit (Loss) as a Percentage of Premiums (Calculated as of year end 2004)\*</br>承保利润率（截至2004年底）
+---|---:|---:|---:|---:
+1980|$ 79.6|372|32.3%|8.2%
+1981|59.9|353|36.1%|(.8%)
+1982|52.5|323|36.7%|(15.3%)
+1983|58.2|308|35.6%|(18.7%)
+1984|62.2|342|35.5%|(17.0%)
+1985|160.7|380|28.0%|1.9%
+1986|366.2|403|25.9%|30.7%
+1987|232.3|368|29.5%|27.3%
+1988|139.9|347|31.7%|24.8%
+1989|98.4|320|35.9%|14.8%
+1990|87.8|289|37.4%|7.0%
+1991|88.3|284|35.7%|13.0%
+1992|82.7|277|37.9%|5.2%
+1993|86.8|279|36.1%|11.3%
+1994|85.9|263|34.6%|4.6%
+1995|78.0|258|36.6%|9.2%
+1996|74.0|243|36.5%|6.8%
+1997|65.3|240|40.4%|6.2%
+1998|56.8|231|40.4%|9.4%
+1999|54.5|222|41.2%|4.5%
+2000|68.1|230|38.4%|2.9%
+2001|161.3|254|28.8%|(11.6%)
+2002|343.5|313|24.0%|16.8%
+2003|594.5|337|22.2%|18.1%
+2004|605.6|340|22.5%|5.1%
+
+:::
+
+:::lang eng
+
+\* It takes a long time to learn the true profitability of any given year. First, many claims are received after the end of the year, and we must estimate how many of these there will be and what they will cost. (In insurance jargon, these claims are termed IBNR-incurred but not reported.) Second, claims often take years, or even decades, to settle, which means there can be many surprises along the way.
+
+:::
+
+:::lang chs
+
+\* 特定年度的获利情况通常需要很长一段时间以后才能知晓，其原因在于，首先，许多理赔申请通常要到年底才会提出，所以我们必须事先预估可能的数字，套句保险业的术语，这些理赔申请简称为 IBNR——发生但尚未申诉的案件，其次，理赔申请可能要好几年，有时甚至要数十年才能和解，其间可能横生许多波折。
+
+:::
+
+:::lang eng
+
+For these reasons, the results in this column simply represent our best estimate at the end of 2004 as to how we have done in prior years. Profit margins for the years through 1999 are probably close to correct because these years are “mature," in the sense that they have few claims still outstanding. The more recent the year, the more guesswork is involved. In particular, the results shown for 2003 and 2004 are apt to change significantly.
+
+:::
+
+:::lang chs
+
+基于以上几个原因，上表的这些数字，仅代表我们在 2004 年底所能估算的预估，如同以往年度一样，截至 1999 年的数字应该比较不会出错，因为那年以前的理赔申请案都已提出的差不多了，离现在越近的年度的数字，其估计的成份也就越大，尤其是最近两年，也就是 2003 年及 2004 年，日后大幅变化的可能性最大。
+
+:::
+
+:::lang eng
+
+Finally, there is a fear factor at work, in that a shrinking business usually leads to layoffs. To avoid pink slips, employees will rationalize inadequate pricing, telling themselves that poorly-priced business must be tolerated in order to keep the organization intact and the distribution system happy. If this course isn't followed, these employees will argue, the company will not participate in the recovery that they invariably feel is just around the corner.
+
+:::
+
+:::lang chs
+
+最后，有一项恐惧因子在其间作祟——业务萎缩通常会导致裁员。为了避免被炒鱿鱼，员工通常将保费不当定价的原因合理化，告诉自己降价以保存组织完整是可以被忍受的，如此整个营销系统都将皆大欢喜，如果不这样做，员工们会声称，一旦景气回暖，公司将无法参与即将到来的复苏。
+
+:::
+
+:::lang eng
+
+To combat employees' natural tendency to save their own skins, we have always promised NICO's workforce that *no one* will be fired because of declining volume, however severe the contraction. (This is not Donald Trump's sort of place.) NICO is not labor-intensive, and, as the table suggests, can live with excess overhead. It can't live, however, with underpriced business and the breakdown in underwriting discipline that accompanies it. An insurance organization that doesn't care deeply about underwriting at a profit *this* year is unlikely to care *next* year either.
+
+:::
+
+:::lang chs
+
+为了抵挡员工自保的天性，我们一再承诺，国民保险不会因为业务萎缩而裁员，这儿可跟唐纳德·特朗普那里不一样，国民保险不是劳力密集型公司，而正如上表所示，我们可以忍受额外的管理费用，但却绝不能忍受不当的定价，以及随之而来崩溃的核保纪律。因为现在不在乎核保利润的保险公司，以后也不可能会在乎。
+
+:::
+
+:::lang eng
+
+Naturally, a business that follows a no-layoff policy must be especially careful to avoid overstaffing when times are good. Thirty years ago Tom Murphy, then CEO of Cap Cities, drove this point home to me with a hypothetical tale about an employee who asked his boss for permission to hire an assistant. The employee assumed that adding $20,000 to the annual payroll would be inconsequential. But his boss told him the proposal should be evaluated as a $3 million decision, given that an additional person would probably cost at least that amount over his lifetime, factoring in raises, benefits and other expenses (more people, more toilet paper). And unless the company fell on very hard times, the employee added would be unlikely to be dismissed, however marginal his contribution to the business.
+
+:::
+
+:::lang chs
+
+当然采取不裁员态度的企业，一定要避免在景气好时人员过剩，30 年前当时大都会 CEO 汤姆·墨菲用一个假想的小故事向我阐述了这一点，话说有位员工要求老板新增一个人力，这位员工认为公司一年增加 2 万美元的薪水开支没什么大不了，但他的老板却提醒他，考虑到加薪福利和其他费用（人越多用厕纸越多），因此要把它当做一个 300 万美元的提案一般慎重，因为除非公司真的快经营不下去了，否则这位员工将很难会被解雇，不管他对公司的贡献有多微薄。
+
+:::
+
+:::lang eng
+
+It takes real fortitude -- embedded deep within a company's culture -- to operate as NICO does. Anyone examining the table can scan the years from 1986 to 1999 quickly. But living day after day with dwindling volume-while competitors are boasting of growth and reaping Wall Street's applause -- is an experience few managers can tolerate. NICO, however, has had four CEOs since its formation in 1940 and *none* have bent. (It should be noted that only one of the four graduated from college. Our experience tells us that extraordinary business ability is largely innate.)
+
+:::
+
+:::lang chs
+
+当然，要让像国民保险这样的文化，深植在公司的企业文化之中，必须要耗费相当大的功夫，看过这张表的人可以特别注意 1986 年到 1999 年的数字，很少有经理人可以默默忍受业务日渐下滑，特别是当其它竞争同业因为业绩大增而受到华尔街分析师的掌声之时，然而国民保险自 1940 年创立以来的四任总裁却没有一位屈服，特别要说明的是，这四位总裁只有一位拥有大学学历，经验告诉我们，非凡的商业能力大多是天生的。
+
+:::
+
+:::lang eng
+
+The current managerial star -- make that superstar -- at NICO is Don Wurster (yes, he's “the graduate"), who has been running things since 1989. His slugging percentage is right up there with Barry Bonds' because, like Barry, Don will accept a walk rather than swing at a bad pitch. Don has now amassed $950 million of float at NICO that over time is almost certain to be proved the negative-cost kind. Because insurance prices are falling, Don's volume will soon decline very significantly and, as it does, Charlie and I will applaud him ever more loudly.
+
+:::
+
+:::lang chs
+
+现任国民保险的管理明星是 Don Wurster，姑且称他为超级巨星（没错，拥有大学文凭的就是他），自 1989 年起便接掌该公司，他的打击率可以媲美 Barry Bonds，因为跟 Bonds 一样，Don 宁愿选择保送，也不会对着坏球挥棒，总计到现在他已为我们累积了 9.5 亿美元的浮存金，而且几乎可以说是没有成本的，而由于目前的保费水准有下滑的趋势，所以国民保险的业务很可能会再度大幅下滑，关于这点，查理跟我百分之百支持他。
+
+:::
 
 ---
 
-根据我们丰富的董事会经验，查理跟我见过许多印证圣经"财宝"观点的行为。在我们看来，最不独立的董事很可能是那些年收入中有重要部分来自董事酬劳的人（他们还希望被推荐去其他公司的董事会任职，从而进一步增加收入）。然而，恰恰是这些人最常被归类为"独立"董事。
+:::lang eng
 
-这类董事大多是体面的人，本职工作也干得不错。但如果面对可能威胁其生计的行动而毫不动心，那就不是凡人了。有些人确实会屈服于这种诱惑。
+Another way to prosper in a commodity-type business is to be the low-cost operator. Among auto insurers operating on a broad scale, GEICO holds that cherished title. For NICO, as we have seen, an ebb-and-flow business model makes sense. But a company holding a low-cost advantage must pursue an unrelenting foot-to-the-floor strategy. And that's just what we do at GEICO.
 
-让我用一个基于间接证据的例子来说明。我有第一手资料知道最近的一桩收购提案（不是伯克希尔的），[[管理层|管理层]]赞成，公司的投资银行也已祝福，准备以高于该股票近年来（以及目前）市场交易价格的价格推进。此外，好几位董事也赞成这笔交易，想要将其提交股东表决。
+:::
 
-然而，他们的几位同僚——每人每年从公司领取约10万美元的董事会和委员会酬劳——却把这项提案给搅黄了，这意味着股东们始终不知道有这么一个数十亿美元的报价存在。非[[管理层|管理层]]董事几乎没有自掏腰包买过股票，持有的极少数股份也是公司赠与的。近年来他们在公开市场的买入微乎其微，尽管股价远低于拟议的收购价。换句话说，这些董事不想让股东们接受X价格的报价，而他们自己却一直拒绝以X的零头为自己的账户买入该股票。
+:::lang chs
 
-我不知道是哪些董事反对让股东们看到这个报价。但我知道，那10万美元对其中一些被视为"独立"的董事来说，是年收入的重要部分——完全符合《马太福音》6:21中"财宝"的定义。如果这笔交易成了，他们的酬劳就到头了。
+商品型的企业另一项生存之道就是，成为低成本经营者。在众多车险业者当中，GEICO 无疑荣获桂冠，至于周期起伏的国民保险，则是另外一种路遥知马力类型，但追求低成本的企业，必须努力不懈至始至终的维持成本优势，而 GEICO 正是如此。
 
-股东们和我都不会知道那些反对者的真正动机。事实上，由于私利不可避免地模糊了自我审视，他们自己大概也不清楚。但有一件事我们知道：就在否决这笔交易的同一次董事会上，董事们投票给自己大幅加了薪。
+:::
 
-我附上了一篇我为《[[华盛顿邮报|华盛顿邮报]]》(The Washington Post) 撰写的评论文章，其中描述了去年夏天在众议院以312票对111票通过的一项令人瞠目结舌的法案。多亏参议员理查德·谢尔比 (Richard Shelby) 的阻挡，参议院没有批准众议院的这一愚蠢行为。而更值得称赞的是，证监会 (SEC) 以投资者利益为先的主席比尔·唐纳森 (Bill Donaldson) 在巨大的政治压力下岿然不动——那些挥舞着政治献金支票的CEO们在1993年就对期权会计问题向国会施压过，去年不过是故技重施而已。
+:::lang eng
 
-由于把期权问题搅浑的企图仍在继续，有必要指出，没有人——无论是FASB、一般投资者还是我——主张以任何方式限制期权的使用。事实上，我在伯克希尔的继任者很可能会通过期权获得大部分薪酬，不过这些期权在设计上必须合乎逻辑：（1）适当的执行价格；（2）执行价格应随[[留存收益|留存收益]]的增长而相应调升；（3）禁止获得者在通过期权购入股票后迅速处置。我们赞成任何能激励管理层的安排，不管是现金奖金还是期权。如果一家公司确实从发出的期权中获得了价值，我们看不出有什么理由仅仅因为要把期权成本记入费用就减少其使用。
+A century ago, when autos first appeared, the property-casualty industry operated as a cartel. The major companies, most of which were based in the Northeast, established “bureau" rates and that was it. No one cut prices to attract business. Instead, insurers competed for strong, well-regarded agents, a focus that produced high commissions for agents and high prices for consumers.
 
-事实真相很简单：某些CEO心知肚明，一旦期权费用化，他们自己的薪酬将面临更理性的审视。他们还怀疑，如果采用实事求是的会计方法，公司的股价会更低，这意味着他们抛售个人持股时套现的金额也会减少。对这些CEO来说，这些不愉快的前景是必须用尽一切手段来对抗的——尽管他们在这场战斗中使用的资金通常不属于他们自己，而是来自股东。
+:::
 
-期权费用化定于今年6月15日起强制实行。因此大家可以预期，从现在到那时，阻挠或阉割这一规则的努力会愈演愈烈。请让你们选区的国会议员和参议员知道你们在这个问题上的立场。
+:::lang chs
 
-今年的年度会议有两项变化。首先，我们把会议安排在4月的最后一个周六（30日），而不是通常的5月第一个周六。今年母亲节恰好是5月8日，在那个特殊的日子让[[波仙珠宝|波仙珠宝]]和Gorat's牛排馆的员工来为我们服务实在说不过去——所以我们把一切提前了一周。明年我们将恢复正常安排，在2006年5月6日举行。
+一百年前，当汽车首次问世，财产意外险业是个垄断的行业，位于东北部的几家最主要的公司，订立了统一的费率，且完全不二价，没有人会杀价竞争，保险业者所竞逐的是实力强大备受好评的中介代理商，此举造成了代理商的高佣金，以及消费者的高费率。
 
-此外，我们改变了会议当天4月30日的流程安排。跟往常一样，Qwest中心的大门早上7点开放，电影短片8点半播放。不过9点半我们将直接进入问答环节，一直持续到下午3点（午餐可在Qwest的餐饮摊位解决）。然后短暂休息后，查理跟我将在3点15分召开正式股东大会。
+:::
 
-我们之所以做此改变，是因为去年有不少股东抱怨，两位发言人提出了大多数人不感兴趣的议案，却占用了大量时间——他们无疑是在享受面对约19,500人的"俘虏听众"发言的机会。按照新流程，想全程参与的股东可以留到正式会议结束，不想的可以提前离场——或者更好的选择是去购物。
+:::lang eng
 
-旁边巨大的展览厅里有大把购物的机会。凯莉·穆切莫尔 (Kelly Muchemore)，伯克希尔的弗洛·齐格菲尔德（百老汇演出大亨），去年组织了一场盛大的购物盛会，她说那只是今年的热身。（我很高兴地向大家报告，凯莉10月份结婚了。我担任她的婚礼送亲人，还建议她创造一段历史，在股东大会上举行婚礼。可惜查理坚持要当花童，她不干了。）
+In 1922, State Farm was formed by George Mecherle, a farmer from Merna, Illinois, who aimed to take advantage of the pricing umbrella maintained by the high-cost giants of the industry. State Farm employed a “captive” agency force, a system keeping its acquisition costs lower than those incurred by the bureau insurers (whose "independent" agents successfully played off one company against another). With its low-cost structure, State Farm eventually captured about 25% of the personal lines (auto and homeowners) business, far outdistancing its once-mighty competitors. Allstate, formed in 1931, put a similar distribution system into place and soon became the runner-up in personal lines to State Farm. Capitalism had worked its magic, and these low-cost operations looked unstoppable.
 
-我们将再次展示一套2,100平方英尺的克莱顿预制房屋（配备Acme砖块、Shaw地毯、Johns Manville隔热材料、MiTek连接件、Carefree遮阳篷和[[内布拉斯加家具店|内布拉斯加家具店]]的家具）。欢迎参观。最好顺便买一套。
+:::
 
-[[盖可保险|盖可保险]] (GEICO) 将设立展位，由来自全国各地的多位顶尖顾问驻场，随时为大家提供汽车保险报价。在大多数情况下，GEICO可以给你一个特别的股东折扣（通常为8%）。在我们经营的50个州中，有45个州允许这一特惠。请带上你现有保险的详细资料，看看我们能不能帮你省点钱。
+:::lang chs
 
-周六在奥马哈机场，NetJets将照例展出一系列飞机供大家参观。请到Qwest中心的NetJets展位了解参观事宜。来的时候坐大巴，走的时候开新飞机。
+1922 年，伊利诺伊州 Merna 市的农场主 George Mecherle 创立了州立农业保险公司（State Farm），目标锁定在打破业界高成本巨头所建立的高价格同盟，州立农业保险雇用专属代理人团队，这一体系让他取得保单的成本远低于一般保险同业，其独立的代理商接二连三成功地干翻了其它业者，拜其低成本结构所赐，最终获取了 25% 的个人业务份额（含车险及住宅险在内），远远超越昔日强大的竞争对手，而创立于 1931 年的 Allstate 保险公司也仿效他们，设立类似的营销渠道，并一举跃居第二，仅次于州立农业保险公司，资本主义再度发挥神奇的效用，而这种低成本的营运确已势不可挡。
 
-书虫书店 (Bookworm) 去年销售伯克希尔相关书籍的生意相当火爆。展出18种书目，共售出2,920册，销售额61,000美元。因为我们不收租金（我一定是越来越心软了），所以股东们买书可享八折优惠。今年我特地请书虫增加了格雷厄姆·艾利森 (Graham Allison) 的《核恐怖主义：可预防的终极灾难》(Nuclear Terrorism: The Ultimate Preventable Catastrophe)，这是所有关心国家安全的人的必读之作。此外，书店还将首发彼得·考夫曼 (Peter Kaufman) 编著的《穷查理宝典》(Poor Charlie's Almanack)。长期以来，学者们一直在争论查理是否是本杰明·富兰克林 (Ben Franklin) 的转世。这本书应该能给出答案。
+:::
 
-随附的委托书材料中附有说明，告诉大家如何获取出席会议和其他活动所需的凭证。至于机票、酒店和租车预订，我们再次委托[[美国运通|美国运通]] (American Express)（电话800-799-6634）为大家提供专项服务。他们每年都为我们提供出色的服务，在此向他们表示感谢。
+:::lang eng
 
-在位于第72街道奇街与太平洋街之间、占地77英亩的[[内布拉斯加家具店|内布拉斯加家具店]] (Nebraska Furniture Mart)，我们将再次推出"伯克希尔周末"特惠价。这项特别活动我们八年前在NFM首次推出，"周末"销售额从1997年的530万美元增长到2004年的2,510万美元（比上年增长45%）。年年都刷新纪录，去年的周六更是创下了NFM历史上的单日销售纪录——610万美元。
+But a man named Leo Goodwin had an idea for an even more efficient auto insurer and, with a skimpy $200,000, started GEICO in 1936. Goodwin's plan was to eliminate the agent entirely and to deal instead directly with the auto owner. Why, he asked himself, should there be any unnecessary and expensive links in the distribution mechanism when the product, auto insurance, was both mandatory and costly. Purchasers of business insurance, he reasoned, might well require professional advice, but most consumers knew what they needed in an auto policy. That was a powerful insight.
 
-要享受折扣，你的购买时间必须在4月28日周四至5月2日周一之间（含），同时需要出示股东会凭证。特惠期间的特别定价甚至适用于几家通常铁律不打折的顶级[[品牌|品牌]]的产品——它们本着我们股东周末的精神破例为你们开恩。我们感谢它们的配合。NFM周一至周六的营业时间为上午10点至晚上9点，周日为上午10点至下午6点。今年周六从下午5点半到晚上8点，我们将举办一场仅限股东参加的特别活动。我会到场，吃着烤肉喝着可乐。
+:::
 
-[[波仙珠宝|波仙珠宝]] (Borsheim's)——全美最大的单体珠宝店，仅次于蒂芙尼 (Tiffany) 的曼哈顿旗舰店——将举办两场股东专享活动。第一场是4月29日周五下午6点到晚上10点的鸡尾酒招待会。第二场也是主要的盛会，是5月1日周日上午9点到下午4点。周六营业到下午6点。
+:::lang chs
 
-整个周末波仙都会人山人海。为了方便大家，股东特惠价将从4月25日周一延续到5月7日周六。在此期间，只需通过股东会凭证或券商对账单证明股东身份即可享受优惠。
+但此时有一个叫 Leo Goodwin 却有一个更有效率的想法，他在 1936 年以区区的 20 万美元创立 GEICO，Goodwin 计划完全淘汰代理商，而直接与车主接触（直销）。他认为汽车保险既是强制性的且又昂贵不堪时，中间为什么一定要有昂贵且不必要的代理销售机制。他认为商业保险的客户或许需要许多专业上的建议，但大多数的顾客都知道自己需要什么样的车险保单。这在当时真是真知灼见。
 
-波仙的毛利率比主要竞争对手整整低了20个百分点以上，还没算上股东折扣。去年周末的销售额比2003年增长了73%，又创了一个不容易被打破的纪录。各位加把劲，让我看看行不行。
+:::
 
-在波仙外面搭的帐篷里，两届美国国际象棋冠军帕特里克·沃尔夫 (Patrick Wolff) 将蒙着眼同时与六人对弈，挑战所有来者。此外，两位世界顶级桥牌高手鲍勃·哈曼 (Bob Hamman) 和莎伦·奥斯伯格 (Sharon Osberg) 将在周日下午与股东们同乐。他们打算睁着眼——不过鲍勃从来不整理手上的牌，即便是在参加全国锦标赛时也是如此。
+:::lang eng
 
-Gorat's——我最爱的牛排馆——将在5月1日周日专门为伯克希尔股东开放，从下午4点营业到晚上10点。请记住，那天去Gorat's必须提前预订。预订请在4月1日打电话402-551-3733（不要更早）。如果周日订满了，试试你在城里的其他晚上。要展现你的老饕风范，就像我一样点一份三分熟的丁骨牛排配双份炸土豆饼。
+Originally, GEICO mailed its low-cost message to a limited audience of government employees. Later, it widened its horizons and shifted its marketing emphasis to the phone, working inquiries that came from broadcast and print advertising. And today the Internet is coming on strong.
 
-周六下午4点到5点半，我们将再次为来自北美以外地区的股东举办特别招待会。每年都有来自世界各地的人们参加我们的会议，查理跟我希望亲自迎接那些远道而来的人。去年我们很高兴见到了400多位海外股东，其中至少100位来自澳大利亚。任何来自美国和加拿大以外的股东都将获得参加这一活动的特别凭证和说明。
+:::
 
-查理跟我真是幸运。我们拥有自己热爱的工作，每天都有才华横溢、朝气蓬勃的同事从方方面面给予帮助。难怪我们每天都跳着踢踏舞去上班。但没有什么比和我们的股东合伙人在伯克希尔年会上相聚更令人开心的了。4月30日Qwest中心见，来参加我们一年一度的资本家伍德斯托克音乐节吧。
+:::lang chs
+
+一开始，GEICO 只是将其低价的讯息邮寄给少数的政府公务人员，之后又将范围扩大，并把销售重点摆在电话营销、广播及报章杂志渠道上，而时至今日，互联网渠道正在崛起。
+
+:::
+
+:::lang eng
+
+Between 1936 and 1975, GEICO grew from a standing start to a 4% market share, becoming the country's fourth largest auto insurer. During most of this period, the company was superbly managed, achieving both excellent volume gains and high profits. It looked unstoppable. But after my friend and hero Lorimer Davidson retired as CEO in 1970, his successors soon made a huge mistake by under-reserving for losses. This produced faulty cost information, which in turn produced inadequate pricing. By 1976, GEICO was on the brink of failure.
+
+:::
+
+:::lang chs
+
+从 1936 到 1975 这 40 年间，GEICO 稳定起步并发展到 4% 的市场占有率，成为全美第四大的汽车保险公司。大部分的时候，公司管理出色，营收与获利同步成长，看起来势不可挡，但直到该公司 CEO，同时也是我的好朋友 Davidson 在 1970 年宣布退休，情势随即起了变化，他的继任者犯下损失准备金提列不足的大错，此举大大扭曲了成本结构，进而导致不当的定价，1976 年，GEICO 已濒临倒闭。
+
+:::
+
+:::lang eng
+
+Jack Byrne then joined GEICO as CEO and, almost single-handedly, saved the company by heroic efforts that included major price increases. Though GEICO's survival required these, policyholders fled the company, and by 1980 its market share had fallen to 1.8%. Subsequently, the company embarked on some unwise diversification moves. This shift of emphasis away from its extraordinary core business stunted GEICO's growth, and by 1993 its market share had grown only fractionally, to 1.9%. Then Tony Nicely took charge.
+
+:::
+
+:::lang chs
+
+就在此时，Jack Byrne 加入 GEICO 担任 CEO，几乎是靠着一己之力，通过包含大幅调涨保费在内的努力拯救了公司，虽然这绝对是 GEICO 继续存活下去的必要之举，但客户却纷纷离去。到了 1980 年，市场占有率剧降至 1.8%，此时 GEICO 却又做出多元化的不智之举，这使得过去赖以成长的核心业务顿时失去了重心，1993 年该公司的市占率仅微微增加到 1.9%。一直到托尼·莱斯利（Tony Nicely）接手后，事情才有了改观。
+
+:::
+
+:::lang eng
+
+And what a difference that's made: In 2005 GEICO will probably secure a 6% market share. Better yet, Tony has matched growth with profitability. Indeed, GEICO delivers all of its constituents major benefits: In 2004 its customers saved $1 billion or so compared to what they would otherwise have paid for coverage, its associates earned a $191 million profit-sharing bonus that averaged 24.3% of salary, and its owner-that's us -enjoyed excellent financial returns.
+
+:::
+
+:::lang chs
+
+这有什么不一样：2005 年 GEICO 将获得 6% 的市场份额。更妙的是，托尼的增长和获利相匹配。事实上 GEICO 所有参与的成员皆同步受益：2004 年 GEICO 总计为保户节省了 10 亿美元的保费，员工领取了 1.91 亿美元的利润分享奖金，约占工资的 24.3%，至于股东们更获得了可观的投资回报。
+
+:::
+
+:::lang eng
+
+There's more good news. When Jack Byrne was rescuing the company in 1976, New Jersey refused to grant him the rates he needed to operate profitably. He therefore promptly-and properly -- withdrew from the state. Subsequently, GEICO avoided both New Jersey and Massachusetts, recognizing them as two jurisdictions in which insurers were destined to struggle.
+
+:::
+
+:::lang chs
+
+不仅如此，当 Jack 在 1976 年力图挽救 GEICO 之际，新泽西州拒绝其提高保险费率的提议，Jack 二话不说立刻退出该州的营运，之后 GEICO 又退出了马萨诸塞州，认定这两州监管机关的态度不利于保险业者的经营。
+
+:::
+
+:::lang eng
+
+In 2003, however, New Jersey took a new look at its chronic auto -- insurance problems and enacted legislation that would curb fraud and allow insurers a fair playing field. Even so, one might have expected the state's bureaucracy to make change slow and difficult.
+
+:::
+
+:::lang chs
+
+一直到 2003 年新泽西州终于开始正视其沉苛已久的车险市场，立法遏止保户骗保的行为，还给业者一个公平合理的经营环境。即便如此，人们还是预期该州的官僚主义作风会使得改革缓慢而困难重重。
+
+:::
+
+:::lang eng
+
+But just the opposite occurred. Holly Bakke, the New Jersey insurance commissioner, who would be a success in *any* line of work, was determined to turn the law's intent into reality. With her staff s cooperation, GEICO ironed out the details for re-entering the state and was licensed last August. Since then, we've received a response from New Jersey drivers that is multiples of my expectations.
+
+:::
+
+:::lang chs
+
+但恰恰相反，此时新泽西州优秀的保险官员 Holly Bakke 在任何行业都会成功，他毅然决定将法律意图变为现实。在他们工作人员的配合下，GEICO 敲定了重返新泽西市场的细节计划，并于去年八月顺利取得营运执照，之后所获得的保单数量远远超过我的预期。
+
+:::
+
+:::lang eng
+
+We are now serving 140,000 policyholders -- about 4% of the New Jersey market -- and saving them substantial sums (as we do drivers everywhere). Word-of-mouth recommendations within the state are causing inquiries to pour in. And once we hear from a New Jersey prospect, our closure rate -- the percentage of policies issued to inquiries received -- is far higher in the state than it is nationally.
+
+:::
+
+:::lang chs
+
+目前我们拥有 14 万的保户，约占该州市场 4%，且一如其它州一样，GEICO 为他们节省了可观的保费，口耳相传的引荐使得询问电话蜂拥而至，而且据报该州的保单通过率(承保数量/询问数量)远远高于全美平均的水平。
+
+:::
+
+:::lang eng
+
+We make no claim, of course, that we can save *everyone* money. Some companies, using rating systems that are different from ours, will offer certain classes of drivers a lower rate than we do. But we believe GEICO offers the lowest price more often than any other national company that serves all segments of the public. In addition, in most states, including New Jersey, Berkshire shareholders receive an 8% discount. So gamble fifteen minutes of your time and go to GEICO.com -- or call 800-847-7536 -- to see whether you can save big money (which you might want to use, of course, to buy other Berkshire products).
+
+:::
+
+:::lang chs
+
+当然我们无法保证所有人都可以在我们这里拿到最低的保费，因为各家保险公司的计费标准不尽相同，但我敢保证在所有大型的保险公司当中，GEICO 可以提供多数人最低廉的保费，此外，只要是伯克希尔的股东，包含新泽西在内，都可以享受 8% 的折扣，大家不妨花几分钟，去 GEICO 的公司网站，或打电话到 800-847-7536，问看看能不能省下一笔钱，（当然只要你喜欢，伯克希尔还有许多商品，任君选择）。
+
+:::
+
+---
+
+:::lang eng
+
+Reinsurance -- insurance sold to other insurers who wish to lay off part of the risks they have assumed -- should *not* be a commodity product. At bottom, any insurance policy is simply a promise, and as everyone knows, promises vary enormously in their quality.
+
+:::
+
+:::lang chs
+
+再保险是保险业者为分散自身承担风险，将业务出售给同业的一项机制，不应该是一种商品型产品。说到底，保单只不过是一纸承诺，关键在于是谁所发出，所以，承诺的质量千差万别。
+
+:::
+
+:::lang eng
+
+At the primary insurance level, nevertheless, just who makes the promise is often of minor importance. In personal-lines insurance, for example, states levy assessments on solvent companies to pay the policyholders of companies that go broke. In the business-insurance field, the same arrangement applies to workers' compensation policies. “Protected" policies of these types account for about 60% of the property-casualty industry's volume. Prudently-run insurers are irritated by the need to subsidize poor or reckless management elsewhere, but that's the way it is.
+
+:::
+
+:::lang chs
+
+至于对传统直接保险市场来说，谁做承诺就没有那么紧要，以个人险种来说，政府通常会向业者征收规费，用来支应倒闭业者付不出来的理赔金，至于商业险方面，工人赔偿保险也有类似的机制，这类具有防护机制的保险约占所有产险保单的 60%，虽然经营稳健的业者对于要被迫补贴经营不善的业者非常反感，但这行的游戏规则就是如此。
+
+:::
+
+:::lang eng
+
+Other forms of business insurance at the primary level involve promises that carry greater risks for the insured. When Reliance Insurance and Home Insurance were run into the ground, for example, their promises proved to be worthless. Consequently, many holders of their business policies (other than those covering workers' compensation) suffered painful losses.
+
+:::
+
+:::lang chs
+
+其它商业保险的形式包括承诺保险，对保户来说具有更高的风险，当信实保险（Reliance Insurance Co.成立于 1817 年，于 2001 年破产）与家庭保险公司（The Home Insurance Co.1991 年被 TVH 收购）破产时，他们的承诺最后被证实是空话，这使得许多保单持有者（不包括工伤赔偿险）蒙受痛苦的损失。
+
+:::
+
+:::lang eng
+
+The solvency risk in primary policies, however, pales in comparison to that lurking in reinsurance policies. When a reinsurer goes broke, staggering losses almost always strike the primary companies it has dealt with. This risk is far from minor: GEICO has suffered tens of millions in losses from its careless selection of reinsurers in the early 1980s.
+
+:::
+
+:::lang chs
+
+但这些履约风险跟再保险保单比起来根本就算不了什么，当再保险公司倒闭时，与其往来的保险公司将无一幸免遭受波及，这类的风险绝对不可等闲视之，GEICO 在 1980 年代便曾因为选择再保公司不慎而蒙受好几千万美元的损失。
+
+:::
+
+:::lang eng
+
+Were a true mega-catastrophe to occur in the next decade or two -- and that's a real possibility -- some reinsurers would not survive. The largest insured loss to date is the World Trade Center disaster, which cost the insurance industry an estimated $35 billion. Hurricane Andrew cost insurers about $15.5 billion in 1992 (though that loss would be far higher in today's dollars). Both events rocked the insurance and reinsurance world. But a $100 billion event, or even a larger catastrophe, remains a possibility if either a particularly severe earthquake or hurricane hits just the wrong place. Four significant hurricanes struck Florida during 2004, causing an aggregate of $25 billion or so in insured losses. Two of these -- Charley and Ivan -- could have done at least three times the damage they did had they entered the U.S. not far from their actual landing points.
+
+:::
+
+:::lang chs
+
+若是往后十年二十年内发生天大的灾难，这不是没有可能，可能会有一些再保险公司不支倒地，目前有史以来最大的损害当属 911 纽约世贸中心灾难，这场灾难给保险业带来了 350 亿美元损失。1992年的安德鲁飓风给保险业带来 155 亿美元损失居次，（虽然以今日的币值应不只此数），这两起灾害都曾震惊整个保险业和再保险业界。但若一场特别强烈的超级大地震或是大飓风袭击了错误的地方，1000 亿美元以上的灾害损失也不是没有可能，2004 年在佛罗里达发生的四起飓风，合计造成 250 亿美元的经济损失，其中两起飓风（Charley 和 Ivan）差一点就登陆进入美国境内造成三倍以上的损失。
+
+:::
+
+:::lang eng
+
+Many insurers regard a $100 billion industry loss as “unthinkable" and won't even plan for it. But at Berkshire, we are fully prepared. Our share of the loss would probably be 3% to 5%, and earnings from our investments and other businesses would comfortably exceed that cost. When “the day after” arrives, Berkshire's checks will clear.
+
+:::
+
+:::lang chs
+
+许多保险业者认为 1000 亿美元以上的理赔损失根本就不可能发生，但在伯克希尔，我们却未雨绸缪，我们承担的损失比例可能在 3-5%，我们每年从投资及其它业务所赚取的收益轻松覆盖这些损失，即便是当电影《浩劫之后》（The day after）的核爆事件真的发生，伯克希尔所开出的支票依旧能兑现。
+
+:::
+
+:::lang eng
+
+Though the hurricanes hit us with a $1.25 billion loss, our reinsurance operations did well last year. At General Re, Joe Brandon has restored a long-admired culture of underwriting discipline that, for a time, had lost its way. The excellent results he realized in 2004 on current business, however, were offset by adverse developments from the years before he took the helm. At NICO's reinsurance operation, Ajit Jain continues to successfully underwrite huge risks that no other reinsurer is willing or able to accept. Ajit's value to Berkshire is enormous.
+
+:::
+
+:::lang chs
+
+虽然我们为飓风损失了 12.5 亿美元，但总的来说，去年的再保业务表现甚佳，通用再保险 Joe Brandon 也恢复往日的承保纪律，然而他在 2004 年缴出的成绩，却被他接手之前所埋下的恶果所抵销，至于国民保险公司的再保险业务，阿吉特·贾恩持续成功地接下别人不敢接的超大风险保单，阿吉特可说是伯克希尔的无价之宝。
+
+:::
+
+---
+
+:::lang eng
+
+Our insurance managers, maximizing the competitive strengths I've mentioned in this section, again delivered first-class underwriting results last year. As a consequence, our float was better than costless. Here's the scorecard:
+
+:::
+
+:::lang chs
+
+我们的再保险经理人使得我们的竞争优势极大化，再度在去年缴出漂亮的成绩单，我们的浮存金成本甚至低于零，以下是他们的成绩单。
+
+:::
+
+:::lang common
+
+Insurance Operations</br>保险业务|Underwriting Profit 2004 (in $ millions)</br>2004年承保收益|Yearend Float 2004 (in $ millions)</br>2004年末浮存金|Yearend Float 2003 (in $ millions)</br>2003年末浮存金
+---|---:|---:|---:
+General Re</br>通用再保险|$ 3|$ 23,120|$ 23,654
+B-H Reinsurance</br>伯克希尔再保险|417|15,278|13,948
+GEICO</br>盖可保险|970|5,960|5,287
+Other Primary\*</br>其他直保\*|161|1,736|1,331
+Total</br>合计|$ 1,551|$ 46,094|$ 44,220
+
+:::
+
+:::lang eng
+
+\* Includes, in addition to National Indemnity, a variety of other exceptional insurance businesses, run by Rod Eldred, John Kizer, Tom Nerney and Don Towle.[^1]
+
+:::
+
+:::lang chs
+
+除国家赔偿公司外，还包括罗德·埃尔德里德（Rod Eldred）、约翰·基泽尔（John Kizer）、汤姆·纳尼（Tom Nerney）和唐·托尔（Don Towle）经营的其他各种出色的保险业务。[^1]
+
+:::
+
+:::lang eng
+
+Berkshire's float increased $1.9 billion in 2004, even though a few insureds opted to commute (that is, unwind) certain reinsurance contracts. We agree to such commutations only when we believe the economics are favorable to us (after giving due weight to what we might earn in the future on the money we are returning).
+
+:::
+
+:::lang chs
+
+2004 年伯克希尔的浮存金又增加了 19 亿美元，虽然也有少数几位客户在到期后倾向解约，但只有在对我们有利的情况之下，我们才接受解约，也就是必须先衡量我们将钱退回给客户后，未来将因此少赚的回报。
+
+:::
+
+:::lang eng
+
+To summarize, last year we were paid more than $1.5 billion to hold an average of about $45.2 billion. In 2005 pricing will be less attractive than it has been. Nevertheless, absent a mega-catastrophe, we have a decent chance of achieving no-cost float again this year.
+
+:::
+
+:::lang chs
+
+总言之，去年为了保管这 452 亿美元，我们额外获得了 15 亿美元的回报，展望 2005 年市场定价较不吸引人，尽管如此，只要不发生什么重大的天灾地变，我们预计可以再次实现无成本的浮存金。
+
+:::
+
+## Finance and Finance Products 金融和金融产品
+
+:::lang eng
+
+Last year in this section we discussed a potpourri of activities. In this report, we'll skip over several that are now of lesser importance: Berkadia is down to tag ends; Value Capital has added other investors, negating our expectation that we would need to consolidate its financials into ours; and the trading operation that I run continues to shrink.
+
+:::
+
+:::lang chs
+
+去年在这一部分，我们讨论了一系列业务，今年我们将一些比较不重要的省略掉，Berkadia 已接进尾声，Value Capital 也有新的投资者加入，降低其并入伯克希尔报表的必要性，至于我个人负责操刀的交易业务也持续萎缩。
+
+:::
+
+:::lang eng
+
+- Both of Berkshire's leasing operations rebounded last year. At CORT (office furniture), earnings remain in adequate, but are trending upward. XTRA disposed of its container and intermodal businesses in order to concentrate on trailer leasing, long its strong suit. Overhead has been reduced, asset utilization is up and decent profits are now being achieved under Bill Franz, the company's new CEO.
+
+:::
+
+:::lang chs
+
+- 伯克希尔旗下两项租赁业务去年有所起色，办公家具租赁 CORT 的收益虽依旧不佳，但已有好转，XTRA 出售了集装箱及联运业务，以专注于货柜拖车租赁的强项业务，在现任总裁 Bill Franz 的领导下，费用开支大幅减少，资产运用效率提高，获得了不错的利润。
+
+:::
+
+:::lang eng
+
+- The wind-down of Gen Re Securities continues. We decided to exit this derivative operation three years ago, but getting out is easier said than done. Though derivative instruments are purported to be highly liquid -- and though we have had the benefit of a benign market while liquidating ours -- we still had 2,890 contracts outstanding at yearend, down from 23,218 at the peak. Like Hell, derivative trading is easy to enter but difficult to leave. (Other similarities come to mind as well.)
+
+:::
+
+:::lang chs
+
+- 通用再保险证券业务的清盘动作仍在持续当中，我们在三年前决定退出这个市场，但要退出谈何容易。虽然衍生品理论上流动性颇高，且以目前温和的市场环境也有利于我们的退出，但截至年底，我们依然有 2,890 份合约缠身（高峰时有 23,218 份合约）。就像是地狱一样，衍生品市场易进难出，当然其它还有很多相似的地方。
+
+:::
+
+:::lang eng
+
+Gen Re's derivative contracts have always been required to be marked to market, and I believe the company's management conscientiously tried to make realistic “marks.”" The market prices of derivatives, however, can be very fuzzy in a world in which settlement of a transaction is sometimes decades away and often involves multiple variables as well. In the interim the marks influence the managerial and trading bonuses that are paid annually. It's small wonder that phantom profits are often recorded.
+
+:::
+
+:::lang chs
+
+通用再保险证券的衍生性金融合约要求随时以市价反应，而我也确信该公司的管理层已尽力做出反应现实的计价，但衍生品的市价却由于真正结算的时点可能要在几十年以后，而使得市价很难估算，同时还须仰赖非常多个变量，但以此为基础来计算的奖金却是每年发放，这也难怪虚幻的获利数字满天乱飞。
+
+:::
+
+:::lang eng
+
+Investors should understand that in all types of financial institutions, rapid growth sometimes masks major underlying problems (and occasionally fraud). The real test of the earning power of a derivatives operation is what it achieves after operating for an extended period in a no-growth mode. You only learn who has been swimming naked when the tide goes out.
+
+:::
+
+:::lang chs
+
+投资人必须了解在各种金融机构当中，快速成长通常蕴藏天大的问题，有时甚至是重大舞弊，要真正测试衍生品业务的获利能力，必须是在无成长的状态下运营一段时间看看结果。你只有在等潮退了才知道是谁在裸泳。
+
+:::
+
+:::lang eng
+
+- After 40 years, we've finally generated a little synergy at Berkshire: Clayton Homes is doing well and that's in part due to its association with Berkshire. The manufactured home industry continues to reside in the intensive care unit of Corporate America, having sold less than 135,000 new homes last year, about the same as in 2003. Volume in these years was the lowest since 1962, and it was also only about 40% of annual sales during the years 1995-99. That era. characterized by irresponsible financing and naive funders, was a fool's paradise for the industry.
+
+:::
+
+:::lang chs
+
+- 历经 40 年，伯克希尔终于展现出一点协同效应，Clayton 表现的相当不错，部分原因当然要归功于伯克希尔的加持，预制房屋行业目前仍处于 ICU 阶段，去年售出的新屋不超过 13.5 万套，与上一年大致持平，创 1962 年以来新低，约 90 年代高峰时的 40%，当时在不负责任业者的推波助澜下，达到前所未有的疯狂地步。
+
+:::
+
+:::lang eng
+
+Because one major lender after another has fled the field, financing continues to bedevil manufacturers, retailers and purchasers of manufactured homes. Here Berkshire's support has proven valuable to Clayton. We stand ready to fund whatever makes sense, and last year Clayton's management found much that qualified.
+
+:::
+
+:::lang chs
+
+由于主要的贷款人纷纷撤离这个市场，使得财务问题一直困扰着预制房屋厂商、零售商和消费者，此时伯克希尔的支持对 Clayton 来说，可谓久旱逢甘霖，只要合理，我们愿意随时提供资金，而一年下来，Clayton 也不负我们所望。
+
+:::
+
+:::lang eng
+
+As we explained in our 2003 report, we believe in using borrowed money to support profitable, interest-bearing receivables. At the beginning of last year, we had borrowed $2 billion to relend to Clayton (at a one percentage-point markup) and by January 2005 the total was $7.35 billion. Most of the dollars added were borrowed by us on January 4, 2005, to finance a seasoned portfolio that Clayton purchased on December 30, 2004 from a bank exiting the business.
+
+:::
+
+:::lang chs
+
+在 2003 年的年报中我就曾解释过，我们认为融资借钱来支应可收取利息的应收款项将有利可图，去年初我们转借 20 亿美元给 Clayton，并收取 1% 的利差，到 2005 年 1 月 4 日，这笔借款增加为 73.5 亿美元，主要是用于 Clayton 从一家 2004 年 12 月 30 日退出该业务的银行手中买下的应收款组合。
+
+:::
+
+:::lang eng
+
+We now have two additional portfolio purchases in the works, totaling about $1.6 billion, but it's quite unlikely that we will secure others of any significance. Therefore, Clayton's receivables (in which originations will roughly offset payoffs) will probably hover around $9 billion for some time and should deliver steady earnings. This pattern will be far different from that of the past, in which Clayton, like all major players in its industry, "securitized” its receivables, causing earnings to be front-ended. In the last two years, the securitization market has dried up. The limited funds available today come only at higher cost and with harsh terms. Had Clayton remained independent in this period, it would have had mediocre earnings as it struggled with financing.
+
+:::
+
+:::lang chs
+
+目前还有另外两笔应收款组合洽谈中，金额合计 16 亿美元，不过这大概是最后一笔大额的交易，所以 Clayton 帐上的应收款组合将会一直停留在 90 亿美元左右的水准，（新增的金额大约会被偿还的帐款所抵消），并持续贡献稳定的收益，这景况与业者过去习惯将应收帐款证券化刻意让收益提早实现的做法截然不同，过去两年，应收帐款证券化的市场几乎停摆，就算能取得资金，其利率与条件都相当严酷，如果 Clayton 依旧单打独斗，将只能维持惨淡的经营局面。
+
+:::
+
+:::lang eng
+
+In April, Clayton completed the acquisition of Oakwood Homes and is now the industry's largest producer and retailer of manufactured homes. We love putting more assets in the hands of Kevin Clayton, the company's CEO. He is a prototype Berkshire manager. Today, Clayton has 11,837 employees, up from 7,136 when we purchased it, and Charlie and I are pleased that Berkshire has been useful in facilitating this growth.
+
+:::
+
+:::lang chs
+
+去年 4 月份，Clayton 顺利买下 Oakwood，一举成为预制房屋业界最大的制造与销售商，我们乐意将更多的资源交予该公司总裁 Kevin，他是典型的伯克希尔经理人，当初我们买下 Clayton 时，该公司员工有 7 千多人，目前已增加到 1.1 万人，查理跟我很高兴能与他们共同参与成长的过程。
+
+:::
+
+:::lang eng
+
+For simplicity's sake, we include all of Clayton's earnings in this sector, though a sizable portion of these are derived from areas other than consumer finance.
+
+:::
+
+:::lang chs
+
+为了简化起见，我们将 Clayton 所有的收益归类到消费金融项下，虽然它还有一大部分的收益不属于此项。
+
+:::
+
+:::lang common
+
+(in $ millions)</br>百万美元|Pre-Tax Earnings 2004</br>税前收益2004年|Pre-Tax Earnings 2003</br>税前收益2003年|Interest-bearing Liabilities 2004</br>有息负债2004年|Interest-bearing Liabilities 2003</br>有息负债2003年
+---|---:|---:|---:|---:
+Trading - Ordinary Income</br>交易-经常性收入|$ 264|$ 355|$ 5,751|$ 7,826
+Gen Re Securities</br>通用再保险证券|(44)|(99)|5,437\*|8,041\*
+Life and annuity operation</br>人寿年金业务|(57)|85|2,467|2,331
+Value Capital</br>价值资本|30|31|N/A|N/A
+Berkadia</br>Berkadia|1|101|--|525
+Leasing operations</br>租赁业务|92|34|391|482
+Manufactured housing finance (Clayton)|220|37\*\*</br>克莱顿金融\*\*|3,636|2,032
+Other</br>其他|78|75|N/A|N/A
+Income before capital gains</br>收益合计|584|619
+Trading - Capital Gains</br>交易-资本性收益|1,750|1,215
+Total</br>合计|$ 2,334|$ 1,834
+
+:::
+
+:::lang eng
+
+\* Includes all liabilities
+
+:::
+
+:::lang chs
+
+\* 包括所有负债
+
+:::
+
+:::lang eng
+
+\*\* From date of acquisition, August 7, 2003
+
+:::
+
+:::lang chs
+
+\*\* 从收购日 2003 年 8 月 7 日算起
+
+:::
+
+## Manufacturing, Service and Retailing Operations 制造业、服务业与零售业的运营
+
+:::lang eng
+
+Our activities in this category cover the waterfront. But let's look at a summary balance sheet and earnings statement consolidating the entire group.
+
+:::
+
+:::lang chs
+
+以下所代表的营业项目可说是海纳一切，让我们直接来看所有的资产负债表与利润表的合并数字。
+
+:::
+
+:::lang eng
+
+**Balance Sheet 12/31/04 (in $ millions)**
+
+:::
+
+:::lang chs
+
+**资产负债表(2003年12月31日）单位：百万美元**
+
+:::
+
+:::lang common
+
+Assets</br>资产|Amt.</br>金额|Liabilities and Equity</br>负债和权益|Amt.</br>金额
+---|---:|---|---:
+Cash and equivalents</br>现金及其等价物|$ 899|Notes payable</br>应付票据|$ 1,143
+Accounts and notes receivable</br>应收账款和应收票据|3,074
+Inventory</br>存货|3,842
+Other current assets</br>其他流动资产|254|Other current liabilities</br>其他流动负债|4,685
+Total current assets</br>流动资产合计|8,069|Total current liabilities</br>流动负债合计|5,828
+Goodwill and other intangibles</br>商誉及无形资产|8,362|Deferred taxes</br>递延所得税|248
+Fixed assets</br>固定资产|6,161|Term debt and other liabilities</br>长期负债及其他负债|1,965
+Other assets</br>其他非流动资产|1,044|Equity</br>所有者权益|15,595
+ ||$ 23,636||$ 23,636
+
+:::
+
+:::lang eng
+
+**Earnings Statement (in $ millions)**
+
+:::
+
+:::lang chs
+
+**利润表 单位：百万美元**
+
+:::
+
+:::lang common
+
+Item</br>科目|2004|2003
+---|---:|---:
+Revenues</br>收入|$ 44,142|$ 32,106
+Operating expenses (including depreciation of $676 in 2004 and $605 in 2003)</br>营业费用（其中折旧费用：2004年6.76亿美元，2003年6.05亿美元）|41,604|29,885
+Interest expense (net)</br>净利息费用|57|64
+Pre-tax income</br>税前利润|2,481|2,157
+Income taxes</br>所得税|941|813
+Net income</br>净利润|$ 1,540|$ 1,344
+
+:::
+
+:::lang eng
+
+This eclectic group, which sells products ranging from Dilly Bars to fractional interests in Boeing 737s, earned a very respectable 21.7% on average tangible net worth last year, compared to 20.7% in 2003. It's noteworthy that these operations used only minor financial leverage in achieving these returns. Clearly, we own some very good businesses. We purchased many of them, however, at substantial premiums to net worth -- a matter that is reflected in the goodwill item shown on the balance sheet -- and that fact reduces the earnings on our average *carrying* value to 9.9%.
+
+:::
+
+:::lang chs
+
+这些精挑细选的组合，所销售的产品从冰激凌到波音 737 客机，应有尽有，去年平均净有形资产回报率高达 21.7 %，比起前一年的 20.7% 还要高，特别值得说明的是他们极少运用财务杠杆，他们无疑是最优秀的企业，当然由于我们大多以高于账面价值相当大的幅度买下，因此资产负债表上有大量的未摊销商誉，这使得我们平均账面价值回报率降为 9.9%。
+
+:::
+
+:::lang eng
+
+Here are the pre-tax earnings for the larger categories or units.
+
+:::
+
+:::lang chs
+
+以下是主要经营业务的税前收益明细：
+
+:::
+
+:::lang common
+
+(in $ millions)</br>（百万美元）|Pre-Tax Earnings 2004</br>税前收益2004年|Pre-Tax Earnings 2003</br>税前收益2003年
+---|---:|---:
+Building Products</br>建筑产品|$ 643|$ 559
+Shaw Industries</br>Shaw 工业|466|436
+Apparel & Footwear</br>服装鞋类|325|289
+Retailing of Jewelry, Home Furnishings and Candy</br>零售业务|215|224
+Flight Services</br>航空服务|191|72
+McLane</br>麦克莱恩|228|150\*
+Other businesses</br>其他|413|427
+ ||$ 2,481|$ 2,157
+
+:::
+
+:::lang eng
+
+\* From date of acquisition, May 23, 2003.
+
+:::
+
+:::lang chs
+
+\* 麦克莱恩自收购之日 2003 年 5 月 23 日起
+
+:::
+
+:::lang eng
+
+- In the building-products sector and at Shaw, we've experienced staggering cost increases for both raw-materials and energy. By December, for example, steel costs at MiTek (whose primary business is connectors for roof trusses) were running 100% over a year earlier. And MiTek uses 665 million pounds of steel every year. Nevertheless, the company continues to be an outstanding performer. Since we purchased MiTek in 2001, Gene Toombs, its CEO, has made some brilliant “bolt-on” acquisitions and is on his way to creating a mini-Berkshire.
+
+:::
+
+:::lang chs
+
+- 在建材与地毯业务方面，面临了原料成本与能源价格持续上涨的困境，比如至去年 12 月，MiTek 钢材的采购成本就比去年整整高出一倍，（其主要的产品是屋梁衍架连接件），该公司每年需耗用 6.65 亿磅的钢材，不过即便如此，该公司表现依然出色。自 2001 年我们买下 MiTek 后，该公司总裁 Gene Toombs 就进行了好几件补强式的并购，逐渐打造出属于自己的小型伯克希尔。
+
+:::
+
+:::lang eng
+
+Shaw fielded a barrage of price increases in its main fiber materials during the year, a hit that added more than $300 million to its costs. (When you walk on carpet you are, in effect, stepping on processed oil.) Though we followed these hikes in costs with price increases of our own, there was an inevitable lag. Therefore, margins narrowed as the year progressed and remain under pressure today. Despite these roadblocks, Shaw, led by Bob Shaw and Julian Saul, earned an outstanding 25.6% on tangible equity in 2004. The company is a powerhouse and has a bright future.
+
+:::
+
+:::lang chs
+
+这一年 Shaw 地毯经历了一系列纤维原材料成本的大幅上涨，这个重大的打击使得其成本剧增 3 亿美元，当你在地毯上行走，其实所踩的是经过处理的石油化学产品，虽然我们以调涨售价作为回应，但时间上还是有些落差，这使得毛利空间持续受到压缩，但即便如此，在 Bob 与 Julian 的领导下，去年还是为我们赚取了 25.6% 的股东权益回报，这家公司充满动力，且深具潜力。
+
+:::
+
+:::lang eng
+
+- In apparel, Fruit of the Loom increased unit sales by 10 million dozen, or 14%, with shipments of intimate apparel for women and girls growing by 31%. Charlie, who is far more knowledgeable than I am on this subject, assures me that women are *not* wearing more underwear. With this expert input, I can only conclude that our market share in the women's category must be growing rapidly. Thanks to John Holland, Fruit is on the move.
+
+:::
+
+:::lang chs
+
+- 在服装业方面，鲜果布衣的内衣销售增加了 1千万打（1dozen=12，英制为12进制），增幅为 14%，其中女用内衣与少女内衣更成长了 31%，这方面查理比我还懂得多，他跟我保证女性朋友目前穿得内衣还不够多，这更让我确信，我们在这方面的市场占有率正急速增加中，多亏 John Holland，鲜果布衣又重新振作起来。
+
+:::
+
+:::lang eng
+
+A smaller operation, Garan, also had an excellent year. Led by Seymour Lichtenstein and Jerry Kamiel, this company manufactures the popular Garanimals line for children. Next time you are in a Wal-Mart, check out this imaginative product.
+
+:::
+
+:::lang chs
+
+另外一家公司 Garan 童装，去年的表现也相当不错，在 Seymour 及 Lichtenstein 的带领之下，这家公司专门制造知名童装品牌 Garanimals，下次你去沃尔玛逛时，记得顺道去看看他们饶富创意的产品。
+
+:::
+
+:::lang eng
+
+- Among our retailers, Ben Bridge(jewelry) and R. C. Willey (home furnishings) were particular standouts last year.
+
+:::
+
+:::lang chs
+
+- 在其它零售业者当中，BenBridge 珠宝及R.C.Willey家具，去年的表现也相当不错。
+
+:::
+
+:::lang eng
+
+At Ben Bridge same-store sales grew 11.4%, the best gain among the publicly-held jewelers whose reports I have seen. Additionally, the company's profit margin widened. Last year was not a fluke: During the past decade, the same-store sales gains of the company have averaged 8.8%.
+
+:::
+
+:::lang chs
+
+在 BenBridge 单店营业额成长了 11.4%，毛利也同步增长，这是所有上市珠宝商中表现最好的，去年的成绩绝非侥幸，该公司过去十年平均成长率达到 8.8%。
+
+:::
+
+:::lang eng
+
+Ed and Jon Bridge are fourth-generation managers and run the business exactly as if it were their own -- which it is in every respect except for Berkshire's name on the stock certificates. The Bridges have expanded successfully by securing the right locations and, more importantly, by staffing these stores with enthusiastic and knowledgeable associates. We will move into Minneapolis-St. Paul this year.
+
+:::
+
+:::lang chs
+
+Ed 跟 Jon 是 Bridge 家族第四代的成员，并把公司当做是自家般在经营，除了股票上登记的名字改成伯克希尔外，其它一切不变，靠着选址正确，Bridge 成功地扩张据点，此外更重要的，每个据点的员工都充满了热情与专业知识，今年我们将进军明尼苏达州的双子城（Minneapolis-St.Paul）。
+
+:::
+
+:::lang eng
+
+At Utah-based R.C. Willey, the gains from expansion have been even more dramatic, with 41.9% of 2004 sales coming from out-of-state stores that didn't exist before 1999. The company also improved its profit margin in 2004, propelled by its two new stores in Las Vegas.
+
+:::
+
+:::lang chs
+
+至于犹他州的R.C.Willey，其成长的态势更加惊人，拜外地新店所赐，公司营业额成长了 41.9%，毛利也有所改善，其中包含内华达州拉斯维加斯的两家新店。
+
+:::
+
+:::lang eng
+
+I would like to tell you that these stores were my idea. In truth, I thought they were mistakes. I knew. of course, how brilliantly Bill Child had run the R. C. Willey operation in Utah, where its market share had long been huge. But I felt our closed-on-Sunday policy would prove disastrous away from home. Even our first out-of-state store in Boise, which was highly successful, left me unconvinced. I kept asking whether Las Vegas residents, conditioned to seven-day-a-week retailers, would adjust to us. Our first Las Vegas store, opened in 2001, answered this question in a resounding manner, immediately becoming our number one unit.
+
+:::
+
+:::lang chs
+
+我要跟大家说，这些店事实上是我的主意，只是我本来以为它们做不起来，虽然我明明知道 Bill Child 跟R.C.Willey在犹他州的辉煌战果，他们在当地耕耘已久，但我就是觉得这种周日不开张的做法在外地肯定行不通，但结果证明我们在爱达荷州 Boise 的第一家店就一炮而红，但我还是不相信，不断质疑已经习惯没有周休的拉斯维加斯居民是否也吃这一套，这种怀疑在我们当地的第一家店于 2001 年开张，彻底被粉碎，单店营业额居所有分店首位。
+
+:::
+
+:::lang eng
+
+Bill and Scott Hymas, his successor as CEO, then proposed a second Las Vegas store, only about 20 minutes away. I felt this expansion would cannibalize the first unit, adding significant costs but only modest sales. The result? Each store is now doing about 26% more volume than any other store in the chain and is consistently showing large year-over-year gains.
+
+:::
+
+:::lang chs
+
+Bill 跟他的继任 CEO：Scott Hymas 趁胜追击，在 20 分钟车程远的地方开设第二家分店，当时我认为此举将拖垮第一家店的营运，成本大增而销售一般，结果呢？两家店的营业额比起其它分店都高出 26%，且营业额年年成长。
+
+:::
+
+:::lang eng
+
+R.C. Willey will soon open in Reno. Before making this commitment, Bill and Scott again asked I for my advice. Initially, I was pretty puffed up about the fact that they were consulting me. But then it dawned on me that the opinion of someone who is *always* wrong has its own special utility to decision-makers.
+
+:::
+
+:::lang chs
+
+R.C.Willy 很快就要在内华达州 Reno 市开店，但在正式投入之前，Bill 跟 Scott礼貌性地征询我的意见，一开始，我对于他们向我请教感到颇为自豪，但最后证明，他们只是把我的看法，当做反向参考意见。
+
+:::
+
+:::lang eng
+
+- Earnings improved in flight services. At FlightSafety, the world's leader in pilot training, profits rose as corporate aviation rebounded and our business with regional airlines increased. We now operate 283 simulators with an original cost of $1.2 billion. Pilots are trained one at a time on this expensive equipment. This means that as much as $3.50 of capital investment is required to produce $1 of annual revenue. With this level of capital intensity, FlightSafety requires very high operating margins in order to obtain reasonable returns on capital, which means that utilization rates are all-important. Last year, FlightSafety's return on tangible equity improved to 15.1% from 8.4% in 2003.
+
+:::
+
+:::lang chs
+
+- 航空服务的获利也有所改善，飞安公司是全世界最大的飞行员训练公司，拜企业航空业务反弹及与区域性航空公司合作所赐，获利增加，目前我们拥有 283 座模拟器，帐面成本 12 亿美元，飞行员只能在这些昂贵的设备中一次一人接受训练，这意味着每 3.5 美元的资本设备投资只能创造出 1 美元的年营业收入，在如此资本密集的情况下，惟有高利润率才足以获得合理的投资回报，因此，设备利用率便显得相当重要，去年该公司的有形资产回报率由 8.4% 提升至 15.1%。
+
+:::
+
+:::lang eng
+
+In another 2004 event, Al Ueltschi, who founded FlightSafety in 1951 with $10,000, turned over the CEO position to Bruce Whitman, a 43-year veteran at the company. (But Al's not going anywhere; I won't let him.) Bruce shares Al's conviction that flying an aircraft is a privilege to be extended only to people who regularly receive the highest quality of training and are undeniably competent. A few years ago, Charlie was asked to intervene with Al on behalf of a tycoon friend whom FlightSafety had flunked. Al's reply to Charlie: "Tell your pal he belongs in the back of the plane, not the cockpit."
+
+:::
+
+:::lang chs
+
+另外一件事是，于 1951 年以一万美元创立飞安公司的 Al Ueltschi 在去年退休，将 CEO 的位置交给公司 43 年的老臣 Bruce Whitman，但相信我，我绝不会让 Al 跑掉的。Bruce 跟 Al 拥有相同的理念，认为惟有经常接受高品质训练的人，才有资格驾御航空飞行器。几年前查理受一位在飞安公司训练不合格的企业朋友所托，向 Al 求情，结果 Al 冷酷地回答到，“告诉你的朋友，给我远离驾驶舱，乖乖地待在后舱。”
+
+:::
+
+:::lang eng
+
+FlightSafety's number one customer is NetJets, our aircraft fractional-ownership subsidiary. Its 2,100 pilots spend an average of 18 days a year in training. Additionally, these pilots fly only one aircraft type whereas many flight operations juggle pilots among several types. NetJets'high standards on both fronts are two of the reasons I signed up with the company years before Berkshire bought it.
+
+:::
+
+:::lang chs
+
+飞安公司最大的客户就是 NetJets，我们飞机共享业务的子公司，旗下 2,100 位飞行员每年平均花 18 天进行飞行训练，此外不像别人常常在不同机种间跳来跳去，我们的飞行员只专心飞一种固定机型，NetJets 在这两方面高水平的要求，是为什么我早在买下该公司以前，就成为它们客户的主要原因。
+
+:::
+
+:::lang eng
+
+Fully as important in my decisions to both use and buy NetJets, however, was the fact that the company was managed by Rich Santulli, the creator of the fractional-ownership industry and a fanatic about safety and service. I viewed the selection of a flight provider as akin to picking a brain surgeon: you simply want the best. (Let someone else experiment with the low bidder.)
+
+:::
+
+:::lang chs
+
+另外我之所以会买下 NetJets 的原因还有，这家公司是由 Rich Santulli 所经营，他是飞机共享产业的创办人，对于安全与服务的要求几尽疯狂，我认为挑选飞行员跟选择脑部外科医生一样重要，要挑就要挑最好的，其它次等的人选就留给别人吧。
+
+:::
+
+:::lang eng
+
+Last year NetJets again gained about 70% of the net new business (measured by dollar value) going to the four companies that dominate the industry. A portion of our growth came from the 25-hour card offered by Marquis Jet Partners. Marquis is not owned by NetJets, but is instead a customer that repackages the purchases it makes from us into smaller packages that it sells through its card. Marquis deals exclusively with NetJets, utilizing the power of our reputation in its marketing.
+
+:::
+
+:::lang chs
+
+去年 NetJets 再次主导市场获得了该行业净新业务的 70%，这些业务为四家主要公司瓜分。其中一部分增长来自Marquis推出的 25 小时券，Marquis 并非 NetJets 的关联企业只是一个客户，不过它向 NetJets 批发时数后，再以更小的包装卖给终端消费者，Marquis 只专作 NetJets 的生意，并以 NetJets 的卓越名声做为营销的重点。
+
+:::
+
+:::lang eng
+
+Our U.S. contracts, including Marquis customers, grew from 3,877 to 4,967 in 2004 (versus approximately 1,200 contracts when Berkshire bought NetJets in 1998). Some clients (including me) enter into multiple contracts because they wish to use more than one type of aircraft, selecting for any given trip whichever type best fits the mission at hand.
+
+:::
+
+:::lang chs
+
+去年我们在美国的签约件数，从 3,877 成长到 4,967，（1999 年伯克希尔收购 NetJets 时，其客户数约为 1,200 个），有些客户（包括我在内）为了使用不同的机型，签好多项合约，以因应不同场合的需求。
+
+:::
+
+:::lang eng
+
+NetJets earned a modest amount in the U.S. last year. But what we earned domestically was largely offset by losses in Europe. We are now, however, generating real momentum abroad. Contracts (including 25-hour cards that we ourselves market in Europe) increased from 364 to 693 during the year. We will again have a very significant European loss in 2005, but domestic earnings will likely put us in the black overall.
+
+:::
+
+:::lang chs
+
+NetJets 去年在美国这边的获利还算不错，但大部分的获利却被欧洲的亏损所侵蚀，不过目前国外的业务确有起色，包含刚刚提到的 25 小时券在内，合约数已从 364 件增加到 693 件，虽然 2005 年预估还会继续发生庞大亏损，但美国本土的获利还是能够让我们的帐面免于出现赤字。
+
+:::
+
+:::lang eng
+
+Europe has been expensive for NetJets -- far more expensive than I anticipated -- but it is essential to building a flight operation that will forever be in a class by itself. Our U.S. owners already want a quality service wherever they travel and their wish for flight hours abroad is certain to grow dramatically in the decades ahead. Last year, U.S. owners made 2,003 flights in Europe, up 22% from the previous year and 137% from2000. Just as important, our European owners made 1,067 flights in the U.S., up 65% from2003 and 239% from 2000.
+
+:::
+
+:::lang chs
+
+欧洲实在是让我们付出重大的代价，且远远超过我当初的预期，但为了建立品质却是不得不走的路，我们许多美国的客户希望无论到世界上的那个地方，都能够享受相同品质的服务，而跨国旅行的需求在未来肯定会大幅成长，去年美国客户总计飞到欧洲 2,003 趟，成长了 22%，在此同时，欧洲的客户飞到美国，则有 1,067 趟，成长了 65%，相比 2000 年则增长了 239%。
+
+:::
+
+# Investments 投资组合
+
+:::lang eng
+
+We show below our common stock investments. Those that had a market value of more than $600 million at the end of 2004 are itemized.
+
+:::
+
+:::lang chs
+
+下表列示伯克希尔 2004 年市价超过 6 亿美元以上的股票投资。
+
+:::
+
+**12/31/04**
+
+:::lang chs
+
+2004年12月31日
+
+:::
+
+:::lang common
+
+Shares</br>股份数量|Company</br>公司名称|Percentage of Company Owned</br>股份占比|Cost\* (in $ millions)|</br>成本\*（百万美元）Market (in $ millions)</br>市值（百万美元）
+---:|:---|---:|---:|---:
+151,610,700|American Express Company</br>美国运通|12.1|$ 1,470|$ 8,546
+200,000,000|The Coca-Cola Company</br>可口可乐|8.3|1,299|8,328
+96,000,000|The Gillette Company</br>吉列公司|9.7|600|4,299
+14,350,600|H&R Block, Inc.</br>H&R Block税务服务商|8.7|223|703
+6,708,760|M&T Bank Corporation</br>M&T银行|5.8|103|723
+24,000,000|Moody's Corporation</br>穆迪公司|16.2|499|2,084
+2,338,961,000|PetroChina "H" shares (or equivalents)</br>中国石油H股|1.3|488|1,249
+1,727,765|The Washington Post Company</br>华盛顿邮报|18.1|11|1,698
+56,448,380|Wells Fargo & Company</br>富国银行|3.3|463|3,508
+1,724,200|White Mountains Insurance</br>白山保险|16.0|369|1,114
+ ||Others</br>其他||3,531|5,465
+||Total Common Stocks</br>普通股投资合计||$ 9,056|$ 37,717
+
+:::
+
+:::lang eng
+
+\* This is our actual purchase price and also our tax basis; GAAP “cost" differs in a few cases because of write-ups or write-downs that have been required.
+
+:::
+
+:::lang chs
+
+\* 注：成本为我们实际取得的成本，也是按税务基础，至于依会计原则的成本则由于摊销或调升而有所不同。
+
+:::
+
+:::lang eng
+
+Some people may look at this table and view it as a list of stocks to be bought and sold based upon chart patterns, brokers' opinions, or estimates of near-term earnings. Charlie and I ignore such distractions and instead view our holdings as fractional ownerships in businesses. This is an important distinction. Indeed, this thinking has been the cornerstone of my investment behavior since I was 19. At that time I read Ben Graham's *The Intelligent Investor*, and the scales fell from my eyes. (Previously, I had been entranced by the stock market, but didn't have a clue about how to invest.)
+
+:::
+
+:::lang chs
+
+看过这张表的人或许会以为这些股票是根据K线图、经纪人的建议或是公司近期的获利预估来进行买卖，其实查理跟我本人根本就不理会这些，而是以企业所有权人的角度看事情，这是非常大的区别，事实上，这正是我几十年来投资行为的基石所在，自我 19 岁读到格雷厄姆的《聪明投资者》之后，我便茅塞顿开。在此之前，虽然我早已投入股市，但实际上对投资根本就没有一点概念。
+
+:::
+
+:::lang eng
+
+Let's look at how the *businesses* of our "Big Four" -- American Express, Coca-Cola, Gillette and Wells Fargo -- have fared since we bought into these companies. As the table shows, we invested $3.83 billion in the four, by way of multiple transactions between May 1988 and October 2003. On a composite basis, our dollar-weighted purchase date is July 1992. By yearend 2004, therefore, we had held these “business interests," on a weighted basis, about 12.5 years.
+
+:::
+
+:::lang chs
+
+接下来看看我们的四大天王美国运通、可口可乐、吉列及富国银行的表现如何，如上表所示，在 1988 年 5 月至 2003 年 10 月期间，我们通过多笔交易向这四家公司的投资了 38.3 亿美元，总的来说，我们平均买进的日期是 1992 年 7 月，截止 2004 年底，我们平均持股的时间是 12.5 年。
+
+:::
+
+:::lang eng
+
+In 2004, Berkshire's share of the group's earnings amounted to $1.2 billion. These earnings might legitimately be considered "normal.” True, they were swelled because Gillette and Wells Fargo omitted option costs in their presentation of earnings; but on the other hand they were reduced because Coke had a non-recurring write-off.
+
+:::
+
+:::lang chs
+
+依持股比例，2004 年伯克希尔可分配到的收益份额高达 12 亿美元，这个数字可以称得上合理，虽然吉列与富国银行因为期权成本不计入费用而收益高估，但同时可口可乐却也提列了一笔非经常性的损失。
+
+:::
+
+:::lang eng
+
+Our share of the earnings of these four companies has grown almost every year, and now amounts to about 31.3% of our cost. Their cash distributions to us have also grown consistently, totaling $434 million in 2004, or about 11.3% of cost. All in all, the Big Four have delivered us a satisfactory, though far from spectacular, business result.
+
+:::
+
+:::lang chs
+
+我们从这四大天王所占的收益份额几乎每年都稳定的成长，现在已占当初投资成本的 31.3%，所分配的现金股利也同步成长，2004 年达到 4.34 亿美元，约占成本的 11.3%。总的来说，这四大天王给了我们还算满意的回报，尽管远没有达到惊人的程度。
+
+:::
+
+:::lang eng
+
+That's true as well of our experience in the market with the group. Since our original purchases, valuation gains have somewhat exceeded earnings growth because price/earnings ratios have increased. On a year-to-year basis, however, the business and market performances have often diverged, sometimes to an extraordinary degree. During The Great Bubble, market-value gains far outstripped the performance of the businesses. In the aftermath of the Bubble, the reverse was true.
+
+:::
+
+:::lang chs
+
+在股价方面的感受也是如此，自我们买进以后，由于市盈率 PE 提升缘故，股价的增幅还高于收益成长的幅度，就个别单一年度而言，股价与企业本身经营状况往往有所分岐，在大泡沫期间，股价的涨幅远远超过本业的表现，至于泡沫破灭之后，其表现则恰恰相反。
+
+:::
+
+:::lang eng
+
+Clearly, Berkshire's results would have been far better if I had caught this swing of the pendulum. That may seem easy to do when one looks through an always-clean, rear-view mirror. Unfortunately, however, it's the windshield through which investors must peer, and that glass is invariably fogged. Our huge positions add to the difficulty of our nimbly dancing in and out of holdings as valuations swing.
+
+:::
+
+:::lang chs
+
+当然，要是我能够掌握钟摆摆动的诀窍，伯克希尔的绩效应当会更好，这种事后诸葛的话人人会说，但只可惜投资人真正需要的是先见之明，无奈前方的景象晖暗不明。随着估值的波动，而我们庞大的投资部位更大大提高了灵活进出的困难度。
+
+:::
+
+:::lang eng
+
+Nevertheless, I can properly be criticized for merely clucking about nose-bleed valuations during the Bubble rather than acting on my views. Though I said at the time that certain of the stocks we held were priced ahead of themselves, I underestimated just how severe the overvaluation was. I taIked when I should have walked.
+
+:::
+
+:::lang chs
+
+在股市泡沫期间，我只是对着流鼻血的估值老调重谈价值投资理念，却没有按自己的理念卖出，这一点可以受到适度的批评。虽然那时我说过，我们部分的持股市价高于其应有的价值，但我低估了其间的背离程度。坐而言不够，还须起而行。
+
+:::
+
+:::lang eng
+
+What Charlie and I would like is a little action now. We don't enjoy sitting on $43 billion of cash equivalents that are earning paltry returns. Instead, we yearn to buy more fractional interests similar to those we now own or -- better still -- more large businesses outright. We will do either, however, only when purchases can be made at prices that offer us the prospect of a reasonable return on our investment.
+
+:::
+
+:::lang chs
+
+查理跟我实在是应该起来行动了，手上这 430 亿现金不能只靠微薄的利息过日子，我们渴望购买类似于我们手上持有的这些公司的部分权益，当然若是能买断整家公司会更好，然而，只有购买价格能够为我们提供合理投资回报时，我们才会采取行动。
+
+:::
+
+---
+
+:::lang eng
+
+We've repeatedly emphasized that the “realized" gains that we report quarterly or annually are meaningless for analytical purposes. We have a huge amount of unrealized gains on our books, and our thinking about when, and if, to cash them depends not at all on a desire to report earnings at one specific time or another. A further complication in our reported gains occurs because GAAP requires that foreign exchange contracts be marked to market, a stipulation that causes unrealized gains or losses in these holdings to flow through our published earnings as if we had sold our positions.
+
+:::
+
+:::lang chs
+
+我们一再强调，单一会计期间所示的已实现资本利得不具任何意义。虽然帐上享有大量的未实现资本利得，但我们绝对不会为了让帐面数字好看而去兑现。另外由于 GAAP 会计原则规定外汇投资每季必须按市价调整损益，这使得我们每季的收益波动幅度更为加剧。
+
+:::
+
+:::lang eng
+
+Despite the problems enumerated, you may be interested in a breakdown of the gains we reported in 2003 and 2004. The data reflect actual sales except in the case of currency gains, which are a combination of sales and marks to market.
+
+:::
+
+:::lang chs
+
+虽然多了以上几项变量，大家可能还是想要了解近两年报告的收益明细。以下数字，除了外汇投资，其余多属已实现资本收益。
+
+:::
+
+:::lang common
+
+Category</br>分类|Pre-Tax Gain (in $ million) 2004</br>税前收益2004年（百万美元）|Pre-Tax Gain (in $ million) 2003</br>税前收益2004年（百万美元）
+---|---:|---:
+Common Stocks</br>普通股|$ 870|$ 448
+U.S. Government Bonds</br>美国联邦政府债券|104|1,485
+Junk Bonds</br>垃圾债券|730|1,138
+Foreign Exchange Contracts</br>外汇合约|1,839|825
+Other</br>其他|(47)|233
+ Total</br>合计|$ 3,496|$ 4,129
+
+:::
+
+:::lang eng
+
+The junk bond profits include a foreign exchange component. When we bought these bonds in 2001 and 2002, we focused first, of course, on the credit quality of the issuers, all of which were American corporations. Some of these companies, however, had issued bonds denominated in foreign currencies. Because of our views on the dollar, we favored these for purchase when they were available.
+
+:::
+
+:::lang chs
+
+垃圾债券收益包含部分汇兑利益，几年前我们买下这些债券时，首先考量的当然是发行人的债信，他们都是美国公司，其中部分系以外币计价，由于我们认为美元长期走势看贬，所以当初投资时优先购买。
+
+:::
+
+:::lang eng
+
+As an example, we bought €254 million of Level 3 bonds (10.75% of 2008) in 2001 at 51.7% of par, and sold these at 85% of par in December 2004. This issue was traded in Euros that cost us 88¢ at the time of purchase but that brought $1.29 when we sold. Thus, of our $163 million overall gain, about $85 million came from the market's revised opinion about Level 3's credit quality, with the remaining $78 million resulting from the appreciation of the Euro. (In addition, we received cash interest during our holding period that amounted to about 25% annually on our dollar cost.)
+
+:::
+
+:::lang chs
+
+举例来说，我们在 2001 年以 51.7% 的折价买进 Level3 公司面值 2.54 亿欧元的债券（2008 年到期年息率 10.75%），并在 2004 年 12 月以 85% 的票面价格售出，当初买进的时候，欧元对美元的汇率是 1 比 0.88，等到我们卖出时，欧元对美元的汇率已涨升为 1 比 1.29，所以在总计 1.63 亿美元的资本利得当中，8,500 万美元来自市场对于该公司债信的修正，另外 7,800 万则来自于欧元的升值，此外在持有期间我们每年还收到相当于投资成本 25% 的利息收入。
+
+:::
+
+---
+
+:::lang eng
+
+The media continue to report that "Buffett buys" this or that stock. Statements like these are almost always based on filings Berkshire makes with the SEC and are therefore wrong. As I've said before, the stories should say "*Berkshire* buys."
+
+:::
+
+:::lang chs
+
+不论我如何澄清，媒体还是一再报导，“巴菲特买进某些股票”，这些讯息主要的来源是伯克希尔向证券主管机关申报的文件，这样的说法其实并不正确，就像我一再强调的，他们应该要说，这是“*伯克希尔*买进的”。
+
+:::
+
+:::lang eng
+
+**Portrait of a Disciplined Investor**
+
+:::
+
+:::lang chs
+
+**自律型投资人的典范**
+
+:::
+
+:::lang eng
+
+**Lou Simpson**
+
+:::
+
+:::lang chs
+
+**路易斯·辛普森**
+
+:::
+
+:::lang common
+
+Year</br>年份|Return from GEICO Equities</br>盖可保险权益回报率|S&P Return</br>S&P 500权益回报率|Relative Results</br>相对收益
+---|---:|---:|---:
+1980|23.7%|32.3%|(8.6%)
+1981|5.4%|(5.0%)|10.4%
+1982|45.8%|21.4%|24.4%
+1983|36.0%|22.4%|13.6%
+1984|21.8%|6.1%|15.7%
+1985|45.8%|31.6%|14.2%
+1986|38.7%|18.6%|20.1%
+1987|(10.0%)|5.1%|(15.1%)
+1988|30.0%|16.6%|13.4%
+1989|36.1%|31.7%|4.4%
+1990|(9.9%)|(3.1%)|(6.8%)
+1991|56.5%|30.5%|26.0%
+1992|10.8%|7.6%|3.2%
+1993|4.6%|10.1%|(5.5%)
+1994|13.4%|1.3%|12.1%
+1995|39.8%|37.6%|2.2%
+1996|29.2%|23.0%|6.2%
+1997|24.6%|33.4%|(8.8%)
+1998|18.6%|28.6%|(10.0%)
+1999|7.2%|21.0%|(13.8%)
+2000|20.9%|(9.1%)|30.0%
+2001|5.2%|(11.9%)|17.1%
+2002|(8.1%)|(22.1%)|14.0%
+2003|38.3%|28.7%|9.6%
+2004|16.9%|10.9%|6.0%
+Average Annual Gain 1980-2004</br>1980年-2004年年化复合收益率|20.3%|13.5%|6.8%
+
+:::
+
+:::lang eng
+
+Even then, it is typically not I who make the buying decisions. Lou Simpson manages about $2.5% billion of equities that are held by GEICO, and it is his transactions that Berkshire is usually reporting. Customarily his purchases are in the $200-$300 million range and are in companies that are smaller than the ones I focus on. Take a look at the facing page to see why Lou is a cinch to be inducted into the investment Hall of Fame.
+
+:::
+
+:::lang chs
+
+其实那些投资决策也并非由我所做出，Lou Simpson 管理的 GEICO 投资组合规模约 25 亿美元，伯克希尔申报的交易大多指的是这一部分，一般而言，他买进的标的规模约在 2-3 亿美元之间，比我关注的公司规模要小，对照下表的投资绩效，你就知道 Lou Simpson 进入投资界的名人堂几乎是十拿九稳的事。
+
+:::
+
+:::lang eng
+
+You may be surprised to learn that Lou does not necessarily inform me about what he is doing. When Charlie and I assign responsibility, we truly hand1 over the baton -- and we give it to Lou just as we do to our operating managers. Therefore, I typically learn of Lou's transactions about ten days after the end of each month. Sometimes, it should be added, I silently disagree with his decisions. But he's usually right.
+
+:::
+
+:::lang chs
+
+大家或许不相信，路易事前不须跟我报告他的进出动作，当查理跟我授权给经理人时，我们是真的交出指挥大棒，路易是这样，其它旗下业务经理人也是如此。因此，我通常是在每个月结束后十天才知道路易又从事了那些交易，虽然有时候老实说，我并不一定认同他的看法，不过事后证明他总是对的。下表是 Lou Simpson 管理的 GEICO 投资组合的长期绩效：
+
+:::
+
+# Foreign Currencies 外汇投资
+
+:::lang eng
+
+Berkshire owned about $21.4 billion of foreign exchange contracts at yearend, spread among 12 currencies. As I mentioned last year, holdings of this kind are a decided change for us. Before March 2002, neither Berkshire nor I had *ever* traded in currencies. But the evidence grows that our trade policies will put unremitting pressure on the dollar for many years to come -- so since 2002 we've heeded that warning in setting our investment course. (As W.C. Fields once said when asked for a handout: "Sorry, son, all my money's tied up in currency.")
+
+:::
+
+:::lang chs
+
+截至去年底，伯克希尔总计持有 214 亿美元的外汇仓位，投资组合遍布 12 种外币，去年我就曾说过，这类的投资对我们来说，也是头一遭。在 2002 年以前，伯克希尔跟我本人从来就没有买卖过外汇，但越来越多迹象显示，目前我们的贸易政策，将为往后几年的汇率不断施加压力，有鉴于此，自 2002 年起，我们开始调整投资方向以做为对应，就像老牌喜剧演员 W.C. Fields 所说的一样，“抱歉小子，我的钱全部套牢在外汇上了。”
+
+:::
+
+:::lang eng
+
+Be clear on one point: In no way does our thinking about currencies rest on doubts about America. We live in an extraordinarily rich country, the product of a system that values market economics, the rule of law and equality of opportunity. Our economy is far and away the strongest in the world and will continue to be. We are lucky to live here.
+
+:::
+
+:::lang chs
+
+大家一定要搞清楚一点，外汇上的投资不代表我们在唱衰美国，因为我们生活在一个极其富有的国度，这个系统相当重视市场经济，尊重法制，每个人都有公平的机会，我们无疑是当今世上最强大的经济体，而且以后也是，我们是何等的幸运。
+
+:::
+
+:::lang eng
+
+But as I argued in a November 10, 2003 [article](https://www.berkshirehathaway.com/letters/growing.pdf) in *Fortune*, (available at berkshirehathaway.com), our country's trade practices are weighing down the dollar. The decline in its value has already been substantial, but is nevertheless likely to continue. Without policy changes, currency markets could even become disorderly and generate spillover effects, both political and financial. No one knows whether these problems will materialize. But such a scenario is a far-from-remote possibility that policymakers should be considering *now*. Their bent, however, is to lean toward not-so-benign neglect: A 318-page Congressional study of the consequences of unremitting trade deficits was published in November 2000 and has been gathering dust ever since. The study was ordered after the deficit hit a then-alarming $263 billion in 1999; by last year it had risen to $618 billion.
+
+:::
+
+:::lang chs
+
+但就像我在 2003 年 11 月 10 日在财富杂志发表的文章所提到的（《财富杂志：我为什么不看好美元》），我们国家现今的贸易政策终将拖垮美元，美元价值目前已大幅下滑，且没有任何好转迹象，若政策不改，外汇市场脱序的情况将不断发生，并在政治与金融面上产生连锁效应，虽然没有人保证影响的层面有多广，政治人物却不得不正视此问题的严重性，但政客们目前所采的态度却是刻意的忽视，一项厚达 318 页的贸易赤字评估报告在 2000 年 11 月国会发表时，曾引发轩然大波，当时美国一年的贸易赤字达到 2,630 亿美元，去年贸易赤字却已达 6,180 亿美元的历史新高。
+
+:::
+
+:::lang eng
+
+Charlie and I, it should be emphasized, believe that true trade -- that is, the exchange of goods and services with other countries -- is enormously beneficial for both us and them. Last year we had $1.15 trillion of such honest-to-God trade and the more of this, the better. But, as noted, our country also purchased an additional $618 billion in goods and services from the rest of the world that was unreciprocated. That is a staggering figure and one that has important consequences.
+
+:::
+
+:::lang chs
+
+当然必须强调的是，查理跟我都相信，真正的贸易，也就是与他国交换货物与服务的行为，对于彼此都有相当大的益处，去年光是这类的贸易总额就达 1.15 万亿美元，但除此之外，我们另外又向外国多采购了 6,180 亿美元的产品与服务，而这些没有产生任何回报。这个惊人的数字将引发严重的后果。
+
+:::
+
+:::lang eng
+
+The balancing item to this one-way pseudo-trade -- in economics there is always an offset -- is a transfer of wealth from the U.S. to the rest of the world. The transfer may materialize in the form of IOUs our private or governmental institutions give to foreigners, or by way of their assuming ownership of our assets, such as stocks and real estate. In either case, Americans end up owning a reduced portion of our country while non-Americans own a greater part. This force-feeding of American wealth to the rest of the world is now proceeding at the rate of $1.8 billion daily, an increase of 20% since I wrote you last year. Consequently, other countries and their citizens now own a net of about $3 trillion of the U.S. A decade ago their net ownership was negligible.
+
+:::
+
+:::lang chs
+
+单向的伪贸易平衡，在经济学上总有对价，维持均衡的结果就是以本国的财富移转到国外，其形式有可能是由私人企业或政府部门所发出的借据，或者是出让股票或房产等资产的所有权，不管怎样，此举将造成美国人拥有自家资产的比例逐渐下滑，平均每天以 18 亿美元的速度流失中，这数字比去年同期又增加了 20%，目前外国人累积持有我国资产已达 3 万亿美元，在十年前这项数字还微乎其微。
+
+:::
+
+:::lang eng
+
+The mention of trillions numbs most brains. A further source of confusion is that the current account deficit (the sum of three items, the most important by far being the trade deficit) and our national budget deficit are often lumped as “twins.” They are anything but. They have different causes and different consequences.
+
+:::
+
+:::lang chs
+
+上万亿对一般人来说或许是遥不可及的天文数字，更让人容易搞混的是目前的“经常帐户赤字”（由三个项目组成，其中最重要的项目就是贸易逆差），这与我国的“预算赤字”，并称为双胞胎，但两者的成因不同，造成的影响也不同。
+
+:::
+
+:::lang eng
+
+A budget deficit in no way reduces the portion of the national pie that goes to Americans. As long as other countries and their citizens have no net ownership of the U.S., 100% of our country's output belongs to our citizens under *any* budget scenario, even one involving a huge deficit.
+
+:::
+
+:::lang chs
+
+预算赤字不会减少美国人的国家蛋糕份额，仅会造成本国内财富的重分配，别的国家与人民不会增加对我们资产的所有权，也就是说就算是巨额赤字飙上天，国内所有的产出所得，仍将归我国民所有。
+
+:::
+
+:::lang eng
+
+As a rich “family" awash in goods, Americans will argue through their legislators as to how government should redistribute the national output -- that is who pays taxes and who receives governmental benefits. If “entitlement" promises from an earlier day have to be reexamined, "family members" will angrily debate among themselves as to who feels the pain. Maybe taxes will go up; maybe promises will be modified; maybe more internal debt will be issued. But when the fight is finished, *all* of the family's huge pie remains available for its members, however it is divided. No slice must be sent abroad.
+
+:::
+
+:::lang chs
+
+当一个国家强盛富裕时，美国人民可通过立法者来争取如何分配国家产出，也就是谁必须付税而谁可以得到政府的补助，如果必须重新审视早期的权力承诺，家族成员便会激烈地争辩谁将受累，或许税收会上涨，或许承诺会调整，或许发行更多公债，但一旦纷争结束，家中所有的饼不管怎么分，依旧是由所有成员来分享，绝不会有外人进来分一杯羹。
+
+:::
+
+:::lang eng
+
+Large and persisting current account deficits produce an entirely different result. As time passes, and as claims against us grow, we own less and less of what we produce. In effect, the rest of the world enjoys an ever-growing royalty on American output. Here, we are like a family that consistently overspends its income. As time passes, the family finds that it is working more and more for the "finance company" and less for itself.
+
+:::
+
+:::lang chs
+
+但目前积重难返的经常帐户赤字将产生完全不同的结果，随着时间推移，对我们的债权越来越多，我们拥有的越来越少，事实上，世界上其它国家的人们从我们身上抽取的税赋一天比一天高，而我们就像是一个入不敷出的家庭，而且慢慢会发现，辛苦的工作所得，将被债主吸得一干二净。
+
+:::
+
+:::lang eng
+
+Should we continue to run current account deficits comparable to those now prevailing, the net ownership of the U.S. by other countries and their citizens a decade from now will amount to roughly $11 trillion. And, if foreign investors were to earn only 5% on that net holding, we would need to send a net of $.55 trillion of goods and services abroad *every year* merely to service the U.S. investments then held by foreigners. At that date, a decade out, our GDP would probably total about $18 trillion (assuming low inflation, which is far from a sure thing). Therefore, our U.S. “family” would then be delivering 3% of its annual output to the rest of the world simply as tribute for the overindulgences of the past. In this case, unlike that involving budget deficits, the sons would truly pay for the sins of their fathers.
+
+:::
+
+:::lang chs
+
+若是我们让经常帐户赤字的情况继续恶化下去，未来十年内外国人持有我国资产的数目将爆增到 11 万亿美元，而若以平均 5% 的投资回报率来计，我们每年还须额外支付 5500 亿美元的劳务与产品给外国人，仅仅是为外国人持有的美国投资提供回报。再过十年，我们的 GDP 可能会是 18 万亿美元（假设维持低通胀，虽然这还不是很确定），届时美国家庭，为了过去的挥霍无度，每年都要奉献出 3% 的全年所得给外国人，在这种状况下，真的就要变成所谓的父债子还了。
+
+:::
+
+:::lang eng
+
+This annual royalty paid the world -- which would not disappear unless the U.S. massively underconsumed and began to run consistent and large trade surpluses -- would undoubtedly produce significant political unrest in the U.S. Americans would still be living very well, indeed better than now because of the growth in our economy. But they would chafe at the idea of perpetually paying tribute to their creditors and owners abroad. A country that is now aspiring to an “Ownership Society” will not find happiness in -- and I'll use hyperbole here for emphasis -- a "Sharecropper's Society." But that's precisely where our trade policies, supported by Republicans and Democrats alike, are taking us.
+
+:::
+
+:::lang chs
+
+每年要支付给外国投资者的利息，除非是美国人从现在开始缩衣节食，同时持续地增加贸易顺差，否则定将引起国内的政局纷扰，虽然在这种情况下，美国人依旧能够维持不错的生活水平，事实上拜经济成长所赐，甚至过得比现在还好，但光想到每年定期要向外国朝贡，对于一个强调“所有权社会”的国家来说，可能就会引起国人一肚子气，一个现在渴望建立“所有权社会”的国家不会在一个“佃农社会”中找到幸福感。在这里我必须夸张一点地讲，“佃农社会”，这正是共和党与民主党这些政客，准备带领我们前进的方向。
+
+:::
+
+:::lang eng
+
+Many prominent U.S. financial figures, both in and out of government, have stated that our current-account deficits cannot persist. For instance, the minutes of the Federal Reserve Open Market Committee of June 29-30, 2004 say: "The staff noted that outsized external deficits could not be sustained indefinitely." But, despite the constant handwringing by luminaries, they offer no substantive suggestions to tame the burgeoning imbalance.
+
+:::
+
+:::lang chs
+
+美国政府内外许多重量级的财经学者，都一再重申，目前的经常帐户赤字不可能持续下去，举例来说，美联储公开市场操作委员会于 2004 年 6 月 29-30 日的会议记录中便提到，幕僚群已注意到我们绝对无法负荷长期大量的外部赤字，尽管一些重量级人物不断大声疾呼，但实际上他们还是无法提出彻底解决贸易赤字的具体方案。
+
+:::
+
+:::lang eng
+
+In the article I wrote for *Fortune* 16 months ago, I warned that “a gently declining dollar would not provide the answer." And so far it hasn't. Yet policymakers continue to hope for a “soft landing,” meanwhile counseling other countries to stimulate (read “inflate") their economies and Americans to save more. In my view these admonitions miss the mark: There are deep-rooted structural problems that will cause America to continue to run a huge current-account deficit unless trade policies either change materially or the dollar declines by a degree that could prove unsettling to financial markets.
+
+:::
+
+:::lang chs
+
+在我 16 个月以前于财富杂志刊登的一篇文章当中，我就曾警告，持续贬值的美元并不能解决问题，到目前为止，确是如此，然而政府官员却依然希望经济能够软着陆，同时敦促本国人省着点花用，其它国家刺激(应该说是膨胀)本国经济，在我看来这些建言都没有切中要点，除非贸易政策大幅改弦更张或是美元大幅贬值到惊天动地的程度，否则根深蒂固的结构性失衡问题仍将持续困扰金融市场的运作。
+
+:::
+
+:::lang eng
+
+Proponents of the trade status quo are fond of quoting Adam Smith: “What is prudence in the conduct of every family can scarce be folly in that of a great kingdom. If a foreign country can supply us with a commodity cheaper than we ourselves can make it, better buy it of them with some part of the produce of our own industry, employed in a way in which we have some advantage.”
+
+:::
+
+:::lang chs
+
+赞成维持现状的支持者喜欢引用亚当史密斯的话，如果每个家庭的做法都审慎无误，那么整个国家的方向就错不了，如果外国人能够生产出比我们自己还要便宜的东西，那当然是用我们自家产出较具竞争优势的东西拿来做交换。
+
+:::
+
+:::lang eng
+
+I agree. Note, however, that Mr. Smith's statement refers to trade of *product* for product, not of *wealth* for product as our country is doing to the tune of $.6 trillion annually. Moreover, I am sure that he would never have suggested that “prudence" consisted of his “family" selling off part of its farm every day in order to finance its overconsumption. Yet that is just what the “great kingdom” called the United States is doing.
+
+:::
+
+:::lang chs
+
+我同意这点，但是请注意，史密斯先生的说法，指的是以物易物，而不是拿财富来做交换，尤其是当我们一年要典当 6,000 亿美元的资产，同时我相信他同样也不赞同家人以变卖资产的方式来弭补过度消费的缺口，而很不幸的，这正是当今最伟大的国家美国正在做的事。
+
+:::
+
+:::lang eng
+
+If the U.S. was running a S.6 trillion current-account *surplus*, commentators worldwide would violently condemn our policy, viewing it as an extreme form of “mercantilism" -- a long-discredited economic strategy under which countries fostered exports, discouraged imports, and piled up treasure. I would condemn such a policy as well. But, in effect if not in intent, the rest of the world is practicing mercantilism in respect to the U.S., an act made possible by our vast store of assets and our pristine credit history. Indeed, the world would never let any other country use a credit card denominated in its own currency to the insatiable extent we are employing ours. Presently, most foreign investors are sanguine: they may view us as spending junkies， but they know we are *rich* junkies as well.
+
+:::
+
+:::lang chs
+
+换个角度来说，如果美国现在享有的是 6,000 亿美元的贸易顺差的话，其它国家一定会立刻跳出来谴责我们的贸易政策，将之视为重商主义，也就是长久以来，为人所垢病的鼓励出口、压抑进口、囤积财富的经济政策，我也会谴责这种做法。但事实上就算不是有意的，目前世界上其它国家确实正对美国实行重商主义，觊谀我国丰厚的资产以及深厚的家底。确实除了美国以外，世界上再也没有其它国家可以享有几乎无上限的信用额度，截至目前为止，大部分的外国人还是相当乐观，他们认定我们是花钱如流水的败家子，而且是极其富有的败家子。
+
+:::
+
+:::lang eng
+
+Our spendthrift behavior won't, however, be tolerated indefinitely. And though it's impossible to forecast just when and how the trade problem will be resolved, it's improbable that the resolution will foster an *increase* in the value of our currency relative to that of our trading partners.
+
+:::
+
+:::lang chs
+
+但我们这种挥金如土的行为，不可能无限制地持续下去，虽然很难预估这样的贸易问题未来将如何收尾，但可以肯定的是，绝对不可能依靠美元对其它货币大幅升值的结局。
+
+:::
+
+:::lang eng
+
+We hope the U.S. adopts policies that will quickly and substantially reduce the current-account deficit. True, a prompt solution would likely cause Berkshire to record losses on its foreign-exchange contracts. But Berkshire's resources remain heavily concentrated in dollar-based assets, and both a strong dollar and a low-inflation environment are very much in our interest.
+
+:::
+
+:::lang chs
+
+我们很希望美国能够提出一套立即解决贸易逆差的方案，虽然，这样将使得伯克希尔帐上立即产生大量的外汇交易损失，但由于伯克希尔大部分的资产还是摆在以美元为计价的资产之上，强势的美元以及低通膨的环境还是我们的最爱。
+
+:::
+
+:::lang eng
+
+If you wish to keep abreast of trade and currency matters, read *The Financial Times*. This London-based paper has long been the leading source for daily international financial news and now has an excellent American edition. Both its reporting and commentary on trade are first-class.
+
+:::
+
+:::lang chs
+
+如果你想要持续追踪贸易与汇率问题，建议你看《金融时报》，这份伦敦地区发行的报纸长期引领国际金融讯息，同时还发行有美国版，它们在贸易方面的报导与社论都堪称一流。
+
+:::
+
+---
+
+:::lang eng
+
+And, again, our usual caveat: macro-economics is a tough game in which few people, Charlie and I included, have demonstrated skill. We may well turn out to be wrong in our currency judgments. (Indeed, the fact that so many pundits now predict weakness for the dollar makes us uneasy.) If so, our mistake will be very public. The irony is that if we chose the opposite course, leaving all of Berkshire's assets in dollars even as they declined significantly in value, no one would notice our mistake.
+
+:::
+
+:::lang chs
+
+当然照例我还是要提出警告，宏观经济是没有人搞得懂的玩意儿，包括查理和我在内，很少有人展现出特别技巧。我们在汇率上的判断不一定对，事实上，近来也有很多专家跟着凑热闹，一起高喊美元弱势的现象，反而让我们觉得不安。果真如此，那我们可就糗大了。讽刺的是，要是我们按兵不动，将伯克希尔的资金摆在美元资产之上，就算其价值大幅下滑，反而没有人会注意。
+
+:::
+
+:::lang eng
+
+John Maynard Keynes said in his masterful *The General Theory*: "Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.” (Or, to put it in less elegant terms, lemmings as a class may be derided but never does an *individual* lemming get criticized.) From a reputational standpoint, Charlie and I run a clear risk with our foreign-exchange commitment. But we believe in managing Berkshire as if we owned 100% of it ourselves. And, were that the case, we would not be following a dollar-only policy.
+
+:::
+
+:::lang chs
+
+约翰·梅纳德·凯恩斯在其名著《通论》中曾经提到：普世的智慧告诉我们，寻常的失败可能比不寻常的成功对声誉的影响更好。或者讲得再通俗一点，旅鼠或许以愚蠢著称，但却没有任何一只旅鼠单独挨骂。若是从声誉的角度来说，查理跟我在外汇上的作法，很可能让自己的面子挂不住，但我们还是尽心尽力的经营伯克希尔就好像我们 100% 拥有一样，这也是我们不独爱美元资产的根本原因。
+
+:::
+
+# Miscellaneous 其它事项
+
+:::lang eng
+
+- Last year I told you about a group of University of Tennessee finance students who played a key role in our $1.7 billion acquisition of Clayton Homes. Earlier, they had been brought to Omaha by their professor, Al Auxier -- he brings a class every year -- to tour Nebraska Furniture Mart and Borsheim's, eat at Gorat's and have a Q&A session with me at Kiewit Plaza. These visitors, like those who come for our annual meeting, leave impressed by both the city and its friendly residents.
+
+:::
+
+:::lang chs
+
+- 去年我告诉各位有一群田纳西大学金融专业的学生，在我们 17 亿美元并购 Clayton 公司中扮演了关键性的角色。每年他们一个班固定由 Al Auxier 教授带队到奥马哈实习，参观内布拉斯加家具店及波仙珠宝店，到 Gorat's 吃牛排，同时与我在Kiewit总部来一场问答，这群访客，如同每年来参加股东年会的股东一样，都对本市及其市民留下深刻的印象。
+
+:::
+
+:::lang eng
+
+Other colleges and universities have now come calling. This school year we will have visiting classes, ranging in size from 30 to 100 students, from Chicago, Dartmouth(Tuck),Delaware State, Florida State, Indiana, Iowa, Iowa State, Maryland, Nebraska, Northwest Nazarene, Pennsylvania (Wharton), Stanford, Tennessee, Texas, Texas A&M, Toronto (Rotman), Union and Utah. Most of the students are MBA candidates, and I've been impressed by their quality. They are keenly interested in business and investments, but their questions indicate that they also have more on their minds than simply making money. I always feel good after meeting them.
+
+:::
+
+:::lang chs
+
+之后其它大专院校的学生也开始陆续造访，这一学年将会有来自芝加哥、达特茅斯(塔克)、特拉华州、佛罗里达州、印地安纳州、爱荷华州、马里兰州、内布拉斯加州、宾西法尼亚州（沃顿）、斯坦福大学、田纳西州、德州 A&M、多伦多（罗特曼）、犹他州等地的学生，人数从 30 到 100 人不等，大部分都是 MBA 的学生，我对于他们的素质印象深刻，他们对于商业与投资深感兴趣，而且从所提的问题看得出他们不只是想赚钱而已，我总是很喜欢跟他们见面。
+
+:::
+
+:::lang eng
+
+At our sessions, I tell the newcomers the story of the Tennessee group and its spotting of Clayton Homes. I do this in the spirit of the farmer who enters his hen house with an ostrich egg and admonishes the flock: “I don't like to complain, girls, but this is just a small sample of what the competition is doing." To date, our new scouts have not brought us deals. But their mission in life has been made clear to them.
+
+:::
+
+:::lang chs
+
+在会面中，我告诉新来的访客有关田纳西州学生以及 Clayton 公司的故事，我之所以这么做，主要是出于一个农夫的精神，他拿着一颗鸵鸟蛋走进鸡舍时，告诫鸡群道“我不喜欢抱怨，但这是竞争对手的一个小样本！”，目前为止，我们这些新同学还没有为我们带来新案子，不过我想我应该已经很清楚地告诉他们的任务了。
+
+:::
+
+:::lang eng
+
+- You should be aware of an accounting rule that mildly distorts our financial statements in a pain-today, gain-tomorrow manner. Berkshire purchases life insurance policies from individuals and corporations who would otherwise surrender them for cash. As the new holder of the policies, we pay any premiums that become due and ultimately -- when the original holder dies -- collect the face value of the policies.
+
+:::
+
+:::lang chs
+
+- 大家应该意识到，一项会让我们今天的财务报表扭曲的会计原则，明天肯定会给我们回报，伯克希尔以现金向原本有意将保单贴现的个人及企业购买人寿保单，身为这些保单的新持有人，我们将支付后续到期的保费，等到原保单持有人过世后，我们则向保险公司领取保险理赔金。
+
+:::
+
+:::lang eng
+
+The original policyholder is usually in good health when we purchase the policy. Still, the price we pay for it is always well above its cash surrender value (“CSV”'). Sometimes the original policyholder has borrowed against the CSV to make premium payments. In that case, the remaining CSV will be tiny and our purchase price will be a large multiple of what the original policyholder would have received, had he cashed out by surrendering it.
+
+:::
+
+:::lang chs
+
+在买进保单之时，其原持有人的身体状况一般都不错，且我们买进的价格通常远高于保单现有价值（CSV, cash surrender value），有时原持有人甚至用 CSV 抵押借款来支付保费，在这种情况下，剩余的保单价值并不高，所以卖给我们的价格可能是他们自行向保险公司贴现的好几倍。
+
+:::
+
+:::lang eng
+
+Under accounting rules, we must immediately charge as a realized capital loss the excess over CSV that we pay upon purchasing the policy. We also must make additional charges each year for the amount by which the premium we pay to keep the policy in force exceeds the increase in CSV. But obviously, we don't think these bookkeeping charges represent economic losses. If we did, we wouldn't buy the policies.
+
+:::
+
+:::lang chs
+
+依照会计原则，我们在买进保单的同时，必须马上就买进价格与贴现价值的差异，认列一笔已实现的资本损失，同时以后每年还必须就当年度支付保费与贴现价值的差异提列支出费用，当然我们很清楚这仅仅是帐面上的损失，不代表真正的经济损失。因为我们这么做，显然是有利可图。
+
+:::
+
+:::lang eng
+
+During 2004, we recorded net “losses" from the purchase of policies (and from the premium payments required to maintain them) totaling $207 million, which was charged against realized investment gains in our earnings statement (included in “other” in the table on page 17).When the proceeds from these policies are received in the future, we will record as realized investment gain the excess over the then-CSV.
+
+:::
+
+:::lang chs
+
+2004 年，我们光是在这方面认列的损失就有 2.07 亿美元，列为其它资本利得的减项，当然日后等我们拿到理赔金时，也必须就实际收取金额与保单贴现价值的差异认列资本利得。
+
+:::
+
+:::lang eng
+
+- Two post-bubble governance reforms have been particularly useful at Berkshire, and I fault myself for not putting them in place many years ago. The first involves regular meetings of directors without the CEO present. I've sat on 19 boards, and on many occasions this process would have led to dubious plans being examined more thoroughly. In a few cases, CEO changes that were needed would also have been made more promptly. There is no downside to this process, and there are many possible benefits.
+
+:::
+
+:::lang chs
+
+- 有两项后泡沫时代的治理改革，对伯克希尔特别受用，而我很后悔没有早一点就付诸实施，第一项是推动定期召开 CEO 不得列席的董事会。我总计担任十九家公司的董事，而通常的情况下，这个过程会导致对可疑提案进行更彻底的审查。在少数情况下，必要的 CEO 更替也会更迅速的执行。这个方案没有任何坏处，同时还可带来正面的助益。
+
+:::
+
+:::lang eng
+
+The second reform concerns the "whistleblower line," an arrangement through which employees can send information to me and the board's audit committee without fear of reprisal. Berkshire's extreme decentralization makes this system particularly valuable both to me and the committee. (In a sprawling “city" of 180,000 -- Berkshire's current employee count -- not every sparrow that falls will be noticed at headquarters.) Most of the complaints we have received are of “the guy next to me has bad breath" variety, but on occasion I have learned of important problems at our subsidiaries that I otherwise would have missed. The issues raised are usually not of a type discoverable by audit, but relate instead to personnel and business practices. Berkshire would be more valuable today if I had put in a whistleblower line decades ago.
+
+:::
+
+:::lang chs
+
+第二项改革是“检举热线”，也就是公司所有员工都能够有渠道向我本人及董事会的审计委员会提供讯息，而不必担心遭到报复。伯克希尔极端的分权化，突显这项制度对我和委员会的重要性，在庞大如伯克希尔的帝国，员工人数已达 18 万人，总部不可能知道所有事情。在我们收到的投诉中，大部分是「坐在我隔壁的人有口臭」之类的抱怨，但偶尔我也会了解到子公司的一些会忽视掉的重大弊病，这些问题通常不容易经由正常的审查发现，而是关于个人行为与业务实践，我想当初若是早一点实施投诉改革，伯克希尔将可以更加美好。
+
+:::
+
+:::lang eng
+
+- Charlie and I love the idea of shareholders thinking and behaving like owners. Sometimes that requires them to be pro-active. And in this arena large institutional owners should lead the way.
+
+:::
+
+:::lang chs
+
+- 查理跟我一向推崇股东以老板的想法与做法自居，有时这需要他们主动一点，特别是大型机构投资人更应该身先士卒。
+
+:::
+
+:::lang eng
+
+So far, however, the moves made by institutions have been less than awe-inspiring. Usually, they've focused on minutiae and ignored the three questions that truly count. First, does the company have the right CEO? Second, is he/she overreaching in terms of compensation? Third, are proposed acquisitions more likely to create or destroy per-share value?
+
+:::
+
+:::lang chs
+
+可惜到目前为止，他们的举措仍乏善可陈，通常他们过于重视细节，却忘了最重要的三个关键问题，第一，公司 CEO 是否适任？第二，他的薪资是否过分？第三，拟议并购是否有损股东价值？
+
+:::
+
+:::lang eng
+
+On such questions, the interests of the CEO may well differ from those of the shareholders. Directors, moreover, sometimes lack the knowledge or gumption to overrule the CEO. Therefore, it's vital that large owners focus on these three questions and speak up when necessary.
+
+:::
+
+:::lang chs
+
+关于这些问题，CEO 的利益往往与股东大相径庭，而董事们有时可能缺乏否决 CEO 决定的智慧或勇气，也因此大股东对于这三个关键问题，同时大声说出自己的看法，就显得相当重要。
+
+:::
+
+:::lang eng
+
+Instead many simply follow a “checklist" approach to the issue *du jour*. Last year I was on the receiving end of a judgment reached in that manner. Several institutional shareholders and their advisors decided I lacked “independence" in my role as a director of Coca-Cola. One group wanted me removed from the board and another simply wanted me booted from the audit committee.
+
+:::
+
+:::lang chs
+
+结果有很多人只是按照检查清单的方式例行公事。去年，我就是此类方式做出裁决的受害者。几位机构股东和他们的顾问认定我担任可口可乐的董事缺乏独立性，其中有一个机构要求我退出该公司的董事会，另外一个好一点，只想把我赶出审计委员会。
+
+:::
+
+:::lang eng
+
+My first impulse was to secretly fund the group behind the second idea. Why anyone would wish to be on an audit committee is beyond me. But since directors must be assigned to one committee or another, and since no CEO wants me on his compensation committee, it's often been my lot to get an audit committee assignment. As it turned out, the institutions that opposed me failed and I was re-elected to the audit job. (I fought off the urge to ask for a recount.)
+
+:::
+
+:::lang chs
+
+我头一个反应是，我或许该偷偷地捐款给第二个机构，我不知道到底是谁想要待在审计委员会，通常董事会成员被分配到各个委员会，但由于没有任何一位 CEO 希望我待在薪酬委员会，所以一般我都会被安排到审计委员会。结果证明，这些机构的努力功败垂成，我还是被分到审计的任务，我忍住了要求重新投票的冲动。
+
+:::
+
+:::lang eng
+
+Some institutions questioned my "independence" because, among other things, McLane and Dairy Queen buy lots of Coke products. (Do they want us to favor Pepsi?) But independence is defined in Webster's as "not subject to control by others." I'm puzzled how anyone could conclude that our Coke purchases would “control" my decision-making when the counterweight is the well-being of $8 billion of Coke stock held by Berkshire. Assuming I'm even marginally rational, elementary arithmetic should make it clear that my heart and mind belong to the owners of Coke, not to its management.
+
+:::
+
+:::lang chs
+
+有些机构因为伯克希尔子公司 McLane 和冰雪皇后购买大量可口可乐产品，而质疑我的独立性，（难道他们希望我们改买百事可乐吗？），根据韦氏大辞典关于“独立”的定义，指的是“不受他人所控制”，我实在搞不懂，怎么会有人认为我会为了其间的蝇头小利，而牺牲个人在可口可乐高达 80 亿的股东权益，再退一步想，就算是小学生也应该知道，我的心是站在公司股东这边，而不是管理层那一边。
+
+:::
+
+:::lang eng
+
+I can't resist mentioning that Jesus understood the calibration of independence far more clearly than do the protesting institutions. In Matthew 6:21 He observed: “For where your treasure is, there will your heart be also." Even to an institutional investor, $8 billion should qualify as “treasure" that dwarfs any profits Berkshire might earn on its routine transactions with Coke.
+
+:::
+
+:::lang chs
+
+我忍不住要说，连耶稣基督都比这些抗议团体还要了解独立性的真义，在马修 6：21 章节中，他提到，“你的财富在那里，你的心就在那里”，我想即便对一个大型投资机构来说，80 亿美元也绝对是一笔不小的数目，远远超过与可口可乐往来能赚取的蝇头小利。
+
+:::
+
+:::lang eng
+
+Measured by the biblical standard, the Berkshire board is a model: (a) *every* director is a member of a family owning at least $4 million of stock; (b) *none* of these shares were acquired from Berkshire via options or grants; (c) *no* directors receive committee, consulting or board fees from the company that are more than a tiny portion of their annual income; and (d) although we have a standard corporate indemnity arrangement, we carry no liability insurance for directors.
+
+:::
+
+:::lang chs
+
+根据圣经的标准，伯克希尔的董事会堪称典范：（a）每位董事至少将 400 万美元以上的身家摆在伯克希尔；（b）这些股份都不少靠期权或赠与取得；（c）董事们领取的酬劳相较于自身的年所得都极其有限；（d）虽然我们有一套企业赔偿机制，但我们并没有替董事们安排任何责任保险。
+
+:::
+
+:::lang eng
+
+At Berkshire, board members travel the same road as shareholders.
+
+:::
+
+:::lang chs
+
+在伯克希尔，董事们与所有股东站在同一条船上。
+
+:::
+
+  ---
+
+:::lang eng
+
+Charlie and I have seen much behavior confirming the Bible's "treasure" point. In our view, based on our considerable boardroom experience, the *least* independent directors are likely to be those who receive an important fraction of their annual income from the fees they receive for board service (and who hope as well to be recommended for election to other boards and thereby to boost their income further). Yet these are the very board members most often classed as “independent.”
+
+:::
+
+:::lang chs
+
+查理跟我已看过很多符合圣经所说“宝藏”观点的种种行为，根据多年的董事会经验，最不独立的董事当属那些依赖董事酬劳过生活的人，他们期待被推荐加入其他董事会，从而进一步增加收入。更可笑的是，正是这些人被归类为独立的董事。
+
+:::
+
+:::lang eng
+
+Most directors of this type are decent people and do a first-class job. But they wouldn't be human if they weren't tempted to thwart actions that would threaten their livelihood. Some may go on to succumb to such temptations.
+
+:::
+
+:::lang chs
+
+这类董事举止大多彬彬有礼，且有一流的工作，但人的天性使得他们不得不反对可能危及其生计的任何方案，基于诱惑而继续沉沦下去。
+
+:::
+
+:::lang eng
+
+Let's look at an example based upon circumstantial evidence. I have first-hand knowledge of a recent acquisition proposal (not from Berkshire) that was favored by management, blessed by the company's investment banker and slated to go forward at a price above the level at which the stock had sold for some years (or now sells for). In addition, a number of directors favored the transaction and wanted it proposed to shareholders.
+
+:::
+
+:::lang chs
+
+让我们看看周遭现实的状况为何，关于最近刚传出的一件并购案（与伯克希尔无关），我有第一手的资料，管理层相当青睐这件收购案，而投资银行也觉得相当不错，因为并购价格远高于目前股票的市价，此外许多董事也相当赞同，并准备提案到股东会表决。
+
+:::
+
+:::lang eng
+
+Several of their brethren, however, each of whom received board and committee fees totaling about $100,000 annually, scuttled the proposal, which meant that shareholders never learned of this multi-billion offer. Non-management directors owned little stock except for shares they had received from the company. Their open-market purchases in recent years had meanwhile been nominal, even though the stock had sold far below the acquisition price proposed. In other words, these directors didn't want the shareholders to be offered X even though they had consistently declined the opportunity to buy stock for their own account at a fraction of X.
+
+:::
+
+:::lang chs
+
+然而就在此时，有几位董事会的同僚，每位每年平均都从公司领取超过十万美元酬劳，却跳出来大表反对，最后使得这件金额高达数十亿美元的并购案胎死腹中，这些未参与公司实际经营的外部董事，仅持有极少数的股权，且多数为公司所赠与，且很奇怪的是，虽然目前的股价远低于并购的提案价格，却不见他们自己从市场买进多少股份，换言之，这些董事压根就不希望股东们提出 X 价格的报价，同时自己却也不愿从市场上以 X 价格买进部分股权。
+
+:::
+
+:::lang eng
+
+I don't know which directors opposed letting shareholders see the offer. But I do know that $100,000 is an important portion of the annual income of some of those deemed “independent,” clearly meeting the Matthew 6:21 definition of "treasure." If the deal had gone through, these fees would have ended.
+
+:::
+
+:::lang chs
+
+我不知道到底是那几位董事反对让股东们看到相关的报价，但我却很清楚这十万美元的酬劳，对这些被外界视为独立的董事来说，至关紧要，绝对称得上圣经上所说的财富，而万一这件并购案要是谈成了，他们每年固定可以领取的董事酬劳将因此泡汤。
+
+:::
+
+:::lang eng
+
+Neither the shareholders nor I will ever know what motivated the dissenters. Indeed they themselves will not likely know, given that self-interest inevitably blurs introspection. We do know one thing, though: At the same meeting at which the deal was rejected, the board voted itself a significant increase in directors' fees.
+
+:::
+
+:::lang chs
+
+我想不论是我或是该公司的股东，永远都不会知道是谁提出反对的议案，而基于私利，这群人也永远不知道要如何反省，但至少我还知道一件事，那就是就在拒绝这项收购案的同一次董事会上，另一项大幅提高董事酬劳的提岸却获得通过。
+
+:::
+
+:::lang eng
+
+- While we are on the subject of self-interest, let's turn again to the most important accounting mechanism still available to CEOs who wish to overstate earnings: the non-expensing of stock options. The accomplices in perpetuating this absurdity have been many members of Congress who have defied the arguments put forth by all Big Four auditors, all members of the Financial Accounting Standards Board and virtually all investment professionals.
+
+:::
+
+:::lang chs
+
+- 既然我们提到利己主义的话题，就让我们再来聊聊最容易让管理层夸大收益的最重要的会计手法，也就是股票期权的非费用化。参与这项荒谬闹剧的共犯包含国会议员，他们公然蔑视四大会计师事务所以及会计准则委员会 FASB 所有成员及众多投资专家所提的建言。
+
+:::
+
+:::lang eng
+
+I'm enclosing an [op-ed piece](https://www.berkshirehathaway.com/letters/options.pdf) I wrote for *The Washington Post* describing a truly breathtaking bill that was passed 312-111 by the House last summer. Thanks to Senator Richard Shelby, the Senate didn't ratify the House's foolishness. And, to his great credit, Bill Donaldson, the investor-minded Chairman of the SEC, has stood firm against massive political pressure, generated by the check-waving CEOs who first muscled Congress in 1993 about the issue of option accounting and then repeated the tactic last year.
+
+:::
+
+:::lang chs
+
+附件有一篇我曾在《华盛顿邮报》刊登的社论（Stock Options and Common Sense，2002/4/9），文中提到去年夏天在众议院以 312 票对 111 票通过的一项惊世骇俗的法案，多亏参议员 Richard Shelby 的阻挡，参议院最后并未批准众议院的愚蠢行为，另外 SEC 主席 Bill Donaldson 以其一生清誉，坚定抵挡强大的政治压力，大企业 CEO 们企图利用政治献金游说国会议员，重施在 1993 年封杀期权会计原则实行的故技。
+
+:::
+
+:::lang eng
+
+Because the attempts to obfuscate the stock-option issue continue, it's worth pointing out that no one -- neither the FASB, nor investors generally, nor I -- are talking about restricting the use of options in any way. Indeed, my successor at Berkshire may well receive much of his pay via options, albeit logically-structured ones in respect to 1) an appropriate strike price, 2) an escalation in price that reflects the retention of earnings, and 3) a ban on his quickly disposing of any shares purchased through options. We cheer arrangements that motivate managers, whether these be cash bonuses or options. And if a company is truly receiving value for the options it issues, we see no reason why recording their cost should cut down on their use.
+
+:::
+
+:::lang chs
+
+由于让期权议题模糊化的力量毫不停歇，所以我还是要不厌其烦地再一次强调，包含财务会计准则委员会 FASB，一般投资大众以及我本人在内，从来就没有人主张限制股票期权的使用，事实上，包含未来伯克希尔的继任者在内，都很有可能会经由期权获得大量的薪酬，只不过这种期权必须经过各方面的仔细核算，包含（1）适当的执行价格；（2）将保留收益本身的增长能力考量在内；（3）限制其在取得股份后不久就处份。我们赞成任何激励管理层的措施，不管是现金或者是股票期权，而若期权的发行真有助于公司价值的提升，我们看不出有任何理由只因为必须将其成本列为费用就弃而不用。
+
+:::
+
+:::lang eng
+
+The simple fact is that certain CEOs know their own compensation would be far more rationally determined if options were expensed. They also suspect that their stock would sell at a lower price if realistic accounting were employed, meaning that they would reap less in the market when they unloaded their personal holdings. To these CEOs such unpleasant prospects are a fate to be fought with all the resources they have at hand -- even though the funds they use in that fight normally don't belong to them, but are instead put up by their shareholders.
+
+:::
+
+:::lang chs
+
+真正的原因其实很简单，那就是某些 CEO 明知一旦将期权费用化后，他们所获取的酬劳突然间将被迫全部摊开在阳光底下，同时费用化也将影响其未来处置其持股的价格，后者关乎其真正获得的回报，这使得他们必须倾全力悍卫自己的利益，讽刺的是，他们用的还是公司的钱，这全是股东们的血汗钱。
+
+:::
+
+:::lang eng
+
+Option-expensing is scheduled to become mandatory on June 15th. You can therefore expect intensified efforts to stall or emasculate this rule between now and then. Let your Congressman and Senators know what you think on this issue.
+
+:::
+
+:::lang chs
+
+期权费用化将在今年 6 月 15 日起强制实行，大家可以预期此后将不断有人企图阻止或是废除相关规定，去之而后快，务必让你选区的议员知道你对于这项议题的立场。
+
+:::
+
+# The Annual Meeting 年度股东大会
+
+:::lang eng
+
+There are two changes this year concerning the annual meeting. First, we have scheduled the meeting for the last Saturday in April (the 30th), rather than the usual first Saturday in May. This year Mother's Day falls on May 8, and it would be unfair to ask the employees of Borsheim's and Gorat's to take care of us at that special time -- so we've moved everything up a week. Next year we'll return to our regular timing, holding the meeting on May 6, 2006.
+
+:::
+
+:::lang chs
+
+关于股东年会今年有两项变革，首先由于母亲节缘故，股东大会日期改为 4 月的最后一个周六（也就是 4 月 30 日），而不是以往的 5 月第一个周六，实在是不好意思要求波仙珠宝及 Gorat's 牛排店在这个重要节日来为我们服务，因此我们决定提早一个周举行，明年我们就会恢复以往惯例，在 2006 年 5 月 6 日召开。
+
+:::
+
+:::lang eng
+
+Additionally, we are changing the sequence of events on meeting day, April 30. Just as always, the doors will open at the Qwest Center at 7 a.m. and the movie will be shown at 8:30. At 9:30, however. we will go directly to the question and answer period, which (allowing for lunch at the Qwest's stands) will last until 3:00. Then, after a short recess, Charlie and I will convene the annual meeting at 3:15.
+
+:::
+
+:::lang chs
+
+此外，我们也改变了开会当天的程序，Qwest 中心的大门还是会在早上 7 点钟准时开放、电影短片照例会在 8 点半播放，不过问答的时间会提早到 9 点半开始，（会场中午备有点心摊位），一直到下午 3 点为止，然后在短暂的休息之后，在 3:15 开始召开正式会议
+
+:::
+
+:::lang eng
+
+We have made this change because a number of shareholders complained last year about the time consumed by two speakers who advocated proposals of limited interest to the majority of the audience -- and who were no doubt relishing their chance to talk to a captive group of about 19,500. With our new procedure, those shareholders who wish to hear it all can stick around for the formal meeting and those who don't can leave -- or better yet shop.
+
+:::
+
+:::lang chs
+
+之所以会这样做，是因为有些股东抱怨去年有两位股东提出两项无关紧要的议题，浪费在座 19,500 位股东宝贵的时间，在改变程序之后，那些想要畅所欲言，全程参与的股东，可以一直待到会议结束，而没有兴趣浪费时间的股东也可提早离开去血拼。
+
+:::
+
+:::lang eng
+
+There will be plenty of opportunity for that pastime in the vast exhibition hall that adjoins the meeting area. Kelly Muchemore, the Flo Ziegfeld of Berkshire, put on a magnificent shopping extravaganza last year, and she says that was just a warm-up for this year. (Kelly, I am delighted to report, is getting married in October. I'm giving her away and suggested that she make a little history by holding the wedding at the annual meeting. She balked, however, when Charlie insisted that he be the ringbearer.)
+
+:::
+
+:::lang chs
+
+当天在会场旁边的展场也会有许多娱兴节目，Kelly Muchemore 伯克希尔的FloZiegfeld去年布置了一件大型的展览品，不过她说去年只是热身而已，我很高兴向大家报告，Kelly 在去年十月结婚，我本来建议她选在股东大会时举行婚礼，可惜由于查理坚持要做男伴郎而作罢。
+
+:::
+
+:::lang eng
+
+Again we will showcase a 2,100 square foot Clayton home (featuring Acme brick, Shaw carpet, Johns Manville insulation, MiTek fasteners, Carefree awnings and NFM furniture). Take a tour through the home. Better yet, buy it.
+
+:::
+
+:::lang chs
+
+我们将再一次在会场展示一个 2,100 平方英尺的 Clayton 预制房屋，配备有 Acme 砖块、Shaw 地毯、Johns Manville 隔热材料、MiTek 连接件、Carefree 屋檐及内布拉斯加家具店家具，记得来参观一下，最好顺便买一套。
+
+:::
+
+:::lang eng
+
+GEICO will have a booth staffed by a number of its top counselors from around the country, all of them ready to supply you with auto insurance quotes. In most cases, GEICO will be able to give you a special shareholder discount (usually 8%). This special offer is permitted by 45 of the 50 jurisdictions in which we operate. Bring the details of your existing insurance and check out whether we can save you money.
+
+:::
+
+:::lang chs
+
+GEICO 公司会再度派出各地区最顶尖的业务员，在会场设立摊位，随时提供股东们汽车保单的报价，在大多数的情况下，GEICO 都可以提供给你一个相当优惠的股东折扣（大约8%），这个特别优惠在我们有营业据点的全美 50 州中的 45 州都有效，各位记得将自己现在的投保资料带来，看看是否能帮自己省下一笔钱。
+
+:::
+
+:::lang eng
+
+On Saturday, at the Omaha airport, we will have the usual array of aircraft from NetJets® available for your inspection. Stop by the NetJets booth at the Qwest to learn about viewing these planes. Come to Omaha by bus; leave in your new plane.
+
+:::
+
+:::lang chs
+
+周六在奥马哈机场，我们仍将展示 NetJets 一系列的机队供大家参观，请到 Qwest 会场向 EJA 的业务代表洽询参观的事宜，来的时候坐车，回去可以搭飞机。
+
+:::
+
+:::lang eng
+
+The Bookworm shop did a terrific business last year selling Berkshire-related books. Displaying 18 titles, they sold 2,920 copies for $61,000. Since we charge the shop no rent (I must be getting soft), it gives shareholders a 20% discount. This year I've asked The Bookworm to add Graham Allison's *Nuclear Terrorism: The Ultimate Preventable Catastrophe*, a must-read for those concerned with the safety of our country. In addition, the shop will premiere *Poor Charlie's Almanack*, a book compiled by Peter Kaufman. Scholars have for too long debated whether Charlie is the reincarnation of Ben Franklin. This book should settle the question.
+
+:::
+
+:::lang chs
+
+去年书虫书店在会场设摊销售伯克希尔相关书籍，全部 18 种，总计卖出 2,920 本，因为摊位不收租金（我越来越好讲话了），所以股东买书都可以打 8 折，今年我特地要求书虫增加 Graham Allison 所著的《核恐怖主义:可预防的终极灾害》，这是所有关心国家安危必读的书籍，此外当天还会发行 Peter Kaufman 所著《穷查理宝典》，一直以来许多学者都在争论查理是否为富兰克林再世，我想这本书或可解决大家的疑问。
+
+:::
+
+:::lang eng
+
+An attachment to the proxy material that is enclosed with this report explains how you can obtain the credential you will need for admission to the meeting and other events. As for plane, hotel and car reservations, we have again signed up American Express (800-799-6634) to give you special help. They do a terrific job for us each year, and I thank them for it.
+
+:::
+
+:::lang chs
+
+后面附有股东会开会投票的相关资料，向各位解释如何拿到股东会入场及其它活动必须的识别证，至于有关机位、住宿、租车等预订服务，我们很高兴与美国运通（电话 800-799-6634）再次签约为您提供相关安排，每年他们都为大家提供非常好的服务，在此谨代表大家向他们说声谢谢。
+
+:::
+
+:::lang eng
+
+At Nebraska Furniture Mart, located on a 77-acre site on 72nd Street between Dodge and Pacific. we will again be having "Berkshire Weekend" pricing. We initiated this special event at NFM eight years ago, and sales during the “Weekend” grew from $5.3 million in 1997 to $25.1 million in 2004 (up 45% from a year earlier). Every year has set a new record, and on Saturday of last year, we had the largest single-day sales in NFM's history -- $6.1 million.
+
+:::
+
+:::lang chs
+
+位于道奇街与太平洋街占地 77 英亩的内布拉斯加家具店，再度会有伯克希尔周特卖，我们在八年前首次推出这种促销活动，营业额更一举从 1997 年的 530 万美元成长到 2004 年的 2,510 万美元，每年的销售成绩持续创新高，去年股东会周末再度创下单日营业额新高 610 万美元。
+
+:::
+
+:::lang eng
+
+To get the discount, you must make your purchases between Thursday, April 28 and Monday, May 2 inclusive, and also present your meeting credential. The period's special pricing will even apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting but that, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday. On Saturday this year, from 5:30 p.m. to 8 p.m. we are having a special affair for shareholders only. I'll be there, eating barbeque and drinking Coke.
+
+:::
+
+:::lang chs
+
+想要享有折扣记得在 4 月 28 日周四到 5 月 2 日周一间采购，并出示股东开会证明，在这期间的特卖活动也适用于许多原本从不打折的顶级品牌，这可是为了股东会才特别破例，我们很感谢他们的配合，内布拉斯加家具店的营业时间平日从早上 10 点到下午 9 点，周六及周日则从早上 10 点到下午 6 点，在今年的周六，我们将有一个股东会特卖会，时间从下午 5 点半到下午 8 点，我本人也将出席，顺便吃点烤肉配配可乐。
+
+:::
+
+:::lang eng
+
+Borsheim's -- the largest jewelry store in the country except for Tiffany's Manhattan store --will have two shareholder-only events. The first will be a cocktail reception from 6 p.m. to 10 p.m. on Friday, April 29. The second, the main gala, will be from 9 a.m. to 4 p.m. on Sunday, May 1. On Saturday, we will be open until 6p.m.
+
+:::
+
+:::lang chs
+
+波仙珠宝是全美单店营业额仅次于纽约曼哈顿蒂芙尼的珠宝店，在股东会期间将会有两场专为股东举办的展览会，第一场是在 4 月 29 日周五的鸡尾酒会，时间从下午 6 点到晚上 10 点，第二场大型售卖活动则在 5 月 1 日周日举行，从早上 9 点到下午 4 点，周六则营业到下午 6 点。
+
+:::
+
+:::lang eng
+
+We will have huge crowds at Borsheim's throughout the weekend. For your convenience, therefore, shareholder prices will be available from Monday, April 25 through Saturday, May 7. During that period, just identify yourself as a shareholder through your meeting credentials or a brokerage statement.
+
+:::
+
+:::lang chs
+
+整个周末波仙都将人满为患，从 4 月 25 日周一到 5 月 7 日周六的股东会期间，波仙都将提供股东特惠价，只要出示出席证或者是委托书表明股东的身分即可享有折扣。
+
+:::
+
+:::lang eng
+
+Borsheim's operates on a gross margin that is fully twenty percentage points below that of its major rivals, even before the shareholders' discount. Last year, business over the weekend increased 73% from 2003, setting a record that will be tough to beat. Show me it can be done.
+
+:::
+
+:::lang chs
+
+波仙的营业毛利要比其它主要竞争对手要低 20 个百分点以上，去年的营业额较前年又成长了 73%，再度创下历史的新高，让我们努力把它打破。
+
+:::
+
+:::lang eng
+
+In a tent outside of Borsheim's, Patrick Wolff, twice U.S. chess champion, will take on all comers in groups of six -- blindfolded. Additionally, we will have Bob Hamman and Sharon Osberg, two of the world's top bridge experts, available to play with our shareholders on Sunday afternoon. They plan to keep their eyes *open* -- but Bob never sorts his cards, even when playing for a national championship.
+
+:::
+
+:::lang chs
+
+波仙外面所搭的棚子内，Patrick Wolff 美国棋两度冠军，也会再度在会场蒙着眼与所有挑战者分六个一组分批对奕，此外两位世界级桥牌顶尖高手 Bob Hamman、Sharon Osberg 也会在周日下午与大家同乐，当然他们不会蒙眼，不过以 Bob 的习惯，他从来不整理牌组，就算是在参加全国桥牌大赛时，也是如此。
+
+:::
+
+:::lang eng
+
+Gorat's -- my favorite steakhouse -- will again be open exclusively for Berkshire shareholders on Sunday, May 1, and will be serving from 4 p.m. until 10 p.m. Please remember that to come to Gorat's on that day, you must have a reservation. To make one, call 402-551-3733 on April 1 (*but not before*). If Sunday is sold out, try Gorat's on one of the other evenings you will be in town. Enhance your reputation as an epicure by ordering, as I do, a rare T-bone with a double helping of hash browns.
+
+:::
+
+:::lang chs
+
+我个人最爱的 Gorat's 牛排馆，为了伯克希尔股东年会破例在 5 月 1 日周日开门营业，从下午 4 点开始营业，一直到晚上 10 点，请记得周日事先若没有订位的人请勿前往以免向隅，要预约请在 4 月 1 日以后打电话（402-551-3733），若订不到周日的位子，也可以试试其它晚上，记得跟我一样，老练一点地点丁骨牛排加上双份的牛肉丸。
+
+:::
+
+:::lang eng
+
+We will again have a special reception from 4:00 to 5:30 on Saturday afternoon for shareholders who have come from outside of North America. Every year our meeting draws many people from around the globe, and Charlie and I want to be sure we personally greet those who have come so far. Last year we enjoyed meeting more than 400 of you including at least 100 from Australia. Any shareholder who comes from other than the U.S. or Canada will be given a special credential and instructions for attending this function.
+
+:::
+
+:::lang chs
+
+周六下午 4 点到 5 点半，我们也会为来自北美以外地区的股东举行欢迎会，每年股东年会吸引了来自世界各地的人们参与，查理跟我希望能够亲自接待这些远道而来的股东，去年人数达到 400 位，其中至少有 100 位是来自澳洲，任何来自美国与加拿大地区以外的股东事先都会拿到参与这项仪式的证明与注意事项。
+
+:::
+
+---
+
+:::lang eng
+
+Charlie and I are lucky. We have jobs that we love and are helped every day in a myriad of ways by talented and cheerful associates. No wonder we tap-dance to work. But nothing is more fun for us than getting together with our shareholder-partners at Berkshire's annual meeting. So join us on April 30th at the Qwest for our annual Woodstock for Capitalists.
+
+:::
+
+:::lang chs
+
+查理跟我真是幸运，每天能够从事我们喜爱的工作，同时有这么多有干劲的同仁协助，也难怪我们每天都能够跳着踢踏舞上班，当然每年能够与股东伙伴们同乐更是一大乐事，所以再次欢迎大家到 Qwest 中心参加为资本家举办的年度伍德斯托克音乐节。
+
+:::
+
+:::lang eng
+
+Warren E. Buffett
+
+:::
+
+:::lang chs
 
 沃伦·巴菲特
 
+:::
+
+:::lang eng
+
+Chairman of the Board
+
+:::
+
+:::lang chs
+
 董事会主席
 
+:::
+
+:::lang eng
+
+February 28, 2005
+
+:::
+
+:::lang chs
+
 2005年2月28日
+
+:::
+
+:::lang chs
+
+[^1]: By 孙萧萧 @20231011
+
+:::
+
+:::lang chs
+
+原文：Includes, in addition to National Indemnity, a variety of other exceptional insurance businesses, run by Rod Eldred, John Kizer, Tom Nerney and Don Towle.
+
+:::
+
+:::lang chs
+
+肖良版：未译
+
+:::
+
+:::lang chs
+
+译文（DeepL翻译）：除国家赔偿公司外，还包括罗德·埃尔德里德（Rod Eldred）、约翰·基泽尔（John Kizer）、汤姆·纳尼（Tom Nerney）和唐·托尔（Don Towle）经营的其他各种出色的保险业务。
+
+:::
+

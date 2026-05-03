@@ -1,19 +1,19 @@
 @use "./base.scss";
 
 // i18n support
-html[saved-language="en"] .lang-zh {
+html[saved-language="eng"] .lang-chs {
   display: none !important;
 }
-html[saved-language="zh"] .lang-en {
+html[saved-language="chs"] .lang-eng {
   display: none !important;
 }
-span.lang-en, span.lang-zh {
+span.lang-eng, span.lang-chs {
   display: inline;
 }
-div.lang-en, div.lang-zh {
+div.lang-eng, div.lang-chs {
   display: block;
 }
-p.lang-en, p.lang-zh, p.lang-common {
+p.lang-eng, p.lang-chs, p.lang-common {
   display: block;
 }
 div.lang-common {

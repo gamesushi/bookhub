@@ -1,354 +1,1656 @@
 ---
-title_zh: "2018 年致股东的信"
+title_chs: "2018 年致股东的信"
 dg-publish: true
 ---
-# 2018-巴菲特致股东信
-
-伯克希尔与标普500指数业绩对比
-
-| 年份 | 伯克希尔每股账面价值年度变动百分比 | 伯克希尔每股市值年度变动百分比 | 含股息标普500指数年度变动百分比 |
-| --- | --- | --- | --- |
-| 1965 | 23.8 | 49.5 | 10.0 |
-| 1966 | 20.3 | (3.4) | (11.7) |
-| 1967 | 11.0 | 13.3 | 30.9 |
-| 1968 | 19.0 | 77.8 | 11.0 |
-| 1969 | 16.2 | 19.4 | (8.4) |
-| 1970 | 12.0 | (4.6) | 3.9 |
-| 1971 | 16.4 | 80.5 | 14.6 |
-| 1972 | 21.7 | 8.1 | 18.9 |
-| 1973 | 4.7 | (2.5) | (14.8) |
-| 1974 | 5.5 | (48.7) | (26.4) |
-| 1975 | 21.9 | 2.5 | 37.2 |
-| 1976 | 59.3 | 129.3 | 23.6 |
-| 1977 | 31.9 | 46.8 | (7.4) |
-| 1978 | 24.0 | 14.5 | 6.4 |
-| 1979 | 35.7 | 102.5 | 18.2 |
-| 1980 | 19.3 | 32.8 | 32.3 |
-| 1981 | 31.4 | 31.8 | (5.0) |
-| 1982 | 40.0 | 38.4 | 21.4 |
-| 1983 | 32.3 | 69.0 | 22.4 |
-| 1984 | 13.6 | (2.7) | 6.1 |
-| 1985 | 48.2 | 93.7 | 31.6 |
-| 1986 | 26.1 | 14.2 | 18.6 |
-| 1987 | 19.5 | 4.6 | 5.1 |
-| 1988 | 20.1 | 59.3 | 16.6 |
-| 1989 | 44.4 | 84.6 | 31.7 |
-| 1990 | 7.4 | (23.1) | (3.1) |
-| 1991 | 39.6 | 35.6 | 30.5 |
-| 1992 | 20.3 | 29.8 | 7.6 |
-| 1993 | 14.3 | 38.9 | 10.1 |
-| 1994 | 13.9 | 25.0 | 1.3 |
-| 1995 | 43.1 | 57.4 | 37.6 |
-| 1996 | 31.8 | 6.2 | 23.0 |
-| 1997 | 34.1 | 34.9 | 33.4 |
-| 1998 | 48.3 | 52.2 | 28.6 |
-| 1999 | 0.5 | (19.9) | 21.0 |
-| 2000 | 6.5 | 26.6 | (9.1) |
-| 2001 | (6.2) | 6.5 | (11.9) |
-| 2002 | 10.0 | (3.8) | (22.1) |
-| 2003 | 21.0 | 15.8 | 28.7 |
-| 2004 | 10.5 | 4.3 | 10.9 |
-| 2005 | 6.4 | 0.8 | 4.9 |
-| 2006 | 18.4 | 24.1 | 15.8 |
-| 2007 | 11.0 | 28.7 | 5.5 |
-| 2008 | (9.6) | (31.8) | (37.0) |
-| 2009 | 19.8 | 2.7 | 26.5 |
-| 2010 | 13.0 | 21.4 | 15.1 |
-| 2011 | 4.6 | (4.7) | 2.1 |
-| 2012 | 14.4 | 16.8 | 16.0 |
-| 2013 | 18.2 | 32.7 | 32.4 |
-| 2014 | 8.3 | 27.0 | 13.7 |
-| 2015 | 6.4 | (12.5) | 1.4 |
-| 2016 | 10.7 | 23.4 | 12.0 |
-| 2017 | 23.0 | 21.9 | 21.8 |
-| 2018 | 0.4 | 2.8 | (4.4) |
-| 年复合增长率——1965-2018 | 18.7% | 20.5% | 9.7% |
-| 累计总收益——1964-2018 | 1,091,899% | 2,472,627% | 15,019% |
 
-注： 数据为日历年度，但以下年份除外：1965年和1966年为截至9月30日的财年；1967年为截至12月31日的15个月。自1979年起，会计准则要求保险公司按市值而非成本与市值孰低来计量所持有的权益证券。在本表中，1978年及之前年度的伯克希尔数据已按变更后的准则进行了重述。其余各方面，均使用最初报告的数据。标普500指数的数据为税前数据，而伯克希尔的数据为税后数据。如果像伯克希尔这样的公司只是简单地持有标普500指数并计提相应税款，那么在指数取得正收益的年份，其业绩将落后于标普500指数；而在指数取得负收益的年份，其业绩则会超过标普500指数。多年累积下来，税收成本将导致相当大的整体落后幅度。
+:::lang chs
+
+原文信息：
+
+:::
+
+:::lang chs
+
+- 标题：2018 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：2019-02-23
+- 链接：[PDF](https://www.berkshirehathaway.com/letters/2018ltr.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Ponge
+
+:::
+
+---
+
+:::lang eng
+
+**Berkshire’s Performance vs. the S&P 500**
 
-致伯克希尔·哈撒韦公司 (Berkshire Hathaway Inc.) 所有股东：
+:::
 
-按照通用会计准则（GAAP），伯克希尔 (Berkshire) 2018年盈利40亿美元。这个数字的组成部分包括：248亿美元的经营收益；30亿美元的非现金无形资产减值损失（几乎全部来自我们对[[卡夫亨氏|卡夫亨氏]] (Kraft Heinz) 的持股）；28亿美元出售投资证券所实现的资本利得；以及因我们投资组合中未实现资本利得减少而带来的206亿美元亏损。
+:::lang common
 
-GAAP的一项新规要求我们必须将最后一项计入当期收益。正如我在2017年年报中所强调的，无论是伯克希尔副董事长查理·芒格 (Charlie Munger) 还是我，都不认为这条规则是合理的。我们一直认为，在伯克希尔，这种按市值计价的变化将产生我所描述的"净收益剧烈而无常的波动"。
+Year|Annual Percentage Change in Per-Share Book Value of Berkshire|Annual Percentage Change in Per-Share Market Value of Berkshire| Annual Percentage Change in S&P 500 with Dividends Included
+---|---:|---:|---:
+1965|23.8|49.5|10.0
+1966|20.3|(3.4)|(11.7)
+1967|11.0|13.3|30.9
+1968|19.0|77.8|11.0
+1969|16.2|19.4|(8.4)
+1970|12.0|(4.6)|3.9
+1971|16.4|80.5|14.6
+1972|21.7|8.1|18.9
+1973|4.7|(2.5)|(14.8)
+1974|5.5|(48.7)|(26.4)
+1975|21.9|2.5|37.2
+1976|59.3|129.3|23.6
+1977|31.9|46.8|(7.4)
+1978|24.0|14.5|6.4
+1979|35.7|102.5|18.2
+1980|19.3|32.8|32.3
+1981|31.4|31.8|(5.0)
+1982|40.0|38.4|21.4
+1983|32.3|69.0|22.4
+1984|13.6|(2.7)|6.1
+1985|48.2|93.7|31.6
+1986|26.1|14.2|18.6
+1987|19.5|4.6|5.1
+1988|20.1|59.3|16.6
+1989|44.4|84.6|31.7
+1990|7.4|(23.1)|(3.1)
+1991|39.6|35.6|30.5
+1992|20.3|29.8|7.6
+1993|14.3|38.9|10.1
+1994|13.9|25.0|1.3
+1995|43.1|57.4|37.6
+1996|31.8|6.2|23.0
+1997|34.1|34.9|33.4
+1998|48.3|52.2|28.6
+1999|0.5|(19.9)|21.0
+2000|6.5|26.6|(9.1)
+2001|(6.2)|6.5|(11.9)
+2002|10.0|(3.8)|(22.1)
+2003|21.0|15.8|28.7
+2004|10.5|4.3|10.9
+2005|6.4|0.8|4.9
+2006|18.4|24.1|15.8
+2007|11.0|28.7|5.5
+2008|(9.6)|(31.8)|(37.0)
+2009|19.8|2.7|26.5
+2010|13.0|21.4|15.1
+2011|4.6|(4.7)|2.1
+2012|14.4|16.8|16.0
+2013|18.2|32.7|32.4
+2014|8.3|27.0|13.7
+2015|6.4|(12.5)|1.4
+2016|10.7|23.4|12.0
+2017|23.0|21.9|21.8
+2018|0.4|2.8|(4.4)
+Compounded Annual Gain -- 1965-2018|18.7%|20.5%|9.7%
+Overall Gain -- 1964-2018|1,091,899%|2,472,627%|15,019%
 
-这一预言的准确性从我们2018年的季度业绩中就能看出来。第一和第四季度，我们分别报告了11亿美元和254亿美元的GAAP亏损。第二和第三季度，我们分别报告了120亿美元和185亿美元的利润。与这些剧烈波动形成鲜明对比的是，伯克希尔旗下的众多业务在每一个季度都实现了持续且令人满意的经营收益。全年来看，这些经营收益比2016年176亿美元的高点增长了41%。
+:::
 
-我们季度GAAP收益的大幅波动将不可避免地持续下去。这是因为我们庞大的股票投资组合——截至2018年底市值接近1730亿美元——经常会经历单日20亿美元甚至更多的价格波动，而新规则要求这些波动必须立即计入我们的净收益。事实上，在股价剧烈波动的第四季度，我们有好几天都经历了单日"盈利"或"亏损"超过40亿美元的情况。
+:::lang eng
 
-我们的建议呢？请关注经营收益，不要在意各种利得或亏损。我这么说丝毫没有削弱投资对伯克希尔的重要性。长远来看，查理和我预计我们的投资将带来可观的收益，尽管时机将高度不规律。
+**Note:** Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31. Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-tax**. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
 
-长期阅读我们年报的读者会发现，这封信的开头和往年不同了。近三十年来，股东信的第一段一直是报告伯克希尔每股[[账面价值|账面价值]]的百分比变化。现在是时候放弃这个做法了。
+:::
 
-事实是，伯克希尔账面价值的年度变化——它在第2页做了最后一次亮相——已经失去了曾经的意义。三个因素导致了这种变化。第一，伯克希尔已经逐步从一家资产集中于上市股票投资的公司，转变为一家主要价值蕴含在运营业务中的公司。查理和我预计这种转型将以不规律的方式继续下去。第二，虽然我们持有的股票是按市价计值的，但会计准则要求我们旗下的运营企业以远低于其当前价值的金额计入账面价值，这种偏差近年来越来越大。第三，随着时间推移，伯克希尔很可能将成为自身股票的重要回购方，而回购价格将高于账面价值但低于我们估计的[[内在价值|内在价值]]。这种回购的数学原理很简单：每一笔交易都会使每股内在价值上升，而每股账面价值下降。两者结合的结果，是账面价值这张记分卡越来越脱离经济现实。
+# BERKSHIRE HATHAWAY INC.
 
-在未来的业绩表中，我们将重点关注伯克希尔的市场价格。市场可以非常反复无常——看看第2页列出的54年历史就知道了。但长期而言，伯克希尔的股价将提供衡量企业业绩的最佳标尺。
+:::lang eng
 
-话题继续之前，我要告诉你们一个好消息——真正的好消息——它没有反映在我们的财务报表中。这关乎我们在2018年初进行的管理层变革：阿吉特·贾恩 (Ajit Jain) 受命执掌全部[[保险业|保险业]]务，格雷格·阿贝尔 (Greg Abel) 则获授权管理所有其他业务。这些调整早就该做了。现在的伯克希尔，比我独自监管运营时管理得好多了。阿吉特和格雷格都有罕见的才华，伯克希尔的血液流淌在他们的血管里。
+**To the Shareholders of Berkshire Hathaway Inc.:**
 
-好了，现在让我们来看看你们拥有的都是些什么。
+:::
 
-评估伯克希尔时，投资者有时会过度纠结于我们众多不同业务的细节——也就是我们经济"森林"中的一棵棵"树"。考虑到我们拥有的品种从小树苗到参天红杉无所不包，逐一分析会让人头脑发麻。我们有几棵树已经染了病，大概撑不过十年。但其他很多树木，注定会长得更加高大秀美。
+:::lang chs
 
-幸运的是，要粗略估计伯克希尔的内在商业价值，并不需要逐棵评估每一棵树。因为我们的森林里有五片非常重要的"树林"，每一片都可以相当准确地进行整体评估。其中四片是由容易理解的多元业务集群和金融资产组成的。第五片——我们庞大而多元的[[保险业|保险业]]务——以一种不太显眼的方式为伯克希尔创造巨大价值，我将在后文加以解释。
+致伯克希尔·哈撒韦公司所有股东：
 
-在我们更仔细地审视前四片树林之前，让我提醒大家我们配置资本的首要目标：买入管理出色的企业——全部或部分——它们必须具备良好且持久的经济特性。我们还需要以合理的价格完成这些[[收购|收购]]。
+:::
 
-有时候我们能够买到符合标准的公司的控制权。但更多时候，我们在上市公司中找到我们所需的特质，通常买入5%到10%的股权。我们这种双管齐下的大规模[[资本配置|资本配置]]方法在美国企业界很少见，但它有时会给我们带来重要的优势。
+:::lang eng
 
-近年来，我们应该走的路已经很清楚了：买入许多股票所能获得的价值，远超整体[[收购|收购]]一家企业。这种差异导致我们去年买入了约430亿美元的上市公司股票，而仅卖出190亿美元。查理和我认为，我们投资的这些公司提供了极佳的价值，远超并购交易中所能获得的。
+Berkshire earned $4.0 billion in 2018 utilizing generally accepted accounting principles (commonly called “GAAP”). The components of that figure are $24.8 billion in operating earnings, a $3.0 billion non-cash loss from an impairment of intangible assets (arising almost entirely from our equity interest in Kraft Heinz), $2.8 billion in realized capital gains from the sale of investment securities and a $20.6 billion _loss_ from a reduction in the amount of unrealized capital gains that existed in our investment holdings.
 
-尽管我们最近大量增持了上市股票，但伯克希尔森林中最有价值的那片树林，依然是伯克希尔控股的数十家非保险企业（通常拥有100%的所有权，从未低于80%）。这些子公司去年赚了168亿美元。而且我们说的"赚"，是扣除了全部所得税、利息支出、[[管理层|管理层]]薪酬（无论是现金还是股票形式）、重组费用、折旧、摊销和总部管理费用之后剩下的。
+:::
 
-这种收益标准与华尔街银行家和企业CEO们经常吹嘘的大相径庭。他们的报告往往以"调整后EBITDA"（息税折旧摊销前利润）为亮点，这个指标通过排除各种非常真实的成本来重新定义"收益"。
+:::lang chs
 
-比如，[[管理层|管理层]]有时候会声称，公司的股票薪酬不该算作费用。（那它是什么——股东送的礼物？）还有重组费用呢？好吧，也许去年那次特定的调整不会再发生了。但大大小小的重组在企业经营中太常见了——伯克希尔就走过几十次这样的路，而我们的股东每一次都得承担成本。
+根据美国通用会计准则(GAAP)，伯克希尔2018年盈利40亿美元，其中包括：248亿美元经营性利润，30亿美元的非现金损失来自无形资产减值，几乎完全来自我们对卡夫亨氏的持股减值，28亿美元的已实现资本利得来自卖出所投资证券，以及来自我们投资组合中未实现资本利得减少206亿美元。
 
-亚伯拉罕·林肯 (Abraham Lincoln) 曾经提出一个问题："如果你把狗尾巴叫做腿，它有几条腿？"然后他自问自答："四条，因为把尾巴叫做腿并不能让它变成腿。"林肯要是到了华尔街，恐怕会很孤独。
+:::
 
-查理和我确实认为，我们14亿美元的[[收购|收购]]相关摊销费用（详见K-84页）并非真正的经济成本。在评估私营企业和上市股票时，我们会将这种摊销"成本"加回到GAAP收益中。
+:::lang eng
 
-相比之下，伯克希尔84亿美元的折旧费用[[低估|低估]]了我们真正的经济成本。事实上，仅仅为了保持我们各项业务的竞争力，我们每年需要花费的资金就超过这个数字。在这些"维持性"资本支出之外，我们还花费巨额资金追求增长。总体而言，伯克希尔去年在厂房、设备和其他固定资产上投资了创纪录的145亿美元，其中89%花在了美国。
+A new GAAP rule requires us to include that last item in earnings. As I emphasized in the 2017 annual report, neither Berkshire’s Vice Chairman, Charlie Munger, nor I believe that rule to be sensible. Rather, both of us have consistently thought that at Berkshire this mark-to-market change would produce what I described as “wild and capricious swings in our bottom line.”
 
-按价值排名，伯克希尔第二片树林是我们的股票投资组合，通常持有一家大型公司5%到10%的股权。如前所述，截至年底我们的股票投资市值接近1730亿美元，远高于成本。如果年底时全部卖出，需要缴纳约147亿美元的联邦所得税。我们很可能会[[长期持有|长期持有]]其中大部分股票。不过归根结底，卖出时实现的收益将按照当时的税率纳税。
+:::
 
-我们的被投资公司去年向我们支付了38亿美元的[[股息|股息]]，这一金额在2019年还会增加。但比股息重要得多的，是这些公司每年留存的巨额利润。下面是一组数据作为参考，只涵盖我们最大的五个持仓。
+:::lang chs
 
-| 公司 | 年末持股比例 | 伯克希尔应占股息(百万美元)(1) | 伯克希尔应占留存收益(百万美元)(2) |
-| --- | --- | --- | --- |
-| 美国运通 (American Express) | 17.9% | $ 237 | $ 997 |
-| 苹果 (Apple) | 5.4% | 745 | 2,502 |
-| 美国银行 (Bank of America) | 9.5% | 551 | 2,096 |
-| 可口可乐 (Coca-Cola) | 9.4% | 624 | (21) |
-| 富国银行 (Wells Fargo) | 9.8% | 809 | 1,263 |
-| 合计 |  | $ 2,966 | $ 6,837 |
+一项GAAP新规要求我们将上述最后一项计入当期收益。正如我在2017年年报中所强调的，无论是伯克希尔副董事长查理·芒格，还是我都不认为这条规则是明智的。相反，我们都认为，在伯克希尔，这种按市值计价的变化将导致"我们的净收益出现剧烈且无常的波动"。
 
-(1) 根据当前年度分红率计算。
+:::
 
-(2) 根据2018年收益减去已支付的普通股和优先股[[股息|股息]]。
+:::lang eng
 
-GAAP——即规定我们如何报告收益的准则——不允许我们将被投资公司的[[留存收益|留存收益]]计入我们的财务报表。但这些收益对我们有着巨大的价值：多年来，被投资公司（作为一个整体）的留存收益最终为伯克希尔带来的资本利得，超过了这些公司为我们再投资的每一美元。
+The accuracy of that prediction can be suggested by our quarterly results during 2018. In the first and fourth quarters, we reported GAAP _losses_ of $1.1 billion and $25.4 billion respectively. In the second and third quarters, we reported _profits_ of $12 billion and $18.5 billion. In complete contrast to these gyrations, the many businesses that Berkshire owns delivered consistent and satisfactory operating earnings in _all_ quarters. For the year, those earnings exceeded their 2016 high of $17.6 billion by 41%.
 
-我们所有的主要持仓公司都有出色的经济效益，大多数都将部分[[留存收益|留存收益]]用于回购股份。我们非常喜欢这一点：如果查理和我认为一家被投资公司的股价被低估了，我们就会很高兴看到管理层用部分收益来提高伯克希尔的持股比例。
+:::
 
-上表中有一个例子：过去八年来，伯克希尔在[[美国运通|美国运通]] (American Express) 的持股数量一直没变。但由于美国运通不断回购，我们的持股比例从12.6%上升到了17.9%。去年美国运通69亿美元的收益中，属于伯克希尔的份额是12亿美元，大约相当于我们买入这笔股份时所付13亿美元的96%。当收益不断增长而流通股不断减少时，长期持有的股东通常会日子过得不错。
+:::lang chs
 
-伯克希尔的第三类企业资产是我们与其他方共享控制权的四家公司。2018年，我们在这些企业税后经营收益中应占的份额合计约13亿美元——分别是[[卡夫亨氏|卡夫亨氏]] (Kraft Heinz) 的26.7%、Berkadia的50%、德州输电公司 (Electric Transmission Texas) 的50%，以及Pilot Flying J的38.6%。
+这一预言的准确性可以从我们2018年的季度财报中看出。在第一和第四季度，我们分别报告了11亿美元和254亿美元的GAAP亏损。在第二和第三季度，我们分别报告了120亿美元和185亿美元的利润。与这些剧烈波动形成鲜明对比的是，伯克希尔旗下的许多业务在各个季度都实现了持续且令人满意的经营收益。今年这些业务的收益相比2016年的176亿美元高点增长41%。
 
-在我们的第四片树林中，伯克希尔年末持有1120亿美元的美国国库券和其他现金等价物，另有200亿美元的各类固定收益工具。我们认为这些储备中有一部分是不可动用的——我们承诺永远持有至少200亿美元的现金等价物，以防范外部灾难。我们还承诺避免任何可能威胁到这一缓冲资金的行为。
+:::
 
-伯克希尔将永远是一座金融堡垒。在管理过程中，我会犯一些代价高昂的错误，也会错过很多机会——其中一些本该对我来说显而易见。有时候，投资者逃离股市，我们的股票也会大跌。但我永远不会冒现金短缺的风险。
+:::lang eng
 
-未来几年，我们希望将大量过剩流动资金投入到伯克希尔将永久拥有的业务中去。然而，眼下的前景不太乐观：拥有良好长期前景的企业，价格高得离谱。
+Wide swings in our quarterly GAAP earnings will inevitably continue. That’s because our huge equity portfolio – valued at nearly $173 billion at the end of 2018 – will often experience one-day price fluctuations of $2 billion or more, all of which the new rule says must be dropped immediately to our bottom line. Indeed, in the fourth quarter, a period of high volatility in stock prices, we experienced several days with a “profit” or “loss” of more than $4 billion.
 
-这一令人失望的现实意味着，2019年我们可能会再次扩大上市股票的持仓。尽管如此，我们仍然期待着一笔"大象"级的[[收购|收购]]。即使在我们88岁和95岁的年纪——我是年轻的那位——这种前景也会让我和查理心跳加速。（光是写下可能有一笔大买卖的可能性，我的脉搏就飙升了。）
+:::
 
-我预期会买更多股票，这不是一个看涨市场的信号。查理和我不知道股市下周或明年会怎么走。这类预测从来不是我们的事。我们的思考集中在：一个有吸引力的企业的一部分，其价值是否高于它的市场价格。
+:::lang chs
 
-我相信，将我们四大类资产的价值加总，然后减去出售有价证券最终应缴纳的税款，就可以大致估算出伯克希尔的[[内在价值|内在价值]]。
+我们的季度GAAP收益将不可避免地继续大幅波动。这是因为我们庞大的股票投资组合(截至2018年底价值接近1730亿美元)，经常会经历20亿美元或更多的单日价格波动，新规则要求我们必须立即将这些波动计入我们的净收益。事实上，在股价高度波动的第四季度，我们有好几天都经历了单日"盈利"或"亏损"超过40亿美元。
 
-你可能会问，如果我们出售某些全资子公司，是不是也该扣除这笔重大税款？忘了这个念头吧：即使卖掉完全不用交税，卖掉我们任何一家出色的公司也是愚蠢的。真正好的生意极其难找。卖掉你有幸拥有的好企业毫无道理。
+:::
 
-在计算伯克希尔非[[保险业|保险业]]务的收益时，我们所有债务的利息成本都已作为费用扣除。除此之外，我们持有的前四类资产中有很大一部分，其资金来源于伯克希尔的第五片树林——一系列出色的保险公司。我们称这些资金为"浮存金"，长期而言，我们预计获取这些资金是零成本的——甚至可能更好。我们将在本信后面解释浮存金的特性。
+:::lang eng
 
-最后，有一点至关重要且意义深远：伯克希尔的价值之所以能最大化，是因为我们将五片树林整合成了一个有机的整体。这种安排使我们能够无缝且客观地配置大量资本，消除企业风险，避免各自为政，以极低成本为资产融资，偶尔利用税收优势，并将管理费用降至最低。
+Our advice? Focus on operating earnings, paying little attention to gains or losses of any variety. My saying that in no way diminishes the importance of our investments to Berkshire. Over time, Charlie and I expect them to deliver substantial gains, albeit with highly irregular timing.
 
-在伯克希尔，整体远远大于各部分之和。
+:::
 
-之前我提到，伯克希尔将不时回购自己的股票。假设我们以低于伯克希尔[[内在价值|内在价值]]的价格买入——这当然是我们的目标——回购将同时有利于离开的股东和留下来的股东。
+:::lang chs
 
-诚然，对于离开的股东来说，[[回购|回购]]带来的好处微乎其微。因为我们谨慎的买入方式会尽量减少对伯克希尔股价的影响。尽管如此，市场上多一个买家，对卖家总还是有些好处的。
+我们对此的建议是，请关注经营性收益，少关注其它任何暂时性收益或损失。我的这番话丝毫没有削弱我们的投资对伯克希尔收益的重要性。随着时间推移，查理和我预计我们的投资将带来可观的收益，尽管时点会具有高度的不确定性。
 
-对于留下来的股东，好处就很明显了：如果市场给一位离开的合伙人的权益定价为，比方说，1美元只值90美分，那么公司每回购一次，留下来的股东每股[[内在价值|内在价值]]就增加一些。显然，回购必须对价格敏感：盲目买入被高估的股票是在毁灭价值。这个道理，许多爱搞宣传或永远乐观的CEO们却没搞明白。
+:::
 
-当一家公司表示正在考虑[[回购|回购]]时，至关重要的一点是，所有股东合伙人都必须获得做出明智价值判断所需的信息。提供这些信息，正是查理和我在这份报告中力图做到的。我们不希望任何合伙人因为被误导或信息不充分而把股份卖回给公司。
+---
 
-当然，有些卖家可能不认同我们的价值判断，另一些可能找到了他们认为比伯克希尔更有吸引力的投资。第二类人中有些肯定是对的：毫无疑问，有很多股票的回报将远超我们。
+:::lang eng
 
-此外，有些股东会决定，是时候让自己或家人做一个净消费者，而不是继续积累财富。查理和我暂时没兴趣加入这个行列。也许到了老年，我们会变成大手大脚的人。
+Long-time readers of our annual reports will have spotted the different way in which I opened this letter. For nearly three decades, the initial paragraph featured the percentage change in Berkshire’s per-share book value. It’s now time to abandon that practice.
 
-54年来，我们在伯克希尔的管理决策一直是从留下来的股东的角度出发，而不是从离开的股东出发。因此，查理和我从未关注过当季的业绩。
+:::
 
-事实上，伯克希尔可能是财富500强 (Fortune 500) 里唯一一家不编制月度损益报告或资产负债表的公司。当然，我会定期查看大多数子公司的月度财务报告。但查理和我只按季度了解伯克希尔的整体收益和财务状况。
+:::lang chs
 
-此外，伯克希尔没有全公司范围的预算（尽管许多子公司觉得预算很有用）。我们没有这种工具，意味着母公司从来没有一个要达到的季度"数字"。摒弃这种目标向我们众多经理人传递了一个重要信号，强化了我们所珍视的[[企业文化|企业文化]]。
+长期阅读我们年报的读者会发现今年这封信的开头与往年不同。在近30年的时间里，股东信的第一段都是以描述伯克希尔每股账面价值的百分比变化为特色。现在是时候放弃这种做法了。
 
-多年来，查理和我见过各种各样糟糕的企业行为——无论是会计还是运营方面——都是被[[管理层|管理层]]迎合华尔街预期的欲望所驱使。为了不让"华尔街"失望，一开始只是"无伤大雅"的数字修饰——比如在季末突击出货、对不断上升的保险损失视而不见、或者从"小金库"准备金中取用——但这可能成为走向全面欺诈的第一步。"就这一次玩玩数字"也许是CEO的初衷，但很少是最终结果。而一旦老板可以稍微作点弊，下属也就很容易为类似行为找到借口了。
+:::
 
-在伯克希尔，我们的听众既不是分析师也不是评论员：查理和我是在为我们的股东合伙人工作。汇报到我们手上的数字，就是我们原封不动发送给你们的数字。
+:::lang eng
 
-让我们再来仔细看看伯克希尔最有价值的那片树林——我们的非[[保险业|保险业]]务集合。不过请记住，我们不想不必要地向竞争对手透露可能对他们有用的信息。
+The fact is that the annual change in Berkshire’s book value -- which makes its farewell appearance on page 2 -- is a metric that has lost the relevance it once had. Three circumstances have made that so. First, Berkshire has gradually morphed from a company whose assets are concentrated in marketable stocks into one whose major value resides in operating businesses. Charlie and I expect that reshaping to continue in an irregular manner. Second, while our _equity holdings_ are valued at market prices, accounting rules require our collection of _operating companies_ to be included in book value at an amount far below their current value, a mismark that has grown in recent years. Third, it is likely that -- over time -- Berkshire will be a significant repurchaser of its shares, transactions that will take place at prices above book value but below our estimate of intrinsic value. The math of such purchases is simple: Each transaction makes per-share intrinsic value go up, while per-share book value goes down. That combination causes the book-value scorecard to become increasingly out of touch with economic reality.
 
-各项业务的更多细节详见K-5至K-22页以及K-40至K-51页。
+:::
 
-作为一个整体，这些业务2018年的税前收益为208亿美元，比2017年增长24%。我们2018年进行的[[收购|收购]]对此贡献微乎其微。
+:::lang chs
 
-在这里的讨论中我将使用税前数字。但2018年这些业务的税后收益增幅要大得多——高达47%——这在很大程度上归功于年初开始实施的企业税率下调。让我们看看为什么影响如此之大。
+事实是，伯克希尔账面价值的年度变化已经失去了其曾有的相关性，因此它不会再出现在股东信第2页。有三个因素造成了这个结果。首先，伯克希尔已经逐渐从一家资产集中在股票投资的公司，逐渐转变为一家主要价值集中于业务运营的公司。查理和我预计这种重塑将以一种不规则的方式继续下去。其次，尽管我们持有的股权价值是按市值计价的，但会计准则要求我们所收购的运营公司，以远低于内在价值的的金额计入帐面价值远，这种错配在近几年越来越明显。第三，随着时间的推移，伯克希尔很可能会成为其股票的重要回购方，回购价格将高于账面价值，但低于我们对其内在价值的估计。这种收购的数学原理很简单：每次回购都会使每股内在价值上升，而使每股账面价值下降。这三个因素的结合将导致账面价值越来越脱离经济现实。
 
-先从一个经济现实说起：不管你喜不喜欢，美国政府"拥有"伯克希尔收益的一部分，份额大小由国会决定。实际上，我们国家的财政部持有我们一种特殊类别的股票——姑且称之为AA股——从伯克希尔领取高额"[[股息|股息]]"（也就是税款）。2017年跟往年一样，企业税率是35%，这意味着财政部的AA股表现相当不错。实际上，财政部这只1965年我们接管时还分文不付的"股票"，如今已经变成了每年向联邦政府贡献数十亿美元的资产。
+:::
 
-然而去年，当企业税率从35%降至21%时，政府"所有权"的40%（也就是14/35）被免费还给了伯克希尔。因此，我们A股和B股的股东在他们的股份上获得了重大的收益提升。
+:::lang eng
 
-这实质性地增加了你我持有的伯克希尔股票的[[内在价值|内在价值]]。同样的逻辑，也提升了伯克希尔所持几乎所有股票的内在价值。
+In future tabulations of our financial results, we expect to focus on Berkshire’s market price. Markets can be extremely capricious: Just look at the 54-year history laid out on page 2. Over time, however, Berkshire’s stock price will provide the best measure of business performance.
 
-以上是主要情况。但还有其他一些削弱我们收益的因素需要考虑。比如，我们大型公用事业业务获得的税收优惠会转嫁给客户。同时，我们从国内公司获得的大量[[股息|股息]]所适用的税率几乎没变，大约为13%。（长期以来，这种较低的税率都是合理的，因为我们的被投资公司已经就向我们支付的收益缴过税了。）但总体而言，新税法使我们的业务和我们持有的股票都更有价值了——而且是相当多。
+:::
 
-这表明我们又该回到非保险业务的表现上了。在这片树林中，我们的两棵参天红杉是[[BNSF铁路|BNSF铁路]] (BNSF) 和伯克希尔·哈撒韦能源 (Berkshire Hathaway Energy)（持有90.9%的股权）。两者合计，去年的税前收益为93亿美元，比2017年增长6%。详见K-5至K-10页以及K-40至K-45页。
+:::lang chs
 
-我们接下来的五家非保险子公司，按收益排名（但在此按字母顺序列示），分别是：[[克莱顿房屋|克莱顿房屋]] (Clayton Homes)、国际金属加工 (International Metalworking)、路博润 (Lubrizol)、马蒙集团 (Marmon) 和精密铸件公司 (Precision Castparts)，2018年税前收益合计64亿美元，高于2017年的55亿美元。
+在未来的财务业绩表中，我们预计将重点关注伯克希尔的市场价格。市场可能非常反复无常：只需看看我们列出的54年历史业绩便知。然而，随着时间推移，伯克希尔的股价将成为衡量企业业绩的最佳标准。
 
-按同样方式排名和列示的下五家公司——[[森林河公司|森林河公司]] (Forest River)、Johns Manville、MiTek、Shaw和TTI——去年的税前收益合计24亿美元，高于2017年的21亿美元。
+:::
 
-伯克希尔旗下其余的非保险企业——数量还有很多——2018年的税前收益合计36亿美元，2017年为33亿美元。
+---
 
-我们的财产意外险业务——第五片树林——自1967年以来一直是驱动伯克希尔增长的引擎。那一年，我们以860万美元收购了[[国民保险公司|国民保险公司]] (National Indemnity) 及其姊妹公司国民火灾与海事保险公司 (National Fire & Marine)。如今，以净资产衡量，国民保险公司是全球最大的财产意外险公司。
+:::lang eng
 
-我们被财产意外险业务吸引的原因之一是这个行业的[[商业模式|商业模式]]：财产意外险公司先收保费，后付理赔。在极端情况下，比如石棉暴露引发的索赔或严重的工伤事故，赔付可以延续数十年。
+Before moving on, I want to give you some good news -- _really_ good news -- that is not reflected in our financial statements. It concerns the management changes we made in early 2018, when Ajit Jain was put in charge of all insurance activities and Greg Abel was given authority over all other operations. These moves were overdue. Berkshire is now far better managed than when I alone was supervising operations. Ajit and Greg have rare talents, and Berkshire blood flows through their veins.
 
-这种先收钱、后付款的模式使得财产意外险公司持有大量资金——我们称之为"浮存金"——这些资金最终会流向他人。但在此期间，保险公司可以用这笔浮存金为自己投资。虽然个别保单和理赔来来去去，但一家保险公司持有的浮存金规模相对于保费规模通常相当稳定。因此，随着业务增长，我们的浮存金也跟着增长。而增长的情况，如下表所示：
+:::
 
-| 年份 | 浮存金（百万美元）\* |
-| --- | --- |
-| 1970 | $ 39 |
-| 1980 | 237 |
-| 1990 | 1,632 |
-| 2000 | 27,871 |
-| 2010 | 65,832 |
-| 2018 | 122,732 |
+:::lang chs
 
-\* 包括人寿、年金和健康[[保险业|保险业]]务产生的浮存金。
+在继续之前，我要告诉你们一些真正的好消息，这些都没有反映在我们的财务报表中。它涉及到我们在2018年初进行的管理层改革，当时阿吉特贾因(AjitJain)受命负责所有保险业务，而格雷格阿贝尔(GregAbel)则获得统管所有其他业务的授权。这些分权早就应该进行了。伯克希尔现在的管理，比我独自监督运营时要好得多。Ajit和Greg拥有罕见的天赋，他们的血管中流淌的是伯克希尔的血液。
 
-随着时间推移，我们可能会经历浮存金的下降。如果真是如此，这种下降也将非常缓慢——任何一年最多不超过3%。我们保险合同的性质决定了，我们永远不会面临对我们现金资源有重大影响的即时或短期资金需求。这种结构是精心设计的，也是我们保险公司无与伦比的财务实力的关键组成部分。这种实力永远不会被削弱。
+:::
 
-如果我们的保费超过了费用和最终赔付的总和，我们的[[保险业|保险业]]务就会录得承保利润，这将增加浮存金所产生的投资收益。赚到这种利润时，我们就是在免费使用资金——更妙的是，因为持有这些资金我们反倒获得了收入。
+:::lang eng
 
-不幸的是，所有保险公司都渴望实现这种美好结果，由此带来了激烈的竞争。竞争之激烈，有时会导致整个财产意外险行业出现重大承保亏损。这个亏损，实际上就是行业为持有浮存金而付出的代价。竞争格局几乎注定了保险行业——尽管旗下所有公司都享有浮存金收益——与其他美国企业相比，在有形净资产回报率上将继续保持令人沮丧的低水平纪录。
+Now let’s take a look at what you own.
 
-尽管如此，我还是看好我们自己的前景。伯克希尔无与伦比的财务实力使得我们在浮存金投资方面的灵活性远超一般财产意外险公司。我们可选择的众多投资方式始终是一种优势，偶尔还会带来重大机遇。当其他保险公司束手束脚时，我们的选择反而更多了。
+:::
 
-此外，我们的财产意外险业务有着出色的承保记录。在过去16年中，伯克希尔有15年实现了承保盈利，唯一的例外是2017年，当年我们的税前亏损为32亿美元。在整整16年中，我们的税前承保利润合计为270亿美元，其中20亿美元来自2018年。
+:::lang chs
 
-这一记录并非偶然：严格的风险评估是我们保险经理们每天聚焦的重点，他们深知浮存金的好处可能被糟糕的承保结果淹没。所有保险公司嘴上都这么说。但在伯克希尔，这是一种信仰——旧约风格的那种。
+现在让我们来看看你拥有些什么。
 
-在大多数情况下，企业的资金来源有两个——债务和股权。在伯克希尔，我们还有两支额外的箭在弓袋里，不过让我们先谈谈常规的部分。
+:::
 
-我们很少举债。需要指出的是，许多管理者会不同意这一政策，他们认为大量举债可以提升股东回报。而且这些更敢冒险的CEO在大多数时候是对的。
+# Focus on the Forest -- Forget the Trees 关注森林，忘记树木
 
-然而，在罕见且不可预测的时刻，信贷会消失，债务会变成致命的。一个俄罗斯轮盘赌式的等式——通常会赢，偶尔会死——对于那些只分享公司上涨好处而不承担下跌风险的人来说，或许在财务上说得通。但这种策略对伯克希尔来说就是疯狂。理性的人不会拿自己已经拥有和需要的东西，去冒险换取自己没有也不需要的东西。
+:::lang eng
 
-你在我们合并资产负债表上看到的大部分债务——见K-65页——都在我们的铁路和[[能源|能源]]子公司，两者都是重资产企业。在经济衰退期间，这些企业的现金流依然充沛。它们使用的债务既适合各自的运营，也不受伯克希尔的担保。
+Investors who evaluate Berkshire sometimes obsess on the details of our many and diverse businesses -- our economic “trees,” so to speak. Analysis of that type can be mind-numbing, given that we own a vast array of specimens, ranging from twigs to redwoods. A few of our trees are diseased and unlikely to be around a decade from now. Many others, though, are destined to grow in size and beauty.
 
-我们的权益资本就是另一回事了：伯克希尔的3490亿美元在美国企业界无人能及。通过长期保留所有收益，并让[[复利|复利]]发挥它的魔力，我们积累了资金，使我们得以购买和发展前面描述的那些宝贵资产。如果我们当初选择100%分红的政策，我们手头就只有1965财年开始时的那2200万美元了。
+:::
 
-除了债务和股权之外，伯克希尔还从两种不太常见的企业资金来源中大获裨益。较大的一个就是我描述过的浮存金。到目前为止，尽管这笔资金在我们的资产负债表上被记录为巨额净负债，但它对我们的效用超过了等额的股权。原因在于，浮存金通常伴随着承保利润。实际上，在大多数年份里，我们是因为持有和使用别人的钱而获得报酬的。
+:::lang chs
 
-正如我以前多次强调的，这种美好的结果远非板上钉钉：评估保险风险的错误可能是巨大的，而且可能需要多年才能浮出水面。（想想石棉。）一场让卡特里娜飓风 (Katrina) 和迈克尔飓风 (Michael) 都黯然失色的巨灾必将发生——也许是明天，也许是几十年后。"大事件"可能来自传统渠道，如飓风或地震，也可能是完全出乎意料的，比如一场网络攻击，其灾难性后果超出了保险公司目前的任何想象。当这样一场超级灾难降临时，我们分担的损失将是巨大的——非常巨大。然而，与许多其他保险公司不同的是，我们会寻求在第二天就增加业务。
+在评估伯克希尔时，投资者有时会过度关注我们众多不同业务的细节，也就是我们经济所谓的"树木"。由于我们有大量不同的业务，从小树苗到参天巨树，分析这些业务会让人头脑发麻。我们的有些树木已经罹患疾病，而且可能撑不过10年了。而其他一些树木，必将成长得高大健美。
 
-最后一个资金来源——伯克希尔在这方面同样拥有非同寻常的规模——是递延所得税。这些是我们最终要支付的负债，但在此期间它们是无息的。
+:::
 
-如前所述，在我们505亿美元的递延税款中，约有147亿美元来自我们所持股票的未实现资本利得。这些负债在我们的财务报表中按当前21%的企业税率计提，但将按照我们出售投资时的届时税率支付。从现在到那时，我们实际上有了一笔无息"贷款"，使我们在股票投资上能动用比正常情况更多的资金。
+:::lang eng
 
-另外283亿美元的递延税款，源于我们在计算当期应缴税款时能够加速折旧厂房和设备等资产。我们记录的前期税收节省将在未来几年逐步回转。不过，我们会持续购买新的资产。只要现行税法不变，这个资金来源应该会呈上升趋势。
+Fortunately, it’s not necessary to evaluate each tree individually to make a rough estimate of Berkshire’s intrinsic business value. That’s because our forest contains five “groves” of major importance, each of which can be appraised, with reasonable accuracy, in its entirety. Four of those groves are differentiated clusters of businesses and financial assets that are easy to understand. The fifth -- our huge and diverse insurance operation -- delivers great value to Berkshire in a less obvious manner, one I will explain later in this letter.
 
-长期来看，伯克希尔的融资基础——也就是我们资产负债表的右边——应该会增长，主要来自我们的[[留存收益|留存收益]]。我们的任务是把留存下来的资金好好用在左边，买入有吸引力的资产。
+:::
 
-这个标题说明了一切：公司和这个人密不可分。
+:::lang chs
 
-托尼 (Tony) 1961年加入[[盖可保险|盖可保险]] (GEICO)，当时他才18岁；我在20世纪70年代中期认识了他。那时，GEICO在经历了四十年的快速增长和出色承保业绩之后，突然发现自己濒临破产。当时新上任的管理层严重低估了GEICO的损失成本，因而对产品定价过低。GEICO账面上那些持续产生亏损的保单——数量不少于230万份——还要好几个月才能到期并重新定价。与此同时，公司的净资产正迅速趋近于零。
+幸运的是，想要粗略估计伯克希尔的内在商业价值，没有必要单独去评估每一棵树。那是因为伯克希尔"森林"包含五类非常重要的"小树林"(资产)，每类"小树林"都可以合理准确地进行整体评估。其中四类"小树林"是由易于理解的多元业务集团和金融资产组成。第五类"小树林"即我们庞大而多元化的保险业务，以一种不那么明显的方式为伯克希尔带来了巨大的价值，我将在后文解释这一点。
 
-1976年，杰克·伯恩 (Jack Byrne) 受命担任CEO来拯救GEICO。他上任后不久我就见到了他，认定他就是这个职位的完美人选，于是开始大举买入GEICO的股票。几个月内，伯克希尔买下了该公司约三分之一的股份，后来这个比例在我们没有再花一分钱的情况下增长到了大约二分之一。这种惊人的增长之所以发生，是因为GEICO在恢复健康之后一直在[[回购|回购]]股票。算下来，我们持有的这半壁江山总共花了伯克希尔4700万美元，大约相当于你今天在纽约买一套顶级公寓的价格。
+:::
 
-现在让我们快进17年到1993年，托尼·奈斯利 (Tony Nicely) 被提拔为CEO。那时，GEICO的声誉和盈利能力已经恢复——但增长还没有。事实上，到1992年底，公司账面上只有190万份汽车保单，远低于危机前的最高水平。按美国汽车保险公司的销售额排名，GEICO当时不起眼地排在第七位。
+:::lang eng
 
-1995年底，在托尼让GEICO重新焕发活力之后，伯克希尔提出以23亿美元[[收购|收购]]公司剩余50%的股份——大约是我们购买前一半所付价格的50倍（还有人说我从不出高价呢！）。我们的出价成功了，为伯克希尔带来了一家出色但尚未充分开发的公司，以及一位同样出色的CEO——他带领GEICO前进的程度超出了我的想象。
+Before we look more closely at the first four groves, let me remind you of our prime goal in the deployment of your capital: to buy ably-managed businesses, _in whole or part_ , that possess favorable and durable economic characteristics. We also need to make these purchases at sensible prices.
 
-GEICO现在是美国第二大汽车保险公司，销售额比1995年增长了12倍。自[[收购|收购]]以来，累计税前承保利润达155亿美元，可供投资的浮存金从25亿美元增长到221亿美元。
+:::
 
-据我估计，托尼对GEICO的管理使伯克希尔的[[内在价值|内在价值]]增加了500多亿美元。更重要的是，作为管理者他堪称典范，帮助他手下4万名员工发现并打磨了他们自己都不知道拥有的能力。
+:::lang chs
 
-去年，托尼决定从CEO职位上退下来，6月30日他把职位移交给了长期搭档比尔·罗伯茨 (Bill Roberts)。我认识比尔并看着他工作了几十年，托尼再一次做出了正确的选择。托尼仍担任董事长，他余生都会尽心尽力地帮助GEICO。他做不到少出力。
+在我们更仔细地研究前四个小树林之前，让我提醒大家一下，我们资本配置的首要目标是：部分或全额购买具有良好管理和持久竞争优势的业务。我们还需要以合理的价格购买这些业务。
 
-伯克希尔的所有股东都应该感谢托尼。我排在名单的第一个。
+:::
 
-下面我们列出年末市值最大的15只普通股投资。我们持有的[[卡夫亨氏|卡夫亨氏]]——325,442,152股——不在此列，因为伯克希尔是控股集团的一部分，因此必须采用"权益法"核算这项投资。在资产负债表上，伯克希尔持有的卡夫亨氏按GAAP记录为138亿美元，这一金额已扣除了我们应分摊的卡夫亨氏2018年大额无形资产减值。截至年末，我们持有的卡夫亨氏市值为140亿美元，成本为98亿美元。
+:::lang eng
 
-| 股数\* | 公司 | 持股比例 | 截至2018/12/31成本（百万美元）\\ | 截至2018/12/31市值（百万美元） |
-| --- | --- | --- | --- | --- |
-| 151,610,700 | 美国运通 (American Express) | 17.9 | $ 1,287 | $ 14,452 |
-| 255,300,329 | 苹果 (Apple) | 5.4 | 36,044 | 40,271 |
-| 918,919,000 | 美国银行 (Bank of America) | 9.5 | 11,650 | 22,642 |
-| 84,488,751 | 纽约梅隆银行 (Bank of New York Mellon) | 8.8 | 3,860 | 3,977 |
-| 6,789,054 | 特许通讯 (Charter Communications) | 3.0 | 1,210 | 1,935 |
-| 400,000,000 | 可口可乐 (Coca-Cola) | 9.4 | 1,299 | 18,940 |
-| 65,535,000 | 达美航空 (Delta Air Lines) | 9.6 | 2,860 | 3,270 |
-| 18,784,698 | 高盛 (Goldman Sachs) | 4.9 | 2,380 | 3,138 |
-| 50,661,394 | 摩根大通 (JPMorgan Chase) | 1.5 | 5,605 | 4,946 |
-| 24,669,778 | 穆迪 (Moody's) | 12.9 | 248 | 3,455 |
-| 47,890,899 | 西南航空 (Southwest Airlines) | 8.7 | 2,005 | 2,226 |
-| 21,938,642 | 美联航 (United Continental) | 8.1 | 1,195 | 1,837 |
-| 146,346,999 | 美国合众银行 (U.S. Bancorp) | 9.1 | 5,548 | 6,688 |
-| 43,387,980 | USG公司 (USG Corporation) | 31.0 | 836 | 1,851 |
-| 449,349,102 | 富国银行 (Wells Fargo) | 9.8 | 10,639 | 20,706 |
-|  | 其他 |  | 16,201 | 22,423 |
-|  | 按市值计算的普通股投资合计 |  | $ 102,867 | $ 172,757 |
+Sometimes we can buy control of companies that meet our tests. Far more often, we find the attributes we seek in publicly-traded businesses, in which we normally acquire a 5% to 10% interest. Our two-pronged approach to huge-scale capital allocation is rare in corporate America and, at times, gives us an important advantage.
 
-\* 不包括伯克希尔子公司养老基金持有的股份。
+:::
 
-\\ 此为我们的实际买入成本，也是计税基础。
+:::lang chs
 
-查理和我并不把上面列出的1728亿美元视为一堆股票代码——不是什么因为"华尔街"降级、美联储预期动作、可能的政治变局、经济学家的预测或任何其他当下热门话题而该抛弃的金融游戏。
+有时候，我们可以收购符合我们测试要求的公司的控制权。但更常见的是，我们在上市公司中发现了一些我们正在寻求特性的企业，进而购买5-10%的股权。我们双管齐下的大规模资本配置方法在美国企业界很少见，但它有时会给我们带来重要的优势。
 
-相反，我们看到的是我们部分持有的一群公司的集合。按加权基础计算，它们在经营所需的净有形资产上大约赚取20%的回报率。而且，这些公司在赚取利润的同时并没有过度举债。
+:::
 
-这种回报率，对于大型、成熟、容易理解的企业来说，在任何环境下都是了不起的。当你把它与过去十年许多投资者在[[债券|债券]]上接受的回报率相比，更是令人瞠目——比如30年期美国国债收益率只有3%甚至更低。
+:::lang eng
 
-当然，有时候一只股票的[[买入价格|买入价格]]高得离谱，就会让一家出色的企业变成一笔糟糕的投资——即便不是永久的，至少也会痛苦很长时间。但随着时间推移，投资业绩终将与经营业绩趋于一致。而且，正如我接下来要详细说的，美国企业的历史表现是非凡的。
+In recent years, the sensible course for us to follow has been clear: Many stocks have offered far more for our money than we could obtain by purchasing businesses in their entirety. That disparity led us to buy about $43 billion of marketable equities last year, while selling only $19 billion. Charlie and I believe the companies in which we invested offered excellent value, far exceeding that available in takeover transactions.
 
-到今年3月11日，从我第一次投资美国企业至今就整整77年了。那一年是1942年，我11岁，倾其所有投入了114.75美元——这是我从6岁起就开始攒的钱。我买了3股城市服务公司 (Cities Service) 的优先股。我成了一个资本家，感觉棒极了。
+:::
 
-现在让我们回溯到我买入之前的两个77年。这把我们带回了1788年，乔治·华盛顿 (George Washington) 就任我们第一任总统的前一年。那时的人们有谁能想到，他们的新国家仅仅在三个77年的时间里会取得怎样的成就？
+:::lang chs
 
-在1942年之前的两个77年里，美国从一个400万人口的国家——约占世界人口的0.5%——成长为地球上最强大的国家。然而在1942年的春天，美国面临一场危机：美国及其盟友在三个月前刚刚卷入的一场战争中接连失利。坏消息每天传来。
+近年来，我们应该遵循的合理做法已经很明确：许多股票为我们提供的资金，远远超过了我们通过整体收购该企业所获得的资金。这种差异导致我们去年买入了约430亿美元的有价证券，而仅卖出190亿美元股票。查理和我认为，我们投资的公司提供了极好的价值，其回报远远超过收购交易。
 
-尽管头条新闻令人心惊，但在那个3月11日，几乎所有美国人都相信战争终将获胜。他们的乐观也不仅限于这场胜利。撇开天生的悲观主义者不谈，美国人相信自己的孩子和后代将过上远比自己好得多的生活。
+:::
 
-当然，这个国家的公民也明白，前方的路不会一帆风顺。从来都不是。建国初期，我们的国家经受了一场内战的考验，那场战争夺走了4%美国男性的生命，让林肯总统 (Abraham Lincoln) 公开思考"一个如此理想、如此奉献的国家能否长久存续"。1930年代，美国经历了大萧条——一段大规模失业的惨痛时期。
+:::lang eng
 
-然而在1942年，当我买入股票时，这个国家对战后的增长充满期待，而这一信念被证明是完全有根据的。事实上，这个国家的成就只能用"令人叹为观止"来形容。
+Despite our recent additions to marketable equities, the most valuable grove in Berkshire’s forest remains the many dozens of non-insurance businesses that Berkshire controls (usually with 100% ownership and never with less than 80%). Those subsidiaries earned $16.8 billion last year. When we say “earned,” moreover, we are describing what remains after _all_ income taxes, interest payments, managerial compensation (whether cash or stock-based), restructuring expenses, depreciation, amortization and home-office overhead.
 
-让我用数字来说明：如果我当年的114.75美元投入了一只零费用的标普500指数基金，并且所有[[股息|股息]]都进行再投资，到2019年1月31日（本信付印前最新可用数据），我的持仓市值将增长到税前606,811美元。相当于每1美元赚了5288美元。同时，当年一家免税机构——比如养老基金或大学捐赠基金——投入的100万美元，将增长到大约53亿美元。
+:::
 
-让我再补充一个我相信会让你们震惊的计算：如果这家假想的机构每年仅把资产的1%付给投资经理和顾问等各种"帮手"，那么它的最终收益将减少一半，只有26.5亿美元。这就是77年间，标普500指数实际上实现的11.8%年回报率被降低到10.8%后所发生的事。
+:::lang chs
 
-那些经常鼓吹政府预算赤字必将带来厄运的人（就像我自己多年来经常做的那样）或许应该注意到，在我人生的这最后一个77年里，我们国家的国债增长了大约400倍。那可是40,000%！假设你预见到了这种增长，并对失控的赤字和货币贬值的前景恐慌不已。为了"保护"自己，你可能会避开股票，转而选择用114.75美元买入3.25盎司黄金。
+尽管我们最近增持了有价证券，但伯克希尔的"森林"中最有价值的"小树林"仍然是，伯克希尔控制的数十家非保险企业(通常拥有100%的所有权，从未低于80%)。这些子公司去年的收益为168亿美元。此外，当我们说"赚到"时，我们指的是扣除了所有的税收、利息支出、管理层薪酬(包括现金和股票)、重组费用、折旧费用以及总部办公费用之后剩下的收益。
 
-那么这种所谓的保护会带来什么呢？你现在拥有的资产价值约为4200美元，不到简单投资于美国企业所能实现收益的1%。神奇的金属（gold）比不上美国人的勇气（mettle）。
+:::
 
-我们国家这种几乎难以置信的繁荣，是在两党合作的基础上取得的。自1942年以来，我们有过7位共和党总统和7位民主党总统。在他们的任期内，这个国家先后经历了长期的恶性通胀、21%的最优贷款利率、几场有争议且代价高昂的战争、一位总统辞职、房价全面崩溃、瘫痪全社会的金融恐慌，以及一大堆其他问题。所有这些都产生了骇人的头条新闻；但现在统统成了历史。
+:::lang eng
 
-圣保罗大教堂的建筑师克里斯托弗·雷恩 (Christopher Wren) 就葬在这座伦敦教堂中。他的墓旁刻着这样一段话（译自拉丁文）："如果你想寻找我的纪念碑，就看看你的周围。"那些对美国经济前景持怀疑态度的人，应该好好琢磨这句话。
+That brand of earnings is a far cry from that frequently touted by Wall Street bankers and corporate CEOs. Too often, their presentations feature “adjusted EBITDA,” a measure that redefines “earnings” to exclude a variety of all-too-real costs.
 
-回到我们的起点1788年——那时的美国其实什么都没有，只有一小群心怀壮志的人和一个旨在将他们的梦想变为现实的、刚刚萌芽的治理框架。而今天，美联储估计我们的家庭财富达到108万亿美元，这个数字大到几乎无法想象。
+:::
 
-还记得我在这封信前面说过的吗？[[留存收益|留存收益]]是伯克希尔繁荣的关键。美国也一样。在国家的账本上，对应的项目叫做"储蓄"。我们确实一直在储蓄。如果我们的先辈把他们生产的一切都消费掉了，就不会有投资，不会有生产率提升，也不会有生活水平的飞跃。
+:::lang chs
 
-查理和我欣然承认，伯克希尔的成功在很大程度上不过是我所说的"美国顺风"的产物。美国企业或个人要是吹嘘自己"全靠自己干出来的"，那就不只是傲慢了。诺曼底海滩上那些整齐排列的朴素白色十字架，应该让发出这种论调的人感到羞愧。
+这种收益与华尔街银行家和企业CEO们经常吹捧的收益相去甚远。他们的报告往往以"调整后EBITDA"为特色，即排除了许多真实成本之后而经过重新定义了的"收益"。
 
-世界上还有许多其他国家拥有光明的未来。对此我们应该欢欣：如果所有国家都繁荣，美国人将更加富裕、更加安全。在伯克希尔，我们也希望进行大量的海外投资。
+:::
 
-然而，在未来的77年里，我们收益的主要来源几乎确定将来自"美国顺风"。我们很幸运——无比幸运——有这股力量在我们身后。
+:::lang eng
 
-伯克希尔2019年年度股东大会将于5月4日周六举行。如果你考虑参加——查理和我期待你们的到来——请查阅A-2至A-3页的详情。日程安排与我们多年来惯例相同。
+For example, managements sometimes assert that their company’s stock-based compensation shouldn’t be counted as an expense. (What else could it be -- a _gift_ from shareholders?) And restructuring expenses? Well, maybe last year’s exact rearrangement won’t recur. But restructurings of one sort or another are common in business -- Berkshire has gone down that road dozens of times, and our shareholders have always borne the costs of doing so.
 
-如果你无法亲临奥马哈，可以通过雅虎 (Yahoo) 的网络直播参与。安迪·瑟沃 (Andy Serwer) 和他的雅虎团队表现出色，他们不仅全程报道整个大会，还会采访众多伯克希尔经理人、名人、金融专家以及来自美国和海外的股东。自从雅虎加入以来，全世界对每年五月第一个周六在奥马哈所发生的事情的了解程度大大提高。直播于中部时间上午8:45开始，并提供中文翻译。
+:::
 
-54年来，查理和我一直热爱我们的工作。每一天，我们都在做自己觉得有趣的事，与我们喜欢和信任的人一起共事。而现在，我们新的管理架构让我们的生活更加愉快了。
+:::lang chs
 
-整个团队齐心协力——阿吉特和格雷格管理运营，旗下一大批优秀的企业，现金如尼亚加拉瀑布般涌入，一群才华横溢的经理人，以及坚如磐石的[[企业文化|企业文化]]——无论未来如何，你们的公司都准备好了。
+例如，管理层有时会声称，他们公司基于股票的薪酬不应视为费用。(那它应该是什么？股东的礼物？)还有并购重组费用，好吧，也许去年的重组不会再发生了。但这样或那样的重组在商业中是很常见的，伯克希尔在这条路上已经走了几十次，而我们的股东总是要承担这样做的成本。
 
-2019年2月23日
+:::
 
-沃伦·巴菲特 (Warren E. Buffett)
+:::lang eng
+
+Abraham Lincoln once posed the question: “If you call a dog’s tail a leg, how many legs does it have?” and then answered his own query: “Four, because calling a tail a leg doesn’t make it one.” Abe would have felt lonely on Wall Street.
+
+:::
+
+:::lang chs
+
+亚伯拉罕·林肯曾经提出过这样的问题："如果你将狗的尾巴称为腿，那么它有多少条腿？"然后他回答说："还是四条，因为把尾巴称为一条腿并不意味着它就是一条腿。"林肯在华尔街会倍感孤独的。
+
+:::
+
+:::lang eng
+
+Charlie and I do contend that our acquisition-related amortization expenses of $1.4 billion (detailed on page K-84) are not a true economic cost. We add back such amortization “costs” to GAAP earnings when we are evaluating both private businesses and marketable stocks.
+
+:::
+
+:::lang chs
+
+查理和我坚定认为，我们14亿美元的收购相关摊销开支并不是真正的经济成本。当我们评估私营企业和有价证券时，我们将这种摊销"成本"加回到GAAP收益中。
+
+:::
+
+:::lang eng
+
+In contrast, Berkshire’s $8.4 billion depreciation charge understates our true economic cost. In fact, we need to spend _more_ than this sum annually to simply remain competitive in our many operations. Beyond those “maintenance” capital expenditures, we spend large sums in pursuit of growth. Overall, Berkshire invested a record $14.5 billion last year in plant, equipment and other fixed assets, with 89% of that spent in America.
+
+:::
+
+:::lang chs
+
+相比之下，伯克希尔84亿美元的折旧费用低估了我们真正的经济成本。事实上，我们许多业务每年都需要花费超过这一数额的资金才能保持竞争力。除了这些"维持"性资本支出外，我们还花费大量资金来追求增长。总体而言，伯克希尔去年在工厂、设备和其他固定资产上的投资达到创纪录的145亿美元，其中89%用于美国。
+
+:::
+
+:::lang eng
+
+Berkshire’s runner-up grove by value is its collection of equities, typically involving a 5% to 10% ownership position in a very large company. As noted earlier, our equity investments were worth nearly $173 billion at yearend, an amount far above their cost. If the portfolio had been sold at its yearend valuation, federal income tax of about $14.7 billion would have been payable on the gain. In all likelihood, we will hold most of these stocks for a long time. Eventually, however, gains generate taxes at whatever rate prevails at the time of sale.
+
+:::
+
+:::lang chs
+
+按价值计算，伯克希尔第二类资产的是它的股票投资组合，通常涉及一家非常大的公司的5%至10%所有权。如前所述，截至年底，我们的股票投资市值近1730亿美元，远远高于其成本。如果该投资组合按年底时的价值出售，仅联邦所得税就要缴纳约147亿美元。我们很可能会长期持有这些股票中的大部分。不过，最终的收益将根据出售时的税率产生税收。
+
+:::
+
+:::lang eng
+
+Our investees paid us dividends of $3.8 billion last year, a sum that will increase in 2019. Far more important than the dividends, though, are the huge earnings that are annually retained by these companies. Consider, as an indicator, these figures that cover only our five largest holdings.
+
+:::
+
+:::lang chs
+
+我们的被投资方去年向我们支付38亿美元股息，这一金额将在2019年继续增加。然而，比股息更重要的是这些公司每年留存的巨额利润。考虑一下，作为一个指标，这些数字只涵盖了我们最大的五个持仓股。
+
+:::
+
+:::lang common
+
+Company|Yearend Ownership|Berkshire’s Share in $ millions of Dividends (1)|Berkshire’s Share in $ millions of Retained Earnings (2)
+---|---:|---:|---:
+American Express|17.9%|$ 237|$ 997
+Apple|5.4%|745|2,502
+Bank of America|9.5%|551|2,096
+Coca-Cola|9.4%|624|(21)
+Wells Fargo|9.8%|809|1,263
+Total||$ 2,966|$ 6,837
+
+:::
+
+:::lang eng
+
+(1) Based on current annual rate.
+
+:::
+
+:::lang chs
+
+(1) 股息根据当前分红率计算。
+
+:::
+
+:::lang eng
+
+(2) Based on 2018 earnings minus common and preferred dividends paid.
+
+:::
+
+:::lang chs
+
+(2) 留存收益根据2018年收益减去已支付的普通股和优先股股息。
+
+:::
+
+:::lang eng
+
+GAAP -- which dictates the earnings we report -- does not allow us to include the retained earnings of investees in our financial accounts. But those earnings are of enormous value to us: Over the years, earnings retained by our investees (viewed as a group) have eventually delivered capital gains to Berkshire that totaled more than one dollar for each dollar these companies reinvested for us.
+
+:::
+
+:::lang chs
+
+规定我们报告收益的GAAP会计准则，不允许我们将被投资企业的留存收益包括在我们的财务报表中。但这些收益对我们来说有着巨大的价值：多年来，我们被投资方(视为一个整体)的留存收益最终为伯克希尔带来了资本收益，这些公司为我们再投资的每一美元，为我们带来的资本收益超过1美元。
+
+:::
+
+:::lang eng
+
+All of our major holdings enjoy excellent economics, and most use a portion of their retained earnings to repurchase their shares. We very much like that: If Charlie and I think an investee’s stock is underpriced, we rejoice when management employs some of its earnings to increase Berkshire’s ownership percentage.
+
+:::
+
+:::lang chs
+
+我们所有的主要持股公司都有良好的经济效益，而且大多数公司都将部分留存收益用来回购股份。我们非常喜欢这一点：如果查理和我认为被投资方的股票被低估了，那么当管理层利用部分收益来提高伯克希尔的持股比例时，我们会感到很高兴。
+
+:::
+
+:::lang eng
+
+Here’s one example drawn from the table above: Berkshire’s holdings of American Express have remained unchanged over the past eight years. Meanwhile, our ownership increased from 12.6% to 17.9% because of repurchases made by the company. Last year, Berkshire’s portion of the $6.9 billion earned by American Express was $1.2 billion, about 96% of the $1.3 billion we paid for our stake in the company. When earnings increase and shares outstanding decrease, owners -- over time -- usually do well.
+
+:::
+
+:::lang chs
+
+上表中有一个例子：伯克希尔在美国运通的持股数在过去八年中保持不变。同时，由于公司不断回购，我们的持股比例从12.6%增到17.9%。在美国运通去年69亿美元的收益中，伯克希尔所占的份额为12亿美元，约为我们投资这家公司股票所支付的13亿美元的96%。当收益增加而流通股数量减少时，随着时间的推移，长期股东通常会表现良好。
+
+:::
+
+:::lang eng
+
+A third category of Berkshire’s business ownership is a quartet of companies in which we share control with other parties. Our portion of the after-tax operating earnings of these businesses -- 26.7% of Kraft Heinz, 50% of Berkadia and Electric Transmission Texas, and 38.6% of Pilot Flying J -- totaled about $1.3 billion in 2018.
+
+:::
+
+:::lang chs
+
+伯克希尔的第三类企业所有权是我们与他方共享控制权的四家公司。我们在这些企业税后经营收益中的份额分别为：卡夫亨氏(Kraft Heinz)的26.7%、Berkadia公司的50%，德州输电公司(Electric Transmission Texas)的50%，Pilot Flying J 的38.6%，2018年合计约13亿美元。
+
+:::
+
+:::lang eng
+
+In our fourth grove, Berkshire held $112 billion at yearend in U.S. Treasury bills and other cash equivalents, and another $20 billion in miscellaneous fixed-income instruments. We consider a portion of that stash to be untouchable, having pledged to always hold at least $20 billion in cash equivalents to guard against external calamities. We have also promised to avoid _any_ activities that could threaten our maintaining that buffer.
+
+:::
+
+:::lang chs
+
+在我们第四类资产中，伯克希尔年末持有1120亿美元的美国国债和其他现金等价物，另有200亿美元的各类固定收益工具。我们认为这些储备中有一部分是不可动用的，我们承诺永远持有至少200亿美元的现金等价物，以防范外部灾难。我们还承诺避免任何可能威胁到我们维持这一缓冲资本的行动。
+
+:::
+
+:::lang eng
+
+Berkshire will forever remain a financial fortress. In managing, I will make expensive mistakes of commission and will also miss many opportunities, some of which should have been obvious to me. At times, our stock will tumble as investors flee from equities. But I will never risk getting caught short of cash.
+
+:::
+
+:::lang chs
+
+伯克希尔将永远是一座金融堡垒。在管理的过程中，我会犯一些代价高昂的错误，也会错过很多机会，其中一些对我来说应该是显而易见的。有时，随着投资者逃离股市，我们的股票会暴跌。但是我永远不会冒现金短缺的风险。
+
+:::
+
+:::lang eng
+
+In the years ahead, we hope to move much of our excess liquidity into businesses that Berkshire will permanently own. The immediate prospects for that, however, are not good: Prices are sky-high for businesses possessing decent long-term prospects.
+
+:::
+
+:::lang chs
+
+在未来几年里，我们希望将大量过剩流动性转移到伯克希尔将永久拥有的业务上。然而，眼下的前景并不乐观：对于那些拥有良好长期前景的企业来说，价格高得离谱。
+
+:::
+
+:::lang eng
+
+That disappointing reality means that 2019 will likely see us again expanding our holdings of marketable equities. We continue, nevertheless, to hope for an elephant-sized acquisition. Even at our ages of 88 and 95 -- _I’m the young one_ -- that prospect is what causes my heart and Charlie’s to beat faster. (Just writing about the possibility of a huge purchase has caused my pulse rate to soar.)
+
+:::
+
+:::lang chs
+
+这一令人失望的现实意味着，2019年我们可能会再次增持有价证券。尽管如此，我们仍然希望能获得"大象"级的收购。即使在我们88岁和95岁的时候(我是年轻的那位)，这种前景也会让我和查理的心跳加快。(仅仅是写下可能会有一笔大买卖，就会使我的脉搏飙升。)
+
+:::
+
+:::lang eng
+
+My expectation of more stock purchases is _not_ a market call. Charlie and I have no idea as to how stocks will behave next week or next year. Predictions of that sort have _never_ been a part of our activities. Our thinking, rather, is focused on calculating whether a portion of an attractive business is worth more than its market price.
+
+:::
+
+:::lang chs
+
+我对购买更多股票的预期并不是看涨市场。查理和我不知道股市下周或明年的走势如何。这种预测从来都不是我们行动的一部分。相反，我们的思维集中在计算一项有吸引力业务的一部分，其价值是否高于市场价格。
+
+:::
+
+---
+
+:::lang eng
+
+I believe Berkshire’s intrinsic value can be _approximate_ d by summing the values of our four asset-laden groves and then subtracting an appropriate amount for taxes eventually payable on the sale of marketable securities.
+
+:::
+
+:::lang chs
+
+我相信，伯克希尔的内在价值可以通过将我们四大类资产的价值加起来，然后减去出售有价证券最终应缴纳的税款，来近似衡量。
+
+:::
+
+:::lang eng
+
+You may ask whether an allowance should not also be made for the major tax costs Berkshire would incur if we were to sell certain of our wholly-owned businesses. Forget that thought: It would be foolish for us to sell any of our wonderful companies even if _no_ tax would be payable on its sale. Truly good businesses are exceptionally hard to find. Selling any you are lucky enough to own makes no sense at all.
+
+:::
+
+:::lang chs
+
+你可能会问，如果我们出售我们的某些全资企业，伯克希尔可能会承担的主要税务成本是否应该得到免税额。忘记这个想法吧：我们卖掉任何一家出色的公司都是愚蠢的，即使出售不需要缴税。真正好的生意非常难以找到。卖掉任何你足够幸运才能拥有的东西是毫无意义的。
+
+:::
+
+:::lang eng
+
+The interest cost on _all_ of our debt has been deducted as an expense in calculating the earnings at Berkshire’s non-insurance businesses. Beyond that, much of our ownership of the first four groves is financed by funds generated from Berkshire’s fifth grove -- a collection of exceptional insurance companies. We call those funds “float,” a source of financing that we expect to be cost-free -- or maybe even better than that -- over time. We will explain the characteristics of float later in this letter.
+
+:::
+
+:::lang chs
+
+在计算伯克希尔非保险业务的收益时，我们所有债务的利息成本都被当成费用扣除了。除此之外，我们所拥有的前四类资产的所有权，其资金大部分来自伯克希尔的第五类资产(一系列出色的保险公司)。我们把这些资金称为"浮存金"，随着时间的推移，我们希望获取这些资金是零成本的，甚至可能更低。我们将在这封信的后面解释浮存金的特性。
+
+:::
+
+:::lang eng
+
+Finally, a point of key and lasting importance: Berkshire’s value is maximized by our having assembled the five groves into a single entity. This arrangement allows us to seamlessly and objectively allocate major amounts of capital, eliminate enterprise risk, avoid insularity, fund assets at exceptionally low cost, occasionally take advantage of tax efficiencies, and minimize overhead.
+
+:::
+
+:::lang chs
+
+最后，一个关键且持久的重要特点是：伯克希尔通过将五类资产整合成一个有机的实体来实现价值最大化。这种安排使我们能够无缝、客观地配置大量资金，消除企业风险，避免孤立，以极低成本为资产提供资金，偶尔利用税收效益，并将管理费用降至最低。
+
+:::
+
+:::lang eng
+
+At Berkshire, the whole is greater -- considerably greater -- than the sum of the parts.
+
+:::
+
+:::lang chs
+
+因此，相比各部分资产之和，伯克希尔的整体效益要大得多。
+
+:::
+
+# Repurchases and Reporting 回购与报告
+
+:::lang eng
+
+Earlier I mentioned that Berkshire will from time to time be repurchasing its own stock. Assuming that we buy at a discount to Berkshire’s intrinsic value -- which certainly will be our intention -- repurchases will benefit both those shareholders leaving the company and those who stay.
+
+:::
+
+:::lang chs
+
+之前我提到过伯克希尔将不时地回购自己的股票。假设我们以低于伯克希尔内在价值的价格购买股票(这肯定是我们的意图)，回购将对那些即将离开公司的股东和留下来的股东都有利。
+
+:::
+
+:::lang eng
+
+True, the upside from repurchases is very slight for those who are leaving. That’s because careful buying by us will minimize any impact on Berkshire’s stock price. Nevertheless, there is _some_ benefit to sellers in having an extra buyer in the market.
+
+:::
+
+:::lang chs
+
+的确，对那些即将离开的人来说，回购的好处微乎其微。这是因为我们谨慎的回购将最大限度地减少对伯克希尔股价的影响。尽管如此，在市场上有一个额外的买家对卖家来说总归还是有好处的。
+
+:::
+
+:::lang eng
+
+For continuing shareholders, the advantage is obvious: If the market prices a departing partner’s interest at, say, 90¢ on the dollar, continuing shareholders reap an increase in per-share intrinsic value with every repurchase by the company. Obviously, repurchases should be price-sensitive: Blindly buying an overpriced stock is value-destructive, a fact lost on many promotional or ever-optimistic CEOs.
+
+:::
+
+:::lang chs
+
+对于留下的股东，好处是显而易见的：如果市场对即将离开股东的1美元权益定价为90美分，那么公司的每一次回购，留下股东的每股内在价值都将增加。显然，回购应该对价格敏感：盲目回购高估的股票会破坏价值。这一事实对于许多促销型或过于乐观的公司首席执行官们来说无法理解这一点。
+
+:::
+
+:::lang eng
+
+When a company says that it contemplates repurchases, it’s vital that all shareholder-partners be given the information they need to make an intelligent estimate of value. Providing that information is what Charlie and I try to do in this report. We do not want a partner to sell shares back to the company because he or she has been misled or inadequately informed.
+
+:::
+
+:::lang chs
+
+当一家公司说它在考虑回购时，至关重要的是，所有股东(或合伙人)都能获得他们需要的信息，以便对其价值做出明智的评估。查理和我在这份报告中正在试图提供这些信息。我们不希望合伙人因为被误导或信息不对称而将股份卖回公司。
+
+:::
+
+:::lang eng
+
+Some sellers, however, may disagree with our calculation of value and others may have found investments that they consider more attractive than Berkshire shares. Some of that second group will be right: There are unquestionably many stocks that will deliver far greater gains than ours.
+
+:::
+
+:::lang chs
+
+然而，一些卖家可能不同意我们的价值评估，而另一些卖家可能发现比伯克希尔股票更具吸引力的投资机会。第二类人中的一些人可能是正确的：毫无疑问，许多股票将带来比我们大得多的收益。
+
+:::
+
+:::lang eng
+
+In addition, certain shareholders will simply decide it’s time for them or their families to become net consumers rather than continuing to build capital. Charlie and I have no current interest in joining that group. Perhaps we will become big spenders in our old age.
+
+:::
+
+:::lang chs
+
+此外，有些股东会简单地决定，是时候让他们或他们的家人成为净消费者，而不是继续积累资本。查理和我现在还没有兴趣加入他们。也许到了老年，我们会成为挥金如土的人。
+
+:::
+
+---
+
+:::lang eng
+
+For 54 years our managerial decisions at Berkshire have been made from the viewpoint of the shareholders who are staying, not those who are leaving. Consequently, Charlie and I have _never_ focused on current-quarter results.
+
+:::
+
+:::lang chs
+
+54年来，我们在伯克希尔的管理决策都是从留下来的股东而不是离开股东的角度做出的。因此，查理和我从未关注过当前季度的业绩。
+
+:::
+
+:::lang eng
+
+Berkshire, in fact, may be the only company in the Fortune 500 that does not prepare monthly earnings reports or balance sheets. I, of course, regularly view the monthly financial reports of most subsidiaries. But Charlie and I learn of Berkshire’s overall earnings and financial position only on a quarterly basis.
+
+:::
+
+:::lang chs
+
+事实上，伯克希尔可能是《财富》500强中唯一一家不编制月度收益报告或资产负债表的公司。当然，我会定期查看大多数子公司的月度财务报告。但查理和我只会按季查看伯克希尔的整体收益和财务状况。
+
+:::
+
+:::lang eng
+
+Furthermore, Berkshire has no company-wide budget (though many of our subsidiaries find one useful). Our lack of such an instrument means that the parent company has _never_ had a quarterly “number” to hit. Shunning the use of this bogey sends an important message to our many managers, reinforcing the culture we prize.
+
+:::
+
+:::lang chs
+
+此外，伯克希尔没有全公司范围的预算(尽管我们的许多子公司认为预算很有用)。我们不这么做，意味着母公司从来没有季度数字目标。避免使用这种预算工具会向我们的许多经理人传递一个重要的信息，强化我们所珍视的企业文化。
+
+:::
+
+:::lang eng
+
+Over the years, Charlie and I have seen all sorts of bad corporate behavior, both accounting and operational, induced by the desire of management to meet Wall Street expectations. What starts as an “innocent” fudge in order to not disappoint “the Street” -- say, trade-loading at quarter-end, turning a blind eye to rising insurance losses, or drawing down a “cookie-jar” reserve -- can become the first step toward full-fledged fraud. Playing with the numbers “just this once” may well be the CEO’s intent; it’s seldom the end result. And if it’s okay for the boss to cheat a little, it’s easy for subordinates to rationalize similar behavior.
+
+:::
+
+:::lang chs
+
+多年来，查理和我目睹了各种各样糟糕的企业行为，包括会计和运营方面的，都是因为管理层为满足华尔街期望的愿望而导致的。为了不让"华尔街"失望，一开始只是"无辜"的捏造，比如在季度末集中交易、对不断上升的保险损失视而不见、或动用"小金库"储备等等，这可能成为走向全面欺诈的第一步。"就这一次"很可能是CEO的初衷，但最终不会止步于此。如果老板可以稍微欺骗一下，那么下属也很容易为类似的行为找到借口。
+
+:::
+
+:::lang eng
+
+At Berkshire, our audience is neither analysts nor commentators: Charlie and I are working for our shareholder-partners. The numbers that flow up to us will be the ones we send on to you.
+
+:::
+
+:::lang chs
+
+在伯克希尔，我们的听众既不是华尔街分析师，也不是评论员：查理和我都在为我们的股东(合伙人)工作。流向我们的数字就是我们发送给您的数字。
+
+:::
+
+# Non-Insurance Operations -- From Lollipops to Locomotives 非保险业务——从棒棒糖到火车头
+
+:::lang eng
+
+Let’s now look further at Berkshire’s most valuable grove -- our collection of non-insurance businesses -- keeping in mind that we do not wish to unnecessarily hand our competitors information that might be useful to them.
+
+:::
+
+:::lang chs
+
+让我们再看看伯克希尔最有价值的小树林，即我们的非保险业务集合，记住，我们不希望不必要地向竞争对手提供可能对他们有用的信息。
+
+:::
+
+:::lang eng
+
+Additional details about individual operations can be found on pages K-5 -- K-22 and pages K-40 -- K-51.
+
+:::
+
+:::lang chs
+
+关于具体业务运营的细节详见财报。
+
+:::
+
+:::lang eng
+
+Viewed as a group, these businesses earned pre-tax income in 2018 of $20.8 billion, a 24% increase over 2017. Acquisitions we made in 2018 delivered only a trivial amount of that gain.
+
+:::
+
+:::lang chs
+
+作为一个整体，这些业务部门2018年的税前收益为208亿美元，较2017年增长24%，我们在2018年进行的收购对其贡献甚微。
+
+:::
+
+:::lang eng
+
+I will stick with pre-tax figures in this discussion. But our after-tax gain in 2018 from these businesses was _far_ greater -- 47% -- thanks in large part to the cut in the corporate tax rate that became effective at the beginning of that year. Let’s look at why the impact was so dramatic.
+
+:::
+
+:::lang chs
+
+在这次讨论中，我会坚持使用税前数字。但上述这些业务部门2018年的税后收益增幅较大，达到47%，这在很大程度上应归功于2018年初开始实行的降低企业税率政策。让我们看看为什么影响如此之大。
+
+:::
+
+:::lang eng
+
+Begin with an economic reality: Like it or not, the U.S. Government “owns” an interest in Berkshire’s earnings of a size determined by Congress. In effect, our country’s Treasury Department holds a special class of our stock -- call this holding the AA shares -- that receives large “dividends” (that is, tax payments) from Berkshire. In 2017, as in many years before, the corporate tax rate was 35%, which meant that the Treasury was doing very well with its AA shares. Indeed, the Treasury’s “stock,” which was paying nothing when we took over in 1965, had evolved into a holding that delivered billions of dollars annually to the federal government.
+
+:::
+
+:::lang chs
+
+先从经济现实开始：无论喜欢与否，美国政府拥有伯克希尔收益的权益，其规模取决于美国国会。实际上，美国财政部拥有我们一种特别股票(不妨称之为AA股)，并凭借这些股票从伯克希尔获得大量"股息"(即税收)。在2017年，如同往年一样企业税率为35%，这意味着财政部持有的AA股表现很好。实际上，在我们1965年开始接管公司时，财政部的"股票"没有支付任何费用，现在已变成每年向联邦政府提供数十亿美元的权益。
+
+:::
+
+:::lang eng
+
+Last year, however, 40% of the government’s “ownership” (14/35ths) was returned to Berkshire -- free of charge -- when the corporate tax rate was reduced to 21%. Consequently, our “A” and “B” shareholders received a major boost in the earnings attributable to _their_ shares.
+
+:::
+
+:::lang chs
+
+但在去年，当企业税率降至21%时，政府"所有权"中的40%(税率从35%下降至21%)被免费转交给伯克希尔。因此，我们的A/B股股东的股票收益得到大幅提升。
+
+:::
+
+:::lang eng
+
+This happening materially increased the intrinsic value of the Berkshire shares you and I own. The same dynamic, moreover, enhanced the intrinsic value of almost all of the stocks Berkshire holds.
+
+:::
+
+:::lang chs
+
+这种情况显著提高了你我拥有的伯克希尔股票的内在价值。此外，同样的变化提高了伯克希尔持有的几乎所有股票的内在价值。
+
+:::
+
+:::lang eng
+
+Those are the headlines. But there are other factors to consider that tempered our gain. For example, the tax benefits garnered by our large utility operation get passed along to its customers. Meanwhile, the tax rate applicable to the substantial dividends we receive from domestic corporations is little changed at about 13%. (This lower rate has long been logical because our investees have already paid tax on the earnings that they pay to us.) Overall, however, the new law made our businesses and the stocks we own _considerably_ more valuable.
+
+:::
+
+:::lang chs
+
+这些是主要因素。但还有其他一些降低我们收益的因素需要考虑。例如，我们的大型公用事业运营所带来的税收优惠将传递给客户。同时，我们从国内公司获得的大量股息，所适用税率几乎没有变化，约为13%。(长期以来，这种较低的税率一直是合乎逻辑的，因为我们的被投资公司已对他们向我们支付的收益缴纳过税收。)但总的来说，新税法使我们的业务和我们拥有的股票更有价值。
+
+:::
+
+:::lang eng
+
+Which suggests that we return to the performance of our non-insurance businesses. Our two towering redwoods in this grove are BNSF and Berkshire Hathaway Energy (90.9% owned). Combined, they earned $9.3 billion before tax last year, up 6% from 2017. You can read more about these businesses on pages K-5 -- K-10 and pages K-40 -- K-45.
+
+:::
+
+:::lang chs
+
+这表明我们又要回到对非保险业务表现上。我们在这类资产中的两棵高耸的红杉是BNSF和伯克希尔能源公司(持有90.9%)。两者相加，他们去年的税前收益为93亿美元，比2017年增长了6%。详见财报。
+
+:::
+
+:::lang eng
+
+Our next five non-insurance subsidiaries, as ranked by earnings (but presented here alphabetically), Clayton Homes, International Metalworking, Lubrizol, Marmon and Precision Castparts, had aggregate pre-tax income in 2018 of $6.4 billion, up from the $5.5 billion these companies earned in 2017.
+
+:::
+
+:::lang chs
+
+我们接下来的五家非保险子公司，按收益排名(但下文是按字母顺序)，分别是：ClaytonHomes、International Metalworking、Lubrizol、Marmon和PrecisionCastparts，2018年的税前收益总额为64亿美元，2017年为55亿美元。
+
+:::
+
+:::lang eng
+
+The next five, similarly ranked and listed (Forest River, Johns Manville, MiTek, Shaw and TTI) earned $2.4 billion pre-tax last year, up from $2.1 billion in 2017.
+
+:::
+
+:::lang chs
+
+按照同样的排名方式接下来的五家公司是森林之河、Johns Manville、MiTek，Shaw和TTI公司，去年的税前收益总额为24亿美元，2017为21亿美元。
+
+:::
+
+:::lang eng
+
+The remaining non-insurance businesses that Berkshire owns -- and there are many -- had pre-tax income of $3.6 billion in 2018 vs. $3.3 billion in 2017.
+
+:::
+
+:::lang chs
+
+伯克希尔公司拥有的剩余非保险子公司，2018年的税前收益总额为36亿美元，2017年为33亿美元。
+
+:::
+
+# Insurance, “Float,” and the Funding of Berkshire 保险、"浮存金"和伯克希尔的融资
+
+:::lang eng
+
+Our property/casualty (“P/C”) insurance business -- our fifth grove -- has been the engine propelling Berkshire’s growth since 1967, the year we acquired National Indemnity and its sister company, National Fire & Marine, for $8.6 million. Today, National Indemnity is the largest property/casualty company in the world as measured by net worth.
+
+:::
+
+:::lang chs
+
+我们第五类资产即财产意外险业务自1967年以来一直是推动伯克希尔增长的引擎，那年我们以860万美元收购了国民保险及其姊妹公司国民火灾海事保险。今天以净资产衡量，国民保险是全球最大的财产意外险公司。
+
+:::
+
+:::lang eng
+
+One reason we were attracted to the P/C business was the industry’s business model: P/C insurers receive premiums upfront and pay claims later. In extreme cases, such as claims arising from exposure to asbestos, or severe workplace accidents, payments can stretch over many decades.
+
+:::
+
+:::lang chs
+
+我们被财产意外险业务吸引的原因之一是该行业的商业模式：财产意外险公司预先收取保险费，然后支付索赔金。在极端情况下，如因接触石棉或严重工作场所事故所引起的索赔，付款可能会持续数十年。
+
+:::
+
+:::lang eng
+
+This collect-now, pay-later model leaves P/C companies holding large sums -- money we call “float” -- that will eventually go to others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And _how_ it has grown, as the following table shows:
+
+:::
+
+:::lang chs
+
+这种现在收钱、以后付款的模式使得财产意外险公司能持有大量资金，我们称之为"浮存金"，这些资金最终将流向其他公司。与此同时，保险公司为了自己的利益，可以用浮存金进行投资。尽管个别保单和索赔会来来去去，但保险公司持有的浮存金规模相对于保费规模而言通常相当稳定。因此，随着业务发展，我们的浮存金也在随之增长。它是如何增长的，如下表所示(包括人寿年金和健康险业务产生的浮存金)：
+
+:::
+
+:::lang common
+
+Year|Float (in millions)\*
+---|---:
+1970|$ 39
+1980|237
+1990|1,632
+2000|27,871
+2010|65,832
+2018|122,732
+
+:::
+
+:::lang eng
+
+\* Includes float arising from life, annuity and health insurance businesses.
+
+:::
+
+:::lang eng
+
+We may in time experience a decline in float. If so, the decline will be _very_ gradual -- at the outside no more than 3% in any year. The nature of our insurance contracts is such that we can _never_ be subject to immediate or near-term demands for sums that are of significance to our cash resources. That structure is by design and is a key component in the unequaled financial strength of our insurance companies. That strength will _never_ be compromised.
+
+:::
+
+:::lang chs
+
+随着时间的推移，我们可能会经历浮存金的下降，如果是这样的话，这种下降也将是非常缓慢的，整体看，任何一年都不会下滑超过3%。我们保险合同的性质是，我们永远不可能受制于对我们现金资源具有重要意义款项的即期或短期要求。这种结构是经过设计的，是我们保险公司无与伦比的财务实力的重要组成部分。这种力量永远不会被削弱。
+
+:::
+
+:::lang eng
+
+If our premiums exceed the total of our expenses and eventual losses, our insurance operation registers an underwriting profit that adds to the investment income the float produces. When such a profit is earned, we enjoy the use of free money -- and, better yet, get _paid_ for holding it.
+
+:::
+
+:::lang chs
+
+如果我们的保费超过我们的费用和赔付损失总和，我们的保险业务将录得承保盈利，这将增加浮存金所产生的投资收益。当赚到这样的利润时，我们享受了免费资金的使用，更好的是，因为持有这些资金还能获得回报。
+
+:::
+
+:::lang eng
+
+Unfortunately, the wish of all insurers to achieve this happy result creates intense competition, so vigorous indeed that it sometimes causes the P/C industry as a whole to operate at a significant underwriting _loss_. That loss, in effect, is what the industry pays to hold its float. Competitive dynamics almost guarantee that the insurance industry, despite the float income all its companies enjoy, will continue its dismal record of earning subnormal returns on tangible net worth as compared to other American businesses.
+
+:::
+
+:::lang chs
+
+不幸的是，所有保险公司都希望实现这一令人高兴的结果，这造成了激烈的竞争，甚至会导致整个财产意外险行业出现重大承保亏损。实际上，这一亏损正是该行业保持其浮存金而付出的代价。这种竞争态势几乎可以保证，尽管其所有公司都享有浮存金收益，但与其他美国企业相比，保险行业将继续保持净有形资产回报率低于正常水平的惨淡记录。
+
+:::
+
+:::lang eng
+
+Nevertheless, I like our own prospects. Berkshire’s unrivaled financial strength allows us far more flexibility in investing our float than that generally available to P/C companies. The many alternatives available to us are always an advantage and occasionally offer major opportunities. When other insurers are constrained, our choices expand.
+
+:::
+
+:::lang chs
+
+尽管如此，我还是喜欢我们自己的前景。伯克希尔无与伦比的财务实力使我们在浮存金投资方面的灵活性大大超过了财产意外险公司通常可获得的灵活性。我们可供使用的许多投资选择是一种优势，偶尔也会提供重大的机会。当其他保险公司受到限制时，我们的选择范围就会扩大。
+
+:::
+
+:::lang eng
+
+Moreover, our P/C companies have an excellent underwriting record. Berkshire has now operated at an underwriting profit for 15 of the past 16 years, the exception being 2017, when our pre-tax loss was $3.2 billion. For the entire 16-year span, our pre-tax gain totaled $27 billion, of which $2 billion was recorded in 2018.
+
+:::
+
+:::lang chs
+
+此外，我们的财产意外险业务有出色的承保记录。过去16年中，伯克希尔有15年实现了承保盈利，只有2017年除外，当时我们税前亏损了32亿美元。整个16年的时间里，我们的税前收益总额为270亿美元，其中20亿美元是2018年录得的。
+
+:::
+
+:::lang eng
+
+That record is no accident: Disciplined risk evaluation is the daily focus of our insurance managers, who know that the benefits of float can be drowned by poor underwriting results. All insurers give that message lip service. At Berkshire it is a religion, Old Testament style.
+
+:::
+
+:::lang chs
+
+这一记录并非偶然：严格的风险评估是我们保险经理每天关注的焦点，他们知道，浮存金的好处可能会被糟糕的承保结果所淹没。所有的保险公司都只是嘴上说说而已。但在伯克希尔，这已经成为一种老式的宗教信仰。
+
+:::
+
+---
+
+:::lang eng
+
+In most cases, the funding of a business comes from two sources -- debt and equity. At Berkshire, we have two additional arrows in the quiver to talk about, but let’s first address the conventional components.
+
+:::
+
+:::lang chs
+
+在大多数情况下，企业的资金有两个来源：借债和发行股票。在伯克希尔，我们还有两支"箭"要谈，让我们先谈谈传统的组成部分。
+
+:::
+
+:::lang eng
+
+We use debt sparingly. Many managers, it should be noted, will disagree with this policy, arguing that significant debt juices the returns for equity owners. And these more venturesome CEOs will be right _most_ of the time.
+
+:::
+
+:::lang chs
+
+我们很少借债。应该指出的是，许多管理者会不同意这一政策，他们辩称，巨额债务会给股东带来丰厚回报。而这些更具冒险精神的CEO们大多数时候都是正确的。
+
+:::
+
+:::lang eng
+
+At rare and unpredictable intervals, however, credit vanishes and debt becomes financially fatal. A Russian-roulette equation -- usually win, occasionally die -- may make financial sense for someone who gets a piece of a company’s upside but does not share in its downside. But that strategy would be madness for Berkshire. Rational people don’t risk what they have and need for what they don’t have and don’t need.
+
+:::
+
+:::lang chs
+
+然而，在罕见且不可预测的时间段里，信贷会消失，债务在财务上会变得致命。一个俄罗斯轮盘赌的等式，通常是赢的，但偶尔会死。对于那些从一家公司的上升期中分得一杯羹，但不分担其下跌期的人来说，或许在财务上是明智的。但这种策略对伯克希尔来说是疯狂的。理性的人不会为了他们没有和不需要的东西去冒险。
+
+:::
+
+:::lang eng
+
+Most of the debt you see on our consolidated balance sheet -- see page K-65 -- resides at our railroad and energy subsidiaries, both of them asset-heavy companies. During recessions, the cash generation of these businesses remains bountiful. The debt they use is both appropriate for their operations and _not_ guaranteed by Berkshire.
+
+:::
+
+:::lang chs
+
+我们合并资产负债表上看到的大部分债务，都属于我们的铁路和能源子公司，它们都是重资产的公司。在经济衰退期间，这些企业产生的现金仍然充裕。他们使用的债务既适合于他们的运营，也不受伯克希尔的担保。
+
+:::
+
+:::lang eng
+
+Our level of equity capital is a different story: Berkshire’s $349 billion is unmatched in corporate America. By retaining all earnings for a very long time, and allowing compound interest to work its magic, we have amassed funds that have enabled us to purchase and develop the valuable groves earlier described. Had we instead followed a 100% payout policy, we would still be working with the $22 _million_ with which we began fiscal 1965.
+
+:::
+
+:::lang chs
+
+我们的权益资本则是另一回事：伯克希尔的3490亿美元在美国企业界是无与伦比的。通过长期保留所有收益，并允许复利发挥其魔力，我们积累了资金，使我们能够购买和开发前面所描述的宝贵资产组合。如果我们遵循100%的派息政策，我们只能使用1965财年开始时使用的那2200万美元。
+
+:::
+
+:::lang eng
+
+Beyond using debt and equity, Berkshire has benefitted in a major way from two less-common sources of corporate funding. The larger is the float I have described. So far, those funds, though they are recorded as a huge net _liability_ on our balance sheet, have been of more utility to us than an equivalent amount of equity. That’s because they have usually been accompanied by underwriting earnings. In effect, we have been _paid_ in most years for holding and using other people’s money.
+
+:::
+
+:::lang chs
+
+除了使用债务和股票，伯克希尔还从两种不太常见的融资渠道中获益匪浅。较大的是我所描述的浮存金。到目前为止，尽管这个资金池在我们的资产负债表上被记录为巨大的净负债，但对我们来说，它比同等数量的股权更有用。这是因为它通常伴随着承保收益。实际上，我们多年来一直因为持有和使用他人的钱而获得收益。
+
+:::
+
+:::lang eng
+
+As I have often done before, I will emphasize that this happy outcome is far from a sure thing: Mistakes in assessing insurance risks can be huge and can take many years to surface. (Think asbestos.) A major catastrophe that will dwarf hurricanes Katrina and Michael _will_ occur -- perhaps tomorrow, perhaps many decades from now. “The Big One” may come from a traditional source, such as a hurricane or earthquake, or it may be a total surprise involving, say, a cyber attack having disastrous consequences beyond anything insurers now contemplate. When such a mega-catastrophe strikes, we will get our share of the losses and they will be big -- _very_ big. Unlike many other insurers, however, we will be looking to add business the next day.
+
+:::
+
+:::lang chs
+
+正如我以前经常做的那样，我要强调的是，这一令人高兴的结果远非是一件铁板钉钉的事情：在评估保险风险方面的错误可能是巨大的，可能需要多年才能浮出水面(就像石棉案一样)。一场巨大的灾难将使Katrina飓风和Michael飓风相形见绌，也许是明天，也许是几十年后。"大灾难"可能来自飓风或地震等传统来源，也可能是完全出乎意料的网络攻击，其灾难性后果超出了保险公司目前的预期。当这样一场特大灾难发生时，我们分担的损失部分将是巨大的，非常巨大。然而，与许多其它保险公司不同，我们将寻求在第二天就增加业务。
+
+:::
+
+:::lang eng
+
+The final funding source -- which again Berkshire possesses to an unusual degree -- is deferred income taxes. These are liabilities that we will eventually pay but that are meanwhile interest-free.
+
+:::
+
+:::lang chs
+
+最后一个资金来源是递延所得税，这是伯克希尔拥有的不同寻常的资金来源。这些债务我们最终会支付，但同时它们是无息的。
+
+:::
+
+:::lang eng
+
+As I indicated earlier, about $14.7 billion of our $50.5 billion of deferred taxes arises from the unrealized gains in our equity holdings. These liabilities are accrued in our financial statements at the current 21% corporate tax rate but will be paid at the rates prevailing when our investments are sold. Between now and then, we in effect have an interest-free “loan” that allows us to have more money working for us in equities than would otherwise be the case.
+
+:::
+
+:::lang chs
+
+如前所述，在我们的505亿美元递延税项中，约有147亿美元来自我们持有的股票未实现的资本收益。这些负债在我们的财务报表中按当前21%的公司税率计算，但将按我们投资出售时的届时税率支付。从现在到那时，我们实际上拥有了一笔无息"贷款"，这使有更多的钱在股票投资上为我们所用，而无需使用其他渠道的融资。
+
+:::
+
+:::lang eng
+
+A further $28.3 billion of deferred tax results from our being able to accelerate the depreciation of assets such as plant and equipment in calculating the tax we must currently pay. The front-ended savings in taxes that we record gradually reverse in future years. We regularly purchase additional assets, however. As long as the present tax law prevails, this source of funding should trend upward.
+
+:::
+
+:::lang chs
+
+此外，在计算目前必须缴纳的税款时，由于我们能加速折旧厂房和设备等资产，从而又产生了283亿美元递延税款。我们记录的前端税收节省将在未来几年逐渐逆转。然而，我们还会定期购买额外的资产。只要现行税法适用，这一资金来源应该呈上升趋势。
+
+:::
+
+:::lang eng
+
+Over time, Berkshire’s funding base -- that’s the right-hand side of our balance sheet -- should grow, primarily through the earnings we retain. Our job is to put the money retained to good use on the left-hand side, by adding attractive assets.
+
+:::
+
+:::lang chs
+
+随着时间的推移，伯克希尔的融资基础，就是我们资产负债表的右侧栏，应该会增长，主要来自我们的留存收益。我们的任务就是，将保留下来的资金购买更有吸引力的资产。
+
+:::
+
+# GEICO and Tony Nicely GEICO保险与托尼·莱斯利
+
+:::lang eng
+
+That title says it all: The company and the man are inseparable.
+
+:::
+
+:::lang chs
+
+这个标题说明了一切：伯克希尔和托尼·莱斯利是密不可分的。
+
+:::
+
+:::lang eng
+
+Tony joined GEICO in 1961 at the age of 18; I met him in the mid-1970s. At that time, GEICO, after a four-decade record of both rapid growth and outstanding underwriting results, suddenly found itself near bankruptcy. A recently-installed management had grossly underestimated GEICO’s loss costs and consequently underpriced its product. It would take many months until those loss-generating policies on GEICO’s books -- there were no less than 2.3 million of them -- would expire and could then be repriced. The company’s net worth in the meantime was rapidly approaching zero.
+
+:::
+
+:::lang chs
+
+1961年，18岁的Tony加入了GEICO保险。我在70年代中期才认识他。当时GEICO保险在经历了40年的快速增长和出色的承保业绩后，突然发现自己已濒临破产。当时该公司新上任的管理层严重低估了GEICO保险的损失成本，导致其产品定价过低。GEICO保险账簿上那些产生亏损的保单(数量不少于230万份)还有好几个月的时间才能到期，然后才能被重新定价。与此同时，该公司的账面价值正迅速趋零。
+
+:::
+
+:::lang eng
+
+In 1976, Jack Byrne was brought in as CEO to rescue GEICO. Soon after his arrival, I met him, concluded that he was the perfect man for the job, and began to aggressively buy GEICO shares. Within a few months, Berkshire bought about 1/3 of the company, a portion that later grew to roughly 1/2 without our spending a dime. That stunning accretion occurred because GEICO, after recovering its health, consistently repurchased its shares. All told, this half-interest in GEICO cost Berkshire $47 million, about what you might pay today for a trophy apartment in New York.
+
+:::
+
+:::lang chs
+
+1976年，杰克·伯恩(JackByrne)被任命为CEO来拯救GEICO保险。他到任后不久，我就见到了他。我认为他是这个职位的最佳人选，并开始积极买进GEICO保险的股票。在几个月内，伯克希尔购买了该公司约1/3的股份，后来在伯克希尔没有增加一分钱投资的情况下，我们所持GEICO股份增长到1/2。这种惊人的增长之所以发生，是因为GEICO保险在困境逆转后，一直在回购股票。总的来说，伯克希尔仅花了4700万美元就买下了GEICO保险一半的资产，仅相当于你今天在纽约买一套豪华公寓的价格。
+
+:::
+
+:::lang eng
+
+Let’s now fast-forward 17 years to 1993, when Tony Nicely was promoted to CEO. At that point, GEICO’s reputation and profitability had been restored -- but not its growth. Indeed, at yearend 1992 the company had only 1.9 million auto policies on its books, far less than its pre-crisis high. In sales volume among U.S. auto insurers, GEICO then ranked an undistinguished seventh.
+
+:::
+
+:::lang chs
+
+现在让我们把时间快进到17年后的1993年，Tony被提升为GEICO保险的CEO。那时，GEICO保险的声誉和盈利能力得到了恢复，但增长并没有恢复。事实上，到1992年底，该公司账面只有190万份汽车保单，远低于危机前的最高水平。按美国汽车保险公司的销售量比较，GEICO保险排名第七。
+
+:::
+
+:::lang eng
+
+Late in 1995, after Tony had re-energized GEICO, Berkshire made an offer to buy the remaining 50% of the company for $2.3 billion, about 50 times what we had paid for the first half (and people say I never pay up!). Our offer was successful and brought Berkshire a wonderful, but underdeveloped, company and an equally wonderful CEO, who would move GEICO forward beyond my dreams.
+
+:::
+
+:::lang chs
+
+1995年末，在Tony让GEICO保险彻底恢复活力后，伯克希尔提出以23亿美元收购GEICO保险剩余一半股份，这一价格大约是我们收购该公司另一半资产价格的50倍(而人们总说我不会在高位购买资产)。我们的收购获得了成功，这为伯克希尔带来了一家出色且很有发展潜力的公司，以及一位出色的CEO，他让GEICO保险的发展超越了我的期望。
+
+:::
+
+:::lang eng
+
+GEICO is now America’s Number Two auto insurer, with sales 1,200% greater than it recorded in 1995. Underwriting profits have totaled $15.5 billion (pre-tax) since our purchase, and float available for investment has grown from $2.5 billion to $22.1 billion.
+
+:::
+
+:::lang chs
+
+GEICO保险现在是美国第二大汽车保险公司，销售额比1995年增长了12倍。自收购以来，该公司的税前承保收益总计为155亿美元，可供投资的浮存金已从25亿美元增至221亿美元。
+
+:::
+
+:::lang eng
+
+By my estimate, Tony’s management of GEICO has increased Berkshire’s intrinsic value by more than $50 billion. On top of that, he is a model for everything a manager should be, helping his 40,000 associates to identify and polish abilities they didn’t realize they possessed.
+
+:::
+
+:::lang chs
+
+据我估计，Tony对GEICO保险的管理使伯克希尔的内在价值增加了500多亿美元。最重要的是，作为一个管理者，从任何角度看他都是一个榜样。他帮助他的4万名员工识别并加强了他们一直没意识到的能力。
+
+:::
+
+:::lang eng
+
+Last year, Tony decided to retire as CEO, and on June 30th he turned that position over to Bill Roberts, his long-time partner. I’ve known and watched Bill operate for several decades, and once again Tony made the right move. Tony remains Chairman and will be helpful to GEICO for the rest of his life. He’s incapable of doing less.
+
+:::
+
+:::lang chs
+
+去年，Tony决定辞去CEO一职。6月30日，他把这个职位移交给他的长期搭档比尔·罗伯茨(BillRoberts)。我认识Bill并看着他工作了几十年，Tony再一次做出了正确的决定。Tony仍是GEICO保险的董事长，他在余生都会尽心尽力帮助GEICO保险，他没法不这样做。
+
+:::
+
+:::lang eng
+
+_All_ Berkshire shareholders owe Tony their thanks. _I_ head the list.
+
+:::
+
+:::lang chs
+
+所有伯克希尔的股东都应该感谢Tony，尤其是我。
+
+:::
+
+# Investments 投资业务
+
+:::lang eng
+
+Below we list our fifteen common stock investments that at yearend had the largest market value. We exclude our Kraft Heinz holding -- 325,442,152 shares -- because Berkshire is part of a control group and therefore must account for this investment on the “equity” method. On its balance sheet, Berkshire carries its Kraft Heinz holding at a GAAP figure of $13.8 billion, an amount reduced by our share of the large write-off of intangible assets taken by Kraft Heinz in 2018. At yearend, our Kraft Heinz holding had a market value of $14 billion and a cost basis of $9.8 billion.
+
+:::
+
+:::lang chs
+
+下表我们列出我们在2018年末拥有的市值最大的15只普通股投资。我们拥有的卡夫亨氏(KraftHeinz) 325442125股排除在外，因为伯克希尔是控股集团的一部分，因此必须用"权益法"对该笔投资进行核算。在伯克希尔的资产负债表上，按GAAP会计原则伯克希尔持有的卡夫亨氏资产价值为138亿美元。这一数字减去了我们在卡夫亨氏2018年对无形资产进行的大额注销应占的份额。截至年底，我们持有的卡夫亨氏资产市值为140亿美元，成本基础为98亿美元。
+
+:::
+
+:::lang common
+
+Shares\*|Company|Percentage of Company Owned|Cost at 12/31/18 (in millions)\*\*|Market at 12/31/18 (in millions)
+---:|---|---:|---:|---:
+151,610,700|American Express Company|17.9|$ 1,287|$ 14,452
+255,300,329|Apple Inc.|5.4|36,044|40,271
+918,919,000|Bank of America Corp.|9.5|11,650|22,642
+84,488,751|The Bank of New York Mellon Corp.|8.8|3,860|3,977
+6,789,054|Charter Communications, Inc.|3.0|1,210|1,935
+400,000,000|The Coca-Cola Company|9.4|1,299|18,940
+65,535,000|Delta Air Lines, Inc.|9.6|2,860|3,270
+18,784,698|The Goldman Sachs Group, Inc.|4.9|2,380|3,138
+50,661,394|JPMorgan Chase & Co.|1.5|5,605|4,946
+24,669,778|Moody’s Corporation|12.9|248|3,455
+47,890,899|Southwest Airlines Co.|8.7|2,005|2,226
+21,938,642|United Continental Holdings Inc.|8.1|1,195|1,837
+146,346,999|U.S. Bancorp|9.1|5,548|6,688
+43,387,980|USG Corporation|31.0|836|1,851
+449,349,102|Wells Fargo & Company|9.8|10,639|20,706
+ ||Others||16,201|22,423
+ ||Total Common Stocks Carried at Market||$ 102,867|$ 172,757
+
+:::
+
+:::lang eng
+
+\* Excludes shares held by pension funds of Berkshire subsidiaries.
+
+:::
+
+:::lang chs
+
+\* 不包括伯克希尔子公司养老金投资的持股。
+
+:::
+
+:::lang eng
+
+\*\* This is our actual purchase price and also our tax basis.
+
+:::
+
+:::lang chs
+
+\*\* 成本项为实际投资成本，也是计税依据。
+
+:::
+
+:::lang eng
+
+Charlie and I do _not_ view the $172.8 billion detailed above as a collection of ticker symbols -- a financial dalliance to be terminated because of downgrades by “the Street,” expected Federal Reserve actions, possible political developments, forecasts by economists or whatever else might be the subject _du jour_.
+
+:::
+
+:::lang chs
+
+查理和我并不认为上面提到的1728亿美元只是一些股票代码，它们不应该是因为"华尔街"降级、美联储行动预期、可能的政治形势发展、经济学家的预测、或其他任何可能成为当前头条的因素而不再玩的金融游戏。
+
+:::
+
+:::lang eng
+
+What we see in our holdings, rather, is an assembly of companies that we partly own and that, on a weighted basis, are earning about _20%_ on the net tangible equity capital required to run their businesses. These companies, also, earn their profits without employing excessive levels of debt.
+
+:::
+
+:::lang chs
+
+相反，我们从我们的持股中看到的是我们部分持有的众多公司的集合，按照加权基础计算，他们在经营业务所需的净有形资产回报率约为20%，而赚取这些收益的同时，并没有过度举债。
+
+:::
+
+:::lang eng
+
+Returns of that order by large, established and understandable businesses are remarkable under any circumstances. They are truly mind-blowing when compared against the return that many investors have accepted on bonds over the last decade -- 3% or less on 30-year U.S. Treasury bonds, for example.
+
+:::
+
+:::lang chs
+
+在任何情况下，对这类大型、成熟和可理解企业的投资回报都是可观的。与很多投资者过去十年在债券上获得的回报率相比，这些回报真是令人震惊，例如30年期美国国债的收益率不超过3%。
+
+:::
+
+:::lang eng
+
+On occasion, a ridiculously-high purchase price for a given stock will cause a splendid business to become a poor investment -- if not permanently, at least for a painfully long period. Over time, however, investment performance converges with business performance. And, as I will next spell out, the record of American business has been extraordinary.
+
+:::
+
+:::lang chs
+
+有时，对某只股票的购买价格过高，会导致一家出色的企业沦为一项糟糕的投资，即使痛苦不是永久的话，也至少会持续很长时间。不过，随着时间的推移，投资业绩与经营业绩会趋于一致。而且，正如我接下来要说的，美国企业的历史记录是非同寻常的。
+
+:::
+
+# The American Tailwind 美国顺风车
+
+:::lang eng
+
+On March 11th, it will be 77 years since I first invested in an American business. The year was 1942, I was 11, and I went all in, investing $114.75 I had begun accumulating at age six. What I bought was three shares of Cities Service preferred stock. I had become a capitalist, and it felt good.
+
+:::
+
+:::lang chs
+
+到今年3月11日，从我首次投资美国企业开始已经有77年了。那一年是1942年，当时我11岁，我以全部身价投资了114.75美元，这可是我6岁时就开始积攒的。我买的是3股城市服务公司(CitiesService)的优先股。我成了一个资本家，感觉很棒。
+
+:::
+
+:::lang eng
+
+Let’s now travel back through the two 77-year periods that preceded my purchase. That leaves us starting in 1788, a year prior to George Washington’s installation as our first president. Could anyone then have imagined what their new country would accomplish in only three 77-year lifetimes?
+
+:::
+
+:::lang chs
+
+现在，让我们回到我购买股票之前的两个77年的时间段里。让我们从1788年开始，也就是乔治·华盛顿就任我们第一任总统的前一年。那时，有谁能想象他们的新国家在短短三个77年的时间里会取得什么样的成就呢？
+
+:::
+
+:::lang eng
+
+During the two 77-year periods prior to 1942, the United States had grown from four million people -- about 1/2 of 1% of the world’s population -- into the most powerful country on earth. In that spring of 1942, though, it faced a crisis: The U.S. and its allies were suffering heavy losses in a war that we had entered only three months earlier. Bad news arrived daily.
+
+:::
+
+:::lang chs
+
+在1942年之前的两个77年期间，美国已从400万人口(约占世界人口的0.5%)，发展成为世界上最强大的国家。然而，在1942年春天，它面临着一场危机：美国及其盟友在三个月前刚刚卷入的一场战争中遭受了巨大的损失。坏消息天天传来。
+
+:::
+
+:::lang eng
+
+Despite the alarming headlines, almost all Americans believed on that March 11th that the war would be won. Nor was their optimism limited to that victory. Leaving aside congenital pessimists, Americans believed that their children and generations beyond would live far better lives than they themselves had led.
+
+:::
+
+:::lang chs
+
+尽管有令人震惊的头条新闻，但在那年的3月11日，几乎所有的美国人都相信会赢得战争的胜利。他们的乐观情绪也不局限于这一胜利。撇开先天的悲观主义者不谈，美国人相信他们的孩子和后代的生活会比他们自己的要好得多。
+
+:::
+
+:::lang eng
+
+The nation’s citizens understood, of course, that the road ahead would not be a smooth ride. It never had been. Early in its history our country was tested by a Civil War that killed 4% of all American males and led President Lincoln to openly ponder whether “a nation so conceived and so dedicated could long endure.” In the 1930s, America suffered through the Great Depression, a punishing period of massive unemployment.
+
+:::
+
+:::lang chs
+
+当然，这个国家的公民明白，前方的道路不会一帆风顺。从来都不是。在其历史的早期，我们的国家经受了一场内战的考验，导致了4%的美国男性死亡，并导致林肯总统公开思考"一个如此有思想如此敬业的国家能否长久存在"。在1930年代，美国经历了"大萧条"，这是一个大规模失业的惩罚时期。
+
+:::
+
+:::lang eng
+
+Nevertheless, in 1942, when I made my purchase, the nation expected post-war growth, a belief that proved to be well-founded. In fact, the nation’s achievements can best be described as breathtaking.
+
+:::
+
+:::lang chs
+
+然而，在1942年，当我购买股票的时候，这个国家正期待战后的增长，这一信念被证明是有充分根据的。事实上，这个国家的成就可以说是令人叹为观止的。
+
+:::
+
+:::lang eng
+
+Let’s put numbers to that claim: If my $114.75 had been invested in a no-fee S&P 500 index fund, and all dividends had been reinvested, my stake would have grown to be worth (pre-taxes) $606,811 on January 31, 2019 (the latest data available before the printing of this letter). That is a gain of _5,288 for 1._ Meanwhile, a $1 million investment by a tax-free institution of that time -- say, a pension fund or college endowment -- would have grown to about $5.3 _billion_.
+
+:::
+
+:::lang chs
+
+让我们用数字来说明：如果我的114.75美元被投资在一个无佣金的标普500指数基金上，所有股息都进行再投资，那么到2019年1月31日，我所持股份将增至税前606811美元(这是本信印刷之前最新的可用数据)。这相当于每1美元赚了5288美元。与此同时，当时一家免税机构，比如养老基金或大学捐赠基金的100万美元投资将增加到53亿美元左右。
+
+:::
+
+:::lang eng
+
+Let me add one additional calculation that I believe will shock you: If that hypothetical institution had paid only _1%_ of assets annually to various “helpers,” such as investment managers and consultants, its gain would have been _cut in half_ , to $2.65 billion. That’s what happens over 77 years when the 11.8% annual return actually achieved by the S&P 500 is recalculated at a 10.8% rate.
+
+:::
+
+:::lang chs
+
+让我再额外补充一个我相信会令你震惊的计算：如果假想这家机构每年向投资经理及顾问等各类"帮手"支付1%的资产，那么其最终收益便会减少一半，只有26.5亿元。这就是77年时间里，当标普500指数实际上实现了11.8%的年回报率，再用减少1%的10.8%增长率重新计算时所发生的事情。
+
+:::
+
+:::lang eng
+
+Those who regularly preach doom because of government budget deficits (as I regularly did myself for many years) might note that our country’s national debt has increased roughly 400-fold during the last of my 77-year periods. That’s 40,000%! Suppose you had foreseen this increase and panicked at the prospect of runaway deficits and a worthless currency. To “protect” yourself, you might have eschewed stocks and opted instead to buy 3.25 ounces of gold with your $114.75.
+
+:::
+
+:::lang chs
+
+那些经常鼓吹政府预算赤字会带来厄运的人(就像我多年来经常做的那样)可能会注意到，在我人生过去的77年里，我们的国债增长了大约400倍。这是40000%！假设你已预见到这种增长，并对赤字失控和货币贬值的前景感到恐慌。为了"保护"自己，你可能会避开投资股票，转而选择用114.75美元购买3.25盎司的黄金。
+
+:::
+
+:::lang eng
+
+And what would that supposed protection have delivered? You would now have an asset worth about $4,200, _less than 1% of what_ would have been realized from a simple unmanaged investment in American business. The magical metal was no match for the American mettle.
+
+:::
+
+:::lang chs
+
+这种所谓的保护会带来什么呢？你现在将拥有的资产价值约为4200美元，不到美国企业中一个简单的无管理投资所实现收益的1%。这种神奇的贵金属无法与美国人的勇气相媲美。
+
+:::
+
+:::lang eng
+
+Our country’s almost unbelievable prosperity has been gained in a bipartisan manner. Since 1942, we have had seven Republican presidents and seven Democrats. In the years they served, the country contended at various times with a long period of viral inflation, a 21% prime rate, several controversial and costly wars, the resignation of a president, a pervasive collapse in home values, a paralyzing financial panic and a host of other problems. All engendered scary headlines; all are now history.
+
+:::
+
+:::lang chs
+
+我们国家几乎难以置信的繁荣是以两党合作的方式实现的。自1942年以来，我们有7位共和党总统和7位民主党总统。在他们任期内，这个国家在不同时期经历了病毒式的通货膨胀、达21%的最优惠利率、几场有争议且代价高昂的战争、总统辞职、房价全面崩溃、导致社会瘫痪的金融恐慌以及一系列其他问题。所有这些都产生了可怕的头条新闻，而现在一切都已成为历史。
+
+:::
+
+:::lang eng
+
+Christopher Wren, architect of St. Paul’s Cathedral, lies buried within that London church. Near his tomb are posted these words of description (translated from Latin): “If you would seek my monument, look around you.” Those skeptical of America’s economic playbook should heed his message.
+
+:::
+
+:::lang chs
+
+圣保罗大教堂的建筑师克里斯多佛·雷恩(ChristopherWren)就葬在伦敦的那座教堂里。在他的墓旁贴着这样的描述(从拉丁文翻译过来)："如果你想寻找我的纪念碑，就看看你的周围。"那些对美国经济策略持怀疑态度的人，应该思考一下他传递的信息。
+
+:::
+
+:::lang eng
+
+In 1788 -- to go back to our starting point -- there really wasn’t much here _except_ for a small band of ambitious people and an embryonic governing framework aimed at turning their dreams into reality. Today, the Federal Reserve estimates our household wealth at $108 _trillion_ , an amount almost impossible to comprehend.
+
+:::
+
+:::lang chs
+
+回到我们的起点1788年，这里除了一小群雄心勃勃的人，以及一个旨在将他们的梦想变成现实的、尚处萌芽状态的治理框架之外，真的什么都没有。今天，美联储估计我们的家庭财富为108万亿美元，这个数字规模高到几乎让人难以理解。
+
+:::
+
+:::lang eng
+
+Remember, earlier in this letter, how I described retained earnings as having been the key to Berkshire’s prosperity? So it has been with America. In the nation’s accounting, the comparable item is labeled “savings.” And save we have. If our forefathers had instead consumed all they produced, there would have been no investment, no productivity gains and no leap in living standards.
+
+:::
+
+:::lang chs
+
+在这封信的先前部分，还记得我说留存收益是伯克希尔繁荣的关键吗？美国也是如此。在美国的会计制度中，类似项目被称为"储蓄"。"储蓄"我们拥有的东西。如果我们的祖先把他们生产的东西全部消费掉，就不会有投资，不会有生产率提升，也不会有生活水平的飞跃。
+
+:::
+
+---
+
+:::lang eng
+
+Charlie and I happily acknowledge that much of Berkshire’s success has simply been a product of what I think should be called _The American Tailwind_. It is beyond arrogance for American businesses or individuals to boast that they have “done it alone.” The tidy rows of simple white crosses at Normandy should shame those who make such claims.
+
+:::
+
+:::lang chs
+
+查理和我高兴地承认，伯克希尔的成功在很大程度上只是我认为应该被称为"美国顺风车"的产物。对于美国企业或个人来说，吹嘘自己"单枪匹马就完成了这一切"已不能用傲慢来形容。在诺曼底整齐排列的简单白色十字架应该让那些做出如此声明的人感到羞愧。
+
+:::
+
+:::lang eng
+
+There are also many other countries around the world that have bright futures. About that, we should rejoice: Americans will be both more prosperous and safer if _all_ nations thrive. At Berkshire, we hope to invest significant sums across borders.
+
+:::
+
+:::lang chs
+
+世界上还有许多其他国家有着光明的前途。对此我们应该感到高兴：如果所有的国家繁荣，美国将更加繁荣和安全。在伯克希尔，我们希望在海外大举投资。
+
+:::
+
+:::lang eng
+
+Over the next 77 years, however, the major source of our gains will almost certainly be provided by The American Tailwind. We are lucky -- gloriously lucky -- to have that force at our back.
+
+:::
+
+:::lang chs
+
+然而，在未来的77年里，我们收益的主要来源，几乎肯定将来自"美国顺风车"。我们很幸运，非常幸运有这种力量在我们身后。
+
+:::
+
+# The Annual Meeting 年度股东大会
+
+:::lang eng
+
+Berkshire’s 2019 annual meeting will take place on Saturday, May 4th. If you are thinking about attending -- and Charlie and I hope you come -- check out the details on pages A-2 -- A-3. They describe the same schedule we’ve followed for some years.
+
+:::
+
+:::lang chs
+
+伯克希尔2019年股东大会将在5月4日周六举行。如果您考虑参加，查理和我希望你来，请参阅年报中详细时间表。这么多年来，股东大会的日程安排基本上都差不多。
+
+:::
+
+:::lang eng
+
+If you can’t join us in Omaha, attend via Yahoo’s webcast. Andy Serwer and his Yahoo associates do an outstanding job, both in covering the entire meeting and interviewing many Berkshire managers, celebrities, financial experts and shareholders from the U.S. and abroad. The world’s knowledge of what goes on in Omaha the first Saturday of every May has grown dramatically since Yahoo came on board. Its coverage begins at 8:45 a.m. CDT and provides Mandarin translation.
+
+:::
+
+:::lang chs
+
+如果您不能亲自来奥马哈，那也请您观看雅虎的网络直播。雅虎的AndySerwer和他的同事有关大会的报道非常精彩。他们将直播整个股东大会，并采访许多伯克希尔高管、名人、金融专家和来自海内外的股东。自从雅虎开始直播股东大会以来，全世界对每年五月第一个周六发生在奥马哈的事情产生了浓厚兴趣。雅虎的直播将于美东时间上午8:45分开始，直播还提供中文翻译。
+
+:::
+
+---
+
+:::lang eng
+
+For 54 years, Charlie and I have loved our jobs. Daily, we do what we find interesting, working with people we like and trust. And now our new management structure has made our lives even more enjoyable.
+
+:::
+
+:::lang chs
+
+在过去的54年里，查理和我一直热爱我们的工作。每天，我们都会做我们觉得有趣的事情，与我们喜欢和信任的人一起工作。现在，我们新的管理结构让我们的生活更加愉快。
+
+:::
+
+:::lang eng
+
+With the whole ensemble -- that is, with Ajit and Greg running operations, a great collection of businesses, a Niagara of cash-generation, a cadre of talented managers and a rock-solid culture -- your company is in good shape for whatever the future brings.
+
+:::
+
+:::lang chs
+
+整个团队，在Ajit和Greg的管理下，业务在逐渐扩展，现金像尼亚加拉瀑布一样流入。我们拥有一批才华横溢的管理者和坚如磐石的企业文化。股东们，无论未来如何演变，你们的公司都能应付自如。
+
+:::
+
+:::lang eng
+
+February 23, 2019
+
+:::
+
+:::lang eng
+
+Warren E. Buffett
+
+:::
+
+:::lang chs
+
+沃伦·巴菲特
+
+:::
+
+:::lang eng
+
+Chairman of the Board
+
+:::
+
+:::lang chs
 
 董事会主席
+
+:::

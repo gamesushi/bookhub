@@ -1,4 +1,4 @@
-const userLangPref = localStorage.getItem("language") ?? "en"
+const userLangPref = localStorage.getItem("language") ?? "eng"
 document.documentElement.setAttribute("saved-language", userLangPref)
 
 // Hide/show content based on language
@@ -9,7 +9,7 @@ const updateLanguageDisplay = (lang: string) => {
   // Update button text
   const langTexts = document.querySelectorAll('.lang-text')
   langTexts.forEach(text => {
-    text.textContent = lang === 'en' ? 'EN' : '中'
+    text.textContent = lang === 'eng' ? 'ENG' : '中'
   })
 }
 
@@ -24,12 +24,12 @@ const emitLanguageChangeEvent = (lang: string) => {
 }
 
 document.addEventListener("nav", () => {
-  const currentLang = localStorage.getItem("language") ?? "en"
+  const currentLang = localStorage.getItem("language") ?? "eng"
   updateLanguageDisplay(currentLang)
   
   const switchLanguage = () => {
     const newLang =
-      document.documentElement.getAttribute("saved-language") === "en" ? "zh" : "en"
+      document.documentElement.getAttribute("saved-language") === "eng" ? "chs" : "eng"
     document.documentElement.setAttribute("saved-language", newLang)
     localStorage.setItem("language", newLang)
     updateLanguageDisplay(newLang)

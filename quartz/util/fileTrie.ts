@@ -38,8 +38,8 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     this.displayNameOverride = name
   }
 
-  get displayNameZh(): string | undefined {
-    return this.data?.titleZh
+  get displayNameChs(): string | undefined {
+    return this.data?.titleChs
   }
 
   get slug(): FullSlug {

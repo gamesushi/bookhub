@@ -1,93 +1,458 @@
 ---
-title_zh: "1975 年致股东的信"
+title_chs: "1975 年致股东的信"
 dg-publish: true
 ---
-# 1975-巴菲特致股东信
+
+:::lang chs
+
+原文信息：
+
+:::
+
+:::lang chs
+
+- 标题：1975 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：1976-03-26
+- 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1975-Berkshire-AR.pdf)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Terrellchen
+- 修订：Terrellchen
+
+:::
+
+:::lang chs
+
+[^*]: 该部分有修订，详见《[伯克希尔哈撒韦股东信翻译更新日志](伯克希尔哈撒韦股东信翻译更新日志.md):
+
+:::
+
+:::lang chs
 
 致伯克希尔·哈撒韦公司全体股东：
 
-去年在谈到1975年的前景时，我们说过"1975年的展望并不乐观"。事实证明，这个预判准确得令人沮丧。1975年我们的经营收益为6,713,592美元，折合每股6.85美元，期初股东权益回报率为7.6%。这是自1967年以来最低的股本回报率。而且正如这封信后面所解释的，这些收益中有相当大一部分来自联邦所得税退款，这笔退款在1976年将无法再助推业绩。
+:::
 
-不过从整体来看，目前的态势表明1976年会稍微好一些。各业务板块的运营情况和前景将在下文分行业详述。我们的预期是：纺织业业绩将显著改善，近期收购带来的新增收益，加上持股比例扩大后对[[蓝筹印花|蓝筹印花]]公司 (Blue Chip Stamps) 的权益收益增加，再加上保险承保业绩哪怕只是适度改善，这些加在一起足以抵消其他可能的不利因素，使1976年整体收益好于1975年。其中最大的变量——也是最难以把握的——是保险承保的结果。目前非常初步的迹象显示，承保业绩有望改善。如果改善程度有限，我们整体收益的增幅也会相应有限；如果承保业绩大幅改善，那我们的收益涨幅就相当可观了。
+:::lang eng
 
-## [[纺织业务|纺织业务]]
+Last year, when discussing the prospects for 1975, we stated “the outlook for 1975 is not encouraging.” This forecast proved to be distressingly accurate. Our operating earnings for 1975 were $6,713,592, or $6.85 per share, producing a return on beginning shareholders’ equity of 7.6%. This is the lowest return on equity experienced since 1967. Furthermore, as explained later in this letter, a large segment of these earnings resulted from Federal income tax refunds which will not be available to assist performance in 1976.
 
-1975年上半年纺织品销售极为低迷，导致主要产品大幅减产。经营持续亏损，用工人数比上年同期最多时下降了53%。
+:::
 
-然而，与以往的周期性衰退不同，这一次大多数纺织品生产商迅速压缩产量以匹配订单，从而避免了全行业大规模的库存积压。正因如此，当零售需求复苏时，纺织厂层面的反应也相当及时。结果是，从年中开始，业务以相当快的速度回弹。这次纺织业的"V形"萧条，是有记录以来最剧烈的一次，同时也是我们经历过持续时间最短的一次。第四季度我们的纺织部门取得了出色的利润，扭转了全年的亏损局面。
+:::lang chs
 
-1975年4月28日，我们[[收购|收购]]了位于新罕布什尔州曼彻斯特市的 Waumbec Mills 公司及 Waumbec Dyeing and Finishing Co. 公司。这两家公司长期向窗帘和服装行业销售梭织产品，其窗帘面料与伯克希尔·哈撒韦家用织物部门现有的产品线形成了很好的补充和延伸。被收购之前，该公司亏损相当严重，织机开动率仅约55%，染整厂产能利用率也只有约50%。收购后最初几个月亏损依然持续，但有所收窄。此后，经过我们制造、管理和销售团队的出色努力，情况已大为改观，加上整个纺织行业的全面复苏，Waumbec 如今已步入显著盈利的轨道。
+去年讨论公司 1975 年的前景时，我们预测今年的前景不是那么令人满意。不幸的是，这个预言成真了。1975 年我们的经营收益为 6,713,592 美元，也就是每股收益 6.85 美元，初始股本回报率为 7.6%。这是自1967 年以来最低的回报率。然而，正如这封信后面分析的那样，经营收益中相当大的一部分来自联邦所得税退税，1976 年将无助于改善业绩。
 
-我们预期1976年[[纺织业务|纺织业务]]将保持良好的盈利水平。相关工作持续推进，曼彻斯特的 Waumbec 产品正逐步融入伯克希尔传统营销优势领域；织造和染整环节的生产效率也有望进一步提升；与此同时，纺织品需求在合理价格水平上继续稳固。
+:::
 
-我们对肯·蔡斯 (Ken Chace) 及其团队在纺织领域发挥最大优势的能力充满信心。因此，我们将继续寻找进一步扩大经营规模的机会，同时回避对新固定资产的大额资本投入——考虑到历史上大规模投资新纺织设备的资本回报率相对偏低，我们认为这样做是不明智的。
+:::lang eng
 
-## 保险承保业务
+On balance, however, current trends indicate a somewhat brighter 1976. Operations and prospects will be discussed in greater detail below, under specific industry titles. Our expectation is that significantly better results in textiles, earnings added from recent acquisitions, an increase in equity in earnings of Blue Chip Stamps resulting from an enlarged ownership interest, and at least a moderate improvement in insurance underwriting results will more than offset other possible negatives to produce greater earnings in 1976. The major variable—and by far the most difficult to predict with any feeling of confidence—is the insurance underwriting result. Present very tentative indications are that underwriting improvement is in prospect. If such improvement is moderate, our overall gain in earnings in 1976 likewise will prove moderate. More significant underwriting improvement could give us a major gain in earnings.
 
-1975年是财产意外险行业有史以来最糟糕的一年。我们在其中也贡献了应有的一份——不幸的是，甚至还超出了"应有"的比例。真正灾难性的承保亏损集中在汽车险和长尾险（损失事件发生后通常要过很久才能结案的险种）两个领域。
+:::
 
-经济[[通货膨胀|通货膨胀]]方面，人身伤亡和财产修复的成本增幅远远超过一般通胀水平，最终损失成本急剧攀升，远超此前在不同成本环境下制定的保费水平。"社会通货膨胀"则导致责任认定范围持续扩大，远超当初拟定费率时所预期的边界——实质上是在保费之外额外承担了额外的赔付责任。这种社会通胀还大大助长了诉讼倾向，也使陪审团对以前统计上无足轻重的事件作出天价裁决的可能性大幅上升。此外，对这些问题反应迟钝的保险公司相继倒闭，其保户的损失通过担保基金（Guaranty Fund）分摊给其余仍有偿付能力的保险公司。这些趋势还将持续下去，应当压制我们对当前大幅提费所带来的任何乐观预期。
+:::lang chs
 
-伯克希尔的保险子公司在1975年承保业绩最差的那些险种上，有着不成比例的过度集中。这些险种通常能产生异常高的投资收入，因此在过去的承保环境下对我们格外有吸引力。然而，过去两年间，我们的险种"组合"令我们处于非常不利的境地。在未来几年通胀居高不下的大背景下，我们很可能会继续留在保险行业中更为艰难的那一端。
+但是，总的来说，目前的局势表明 1976 年状况会有所好转。下面几个具体分行业的章节中会有关于运营和前景更详细的分析讨论。我们的预计是：纺织业的业绩会有明显改善，近期的收购会增加收益，所有权权益的扩大会提高蓝筹印花的权益回报，以及保险承保利润至少有适度的改善足以抵消其他的不利影响，1976 年将会产生可观的利润。目前最不确定的，完全没有把握且难以预测的是保险承保业绩。初步迹象表明，承保的前景会有所改善。如果这方面的改善是缓慢的，那我们整体盈利的增加也会很缓慢。保险承保业务如果可以大幅改善，那么我们的经营收益也会大量增加。
 
-1975年保险板块唯一表现有所改善的，是"本州 (Home-State) "业务，在约翰·林沃特 (John Ringwalt) 的领导下持续稳步推进。尽管承保亏损依然较大，但综合比率较1974年有所改善。若剔除仍处于起步阶段的业务所产生的超额成本，承保结果还是令人满意的。德州联合保险公司 (Texas United Insurance Company) 几年前曾是个大麻烦，自乔治·比林 (George Billing) 接手以来，已取得了出色的进展。凭借一支几乎全新的代理人队伍，德克萨斯联合保险以本州业务中最低的损失赔付比率，捧走了"董事长杯"。内布拉斯加意外险公司 (Cornhusker Casualty Company) 是本州业务中历史最悠久、规模最大的，运营表现依然出色，保费收入大幅增长，综合比率略低于100。1976年本州业务的保费收入预计将有相当幅度的增长；衡量成功的标准，依然是能否实现较低的综合比率。
+:::
 
-[[国民保险公司|国民保险公司]] (National Indemnity Company) 的传统业务占我们保险业务量的一半以上，1975年的承保结果却异常糟糕。尽管费率一再大幅提升，但全年始终在追赶亏损的脚步，始终落后一步。1970年代初期推出的几个特殊项目造成了重大损失，同时也大量消耗了管理层的时间和精力。目前迹象表明，1976年保费收入将有较大幅度增加，我们希望承保业绩也能随之改善。
+# Textile Operations 纺织业务
 
-再[[保险业|保险业]]务在1975年遭遇了与直接保险业务相同的困境，我们也尝试了相同的补救措施。由于再保险合同的结算滞后于直接业务，我们直接保险业务业绩的好转，很可能会先于再保险板块的回升。
+:::lang eng
 
-我们的子公司家庭和汽车保险公司 (Home and Automobile Insurance Company) 目前仅在伊利诺伊州库克郡地区经营汽车险，1975年业绩持续恶化，10月份因此进行了[[管理层|管理层]]更换。约翰·苏华德 (John Seward) 被任命为总裁，并以积极而富有创意的方式推行了一套彻底翻新的承保方案。
+During the first half of 1975 sales of textile products were extremely depressed, resulting in major production curtailments. Operations ran at a significant loss, with employment down as much as 53% from a year earlier.
 
-总体而言，1976年我们[[保险业|保险业]]务的保费收入将有大幅增长，其中相当大一部分反映的是费率提升，而非保单数量的增加。换作平时，这样的增长当然令人欣慰，但我们现在的心情可谓喜忧参半。承保业绩应该会有所改善——我们也期待如此——但信心并不充足。我们将竭力争取综合比率降至100以下，不过这在1976年恐怕难以实现。
+:::
 
-## 保险投资业务
+:::lang chs
 
-1975年保险投资收益的增长相当有限，原因是保费收入持平，加上承保亏损压缩了可用于投资的资金。年末按成本计的投资资产规模，与年初水平基本持平。
+1975 年上半年纺织品的销售低迷，导致主要产品减产。经营亏损显著，开工率比去年同期下降了 53% 。
 
-1974年底，我们投资组合股票部分的未实现净损失约为1700万美元，但我们当时仍然表达了这样的判断：按持有成本衡量，整个组合总体上具有良好的投资价值。1975年税前实现的净资本损失为288.8万美元，但我们目前预期1976年将是实现资本利得的一年。1976年3月31日，我们普通股部分的未实现净收益约达1500万美元。我们的股权投资高度集中于少数几家公司，这些公司均基于以下标准筛选：有利的经济特征、能干且诚实的管理层，以及以私人所有者视角衡量极具吸引力的[[买入价格|买入价格]]。
+:::
 
-符合这些标准的股票，我们打算长期持有；事实上，我们最大的一笔股权投资是467,150股[[华盛顿邮报|华盛顿邮报]] (Washington Post) B股，成本约1060万美元，我们计划永久持有。
+:::lang eng
 
-以这种方式投资，股市的涨跌对我们无关宏旨——除非市场下跌带来了买入机会——真正重要的是所投资公司的经营业绩。在这方面，我们对几乎所有重仓持股的公司所取得的进展都感到由衷高兴。
+In contrast with previous cyclical slumps, however, most textile producers quickly reduced production to match incoming orders, thus preventing massive industry‐wide accumulation of inventories. Such cutbacks caused quite prompt reflection at the mill operating level when demand revived at retail. As a result, beginning about midyear business rebounded at a fairly rapid rate. This “V” shaped textile depression, while one of the sharpest on record, also became one of the shortest ones in our experience. The fourth quarter produced an excellent profit for our textile division, bringing results for the year into the black.
 
-我们继续在保险子公司中保持充裕的流动性头寸。去年年报中我们解释过，利率仅仅变动十分之一个百分点，就会导致我们[[债券|债券]]市值出现百万美元级别的波动。我们认为这种市场波动无关紧要——因为我们强劲的流动性和整体财务实力，使得被迫在非我们所愿意的时机卖债券这种事情，几乎不可能发生。
+:::
 
-## [[银行业|银行业]]务
+:::lang chs
 
-要形容我们银行子公司——伊利诺伊州罗克福德市伊利诺伊国民银行及信托公司 (Illinois National Bank and Trust of Rockford, Illinois) ——首席执行官吉恩·阿贝格 (Eugene Abegg) 的表现，任何赞美之词都显得苍白。
+然而，与以往的周期性衰退相比，多数纺织品生产商根据订单迅速减少了产量，因此防止了全行业大规模的存货积压。当零售恢复正常需求时，这种低库存在工厂运营层面快速反应，结果，年中业务就开始快速回升。这 "V" 形的纺织业的衰退，是记录中最明显的一次，同时也是持续时间最短的一次。第四季度我们的纺织部门获得了极好的利润，使全年业绩扭亏为盈。
 
-在许多银行经营陷入严重困境的一年里，伊利诺伊国民银行继续保持着出色的纪录。在约6500万美元的平均贷款规模下，净贷款损失仅为2.4万美元，损失率只有0.04%。该行保持着异常充裕的流动性——年末时，美国政府及其机构发行的、一年内到期的债务约占活期存款的75%。所有消费者储蓄账户均支付最高法定利率，这类储蓄账户占存款基础的一半以上。然而，尽管坚守超高流动性、拒绝为追逐高收益而"冒险放贷"，伊利诺伊国民银行在全美同等规模乃至规模更大的银行中，依然是盈利能力最强的。
+:::
 
-1975年，美国最大的三十家银行平均总资产回报率为0.5%，伊利诺伊国民银行大约是这个数字的四倍。这三十家大行将营业收入的7%转化为净收入；而伊利诺伊国民银行在不计并表税收优惠的情况下，将27%的营业收入转化为净收入。
+:::lang eng
 
-吉恩·阿贝格于1931年创办伊利诺伊国民银行，实收资本为25万美元。1932年，也就是开业后的第一个完整年度，该行盈利8,782美元。此后再未进行过任何额外的资本注入。我建议各位阅读第28至34页的财务报表，看看这位真正杰出的经营者在44年的掌舵生涯中究竟创造了什么。
+On April 28, 1975 we acquired Waumbec Mills Incorporated and Waumbec Dyeing and Finishing Co., Inc. located in Manchester, New Hampshire. These companies have long sold woven goods into the drapery and apparel trade. Such drapery materials complement and extend the line already marketed through the Home Fabrics Division of Berkshire Hathaway. In the period prior to our acquisition, the company had run at a very substantial loss, with only about 55% of looms in operation and the finishing plant operating at about 50% of capacity. Losses continued on a reduced basis for a few months after acquisition. Outstanding efforts by our manufacturing, administrative and sales people now have produced major improvements, which, coupled with the general revival in textiles, have moved Waumbec into a significant profit position.
 
-在当前利率结构下，预计1976年该行收益会略有下降，但仍将保持在非常令人满意的水平。
+:::
 
-## [[蓝筹印花|蓝筹印花]]公司
+:::lang chs
 
-1975年，我们持有[[蓝筹印花|蓝筹印花]]公司 (Blue Chip Stamps) 的股份维持在该公司已发行股份的25.5%。但1976年初，我们的持股比例增加至31.5%。由于持股比例的提升，我们预计1976年在蓝筹印花收益中所占的权益会有一定程度的增加。
+1975 年 4 月 28 日，我们收购了位于曼彻斯特新罕布什尔的 Waumbec Mills 公司和 Waumbec Dyeingand Finishing Co. 公司。这些公司长期以来一直在窗帘和服装行业销售梭织产品。这种窗帘材料补充和延伸了伯克希尔哈撒韦公司家用织物部门已经销售的产品线。在我们收购之前，该公司的亏损非常严重，只有约 55% 的织机在运行，染制厂只以 50% 的产能在运营。收购之后的几个月内亏损仍在继续，但是稍有减少。通过我们的制造商、管理人员和销售人员的杰出努力，情况已经有了很大的改进，同时也伴随着整个纺织业的复苏，Waumbec 公司现在已扭亏为盈了。
 
-印花业务继续快速萎缩，截至1976年2月28日的一年中，业务量仅为截至1970年2月28日高峰年的六分之一。唐·柯佩尔 (Don Koeppel) 和比尔·拉姆齐 (Bill Ramsey) 在削减成本方面做了极为出色的工作，在一定程度上缓解了业务急速萎缩带来的经营压力。此外，1972年收购的[[喜诗糖果|喜诗糖果]] (See's Candies) 已被证明是一笔真正的好买卖。查克·哈金斯 (Chuck Huggins) 的经营管理出类拔萃，过去几年利润大幅增长。
+:::
 
-希望获取[[蓝筹印花|蓝筹印花]]公司最新年度报告的伯克希尔·哈撒韦股东，请致函该公司秘书罗伯特·H·伯德 (Robert H. Bird) 先生，地址：5801 South Eastern Avenue, Los Angeles, California 90040。
+:::lang eng
 
-## 联邦所得税的影响
+We expect a good level of profits from textiles in 1976. Continued progress is being made in the movement of Waumbec goods into areas of traditional marketing strength of Berkshire Hathaway, productivity should improve in both the weaving and finishing areas at Manchester, and textile demand continues to firm at decent prices.
 
-阅读我们的损益表时，你会注意到：由于1975年按税务目的计算产生了净经营亏损，此前多年缴纳的一大笔联邦所得税现已可申请退还。亏损的产生，源于州及地方[[债券|债券]]利息收入的100%、以及国内公司股息收入的85%均被排除在应税收入之外。我们可退税的余额已经用尽，因此，如果1976年的整体经营业绩与1975年相仿，净收益将大幅减少。尽管我们并不预期出现这种情况，但有一点请大家务必了解：万一按联邦税务目的计算的经营亏损继续存在，这道缓冲垫已经不复存在了。
+:::
 
-## [[收购|收购]] K & W 产品公司
+:::lang chs
 
-除1975年对 Waumbec 的收购外，我们还于1976年1月6日以现金及票据的方式，收购了 K & W 产品公司 (K & W Products) 100%的资产，包括其保险子公司。这些保险业务规模较小，是原本就与[[国民保险公司|国民保险公司]]有关联的业务。K & W 产品公司生产用于汽车日常养护的特种化学品，涵盖散热器及缸体密封剂、垫片密封胶，以及燃油和机油添加剂等。该公司在加利福尼亚州和印第安纳州的工厂生产的产品，拥有广泛的商标或商号保护。该公司规模相对较小，销售额略超200万美元，但长期以来持续产生良好收益。鉴于我们目前的所得税状况，增加一个稳定的应税收入来源尤为值得欢迎。
+我们预计 1976 年纺织部门会有不错的利润。持续性的项目已取得进展，曼彻斯特的 Waumbec 公司开始转产伯克希尔公司传统上营销具备优势领域的产品，并提升了织造和染整领域的生产效率，纺织品的持续需求态势，价格将稳定在合理的水平上。
 
-## 十年回顾
+:::
 
-现任管理层于1965年5月接手伯克希尔·哈撒韦公司。上一财年（1964年9月）结束时，公司净资产为2210万美元，流通普通股1,137,778股，每股[[账面价值|账面价值]]19.46美元。而在那十年之前，伯克希尔·哈撒韦的净资产曾高达5340万美元。股息派发和股票回购合计占净资产缩水额逾2100万美元，而这十年间5.95亿美元的销售收入，竟带来了980万美元的累计净亏损。
+:::lang eng
 
-1965年，新英格兰地区的两家纺织厂是公司唯一的盈利来源。在肯·蔡斯接管[[纺织业务|纺织业务]]之前，这块收益时好时坏，伯克希尔精纺公司 (Berkshire Fine Spinning) 与哈撒韦制造公司 (Hathaway Manufacturing) 合并之后，累计收益实际上还是负数。自1964年以来，公司净资产已增至9290万美元，折合每股94.92美元。我们通过与私人股东协商，以现金（或现金加票据）的方式，全部或几近全部地收购了六家企业；另外自行创办了四家业务；购入了一家大型联营企业31.5%的股权；同时将伯克希尔·哈撒韦的流通股数减少至979,569股。总体而言，每股权益的年复合增长率略高于15%。
+We have great confidence in the ability of Ken Chace and his team to maximize our strengths in textiles. Therefore, we continue to look for ways to increase further our scale of operations while avoiding major capital investment in new fixed assets which we consider unwise, considering the relatively low returns historically earned on large scale investment in new textile equipment.
 
-1975年是令人大失所望的一年，但我们仍将持续努力，开拓增长中的多元化收益来源。我们的目标，是建立一家融资保守、流动性充裕的企业——资产负债表上留有充分的安全余量，符合银行和保险行业内在的信托责任要求——并长期实现高于美国整体行业平均水平的股本回报率。
+:::
 
-沃伦·E·巴菲特 (Warren E. Buffett)
+:::lang chs
 
-董事长
+我们对 Ken Chace 及其团队在纺织品领域发挥其最大优势的能力充满信心。因此，我们将继续寻找方法以壮大经营规模，同时也避免对新的固定资产的资本投资，考虑到过去大规模投资新纺织设备所获得的资本回报相对较低，我们认为是不明智的。(收购代替建设)
+
+:::
+
+# Insurance Underwriting 保险承保业务
+
+:::lang eng
+
+The property and casualty insurance industry had its worst year in history during 1975. We did our share -- unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long‐tail (contracts where settlement of loss usually occurs long after the loss event) lines.
+
+:::
+
+:::lang chs
+
+1975 年是有史以来财产和意外险行业表现最差的一年。我们也不能例外，不幸的是，我们的表现甚至比整个行业还要糟。真正灾难性的承保亏损都集中在汽车保险和长尾保险方面(通常在损失事件发生后很久才进行损失结算的合同)。[^*]
+
+:::
+
+:::lang eng
+
+Economic inflation, with the increase in cost of repairing humans and property far outstripping the general rate of inflation, produced ultimate loss costs which soared beyond premium levels established in a different cost environment. “Social” inflation caused the liability concept to be expanded continuously, far beyond limits contemplated when rates were established—in effect, adding coverage beyond what was paid for. Such social inflation increased significantly both the propensity to sue and the possibility of collecting mammoth jury awards for events not previously considered statistically significant in the establishment of rates. Furthermore, losses to policyholders which otherwise would result from mushrooming insolvencies of companies inadequately reacting to these problems are divided through Guaranty Funds among remaining solvent insurers. These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.
+
+:::
+
+:::lang chs
+
+由于人身和财产的赔付成本增长远远超过一般通货膨胀率，经济通货膨胀导致最终损失成本飙升，超过了在不同成本环境下确定的保费水平。"社会通货膨胀"导致责任概念不断扩大，远远超出了最初确定费率时预期的赔付上限，还增加了超过保险合同赔偿范围的项目。这种概念还大大增加了起诉的倾向，也增加了为以前在拟定费率时不在统计范围内的事件获得陪审团巨额裁决的可能性。此外，由于对这些问题反应迟钝的保险公司迅速出现破产，而其保单持有人的损失则通过担保基金，分配给其他剩余的有偿付能力的保险公司。这些趋势将继续下去，而且应该缓和目前生效的大幅提高的费率可能带来的任何乐观情绪。[^*]
+
+:::
+
+:::lang eng
+
+Berkshire Hathaway’s insurance subsidiaries have a disproportionate concentration of business in precisely the lines which produced the worst underwriting results in 1975. Such lines produce unusually high investment income and, therefore, have been particularly attractive to us under previous underwriting conditions. However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.
+
+:::
+
+:::lang chs
+
+伯克希尔的保险子公司的业务过于集中于 1975 年承保业绩最差的业务线上。这些业务线产生异常高的投资收入，因此，在以前的承保标准下，对我们特别有吸引力。然而，我们的这种保险结构在过去两年中处于非常不利的境地，在未来几年通胀高企的年代中，保险行业将进入更为困难的阶段，我们的这种不利地位很有可能会继续维持下去。[^*]
+
+:::
+
+:::lang eng
+
+The only segment to show improved results for us during 1975 was the “home state” operation, which has made continuous progress under the leadership of John Ringwalt. Although still operating at a significant underwriting loss, the combined ratio improved from 1974. Adjusted for excess costs attributable to operations still in the start‐up phase, underwriting results are satisfactory. Texas United Insurance Company, a major problem a few years ago, has made outstanding progress since George Billing has assumed command. With an almost totally new agency force, Texas United was the winner of the “Chairman’s Cup” for achievement of the lowest loss ratio among the home state companies. Cornhusker Casualty Company, oldest and largest of the home state companies, continues its outstanding operation with major gains in premium volume and a combined ratio slightly under 100. Substantial premium growth is expected at the home state operation during 1976; the measurement of success, however, will continue to be the achievement of a low combined ratio.
+
+:::
+
+:::lang chs
+
+1975 年保险业唯一值得一提的部门是住宅保险业务 (Home-State)，在 John Ringwalt 的领导下取得了持续的进展。尽管承保损失依然很大，但是综合比率还是比 1974 年有所改善。调整了仍处于启动阶段的运营所产生的超额成本，承保结果令人满意。德州联合保险公司 (Texas United Insurance) 是几年前的一个棘手的难题，自 George Billing 接手以来，取得了显著的进展。在凭借一支几乎全新的代理队伍，得克萨斯联合保险公司在 Home-State 保险公司中，以损失率最低的成绩赢得了 Chairman's Cup 冠军。内布拉斯加意外险公司 (Cornhusker Casualty) 是 Home-State 业务中历史最久规模最大的，继续以它优良的运营能力获得了大量的承保收益，综合比率略低于 100。 1976 年该业务的保费收入预计还是可以大量增加的，然而，衡量成功的标准仍将是实现较低的综合比率。
+
+:::
+
+:::lang eng
+
+Our traditional business at National Indemnity Company, representing well over half of our insurance volume, had an extraordinarily bad underwriting year in 1975. Although rates were increased frequently and significantly, they continually lagged loss experience throughout the year. Several special programs instituted in the early 1970s have caused significant losses, as well as a heavy drain on managerial time and energies. Present indications are that premium volume will show a major increase in 1976, and we hope that underwriting results will improve.
+
+:::
+
+:::lang chs
+
+我们在国民保险公司的传统业务，占我们保险业务量的一半以上，但 1975 年承保结果却异常糟糕。尽管费率频繁地大额提升，但是他们全年仍在持续地亏损。 70 年代早期设立的几个特殊的项目造成了重大损失，同时也消耗了我们大量的管理时间和精力。目前迹象表明，1976 年保费会有所增加，我们希望承保业绩也能有所改善。
+
+:::
+
+:::lang eng
+
+Reinsurance suffered the same problems as our direct business during 1975. The same remedial efforts were attempted. Because reinsurance contract settlements lag those of direct business, it well may be that any upturn in results from our direct insurance business will precede those of the reinsurance segment.
+
+:::
+
+:::lang chs
+
+再保险业务在 1975 年遇到了和直接保险业务相同的问题，我们尝试了相同的补救措施。由于再保险合同的清算滞后于那些直接的业务合同，因此我们直接保险业务的业绩好转，很可能会先于再保险部门。
+
+:::
+
+:::lang eng
+
+At our Home and Automobile Insurance Company subsidiary, now writing auto business only in the Cook County area of Illinois, experience continued very bad in 1975 resulting in a management change in October. John Seward was made President at that time, and has energetically and imaginatively implemented a completely revamped underwriting approach.
+
+:::
+
+:::lang chs
+
+Home & Auto 家庭汽车保险公司现在只在伊利诺伊州的库克县地区经营汽车保险业务，1975 年的业绩持续恶化，导致了 10 月份管理层的变动。当时 John Seward 被任命为总裁，并积极而富有想象力地实施了一项彻底改革的承保方法。
+
+:::
+
+:::lang eng
+
+Overall, our insurance operation will produce a substantial gain in premium volume during 1976. Much of this will reflect increased rates rather than more policies. Under normal circumstances such a gain in volume would be welcome, but our emotions are mixed at present. Underwriting experience should improve—and we expect it to—but our confidence level is not high. While our efforts will be devoted to obtaining a combined ratio below 100, it is unlikely to be attained during 1976.
+
+:::
+
+:::lang chs
+
+总体来讲，1976 年我们保险业务的保费收入会增加很多。很大程度上是因为费率的提高而不是政策的改变。在正常的情况下，如此的增长很令人欣慰，但是我们现在的情绪却喜忧参半。保险承保的业绩仍需改善，我们希望是这样，但我们的信心不足。尽管我们会致力于使综合成本率达到 100 以下，但这在 1976 年几乎是不可能的。
+
+:::
+
+# Insurance Investments 保险投资业务
+
+:::lang eng
+
+Gains in investment income were moderate during 1975 because premium volume remained flat and underwriting losses reduced funds available for investment. Invested assets, measured at cost at yearend, were close to identical with the level at the beginning of the year.
+
+:::
+
+:::lang chs
+
+1975 年保险投资的收益不是很多，因为保费收入不多并且承保损失导致可投资资金不足。年底以成本计的投资资产，大概与年初的水平一致。
+
+:::
+
+:::lang eng
+
+At the end of 1974 the net unrealized loss in the stock section of our portfolio amounted to about $17 million, but we expressed the opinion, nevertheless, that this portfolio overall represented good value at its carrying value of cost. During 1975 a net capital loss of $2,888,000 before tax credits was realized, but our present expectation is that 1976 will be a year of realized capital gain. On March 31, 1976 our net unrealized gains applicable to equities amounted to about $15 million. Our equity investments are heavily concentrated in a few companies which are selected based on favorable economic characteristics, competent and honest management, and a purchase price attractive when measured against the yardstick of value to a private owner.
+
+:::
+
+:::lang chs
+
+1974 年底，我们投资组合中股票部分的未实现净损失约为 1700 万美元，但是我们坚信，不论如何，这个组合整体的账面价值相对于其投资成本而言，还是有着良好的投资价值的。 1975 年税收抵免前的投资净损失是 288.8 万美元，但是目前我们预计 1976 年会实现资本性盈利。 1976 年 3 月 31 日，我们普通股未变现的盈利总计约 1500 万美元。
+
+:::
+
+:::lang eng
+
+When such criteria are maintained, our intention is to hold for a long time; indeed, our largest equity investment is 467,150 shares of Washington Post “B” stock with a cost of $10.6 million, which we expect to hold permanently.
+
+:::
+
+:::lang chs
+
+我们股权投资主要集中于少数几家此种类型的公司：有着良好的经济护城河，称职且诚实的管理层，并且以私人所有者的价值尺度来衡量，购买价格很有吸引力。当这些要素都具备了，我们就打算长期持有；实际上，我们最大的股权投资是投资了 467,150 股 Washington Post 华盛顿邮报 B 股，成本约 1063 万美元，我们期望永久持有。
+
+:::
+
+:::lang eng
+
+With this approach, stock market fluctuations are of little importance to us—except as they may provide buying opportunities—but business performance is of major importance. On this score we have been delighted with progress made by practically all of the companies in which we now have significant investments.
+
+:::
+
+:::lang chs
+
+通过这种方法，股市的波动对我们的影响无关紧要，除非出现购买机会，但是公司的经营业绩仍旧是最重要的。在这方面，我们对几乎所有我们现在有重大投资的公司所取得的进展感到高兴。
+
+:::
+
+:::lang eng
+
+We have continued to maintain a strong liquid position in our insurance companies. In last year’s annual report we explained how variations of 1/10 of 1% in interest rates result in million dollar swings in market value of our bonds. We consider such market fluctuation of minor importance as our liquidity and general financial strength make it highly improbable that bonds will have to be sold at times other than those of our choice.
+
+:::
+
+:::lang chs
+
+我们将在保险公司里继续保持强大的流动性头寸。去年年报我们解释过利率仅仅变化 1‰ 如何导致我们债券的市值出现百万美元波动的。我们认为这样的市场波动并不重要，因为我们强大的资本流动性和健康的财务优势，使不得不卖出债券的可能性几乎为零。
+
+:::
+
+# Banking 银行业务
+
+:::lang eng
+
+It is difficult to find adjectives to describe the performance of Eugene Abegg, Chief Executive of Illinois National Bank and Trust of Rockford, Illinois, our banking subsidiary.
+
+:::
+
+:::lang chs
+
+任何言辞都难以赞扬我们的伊利诺伊国民银行首席执行官 Gene Abegg 的卓越表现。
+
+:::
+
+:::lang eng
+
+In a year when many banking operations experienced major troubles, Illinois National continued its outstanding record. Against average loans of about $65 million, net loan losses were $24,000, or .04%. Unusually high liquidity is maintained with obligations of the U. S. Government and its agencies, all due within one year, at yearend amounting to about 75% of demand deposits. Maximum rates of interest are paid on all consumer savings instruments which make up more than half of the deposit base. Yet, despite the maintenance of premier liquidity and the avoidance of “stretching” for high yield loans, the Illinois National continues as about the most profitable bank of its size, or larger, in the country.
+
+:::
+
+:::lang chs
+
+在许多银行经营出现重大困难的一年里，伊利诺伊国民银行继续保持着出色的业绩。相对于 6500 万美元的平均贷款，净贷款损失仅 2.4 万美元，或 0.04% 的损失。在美国政府和其机构的要求下，它保持着极高的资本流动性，年底时所有一年内到期的定期存款占了 75%。所有超过 200 万美元的消费者储蓄账户都支付最高法定利率，然而，尽管伊利诺伊国民银行保持了极高的流动性，并避免 "展期"高收益贷款，但它仍然是全国同规模或更大的银行中最赚钱的银行。
+
+:::
+
+:::lang eng
+
+In 1975 the thirty largest banks in the United States earned an average of .5% on total assets. The Illinois National earned about four times that much. These same thirty largest banks carried down 7% of operating revenues to net income. Without counting any tax benefits from consolidation, Illinois National carried down 27%.
+
+:::
+
+:::lang chs
+
+1975 年，美国最大的 30 家银行的平均总资产收益率为 0.5%。伊利诺伊国民银行的收益大约是这个数字的四倍。这三十家大型银行中，将 7% 的营业收入转化为净收入。而伊利诺伊国家银行在不考虑合并所带来的任何税收优惠的情况下，将 27% 的营业收入转化为净收入。
+
+:::
+
+:::lang eng
+
+Gene Abegg opened the doors of the Illinois National Bank in 1931 with paid-in capital of $250,000. In 1932, its first full year of operation, it earned $8,782. No additional capital has been paid in, and we recommend reading its financial statements on pages 28-34 to see what a truly outstanding manager has built in 44 years at the helm.
+
+:::
+
+:::lang chs
+
+吉恩-阿贝格于 1931 年开办了伊利诺伊国民银行，实收资本为 25 万美元。1932 年，即开业后的第一个完整年度，该银行赚取了 8782 美元。此后没有进行额外的资本注入，我们建议您阅读第 28-34 页的财务报表，看看这位真正杰出的管理者在 44 年的掌舵生涯中创造了怎样的业绩。
+
+:::
+
+:::lang eng
+
+Under the present interest rate structure, it is expected that earnings of the Bank will be off somewhat during 1976 but still will remain at a highly satisfactory level.
+
+:::
+
+:::lang chs
+
+在目前的利率结构下，预计 1976 年该银行的收益将略有下降，但仍将保持在非常令人满意的水平上。
+
+:::
+
+# Blue Chip Stamps 蓝筹印花公司
+
+:::lang eng
+
+During 1975 our holdings of Blue Chip Stamps remained at 25.5 of that company’s outstanding shares. However, early in 1976 our holdings were increased to 31.5%. We expect some increase in our equity in Blue Chip’s earnings in 1976 because of this increased ownership.
+
+:::
+
+:::lang chs
+
+1975 年，我们持有的蓝筹印花公司股票仍占该公司已发行股份的 25.5%。但在 1976 年初，我们的持股比例增加到 31.5%。由于持股比例的增加，我们预计 1976 年我们在蓝筹印花公司收益中的权益会有一定程度的增加。
+
+:::
+
+:::lang eng
+
+The stamp business continues its precipitous decline with volume in the year ended February 28, 1976 amounting to only one-sixth that of the peak year ended February 28, 1970. Don Koeppel and Bill Ramsey have done an extraordinary job of cost-cutting, which has served to moderate operating problems resulting from this evaporation of business. In addition, the acquisition of See’s Candies in 1972 has proven a real winner. Chuck Huggins’s management has been outstanding, and profits have moved up dramatically during the past several years.
+
+:::
+
+:::lang chs
+
+印花业务继续急剧下降，截至 1976 年 2 月 28 日的一年中，印花业务量仅为截至 1970 年 2 月 28 日的高峰年的六分之一。唐-科佩尔（Don Koeppel）和比尔-拉姆齐（Bill Ramsey）出色地完成了削减成本的工作，从而缓解了业务流失带来的经营问题。此外，1972 年对 See's 糖果公司的收购也被证明是一个真正的赢家。查克-哈金斯（Chuck Huggins）的管理非常出色，在过去几年里，利润大幅增长。
+
+:::
+
+:::lang eng
+
+Shareholders of Berkshire Hathaway Inc. desiring the current annual report of Blue Chip Stamps should write Mr. Robert H. Bird, Secretary, Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.
+
+:::
+
+:::lang chs
+
+伯克希尔哈撒韦公司的股东如需蓝筹印花公司的最新年度报告，请致函蓝筹印花公司秘书 Robert H. Bird 先生，地址：5801 South Eastern Avenue, Los Angeles, California 90040。
+
+:::
+
+# Federal Income Tax Implications 联邦所得税的影响
+
+:::lang eng
+
+In reading our earnings statement you will notice a significant amount of Federal income taxes paid in earlier years are now recoverable because of the net operating loss, as computed for tax purposes, sustained in 1975. Such loss results from the exclusion from income of 100% of interest from state and local issues, and 85% of dividends from domestic corporations. We have exhausted our reservoir of available tax recoveries and, therefore, a repeat of our overall operating performance in 1976 would produce much smaller net earnings. While we do not expect this result, it is important that you are aware of the absence of this cushion in the event that operating losses, as calculated for Federal tax purposes, should continue.
+
+:::
+
+:::lang chs
+
+在阅读我们的损益表时，你会注意到，由于 1975 年持续的净营业亏损(按税收目的计算)，早期支付的大量联邦所得税现在可以收回。这种亏损是由于 100% 的州和地方债券利息以及 85% 的国内公司股息被排除在收入之外。我们已经耗尽了可用的税款回收储备，因此，如果我们 1976 年的总体经营业绩重蹈覆辙，净利润将大大减少。虽然我们并不期望出现这种结果，但重要的是，您要意识到，如果按照联邦税收目的计算的经营亏损继续存在，就不会有这种缓冲。
+
+:::
+
+# Acquisition of K & W Products 收购 K & W 产品公司
+
+:::lang eng
+
+In addition to the 1975 Waumbec acquisition, we acquired for cash and notes on January 6, 1978, 100% of the assets of K & W Products, including its insurance subsidiaries. The insurance operations are minor in scope, representing business already associated with National Indemnity Company. K & W Products manufactures specialty automotive chemicals for use in automobile maintenance, such as radiator and block sealants, gasket compounds and fuel and oil additives. The company has extensive trademark or trade name protection for its products, which it manufactures at plants in California and Indiana. Although relatively small, with sales of a little over $2 million, it consistently has generated favorable earnings. Positioned as we now are with respect to income taxes, the addition of a solid source of taxable income is particularly welcome.
+
+:::
+
+:::lang chs
+
+除了 1975 年对 Waumbec 公司的收购外，我们还于 1978 年 1 月 6 日以现金和票据收购了 K & W Products 公司 100% 的资产，包括其保险子公司。这些保险业务规模较小，是已经与国民保险公司相关联的业务。K & W 产品公司生产用于汽车维护的特种汽车化学品，如散热器和缸体密封剂、垫片粘合剂以及燃油和机油添加剂。该公司在加利福尼亚州和印第安纳州的工厂生产的产品拥有广泛的商标或商号保护。虽然公司规模相对较小，销售额略高于 200 万美元，但却一直保持着良好的收益。鉴于我们目前在所得税方面的处境，增加一个可靠的应税收入来源尤其值得欢迎。
+
+:::
+
+# General Review 十年回顾
+
+:::lang eng
+
+Your present management assumed responsibility at Berkshire Hathaway in May, 1965. At the end of the prior fiscal year (September, 1964) the net worth of the Company was $22.1 million, and 1,137,778 common shares were outstanding, with a resulting book value of $19.46 per share. Ten years earlier, Berkshire Hathaway’s net worth had been $53.4 million. Dividends and stock repurchases accounted for over $21 million of the decline in company net worth, but aggregate net losses of $9.8 million had been incurred on sales of $595 million during the decade.
+
+:::
+
+:::lang chs
+
+目前的管理层是于 1965 年 5 月接管伯克希尔·哈撒韦公司的。上一财年 (1964 年 9 月) 结束时，公司的净资产是 2210 万美元，流通在外的普通股有 1,137,778 股，每股账面价值是 19.46 美元。十年之前的 1955 年，伯克希尔·哈撒韦的净资产已是 5340 万美元。股息和股票回购占账面价值减少额的 2100 万美元以上，但是这十年期间，5.95 亿美元的销售却产生了 980 万美元的净损失。
+
+:::
+
+:::lang eng
+
+In 1965, two New England textile mills were the company’s only sources of earning power and, before Ken Chace assumed responsibility for the operation, textile earnings had been erratic and, cumulatively, something less than zero subsequent to the merger of Berkshire Fine Spinning and Hathaway Manufacturing. Since 1964, net worth has been built to $92.9 million, or $94.92 per share. We have acquired total, or virtually total ownership of six businesses through negotiated purchases for cash (or cash and notes) from private owners, started four others, purchased a 31.5% interest in a large affiliate enterprise and reduced the number of outstanding shares of Berkshire Hathaway to 979,569. Overall, equity per share has compounded at an annual rate of slightly over 15%.
+
+:::
+
+:::lang chs
+
+1965 年，新英格兰地区的两个纺织厂是公司的唯一盈利来源，在 Ken Chace 接管这项业务之前，纺织利润是不稳定的，在伯克希尔精纺公司和哈撒韦制造公司合并之后收入累计是亏损的。自 1964 年以来，公司净资产已累积到 9290 万美元，即每股 94.92 美元。我们通过谈判从私营业主那用现金(或者是现金和支票)收购六家公司的全部或几乎全部所有权(联合零售，国民保险，伊利诺伊银行，喜诗糖果，蓝筹印花，威斯科金融)，整合成四家(保险，银行，零售，蓝筹印花)，又购买一家关联公司约 31.5% 的股份 (GEICO)，并将伯克希尔·哈撒韦公司的在外流通股减少至 979,569 股。总体而言，每股权益的年复利率略高于 15%。
+
+:::
+
+:::lang eng
+
+While 1975 was a major disappointment, efforts will continue to develop growing and diversified sources of earnings. Our objective is a conservatively financed and highly liquid business—possessing extra margins of balance sheet strength consistent with the fiduciary obligations inherent in the banking and insurance industries—which will produce a long term rate of return on equity capital exceeding that of American industry as a whole.
+
+:::
+
+:::lang chs
+
+尽管 1975 年的业绩令人大失所望，但是我们会继续致力于壮大公司规模并使得盈利来源多元化。我们的目标是维持保守的融资和资本的高流动性，保持资产负债表的额外盈利优势，同时坚守银行及保险行业固有的信托责任，这样会使得我们长期的股权资本回报率高于美国整体行业的水平。
+
+:::
+
+:::lang eng
+
+Warren E. Buffett, Chairman
+
+:::
+
+:::lang chs
+
+沃伦·巴菲特 董事长
+
+:::

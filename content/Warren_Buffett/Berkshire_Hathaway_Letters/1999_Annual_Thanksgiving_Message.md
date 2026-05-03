@@ -1,5 +1,5 @@
 ---
-title_zh: "1999 年感恩节贺信"
+title_chs: "1999 年感恩节贺信"
 dg-publish: true
 ---
 # 1999-巴菲特致股东信
