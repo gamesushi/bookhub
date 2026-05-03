@@ -86,7 +86,11 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const a = li.querySelector("a") as HTMLAnchorElement
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
-  a.textContent = node.displayName
+  
+  const enSpan = a.querySelector(".lang-en") as HTMLElement
+  const zhSpan = a.querySelector(".lang-zh") as HTMLElement
+  enSpan.textContent = node.displayName
+  zhSpan.textContent = node.displayNameZh ?? node.displayName
 
   if (currentSlug === node.slug) {
     a.classList.add("active")
@@ -121,12 +125,25 @@ function createFolderNode(
     const a = document.createElement("a")
     a.href = resolveRelative(currentSlug, folderPath)
     a.dataset.for = folderPath
-    a.className = "folder-title"
-    a.textContent = node.displayName
+    a.className = "folder-title dual-lang"
+    
+    const enSpan = document.createElement("span")
+    enSpan.className = "lang-en"
+    enSpan.textContent = node.displayName
+    
+    const zhSpan = document.createElement("span")
+    zhSpan.className = "lang-zh"
+    zhSpan.textContent = node.displayNameZh ?? node.displayName
+    
+    a.appendChild(enSpan)
+    a.appendChild(zhSpan)
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
-    span.textContent = node.displayName
+    const enSpan = span.querySelector(".lang-en") as HTMLElement
+    const zhSpan = span.querySelector(".lang-zh") as HTMLElement
+    enSpan.textContent = node.displayName
+    zhSpan.textContent = node.displayNameZh ?? node.displayName
   }
 
   // if the saved state is collapsed or the default state is collapsed

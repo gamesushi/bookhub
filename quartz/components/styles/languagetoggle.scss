@@ -1,0 +1,35 @@
+button.language-toggle {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: var(--dark);
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: var(--lightgray);
+  }
+
+  .lang-icon {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+  }
+
+  .lang-text {
+    font-size: 0.85rem;
+    font-weight: 600;
+    min-width: 1.5rem;
+    text-align: center;
+  }
+}
+
+// Add smooth transitions for language blocks
+.lang-en,
+.lang-zh {
+  transition: opacity 0.2s ease;
+}

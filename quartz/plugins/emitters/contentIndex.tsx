@@ -13,6 +13,7 @@ export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
   title: string
+  titleZh?: string
   links: SimpleSlug[]
   tags: string[]
   content: string
@@ -99,6 +100,90 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
     async *emit(ctx, content) {
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
+
+      // Build translation map from index files
+      const zhTitleMap = new Map<FullSlug, string>()
+
+      
+      // Import fs to read raw file content
+      const fs = await import("fs")
+
+      for (const [_, file] of content) {
+        // Strict check for path being a string
+        if (!file.data?.slug) continue;
+        
+        // Fallback to history if path is missing (sometimes happens in memory-only files)
+        let filePath = file.path || file.history?.[0] || "";
+        
+        if (!filePath || typeof filePath !== 'string') continue;
+
+        let rawContent = ""
+        try {
+            // @ts-ignore
+            rawContent = fs.readFileSync(filePath, 'utf8')
+        } catch (e) {
+            continue;
+        }
+        
+        // Check for language block
+        if (rawContent && (rawContent.includes(":::lang zh") || rawContent.includes(":::lang zu"))) {
+             
+             // More robust split
+             const parts = rawContent.split(/:::lang z[h,u]/)
+             if (parts.length < 2) continue;
+             
+             const zhBlock = parts[1].split(":::")[0]
+             
+             if (zhBlock) {
+                 // 1. Extract H1 title
+                 const h1Match = zhBlock.match(/^#\s+(.+)$/m)
+                 if (h1Match) {
+                     zhTitleMap.set(file.data.slug!, h1Match[1].trim())
+                 }
+                 
+                 // 2. Extract WikiLinks with aliases
+                 // Regex allows whitespace around pipes if needed
+                 const regex = /\[\[\s*([^\|\]]+?)\s*\|\s*([^\]]+?)\s*\]\]/g
+                 
+                 let match
+                 while ((match = regex.exec(zhBlock)) !== null) {
+                     const [_, link, titleZh] = match
+                     
+                     // Resolve link
+                     const cleanLink = link.split("/").pop()!.trim()
+                     const folder = file.data.slug!.split("/").slice(0, -1).join("/")
+                     
+                     const targetHtml = cleanLink.replace(/ /g, "-").toLowerCase()
+                     
+                     // Attempt to find matching file in content
+                     for (const [_, targetFile] of content) {
+                         // Check slug match
+                         const slug = targetFile.data.slug
+                         if (!slug) continue
+                         
+                         // Check fast path: exact title match
+                         if (targetFile.data.frontmatter?.title === cleanLink) {
+                              if (!link.startsWith("/") && slug.startsWith(folder)) {
+                                  zhTitleMap.set(slug, titleZh.trim())
+                                  break;
+                              }
+                         }
+                         
+                         // Check slug heuristic
+                         if (slug.endsWith(targetHtml)) {
+                              if (!link.startsWith("/") && slug.startsWith(folder)) {
+                                  zhTitleMap.set(slug, titleZh.trim())
+                                  break;
+                              }
+                         }
+                     }
+                 }
+             }
+        }
+      }
+      
+      // console.log(`[ContentIndex] Mapped ${zhTitleMap.size} titles.`)
+
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
@@ -107,6 +192,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
+            titleZh: (file.data.frontmatter?.title_zh as string) || zhTitleMap.get(slug),
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",

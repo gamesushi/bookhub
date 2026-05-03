@@ -38,6 +38,10 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     this.displayNameOverride = name
   }
 
+  get displayNameZh(): string | undefined {
+    return this.data?.titleZh
+  }
+
   get slug(): FullSlug {
     const path = joinSegments(...this.slugSegments) as FullSlug
     if (this.isFolder) {

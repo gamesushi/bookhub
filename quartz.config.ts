@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Noto Serif SC",
+        body: "DM Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.LanguageBlocks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

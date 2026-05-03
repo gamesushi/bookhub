@@ -124,7 +124,10 @@ export default ((userOpts?: Partial<Options>) => {
         </div>
         <template id="template-file">
           <li>
-            <a href="#"></a>
+            <a href="#" class="dual-lang">
+              <span class="lang-en"></span>
+              <span class="lang-zh"></span>
+            </a>
           </li>
         </template>
         <template id="template-folder">
@@ -146,7 +149,10 @@ export default ((userOpts?: Partial<Options>) => {
               </svg>
               <div>
                 <button class="folder-button">
-                  <span class="folder-title"></span>
+                  <span class="folder-title dual-lang">
+                    <span class="lang-en"></span>
+                    <span class="lang-zh"></span>
+                  </span>
                 </button>
               </div>
             </div>

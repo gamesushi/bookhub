@@ -24,6 +24,9 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
+import NounPreview from "./NounPreview"
+import LanguageToggle from "./LanguageToggle"
+
 export {
   ArticleTitle,
   Content,
@@ -50,4 +53,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  NounPreview,
+  LanguageToggle,
 }
