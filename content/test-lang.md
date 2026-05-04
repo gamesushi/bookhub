@@ -1,3 +1,7 @@
+---
+title: "test-lang"
+title_chs: "test-lang"
+---
 :::lang common
 
 # Header (Mixed 中文)
