@@ -4,8 +4,8 @@ uuid: 7e55033f-b202-5af3-8f0c-416f1c4e455d
 title: 2007 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2007'
-status: published
+date: 2006-05-19
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

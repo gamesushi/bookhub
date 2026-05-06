@@ -4,8 +4,8 @@ uuid: ca6bfb39-1a95-5995-80c7-5399e1ddded0
 title: 1994 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1994'
-status: published
+date: 1993-11-07
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

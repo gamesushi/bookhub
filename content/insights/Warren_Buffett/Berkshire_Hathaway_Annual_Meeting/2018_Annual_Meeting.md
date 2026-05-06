@@ -4,8 +4,8 @@ title_chs: 2018 年股东大会
 uuid: fee52c8e-f31b-57a5-8667-3dda9d0395e5
 type: speech
 author: Warren Buffett
-date: '2018'
-status: published
+date: 1942-03-12
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

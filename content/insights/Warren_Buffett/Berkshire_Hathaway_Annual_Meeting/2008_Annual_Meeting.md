@@ -4,8 +4,8 @@ title_chs: 2008 年股东大会
 uuid: cab3a18e-3b31-577a-9862-61770bd722a1
 type: speech
 author: Warren Buffett
-date: '2008'
-status: published
+date: 2008-03-05
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

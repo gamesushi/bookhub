@@ -4,8 +4,8 @@ title_chs: 2010 年股东大会
 uuid: 44b171e4-0dea-502d-9279-03f17fcb589d
 type: speech
 author: Warren Buffett
-date: '2010'
-status: published
+date: 2005-01-03
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

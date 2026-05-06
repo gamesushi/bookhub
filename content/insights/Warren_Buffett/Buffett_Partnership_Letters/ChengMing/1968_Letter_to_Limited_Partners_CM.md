@@ -4,8 +4,8 @@ uuid: ff9fe6e9-3d73-5214-95a7-3083db0f1789
 title: 1968 Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1968'
-status: published
+date: 1969-01-22
+publish: true
 last_checked: '2026-05-04'
 related:
 - 道琼斯工业指数

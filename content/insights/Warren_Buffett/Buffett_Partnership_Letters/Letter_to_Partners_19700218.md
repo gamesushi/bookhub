@@ -4,8 +4,8 @@ uuid: 313cc3fd-5dbf-51ac-a399-20321e9bdb99
 title: Letter to Partners 19700218
 type: letter
 author: Warren Buffett
-date: '1970'
-status: published
+date: 1970-02-18
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

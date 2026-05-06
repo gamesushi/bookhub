@@ -4,8 +4,8 @@ uuid: 626d9fae-e8a9-5f3c-b72f-312addc295fc
 title: 2021 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2021'
-status: published
+date: 1942-03-11
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

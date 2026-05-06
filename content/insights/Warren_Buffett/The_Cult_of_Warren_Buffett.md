@@ -4,7 +4,7 @@ uuid: 6d832d9e-fce7-5038-96ef-5b5e80c55bf4
 title: The Cult of Warren Buffett
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

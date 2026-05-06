@@ -5,7 +5,7 @@ title: 195802 Letter OST
 type: letter
 author: Warren Buffett
 date: '1958'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

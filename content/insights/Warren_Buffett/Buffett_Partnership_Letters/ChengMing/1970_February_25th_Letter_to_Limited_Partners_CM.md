@@ -4,8 +4,8 @@ uuid: 6e031cc2-04f9-50b9-ab10-5b358d26d49f
 title: 1970 February 25th Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1970'
-status: published
+date: 1970-02-25
+publish: true
 last_checked: '2026-05-04'
 related:
 - Bonds

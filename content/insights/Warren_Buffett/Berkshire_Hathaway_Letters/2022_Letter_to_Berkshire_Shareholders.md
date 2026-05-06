@@ -4,8 +4,8 @@ uuid: 5c085e76-8718-5745-9b6e-29a2595fffb6
 title: 2022 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2022'
-status: published
+date: 2023-02-25
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

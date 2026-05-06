@@ -4,8 +4,8 @@ title_chs: 2007 年股东大会
 uuid: b99f83bd-7026-52c2-b6ea-bc2f44b201a3
 type: speech
 author: Warren Buffett
-date: '2007'
-status: published
+date: 1987-10-19
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

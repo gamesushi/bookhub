@@ -5,7 +5,7 @@ title: 2014 Vice Chairman’s Thoughts
 type: article
 author: Warren Buffett
 date: '2014'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

@@ -4,8 +4,8 @@ title_chs: 2004 年股东大会
 uuid: 7b7c7a6a-b152-5222-ac03-85ee327392a1
 type: speech
 author: Warren Buffett
-date: '2004'
-status: published
+date: 2004-03-02
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

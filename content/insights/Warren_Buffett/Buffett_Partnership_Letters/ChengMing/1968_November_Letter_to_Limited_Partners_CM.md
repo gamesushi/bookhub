@@ -4,8 +4,8 @@ uuid: b4d64636-16bf-55c6-b415-76ea16af3d09
 title: 1968 November Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1968'
-status: published
+date: 1968-11-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

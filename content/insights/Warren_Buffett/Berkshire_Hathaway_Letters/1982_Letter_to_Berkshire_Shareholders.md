@@ -5,7 +5,7 @@ title: 1982 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
 date: '1982'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

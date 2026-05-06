@@ -4,8 +4,8 @@ title_chs: 2009 年股东大会
 uuid: a47e6309-e3eb-5aba-a131-fd4e08b6c390
 type: speech
 author: Warren Buffett
-date: '2009'
-status: published
+date: 2008-12-31
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

@@ -4,8 +4,8 @@ uuid: 4a7ae595-e52f-5f2f-9615-820971a552d8
 title: 1994 Annual Meeting
 type: speech
 author: Warren Buffett
-date: '1994'
-status: published
+date: 1994-04-25
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

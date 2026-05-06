@@ -4,8 +4,8 @@ uuid: 98eaccda-7b8c-5d98-bbe1-338836b001e8
 title: 1979 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1979'
-status: published
+date: 1964-09-30
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

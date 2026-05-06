@@ -4,8 +4,8 @@ uuid: c1392133-db14-530d-9a14-96c56a46f55f
 title: 1969 October Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1969'
-status: published
+date: 1969-10-09
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

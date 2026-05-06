@@ -4,8 +4,8 @@ uuid: 022a68e3-af77-5154-a5cc-04a5b970d574
 title: 1983 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1983'
-status: published
+date: 1983-09-30
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

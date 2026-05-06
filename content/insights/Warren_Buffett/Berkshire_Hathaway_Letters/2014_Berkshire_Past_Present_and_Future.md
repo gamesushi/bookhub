@@ -4,8 +4,8 @@ uuid: c159b2bd-424d-559f-bf1c-8f588a6ff49b
 title: 2014 Berkshire Past Present and Future
 type: article
 author: Warren Buffett
-date: '2014'
-status: published
+date: 1964-05-06
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

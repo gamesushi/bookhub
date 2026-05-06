@@ -4,8 +4,8 @@ uuid: 5a10257f-c74c-5b45-8e10-25057fd045b1
 title: 1962 November Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1962'
-status: published
+date: 1962-11-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

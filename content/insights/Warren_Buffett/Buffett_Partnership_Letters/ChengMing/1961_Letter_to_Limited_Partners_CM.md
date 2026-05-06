@@ -4,8 +4,8 @@ uuid: 636f129d-6874-5453-abed-d17e27eb1183
 title: 1961 Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1961'
-status: published
+date: 1962-01-24
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

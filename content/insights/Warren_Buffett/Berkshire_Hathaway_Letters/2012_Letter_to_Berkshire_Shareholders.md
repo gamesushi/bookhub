@@ -4,8 +4,8 @@ uuid: 7dad2a3a-2605-53ff-b08b-f3e2add140d8
 title: 2012 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2012'
-status: published
+date: 2013-03-01
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

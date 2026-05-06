@@ -4,8 +4,8 @@ title_chs: 2002 年股东大会
 uuid: 31d1971d-c7bd-56f9-b676-da30b9769464
 type: speech
 author: Warren Buffett
-date: '2002'
-status: published
+date: 2002-03-06
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

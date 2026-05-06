@@ -5,7 +5,7 @@ title: 1957 Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
 date: '1957'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

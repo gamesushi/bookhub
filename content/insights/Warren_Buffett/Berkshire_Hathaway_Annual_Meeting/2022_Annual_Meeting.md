@@ -4,8 +4,8 @@ title_chs: 2022 年股东大会
 uuid: b6fb9fc8-2680-535d-b342-45c09da772d0
 type: speech
 author: Warren Buffett
-date: '2022'
-status: published
+date: 1952-04-19
+publish: true
 last_checked: '2026-05-04'
 related:
 - 股东

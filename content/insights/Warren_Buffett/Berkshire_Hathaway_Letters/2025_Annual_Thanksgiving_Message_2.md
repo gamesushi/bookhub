@@ -4,8 +4,8 @@ uuid: 95a058a0-5e85-5975-a69e-794f98c7f7b2
 title: 2025 Annual Thanksgiving Message 2
 type: article
 author: Warren Buffett
-date: '2025'
-status: published
+date: 2025-11-10
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

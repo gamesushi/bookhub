@@ -4,8 +4,8 @@ uuid: e43eeb5a-b07d-55f2-8b58-ad5aac1d796d
 title: 1967 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1967'
-status: published
+date: 1968-03-08
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

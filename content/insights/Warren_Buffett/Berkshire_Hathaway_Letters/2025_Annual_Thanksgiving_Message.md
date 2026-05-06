@@ -5,7 +5,7 @@ title: 2025 Annual Thanksgiving Message
 type: article
 author: Warren Buffett
 date: '2025'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

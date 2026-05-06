@@ -4,8 +4,8 @@ uuid: 5886c0e5-9ad0-58b0-a911-eb40ddc9adf7
 title: 1993 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1993'
-status: published
+date: 1993-11-07
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

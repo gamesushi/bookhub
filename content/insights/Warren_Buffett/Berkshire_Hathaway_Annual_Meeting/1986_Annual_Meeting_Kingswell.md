@@ -4,8 +4,8 @@ uuid: 422b31c2-c5a1-5e3f-acf0-6cbb62d9bb2f
 title: 1986 Annual Meeting Kingswell
 type: speech
 author: Warren Buffett
-date: '1986'
-status: published
+date: 1986-05-20
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

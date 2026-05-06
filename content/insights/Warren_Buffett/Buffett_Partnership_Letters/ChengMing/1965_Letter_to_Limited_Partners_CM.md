@@ -4,8 +4,8 @@ uuid: 99bd4ae5-5d4e-508f-ad71-4a14f6d1dd5d
 title: 1965 Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1965'
-status: published
+date: 1966-01-20
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

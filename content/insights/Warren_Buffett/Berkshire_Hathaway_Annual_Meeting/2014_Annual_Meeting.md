@@ -4,8 +4,8 @@ title_chs: 2014 年股东大会
 uuid: 8af059df-869b-5477-a5bb-37e4d55dc5c8
 type: speech
 author: Warren Buffett
-date: '2014'
-status: published
+date: 1983-08-30
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

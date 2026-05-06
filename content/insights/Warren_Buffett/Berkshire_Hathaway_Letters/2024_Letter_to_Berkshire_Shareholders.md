@@ -4,8 +4,8 @@ uuid: 7abbf0a4-da6c-55d4-8dab-fc52d08ffb7a
 title: 2024 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2024'
-status: published
+date: 2005-06-21
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

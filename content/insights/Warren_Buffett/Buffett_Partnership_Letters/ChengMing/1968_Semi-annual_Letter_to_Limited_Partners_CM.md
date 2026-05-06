@@ -4,8 +4,8 @@ uuid: c084fae5-21cc-55b9-8a51-16867e69123d
 title: 1968 Semi annual Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1968'
-status: published
+date: 1968-07-11
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

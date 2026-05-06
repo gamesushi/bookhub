@@ -4,8 +4,8 @@ title_chs: 2000 年股东大会
 uuid: 6ccde1f2-d5da-52bc-8b61-afe7fa5c9ab7
 type: speech
 author: Warren Buffett
-date: '2000'
-status: published
+date: 1962-01-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

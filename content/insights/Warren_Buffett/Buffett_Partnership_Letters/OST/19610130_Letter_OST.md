@@ -4,8 +4,8 @@ uuid: 7140fee1-28c0-5b5a-807e-342c563cd6a0
 title: 19610130 Letter OST
 type: letter
 author: Warren Buffett
-date: '1961'
-status: published
+date: 1961-01-30
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

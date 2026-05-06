@@ -4,8 +4,8 @@ title_chs: 2015 年股东大会
 uuid: 20040c64-ac1e-5681-a0f3-bf92f4aed109
 type: speech
 author: Warren Buffett
-date: '2015'
-status: published
+date: 2015-03-05
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

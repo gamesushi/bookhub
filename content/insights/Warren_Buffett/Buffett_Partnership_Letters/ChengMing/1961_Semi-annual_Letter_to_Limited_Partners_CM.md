@@ -4,8 +4,8 @@ uuid: 5ea8a72c-b191-5bab-a1da-45e31532b834
 title: 1961 Semi annual Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1961'
-status: published
+date: 1961-07-22
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

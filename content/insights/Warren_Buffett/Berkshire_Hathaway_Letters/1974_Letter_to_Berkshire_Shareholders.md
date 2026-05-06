@@ -4,8 +4,8 @@ uuid: 44584d19-bf4b-5893-a3dc-bd28a77635d5
 title: 1974 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1974'
-status: published
+date: 1975-03-01
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

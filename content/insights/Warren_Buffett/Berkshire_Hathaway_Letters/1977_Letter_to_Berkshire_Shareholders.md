@@ -4,8 +4,8 @@ uuid: a32248ec-d25f-52fe-a481-ba3dec427b0d
 title: 1977 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1977'
-status: published
+date: 1977-12-31
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

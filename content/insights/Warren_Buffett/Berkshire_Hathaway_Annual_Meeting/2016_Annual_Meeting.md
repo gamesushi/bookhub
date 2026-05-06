@@ -4,8 +4,8 @@ title_chs: 2016 年股东大会
 uuid: a500a4be-9a85-5363-8379-7b6282940548
 type: speech
 author: Warren Buffett
-date: '2016'
-status: published
+date: 1987-10-19
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

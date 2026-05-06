@@ -4,7 +4,7 @@ uuid: 5d55d348-4de1-56fb-a20a-90ec938901b8
 title: The Collector
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

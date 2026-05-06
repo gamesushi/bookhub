@@ -4,8 +4,8 @@ uuid: 5948bde8-3bd4-5457-b7cb-bbb4d2a8e619
 title: 1969 December 26th Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1969'
-status: published
+date: 1969-12-26
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

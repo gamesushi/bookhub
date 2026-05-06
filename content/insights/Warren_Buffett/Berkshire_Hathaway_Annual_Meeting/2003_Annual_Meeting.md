@@ -4,8 +4,8 @@ title_chs: 2003 年股东大会
 uuid: 882dd235-843a-5090-bb50-5c3edc6cd358
 type: speech
 author: Warren Buffett
-date: '2003'
-status: published
+date: 2003-03-05
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

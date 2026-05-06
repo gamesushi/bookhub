@@ -4,8 +4,8 @@ title_chs: 1998 年股东大会
 uuid: cc9461f1-55a7-5499-a509-75b922be5891
 type: speech
 author: Warren Buffett
-date: '1998'
-status: published
+date: 1998-03-06
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

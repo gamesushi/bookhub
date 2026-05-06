@@ -4,8 +4,8 @@ uuid: 7918b8b0-20a0-5a0d-95d8-7585f92070ea
 title: 19600220 Letter OST
 type: letter
 author: Warren Buffett
-date: '1960'
-status: published
+date: 1959-12-31
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

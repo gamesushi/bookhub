@@ -4,8 +4,8 @@ title_chs: 1997 年股东大会
 uuid: 9377ac93-e666-5125-b6c3-e4e0cf53ae26
 type: speech
 author: Warren Buffett
-date: '1997'
-status: published
+date: 1997-03-07
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

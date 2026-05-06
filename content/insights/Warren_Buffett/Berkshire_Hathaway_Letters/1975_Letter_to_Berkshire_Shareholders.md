@@ -4,8 +4,8 @@ uuid: 21651a16-282e-57cf-81da-13f6c8be8a62
 title: 1975 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1975'
-status: published
+date: 1975-04-28
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

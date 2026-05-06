@@ -4,8 +4,8 @@ uuid: bce8c6ed-6728-564c-a582-3944e9732993
 title: 2011 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2011'
-status: published
+date: 2021-09-02
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

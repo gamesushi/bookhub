@@ -4,8 +4,8 @@ uuid: 42f76574-1682-58e9-a2a1-e96ca4301e34
 title: 2023 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2023'
-status: published
+date: 2023-12-31
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

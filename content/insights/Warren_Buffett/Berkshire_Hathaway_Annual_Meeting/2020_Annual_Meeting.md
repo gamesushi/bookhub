@@ -4,8 +4,8 @@ title_chs: 2020 年股东大会
 uuid: 0690b5c9-130c-53f7-9377-b54ba74e1e51
 type: speech
 author: Warren Buffett
-date: '2020'
-status: published
+date: 1929-09-03
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

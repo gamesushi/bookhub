@@ -4,8 +4,8 @@ uuid: 28777d6b-97bf-5a23-a3e3-cecf0c9bed3b
 title: 2014 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2014'
-status: published
+date: 2015-02-27
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

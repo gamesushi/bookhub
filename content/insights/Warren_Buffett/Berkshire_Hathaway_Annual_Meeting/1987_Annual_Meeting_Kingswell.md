@@ -4,8 +4,8 @@ uuid: 67ea58bf-3b0f-5b1a-86db-b02fd3955174
 title: 1987 Annual Meeting Kingswell
 type: speech
 author: Warren Buffett
-date: '1987'
-status: published
+date: 1987-05-19
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

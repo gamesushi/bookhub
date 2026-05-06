@@ -5,7 +5,7 @@ uuid: 9c099a6f-544c-5a76-96cd-2672876dff7c
 type: speech
 author: Warren Buffett
 date: '2005'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

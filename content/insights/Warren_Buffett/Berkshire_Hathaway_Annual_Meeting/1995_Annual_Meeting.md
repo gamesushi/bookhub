@@ -4,8 +4,8 @@ title_chs: 1995 年股东大会
 uuid: a48bdd79-8eb9-58c2-b176-1d6256eb302b
 type: speech
 author: Warren Buffett
-date: '1995'
-status: published
+date: 1995-03-07
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

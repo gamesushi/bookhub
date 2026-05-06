@@ -4,8 +4,8 @@ title_chs: 1999 年股东大会
 uuid: bce6f084-12af-5cb5-b231-54241fcac46d
 type: speech
 author: Warren Buffett
-date: '1999'
-status: published
+date: 1999-03-05
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

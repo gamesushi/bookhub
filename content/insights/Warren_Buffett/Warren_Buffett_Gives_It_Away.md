@@ -4,7 +4,7 @@ title_chs: 沃伦·巴菲特倾囊相助
 uuid: b6b9306f-1c63-5019-9ded-1294b27a48eb
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

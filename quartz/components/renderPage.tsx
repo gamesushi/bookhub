@@ -9,6 +9,7 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import { folderTranslations } from "../util/translations"
 import { styleText } from "util"
 
 interface RenderComponents {
@@ -28,7 +29,11 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript = `
+  const fetchData = fetch("${contentIndexPath}").then(data => data.json())
+  window.fetchData = fetchData
+  window.folderTranslations = ${JSON.stringify(folderTranslations)}
+  `
 
   const resources: StaticResources = {
     css: [

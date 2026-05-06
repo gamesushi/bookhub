@@ -4,8 +4,8 @@ uuid: 85179634-36a3-5d91-912f-2638a031d6bb
 title: 1997 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1997'
-status: published
+date: 1996-12-23
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

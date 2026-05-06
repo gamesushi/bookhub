@@ -4,8 +4,8 @@ title_chs: 2012 年股东大会
 uuid: e7f24e1e-5379-5831-ba82-71bd9bcc45d6
 type: speech
 author: Warren Buffett
-date: '2012'
-status: published
+date: 2012-03-07
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

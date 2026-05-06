@@ -4,8 +4,8 @@ uuid: 066499dd-f864-512f-aff0-2fb5f326eb94
 title: 19700218 Letter OST
 type: letter
 author: Warren Buffett
-date: '1970'
-status: published
+date: 1970-02-18
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

@@ -5,7 +5,7 @@ title: TSB MBA Students Visit to Warren Buffett 2004 2005
 type: speech
 author: Warren Buffett
 date: '2004'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

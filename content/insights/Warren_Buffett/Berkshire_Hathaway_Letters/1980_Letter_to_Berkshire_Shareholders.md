@@ -4,8 +4,8 @@ uuid: 3a5e900b-aaf5-5f09-8a80-eeb012eb3bf3
 title: 1980 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1980'
-status: published
+date: 1981-03-07
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

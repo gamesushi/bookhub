@@ -4,8 +4,8 @@ uuid: ce268a06-18c2-5dd4-b996-0676c72d0d74
 title: 19690529 Letter OST
 type: letter
 author: Warren Buffett
-date: '1969'
-status: published
+date: 1969-05-29
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

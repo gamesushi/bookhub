@@ -4,7 +4,7 @@ uuid: e42fd13e-b5d8-56da-9580-2ef6dbaf4482
 title: Difficult to Teach a New Dog Old Tricks
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

@@ -4,8 +4,8 @@ title_chs: 2019 年股东大会
 uuid: 88fe5efc-f6d5-5612-9789-67745bd70cc5
 type: speech
 author: Warren Buffett
-date: '2019'
-status: published
+date: 1934-01-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

@@ -4,8 +4,8 @@ uuid: 9c4e0895-347a-5c64-ac41-17d16781a2f2
 title: 2017 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2017'
-status: published
+date: 2007-12-19
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

@@ -4,8 +4,8 @@ uuid: 0c867b66-8de3-581c-a4c2-15c5f43af96c
 title: 19661101 Letter OST
 type: letter
 author: Warren Buffett
-date: '1966'
-status: published
+date: 1966-11-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

@@ -4,8 +4,8 @@ uuid: 60f27af6-b8ca-56d8-a0ec-909a4cf65c12
 title: 1985 Annual Meeting Kingswell
 type: speech
 author: Warren Buffett
-date: '1985'
-status: published
+date: 1985-05-21
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

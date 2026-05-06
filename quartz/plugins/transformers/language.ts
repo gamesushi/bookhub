@@ -13,10 +13,7 @@ export const LanguageBlocks: QuartzTransformerPlugin = () => {
               if (node.children && node.children.length > 0) {
                 const firstChild = node.children[0]
                 
-                // Debug logging
-                if (firstChild.type === "text" && firstChild.value.includes(":::")) {
-                   console.log("DEBUG: Found paragraph with ::: ->", firstChild.value.substring(0, 50))
-                }
+                // Check if this is a language block marker
                 
                 // Check if this is a language block marker
                 if (firstChild.type === "text") {
@@ -25,7 +22,6 @@ export const LanguageBlocks: QuartzTransformerPlugin = () => {
                   
                   if (langMatch) {
                     const lang = langMatch[1]
-                    console.log("Found language block start:", lang)
                   
                   // Remove this node and find all content until the closing :::
                   if (parent && typeof index === "number") {
@@ -49,7 +45,6 @@ export const LanguageBlocks: QuartzTransformerPlugin = () => {
                           const idx = text.indexOf(":::")
                           
                           if (idx !== -1) {
-                            console.log("Found closing marker via indexOf")
                             foundClosing = true
                             
                             // Check if this is an auto-close (starts with :::lang) or explicit close (:::)
@@ -89,7 +84,6 @@ export const LanguageBlocks: QuartzTransformerPlugin = () => {
                     }
                     
                     if (foundClosing) {
-                      console.log(`Wrapping content in .lang-${lang}`)
                       // Create a container div with the appropriate class
                       const containerNode: any = {
                         type: "html",

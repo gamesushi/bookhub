@@ -4,7 +4,7 @@ uuid: 7518d446-822a-544a-9fd3-78ff5af31cc5
 title: An Owners Manual
 type: essay
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

@@ -4,8 +4,8 @@ uuid: 59cc9687-d6e4-5d38-95a9-163552cb80f5
 title: 1972 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1972'
-status: published
+date: 1973-03-15
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

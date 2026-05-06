@@ -4,8 +4,8 @@ title_chs: 2006 年股东大会
 uuid: 3b0fb3f0-ba2c-51f7-a2a6-fcb2127247ea
 type: speech
 author: Warren Buffett
-date: '2006'
-status: published
+date: 2000-03-03
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

@@ -4,8 +4,8 @@ uuid: 8969616e-5d0d-5b56-a6df-832618a03bfa
 title: 2000 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2000'
-status: published
+date: 1999-11-23
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

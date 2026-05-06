@@ -4,8 +4,8 @@ uuid: 58bd0135-fbe6-550d-aa6e-820836e3b813
 title: 2001 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2001'
-status: published
+date: 1956-05-05
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

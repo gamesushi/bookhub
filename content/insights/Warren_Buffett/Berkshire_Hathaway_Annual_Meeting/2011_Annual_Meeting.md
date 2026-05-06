@@ -4,8 +4,8 @@ title_chs: 2011 年股东大会
 uuid: 758a4b1e-f25d-575c-bf92-34e1766eb428
 type: speech
 author: Warren Buffett
-date: '2011'
-status: published
+date: 1930-08-30
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

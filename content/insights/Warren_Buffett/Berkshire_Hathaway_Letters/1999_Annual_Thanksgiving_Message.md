@@ -4,8 +4,8 @@ uuid: 2d848198-cd24-5148-9df0-8b0215e78e4b
 title: 1999 Annual Thanksgiving Message
 type: article
 author: Warren Buffett
-date: '1999'
-status: published
+date: 1998-08-07
+publish: true
 last_checked: '2026-05-04'
 related:
 - Book_Value

@@ -4,8 +4,8 @@ uuid: c14a1365-dbac-54bc-ab41-66392db9bf95
 title: 19590211 Letter OST
 type: letter
 author: Warren Buffett
-date: '1959'
-status: published
+date: 1959-02-11
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

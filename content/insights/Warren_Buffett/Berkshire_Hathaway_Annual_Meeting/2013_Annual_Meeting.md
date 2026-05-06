@@ -5,7 +5,7 @@ uuid: 56d68e77-b7f0-547c-a14f-a9d0f4fd5d39
 type: speech
 author: Warren Buffett
 date: '2013'
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

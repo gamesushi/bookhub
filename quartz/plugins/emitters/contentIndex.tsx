@@ -101,28 +101,39 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
 
-      // Build translation map from index files
+      // Build maps for fast lookup
+      const titleToSlug = new Map<string, FullSlug>()
       const chsTitleMap = new Map<FullSlug, string>()
-
       
+      for (const [_, file] of content) {
+          if (file.data.slug) {
+              if (file.data.frontmatter?.title) {
+                  titleToSlug.set(file.data.frontmatter.title, file.data.slug)
+              }
+          }
+      }
+
       // Import fs to read raw file content
       const fs = await import("fs")
 
       for (const [_, file] of content) {
         // Strict check for path being a string
         if (!file.data?.slug) continue;
+        const currentSlug = file.data.slug
         
         // Fallback to history if path is missing (sometimes happens in memory-only files)
         let filePath = file.path || file.history?.[0] || "";
         
         if (!filePath || typeof filePath !== 'string') continue;
 
-        let rawContent = ""
-        try {
-            // @ts-ignore
-            rawContent = fs.readFileSync(filePath, 'utf8')
-        } catch (e) {
-            continue;
+        let rawContent = file.data.text || ""
+        if (!rawContent) {
+            try {
+                // @ts-ignore
+                rawContent = fs.readFileSync(filePath, 'utf8')
+            } catch (e) {
+                continue;
+            }
         }
         
         // Check for language block
@@ -138,11 +149,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
                  // 1. Extract H1 title
                  const h1Match = chsBlock.match(/^#\s+(.+)$/m)
                  if (h1Match) {
-                     chsTitleMap.set(file.data.slug!, h1Match[1].trim())
+                     chsTitleMap.set(currentSlug, h1Match[1].trim())
                  }
                  
                  // 2. Extract WikiLinks with aliases
-                 // Regex allows whitespace around pipes if needed
                  const regex = /\[\[\s*([^\|\]]+?)\s*\|\s*([^\]]+?)\s*\]\]/g
                  
                  let match
@@ -151,30 +161,14 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
                      
                      // Resolve link
                      const cleanLink = link.split("/").pop()!.trim()
-                     const folder = file.data.slug!.split("/").slice(0, -1).join("/")
+                     const folder = currentSlug.split("/").slice(0, -1).join("/")
                      
-                     const targetHtml = cleanLink.replace(/ /g, "-").toLowerCase()
-                     
-                     // Attempt to find matching file in content
-                     for (const [_, targetFile] of content) {
-                         // Check slug match
-                         const slug = targetFile.data.slug
-                         if (!slug) continue
-                         
-                         // Check fast path: exact title match
-                         if (targetFile.data.frontmatter?.title === cleanLink) {
-                              if (!link.startsWith("/") && slug.startsWith(folder)) {
-                                  chsTitleMap.set(slug, titleChs.trim())
-                                  break;
-                              }
-                         }
-                         
-                         // Check slug heuristic
-                         if (slug.endsWith(targetHtml)) {
-                              if (!link.startsWith("/") && slug.startsWith(folder)) {
-                                  chsTitleMap.set(slug, titleChs.trim())
-                                  break;
-                              }
+                     // Use the map for fast lookup
+                     const targetSlug = titleToSlug.get(cleanLink)
+                     if (targetSlug) {
+                         // Only set if it's in the same folder or absolute (heuristic)
+                         if (link.startsWith("/") || targetSlug.startsWith(folder)) {
+                             chsTitleMap.set(targetSlug, titleChs.trim())
                          }
                      }
                  }
@@ -192,7 +186,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
-            titleChs: (file.data.frontmatter?.title_chs as string) || chsTitleMap.get(slug),
+            titleChs: (file.data.frontmatter?.title_chs as string) || (file.data.frontmatter?.title_zh as string) || chsTitleMap.get(slug),
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",

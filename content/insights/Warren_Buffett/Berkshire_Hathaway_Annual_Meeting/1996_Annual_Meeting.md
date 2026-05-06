@@ -4,8 +4,8 @@ title_chs: 1996 年股东大会
 uuid: 49801329-f63a-5fbe-80f1-3afbaee28ec2
 type: speech
 author: Warren Buffett
-date: '1996'
-status: published
+date: 1996-03-08
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

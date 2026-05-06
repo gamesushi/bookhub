@@ -4,8 +4,8 @@ uuid: bf084851-323c-509a-b968-2cb02432a1d1
 title: 1963 December Letter to Limited Partners
 type: letter
 author: Warren Buffett
-date: '1963'
-status: published
+date: 1963-12-26
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

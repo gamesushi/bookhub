@@ -17,6 +17,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   // without dashes in the slug
   private fileSegmentHint?: string
   private displayNameOverride?: string
+  private displayNameChsOverride?: string
   data: T | null
 
   constructor(segments: string[], data?: T) {
@@ -25,6 +26,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
     this.data = data ?? null
     this.isFolder = false
     this.displayNameOverride = undefined
+    this.displayNameChsOverride = undefined
   }
 
   get displayName(): string {
@@ -39,7 +41,11 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   }
 
   get displayNameChs(): string | undefined {
-    return this.data?.titleChs
+    return this.displayNameChsOverride ?? this.data?.titleChs
+  }
+
+  set displayNameChs(name: string | undefined) {
+    this.displayNameChsOverride = name
   }
 
   get slug(): FullSlug {

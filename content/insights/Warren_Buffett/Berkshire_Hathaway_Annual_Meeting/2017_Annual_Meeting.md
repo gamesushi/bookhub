@@ -4,8 +4,8 @@ title_chs: 2017 年股东大会
 uuid: 507c6e8d-217e-518d-a137-ace2104a1bb1
 type: speech
 author: Warren Buffett
-date: '2017'
-status: published
+date: 2015-12-31
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

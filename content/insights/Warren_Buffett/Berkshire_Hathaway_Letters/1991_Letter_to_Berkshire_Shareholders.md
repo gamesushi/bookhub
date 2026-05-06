@@ -4,8 +4,8 @@ uuid: f3ba4ca1-9eea-57cb-8a6e-3a81e226b832
 title: 1991 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1991'
-status: published
+date: 1972-01-03
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

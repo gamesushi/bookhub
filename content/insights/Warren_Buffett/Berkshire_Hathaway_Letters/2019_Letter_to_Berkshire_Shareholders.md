@@ -4,8 +4,8 @@ uuid: 68daa36a-465f-5fdb-bbdb-0b5af008cfc7
 title: 2019 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '2019'
-status: published
+date: 2019-09-26
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

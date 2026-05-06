@@ -4,7 +4,7 @@ uuid: 0b0b2ea2-4765-5d12-94d9-87923d0b57ce
 title: The Security I Like Best
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

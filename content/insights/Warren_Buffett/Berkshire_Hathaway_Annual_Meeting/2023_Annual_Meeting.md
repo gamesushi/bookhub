@@ -4,8 +4,8 @@ title_chs: 2023 年股东大会
 uuid: 4a99ced8-d434-5312-b46e-a8d7cefcbe7e
 type: speech
 author: Warren Buffett
-date: '2023'
-status: published
+date: 1924-01-01
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

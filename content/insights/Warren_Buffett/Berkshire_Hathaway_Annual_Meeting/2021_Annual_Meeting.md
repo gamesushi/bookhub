@@ -4,8 +4,8 @@ title_chs: 2021 年股东大会
 uuid: 233d4173-0569-5dfe-be8e-c2fc72038c96
 type: speech
 author: Warren Buffett
-date: '2021'
-status: published
+date: 2021-03-03
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

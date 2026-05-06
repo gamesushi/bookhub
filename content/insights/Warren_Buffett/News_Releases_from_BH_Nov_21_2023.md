@@ -5,8 +5,8 @@ uuid: adfaa437-243e-5392-b90c-86aba823f500
 title: News Releases from BH Nov 21 2023
 type: article
 author: Warren Buffett
-date: '2023'
-status: published
+date: 2023-11-21
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway

@@ -4,8 +4,8 @@ uuid: 3beb9b05-1971-51c2-8a52-ce992ab5419e
 title: 1987 Letter to Berkshire Shareholders
 type: letter
 author: Warren Buffett
-date: '1987'
-status: published
+date: 1988-01-01
+publish: true
 last_checked: '2026-05-04'
 related: []
 ---

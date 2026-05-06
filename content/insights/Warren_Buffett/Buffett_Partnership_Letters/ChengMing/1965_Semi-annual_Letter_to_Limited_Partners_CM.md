@@ -4,8 +4,8 @@ uuid: 389a886f-72b6-5d95-ae5f-a1122ade83ee
 title: 1965 Semi annual Letter to Limited Partners CM
 type: letter
 author: Warren Buffett
-date: '1965'
-status: published
+date: 1965-07-09
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

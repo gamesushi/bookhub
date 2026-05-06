@@ -4,7 +4,7 @@ uuid: b7ff1adf-de74-55fb-a32a-86fe050aba5a
 title: Certificate of Limited Partnership
 type: article
 author: Warren Buffett
-status: published
+publish: true
 last_checked: '2026-05-04'
 related:
 - Warren_Buffett

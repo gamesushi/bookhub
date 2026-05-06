@@ -4,8 +4,8 @@ uuid: 1941ef72-e194-591a-9a41-2226cfe71ac7
 title: 2024 Annual Meeting
 type: speech
 author: Warren Buffett
-date: '2024'
-status: published
+date: 2024-03-25
+publish: true
 last_checked: '2026-05-04'
 related:
 - Charlie_Munger

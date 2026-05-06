@@ -4,8 +4,8 @@ title_chs: 2001 年股东大会
 uuid: 6123b5da-9a0f-5af4-b884-a16a41f70ba5
 type: speech
 author: Warren Buffett
-date: '2001'
-status: published
+date: 2001-03-02
+publish: true
 last_checked: '2026-05-04'
 related:
 - Berkshire_Hathaway
