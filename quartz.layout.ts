@@ -7,7 +7,27 @@ import { mapFn } from "./quartz/util/translations"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // 您的 GitHub 用户名/仓库名
+        repo: 'gamesushi/bookhub',
+        // 从您提供的脚本中提取的真实 ID
+        repoId: 'R_kgDOSSNd0w', 
+        // 讨论分类
+        category: 'Announcements',
+        // 从您提供的脚本中提取的真实 ID
+        categoryId: 'DIC_kwDOSSNd084C8s67',
+        // 映射方式：推荐使用 pathname
+        mapping: 'pathname',
+        // 开启严格匹配
+        strict: true,
+        // 设置为中文
+        lang: 'zh-CN'
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -19,13 +39,23 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.HomeHero(),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -47,9 +77,19 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.NounPreview()),
-    Component.Backlinks(),
+    Component.HomeRightSidebar(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.NounPreview()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 

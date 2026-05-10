@@ -26,6 +26,8 @@ import ConditionalRender from "./ConditionalRender"
 
 import NounPreview from "./NounPreview"
 import LanguageToggle from "./LanguageToggle"
+import HomeHero from "./HomeHero"
+import HomeRightSidebar from "./HomeRightSidebar"
 
 export {
   ArticleTitle,
@@ -55,4 +57,6 @@ export {
   ConditionalRender,
   NounPreview,
   LanguageToggle,
+  HomeHero,
+  HomeRightSidebar,
 }

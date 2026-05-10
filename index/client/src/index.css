@@ -1,0 +1,291 @@
+/*
+ * Design Philosophy Reminder — Quiet Luxury Editorial Minimalism
+ * Global styling must preserve a warm archival paper atmosphere, deep ink typography,
+ * restrained antique-gold accents, fine lines, subtle texture, and calm motion.
+ * Ask for every rule: does this reinforce or dilute the rational investment library ethos?
+ */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.15rem;
+  --background: oklch(0.971 0.012 87.4);
+  --foreground: oklch(0.245 0.021 72.1);
+  --card: oklch(0.992 0.006 88.2 / 88%);
+  --card-foreground: oklch(0.245 0.021 72.1);
+  --popover: oklch(0.992 0.006 88.2);
+  --popover-foreground: oklch(0.245 0.021 72.1);
+  --primary: oklch(0.36 0.063 162.4);
+  --primary-foreground: oklch(0.982 0.011 87.1);
+  --secondary: oklch(0.932 0.025 88.7);
+  --secondary-foreground: oklch(0.29 0.033 151.5);
+  --muted: oklch(0.933 0.016 85.8);
+  --muted-foreground: oklch(0.502 0.023 74.2);
+  --accent: oklch(0.84 0.086 82.6);
+  --accent-foreground: oklch(0.27 0.032 78.9);
+  --destructive: oklch(0.552 0.18 28.1);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(0.83 0.022 86.2);
+  --input: oklch(0.83 0.022 86.2);
+  --ring: oklch(0.42 0.07 162.4);
+  --chart-1: oklch(0.36 0.063 162.4);
+  --chart-2: oklch(0.63 0.09 84.4);
+  --chart-3: oklch(0.49 0.04 72.2);
+  --chart-4: oklch(0.75 0.035 91.2);
+  --chart-5: oklch(0.28 0.033 151.5);
+  --sidebar: oklch(0.955 0.016 88.1);
+  --sidebar-foreground: oklch(0.245 0.021 72.1);
+  --sidebar-primary: oklch(0.36 0.063 162.4);
+  --sidebar-primary-foreground: oklch(0.982 0.011 87.1);
+  --sidebar-accent: oklch(0.93 0.017 87.1);
+  --sidebar-accent-foreground: oklch(0.29 0.033 151.5);
+  --sidebar-border: oklch(0.82 0.022 86.2);
+  --sidebar-ring: oklch(0.42 0.07 162.4);
+}
+
+.dark {
+  --primary: oklch(0.72 0.074 154.7);
+  --primary-foreground: oklch(0.18 0.02 154.7);
+  --sidebar-primary: oklch(0.72 0.074 154.7);
+  --sidebar-primary-foreground: oklch(0.18 0.02 154.7);
+  --background: oklch(0.17 0.013 76.1);
+  --foreground: oklch(0.9 0.013 85.1);
+  --card: oklch(0.22 0.015 75.4);
+  --card-foreground: oklch(0.9 0.013 85.1);
+  --popover: oklch(0.22 0.015 75.4);
+  --popover-foreground: oklch(0.9 0.013 85.1);
+  --secondary: oklch(0.27 0.018 78.4);
+  --secondary-foreground: oklch(0.88 0.014 85.1);
+  --muted: oklch(0.27 0.018 78.4);
+  --muted-foreground: oklch(0.68 0.015 84.4);
+  --accent: oklch(0.42 0.055 82.6);
+  --accent-foreground: oklch(0.94 0.015 88.4);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(1 0 0 / 13%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.72 0.074 154.7);
+  --chart-1: oklch(0.72 0.074 154.7);
+  --chart-2: oklch(0.66 0.09 84.4);
+  --chart-3: oklch(0.58 0.035 75.2);
+  --chart-4: oklch(0.44 0.04 83.2);
+  --chart-5: oklch(0.8 0.03 92.4);
+  --sidebar: oklch(0.2 0.014 75.4);
+  --sidebar-foreground: oklch(0.9 0.013 85.1);
+  --sidebar-accent: oklch(0.27 0.018 78.4);
+  --sidebar-accent-foreground: oklch(0.94 0.015 88.4);
+  --sidebar-border: oklch(1 0 0 / 13%);
+  --sidebar-ring: oklch(0.72 0.074 154.7);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Noto Sans TC", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    min-width: 320px;
+  }
+
+  ::selection {
+    background: oklch(0.84 0.086 82.6 / 52%);
+    color: oklch(0.245 0.021 72.1);
+  }
+
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [type="button"]:not(:disabled),
+  [type="submit"]:not(:disabled),
+  [type="reset"]:not(:disabled),
+  a[href],
+  select:not(:disabled),
+  input[type="checkbox"]:not(:disabled),
+  input[type="radio"]:not(:disabled) {
+    @apply cursor-pointer;
+  }
+}
+
+@layer components {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .flex {
+    min-height: 0;
+    min-width: 0;
+  }
+
+  .font-serif {
+    font-family: "Noto Serif TC", Georgia, "Times New Roman", serif;
+  }
+
+  .font-sans {
+    font-family: "Noto Sans TC", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  .font-mono {
+    font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  }
+
+  .text-ink {
+    color: oklch(0.245 0.03 154.4);
+  }
+
+  .paper-grain {
+    pointer-events: none;
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.46;
+    background-image:
+      radial-gradient(circle at 16% 12%, oklch(1 0 0 / 38%) 0 1px, transparent 1px),
+      radial-gradient(circle at 78% 34%, oklch(0.65 0.035 82 / 16%) 0 1px, transparent 1.5px),
+      linear-gradient(105deg, oklch(0.94 0.018 88 / 34%) 0%, transparent 46%, oklch(0.88 0.027 81 / 18%) 100%);
+    background-size: 28px 28px, 42px 42px, 100% 100%;
+    mix-blend-mode: multiply;
+  }
+
+  .brand-mark {
+    display: grid;
+    height: 2.55rem;
+    width: 2.55rem;
+    place-items: center;
+    border: 1px solid oklch(0.36 0.063 162.4 / 34%);
+    background: oklch(0.98 0.011 88 / 78%);
+    color: oklch(0.36 0.063 162.4);
+    font-family: "Noto Serif TC", Georgia, serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    box-shadow: inset 0 0 0 1px oklch(1 0 0 / 38%), 0 16px 36px oklch(0.3 0.02 75 / 8%);
+  }
+
+  .library-sidebar,
+  .right-rail {
+    position: relative;
+    z-index: 1;
+    background:
+      linear-gradient(180deg, oklch(0.967 0.014 88 / 88%), oklch(0.942 0.017 86 / 78%)),
+      radial-gradient(circle at top left, oklch(0.88 0.055 84 / 20%), transparent 32%);
+    backdrop-filter: blur(18px);
+  }
+
+  .hero-plate,
+  .knowledge-card {
+    position: relative;
+  }
+
+  .hero-plate::after,
+  .knowledge-card::after {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    border: 1px solid oklch(1 0 0 / 42%);
+  }
+
+  .animate-fade {
+    animation: editorialFade 720ms ease both;
+  }
+
+  .animate-rise {
+    animation: editorialRise 760ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  }
+
+  @media (min-width: 640px) {
+    .container {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      max-width: 1280px;
+    }
+  }
+}
+
+@keyframes editorialFade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes editorialRise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
