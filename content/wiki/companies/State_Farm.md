@@ -1,4 +1,5 @@
 ---
+publish: true
 title: State Farm
 title_chs: 州立农业保险
 uuid: 80a7cecc-1266-5d87-958c-66f5d62ed8b5

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Kraft Heinz
 title_chs: 卡夫亨氏
 uuid: b257c9c3-8ecd-5842-8b6e-766e74f87c7f

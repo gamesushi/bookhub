@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Corporate Governance
 title_chs: 公司治理
 uuid: 3f718cc2-1251-5ab2-95ba-d6881497f0b2

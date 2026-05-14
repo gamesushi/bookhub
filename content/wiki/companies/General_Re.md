@@ -1,4 +1,5 @@
 ---
+publish: true
 title: General Re
 title_chs: 通用再保险
 uuid: 34c2f8be-7e37-5422-b3d8-8f534c2be36f

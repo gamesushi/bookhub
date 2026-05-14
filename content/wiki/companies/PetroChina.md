@@ -1,4 +1,5 @@
 ---
+publish: true
 title: PetroChina
 title_chs: 中国石油
 uuid: 503234c1-1a65-58a0-8464-5da687750ba7

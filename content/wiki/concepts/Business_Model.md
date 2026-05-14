@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Business Model
 title_chs: 商业模式
 uuid: e9e04e8d-8e82-529d-81c6-180a75b52560

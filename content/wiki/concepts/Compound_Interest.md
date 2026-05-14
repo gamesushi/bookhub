@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Compound Interest
 title_chs: 复利
 uuid: 2fd18c30-b786-5fde-936c-07a5a8766ad8

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Economic Moat
 title_chs: 护城河
 uuid: 33bbd7b6-f4d6-5122-899c-4532415ba981

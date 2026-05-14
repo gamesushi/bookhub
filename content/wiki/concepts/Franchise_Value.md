@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Franchise Value
 title_chs: 特许经营权
 uuid: d58b92b3-0770-55b8-9d08-b0088824e2d1

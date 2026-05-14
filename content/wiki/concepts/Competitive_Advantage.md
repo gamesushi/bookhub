@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Competitive Advantage
 title_chs: 竞争优势
 uuid: 4dbdd3f9-4f9f-50c8-9666-8aaa984f1993

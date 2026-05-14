@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Railroads
 title_chs: 铁路运输
 uuid: c5963375-0865-5151-82c1-0777c5f20d5d

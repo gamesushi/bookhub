@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Capital Cities ABC
 title_chs: 大都会通信
 uuid: 008493a4-e94c-5bf3-98eb-c4b8ebf0d68d

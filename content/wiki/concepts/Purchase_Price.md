@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Purchase Price
 title_chs: 买入价格
 uuid: 61d9711a-66ef-5fc0-a843-8d77bfb2b594

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Textile Operations
 title_chs: 纺织业务
 uuid: 5efb91c3-149b-5f2c-bce6-46b2f1272d0b

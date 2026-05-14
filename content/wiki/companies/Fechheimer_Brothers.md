@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Fechheimer Brothers
 title_chs: 费希海默制服
 uuid: c93162c4-7319-5d7c-99a3-39aa3e639f0e

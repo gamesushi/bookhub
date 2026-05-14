@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Greg Abel
 title_chs: 格雷格·阿贝尔
 uuid: e7465c55-a8ac-5f3f-b106-94908540cb95

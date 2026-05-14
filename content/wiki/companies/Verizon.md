@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Verizon
 title_chs: 威瑞森通讯
 uuid: 26e431cc-a94b-564f-bdaf-2ca95208a224

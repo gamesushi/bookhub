@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Retained Earnings
 title_chs: 留存收益
 uuid: ba0b7bf5-c08a-565d-b09a-5c4689a6805f

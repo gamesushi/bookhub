@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nebraska Furniture Mart
 title_chs: 内布拉斯加家具店
 uuid: f926b0b6-3130-57e4-964d-4779fcc4587d

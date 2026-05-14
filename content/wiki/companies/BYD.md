@@ -1,4 +1,5 @@
 ---
+publish: true
 title: BYD
 title_chs: 比亚迪
 uuid: f8d41805-a205-58d3-aae0-8141c1a176b9

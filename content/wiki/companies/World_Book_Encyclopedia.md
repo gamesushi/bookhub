@@ -1,4 +1,5 @@
 ---
+publish: true
 title: World Book Encyclopedia
 title_chs: 世界图书百科全书
 uuid: 822d505a-55a5-5cd7-89b0-b89927920eb6

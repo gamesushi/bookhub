@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Technology and Internet
 title_chs: 科技与互联网
 uuid: 88d1d4d5-dee9-5f05-9412-b6095aa60cb7

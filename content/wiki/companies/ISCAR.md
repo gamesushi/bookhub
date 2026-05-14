@@ -1,4 +1,5 @@
 ---
+publish: true
 title: ISCAR
 title_chs: 伊斯卡
 uuid: 0ff20b5d-c7b1-5575-981d-30a6072f9073

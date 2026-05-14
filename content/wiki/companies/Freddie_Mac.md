@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Freddie Mac
 title_chs: 房地美
 uuid: b72840ad-3dd0-5a48-8463-6673df8d0a46

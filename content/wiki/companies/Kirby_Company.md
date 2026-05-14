@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Kirby Company
 title_chs: 科比吸尘器
 uuid: ec9f452e-fd06-5539-b010-5c527f50c1a3

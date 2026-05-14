@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Buffalo News
 title_chs: 布法罗新闻报
 uuid: 2b266743-9c97-5c61-90a0-dd242cda5191

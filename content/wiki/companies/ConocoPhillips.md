@@ -1,4 +1,5 @@
 ---
+publish: true
 title: ConocoPhillips
 title_chs: 康菲石油
 uuid: efce8b2d-e5a7-551a-94a9-d882f1eb82c4

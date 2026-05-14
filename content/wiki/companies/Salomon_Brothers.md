@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Salomon Brothers
 title_chs: 所罗门
 uuid: a5494819-5f52-5df3-8045-10afce2d28d7

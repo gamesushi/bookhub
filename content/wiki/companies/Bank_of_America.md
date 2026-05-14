@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Bank of America
 title_chs: 美国银行
 uuid: 13ee8f26-30c9-5e45-8547-586969e1f62b

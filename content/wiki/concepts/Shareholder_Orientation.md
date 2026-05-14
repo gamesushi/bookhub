@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Shareholder Orientation
 title_chs: 股东导向
 uuid: ad993ba6-ec66-5086-9929-0039449d8657

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: BNSF Railway
 title_chs: BNSF铁路
 uuid: bcd52015-d221-5f30-bb1a-5f2ac6777a47

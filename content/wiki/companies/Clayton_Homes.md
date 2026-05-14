@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Clayton Homes
 title_chs: 克莱顿房屋
 uuid: dd411bdd-28f3-5704-ad6e-dbc6b2b0bc06

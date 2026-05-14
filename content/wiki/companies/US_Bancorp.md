@@ -1,4 +1,5 @@
 ---
+publish: true
 title: US Bancorp
 title_chs: 美国合众银行
 uuid: f437c31c-742d-59ce-84f1-1a751f5ca739

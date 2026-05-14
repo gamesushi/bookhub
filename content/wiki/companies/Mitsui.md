@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Mitsui
 title_chs: 三井物产
 uuid: 3391fab2-64ac-559b-9605-85d1f222a898

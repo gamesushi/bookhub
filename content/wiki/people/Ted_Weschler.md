@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Ted Weschler
 title_chs: 泰德·韦施勒
 uuid: 78af15e2-5e81-507d-ba20-e46021030b99

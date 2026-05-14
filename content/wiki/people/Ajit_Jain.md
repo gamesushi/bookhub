@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Ajit Jain
 title_chs: 阿吉特·贾恩
 uuid: 6056c200-f64f-57fc-b41d-5db72c66cc7d

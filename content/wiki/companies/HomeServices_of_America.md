@@ -1,4 +1,5 @@
 ---
+publish: true
 title: HomeServices of America
 title_chs: 美国家庭服务
 uuid: 0fe92117-1176-5ac2-8cb5-228a983a9abe

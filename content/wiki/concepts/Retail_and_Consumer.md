@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Retail and Consumer
 title_chs: 零售与消费
 uuid: e12c7c75-c707-5740-8653-ef849555c99b

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Rose Blumkin
 title_chs: B夫人
 uuid: 51cb326d-a683-5d5e-ae85-184992e1e7e8

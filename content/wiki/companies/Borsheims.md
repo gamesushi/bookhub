@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Borsheims
 title_chs: 波仙珠宝
 uuid: 71a9021d-e0b7-5cbf-854a-0473b940b99f

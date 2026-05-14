@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Goodwill
 title_chs: 商誉
 uuid: d70e00f7-ac0e-5bfc-8f02-a24bd6b98494

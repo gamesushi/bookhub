@@ -90,7 +90,7 @@ But the $1.5 billion has little relevance to the value of [[Warren_Buffett|Buffe
 
 :::lang chs
 
-但这15亿美元与[[Warren_Buffett|巴菲特]]未来捐赠的价值关系不大，因为捐赠金额将取决于捐赠做出时[[Berkshire_Hathaway|伯克希尔]]公司股票的价格。如果[[Berkshire_Hathaway|伯克希尔]]的股票每年平均上涨，哪怕涨幅不大，比如说6%，其增值也足以抵消每年5%的赠股数量下降。在这种情况下，[[Warren_Buffett|巴菲特]]捐赠的价值就会上升。[[Warren_Buffett|巴菲特]]本人也认为会出现这种情况。或者更直接地说：他认为[[Berkshire_Hathaway|伯克希尔]]公司的股价会上涨，随之而来的捐赠金额，也将呈上升趋势——或许随着时间的推移会大幅增加。
+但这15亿美元与[[Warren_Buffett|巴菲特]]未来捐赠的价值关系不大，因为捐赠金额将取决于捐赠做出时[[Berkshire_Hathaway|伯克希尔]]公司股票的价格。如果[[Berkshire_Hathaway|伯克希尔]]的股票每年平均上涨，哪怕涨幅不大，比如说6%，其增值也足以抵消每年5%的赠股数量下降。在这种情况下，[[Warren_Buffett|巴菲特]]捐赠的价值就会上升。[[Warren_Buffett|巴菲特]]本人也认为会出现这种情况向。或者更直接地说：他认为[[Berkshire_Hathaway|伯克希尔]]公司的股价会上涨，随之而来的捐赠金额，也将呈上升趋势——或许随着时间的推移会大幅增加。
 
 :::
 
@@ -152,13 +152,13 @@ So that's the plan. What follows is a conversation in which [[Warren_Buffett|Buf
 
 :::lang eng
 
-**What the Legends Gave
+**What the Legends Gave**
 
 :::
 
 :::lang chs
 
-传奇人物的贡献**
+**传奇人物的贡献**
 
 :::
 
@@ -176,55 +176,22 @@ Their philanthropies were immense, given the small economic worlds of their time
 
 :::lang eng
 
-Philanthropists</br>
+Philanthropists | Span of Giving | Amount | In Current Dollars
 
 :::
 
 :::lang chs
 
-慈善家|Span of Giving</br>捐赠年代|Amount</br>捐赠金额|In Current Dollars</br>当前美元价值
+慈善家 | 捐赠年代 | 捐赠金额 | 当前美元价值
 
 :::
 
 :::lang eng
 
 ---|---|---|---
-
-:::
-
-:::lang eng
-
-Andrew Carnegie</br
-
-:::
-
-:::lang chs
-
-安德鲁·卡内基|1902-1919|＄350 million|＄7.2 billion
-
-:::
-
-:::lang eng
-
-John D. Rockefeller</br
-
-:::
-
-:::lang chs
-
-约翰·洛克菲勒|1889-1937|＄530 million|＄7.1 billion
-
-:::
-
-:::lang eng
-
-John D. Rockefeller Jr.</br
-
-:::
-
-:::lang chs
-
-小约翰·洛克菲勒|1927-1960|＄475 million|$5.5 billion
+Andrew Carnegie | 1902-1919 | $350 million | $7.2 billion
+John D. Rockefeller | 1889-1937 | $530 million | $7.1 billion
+John D. Rockefeller Jr. | 1927-1960 | $475 million | $5.5 billion
 
 :::
 
@@ -274,7 +241,7 @@ No, absolutely not. I feel terrific, and when I had my last physical, in October
 
 :::lang eng
 
-Yes, it does. Susie was two years younger than I, and women usually live longer than men. She and I always assumed that she would inherit my [[Berkshire_Hathaway|Berkshire]] stock and be the one who oversaw the distribution of our wealth to society, where both of us had always said it would go. And Susie would have enjoyed overseeing the process. She was a little afraid of it, in terms of scaling up. But she would have liked doing it, and would have been very good at it. And she wouldI really have stepped on the gas.
+Yes, it does. Susie was two years younger than I, and women usually live longer than men. She and I always assumed that she would inherit my [[Berkshire_Hathaway|Berkshire]] stock and be the one who oversaw the distribution of our wealth to society, where both of us had always said it would go. And Susie would have enjoyed overseeing the process. She was a little afraid of it, in terms of scaling up. But she would have liked doing it, and would have been very good at it. And she would really have stepped on the gas.
 
 :::
 
@@ -326,15 +293,9 @@ Yes, she said that many times. As for me, I always had the idea that philanthrop
 
 :::
 
-:::lang eng
-
-（*
-
-:::
-
 :::lang chs
 
-他大笑*）是的！毫无疑问。我乐在其中——如今依然。有一段时间，我也曾考虑过[[Berkshire_Hathaway|伯克希尔]]的控制权。上世纪70年代初，我用解散[[Warren_Buffett|巴菲特]]合伙公司（[[Warren_Buffett|Buffett]] Partnership）时得到的1500万美元，买下了[[Berkshire_Hathaway|伯克希尔]]的控股权。在[[Berkshire_Hathaway|伯克希尔]]之外，我的钱很少——远远少于100万美元。我的年薪是5万美元。因此，如果当时我就做比较重大的慈善捐赠的话，将不得不放弃[[Berkshire_Hathaway|伯克希尔]]的股份。我买到[[Berkshire_Hathaway|伯克希尔]]的控股权不是为了马上就要送人的。
+（*他大笑*）是的！毫无疑问。我乐在其中——如今依然。有一段时间，我也曾考虑过[[Berkshire_Hathaway|伯克希尔]]的控制权。上世纪70年代初，我用解散[[Warren_Buffett|巴菲特]]合伙公司（[[Warren_Buffett|Buffett]] Partnership）时得到的1500万美元，买下了[[Berkshire_Hathaway|伯克希尔]]的控股权。在[[Berkshire_Hathaway|伯克希尔]]之外，我的钱很少——远远少于100万美元。我的年薪是5万美元。因此，如果当时我就做比较重大的慈善捐赠的话，将不得不放弃[[Berkshire_Hathaway|伯克希尔]]的股份。我买到[[Berkshire_Hathaway|伯克希尔]]的控股权不是为了马上就要送人的。
 
 :::
 
@@ -502,13 +463,7 @@ If you think about it — if your goal is to return the money to society by atta
 
 :::lang eng
 
-Compare what I'm doing with them to my situation at [[Berkshire_Hathaway|Berkshire]], where I have talented and proven people in charge of our businesses. They do a much better job than I could in running their operations. What can be more logical, in whatever you want done, than finding someone better equipped than you are to do it? Who wouldn't select Tiger Woods to take his place in a high-stakes golf game? That's
-
-:::
-
-:::lang eng
-
-how I feel about this decision about my money.
+Compare what I'm doing with them to my situation at [[Berkshire_Hathaway|Berkshire]], where I have talented and proven people in charge of our businesses. They do a much better job than I could in running their operations. What can be more logical, in whatever you want done, than finding someone better equipped than you are to do it? Who wouldn't select Tiger Woods to take his place in a high-stakes golf game? That's how I feel about this decision about my money.
 
 :::
 
@@ -544,15 +499,9 @@ how I feel about this decision about my money.
 
 :::
 
-:::lang eng
-
-*
-
-:::
-
 :::lang chs
 
-卡罗尔·J·卢米斯*
+*卡罗尔·J·卢米斯*
 
 :::
 
@@ -794,7 +743,7 @@ I realize that the close timing of the two announcements will suggest they're re
 
 :::lang chs
 
-**你有没有想过，世界上第二富有的人给第一富有的人数不胜数的钱，这是不是有点滑稽?**
+**你有没有想过，世界上第二富有的人给第一富有的人捐赠数百亿美元，这听起来是不是有点讽刺？**
 
 :::
 
@@ -830,7 +779,7 @@ I would say that most large organizations — though [[Berkshire_Hathaway|Berksh
 
 :::lang chs
 
-我想说，大多数大型组织——尽管[[Berkshire_Hathaway|伯克希尔]]是一个耀眼的例外——在某种程度上都存在官僚主义。不管怎样，当一些人批评盖茨基金会的官僚主义的时候，他们真正的意思是，除了比尔和梅琳达，其他人都不能做什么重大决策。那正合我意。我希望的也是由他们俩来做重大的决策（而不是什么人都能轻易决定把钱送出去）。
+我想说，大多数大型组织——尽管[[Berkshire_Hathaway|伯克希尔]]是一个耀眼的例外——在某种程度上都存在官僚主义。不管怎样，当一些人批评盖茨基金会的官僚主义的时候，他们真正的意思是，除了比尔和梅琳达，其他人都不能做什么重大决策。那正合我意。我希望的也是由他们俩来做重大的决策。
 
 :::
 
@@ -854,7 +803,7 @@ Not much. The biggest reason for my doing that is if they were ever to go down o
 
 :::lang chs
 
-没什么特别的。我这么做的最大原因是，如果他们一起遭遇空难（基金会不至于无人驾驭）。除此之外，我也希望能时不时地贡献一些建设性的想法。但我不觉得我像比尔和梅琳达那样适合做慈善。慈善事业的反馈机制特别缓慢，这会困扰我。（做慈善）要和很多我不那么喜欢的人共事，不得不听取更多的意见，这些我都不喜欢。我也知道，在慈善事业中，犯错在所难免。但是，如果是让我自己犯错，而不是让我信任的人放手去做，我会更加烦恼。总的来说，比尔和梅琳达的平均击打率会比我高。
+没什么特别的。我这么做的最大原因是，如果他们一起遭遇空难（基金会不至于无人驾驭）。除此之外，我也希望能时不时地贡献一些建设性的想法。但我不觉得我像比尔和梅琳达那样适合做慈善。慈善事业的反馈机制特别缓慢，这会困扰我。做慈善要和很多我不那么喜欢的人共事，不得不听取更多的意见，这些我都不喜欢。我也知道，在慈善事业中，犯错在所难免。但是，如果是让我自己犯错，而不是让我信任的人放手去做，我会更加烦恼。总的来说，比尔和梅琳达的平均击球率会比我高。
 
 :::
 
@@ -872,25 +821,13 @@ Not much. The biggest reason for my doing that is if they were ever to go down o
 
 :::lang eng
 
-Yes, I talked to my children and Allen Greenberg, and to four [[Berkshire_Hathaway|Berkshire]] directors, including my son Howard and [[Charlie_Munger|Charlie Munger]]. I got lots of questions, and some people had qualms about the plan initially because it was such an abrupt change from what they had been anticipating. But I'd say everybody, and that certainly includes Allen — who knows what a bear it would have been to scale up the [[Warren_Buffett|Buffett]] Foundation — came around to seeing the logic of what I was proposing to do. Now all concerned can't wait to get started — particularly me.
+Yes, I talked to my children and Allen Greenberg, and to four [[Berkshire_Hathaway|Berkshire]] directors, including my son Howard and [[Charlie_Munger|Charlie Munger]]. I got lots of questions, and some people had qualms about the plan initially because it was such an abrupt change from what they had been anticipating. But I'd say everybody, and that certainly includes Allen — who knows what a bear it would have been to scale up the [[Warren_Buffett|Buffett]] Foundation — came around to seeing the logic of what I was proposing to do. Now all concerned can't wait to get started — particularly me. And frankly, I have some small hopes that what I'm doing might encourage other very rich people thinking about philanthropy to decide they didn't necessarily have to set up their own foundations but could look around for the best of those that were up and running and available to handle their money. People do that all the time with their investments. They put their money with people they think are going to do a better job than they could. There's some real merit to extending that thought to your wealth, rather than setting up something to be run after your death by a bunch of old business cronies or a staff that eventually comes to dictate the agenda. Some version of this plan I've got is not a crazy thing for some of the next 20 people who are going to die with $1 billion or more to adopt themselves. One problem most rich people have is that they're old, with contemporaries who are not at their peak years and who don't have much time ahead of them. I'm lucky in that respect in that I can turn to younger people.
 
 :::
 
 :::lang chs
 
-是的，我和我的孩子们、艾伦•格林伯格（Allen Greenberg）以及[[Berkshire_Hathaway|伯克希尔哈撒韦]]公司（[[Berkshire_Hathaway|Berkshire]]）的四位董事商量过，其中包括我的儿子霍华德（Howard）和查理•[[Charlie_Munger|芒格]]（[[Charlie_Munger|Charlie Munger]]）。我被问了很多问题，其中的一些人一开始对这个计划感到不安，因为与他们的预期大相径庭。但我要说的是，所有人，当然包括艾伦——他知道扩大[[Warren_Buffett|巴菲特]]基金会（[[Warren_Buffett|Buffett]] Foundation）的规模会多么令人头疼——都逐渐意识到我想做的这件事的意义。如今，所有关心这件事的人都迫不及待了——尤其是我。
-
-:::
-
-:::lang eng
-
-And frankly, I have some small hopes that what I'm doing might encourage other very rich people thinking about philanthropy to decide they didn't necessarily have to set up their own foundations but could look around for the best of those that were up and running and available to handle their money. People do that all the time with their investments. They put their money with people they think are going to do a better job than they could. There's some real merit to extending that thought to your wealth, rather than setting up something to be run after your death by a bunch of old business cronies or a staff that eventually comes to dictate the agenda. Some version of this plan I've got is not a crazy thing for some of the next 20 people who are going to die with $1 billion or more to adopt themselves. One problem most rich people have is that they're old, with contemporaries who are not at their peak years and who don't have much time ahead of them. I'm lucky in that respect in that I can turn to younger people.
-
-:::
-
-:::lang chs
-
-坦率地说，我有一些小小的愿望，希望我的做法能鼓励其他富人考虑慈善捐赠，他们不一定要建立自己的慈善基金，也可以考虑那些已经在运行的基金中的佼佼者，也可以打理他们的钱。人们在投资时总是会这么做。他们会把钱投给他们认为比他们自己做得更好的人。将这一理念延伸到财富传承有很多好处，而不是在你死后再由一帮老伙计来运作某个机构，或由一帮雇员按照机械的程序照章办事。我这个计划的某些版本，对于未来将要去世的20名，死后将留下10亿美元或更多遗产的人来说，并不是什么疯狂的事情。大多数最富之人面临的问题是，他们都年事已高，他们的同侪也都巅峰已过，未来时日不多。在这方面我很幸运，因为我可以将接力棒交给年轻人。
+是的，我和我的孩子们、艾伦•格林伯格（Allen Greenberg）以及[[Berkshire_Hathaway|伯克希尔哈撒韦]]公司（[[Berkshire_Hathaway|Berkshire]]）的四位董事商量过，其中包括我的儿子霍华德（Howard）和查理•[[Charlie_Munger|芒格]]（[[Charlie_Munger|Charlie Munger]]）。我被问了很多问题，其中的一些人一开始对这个计划感到不安，因为与他们的预期大相径庭。但我要说的是，所有人，当然包括艾伦——他知道扩大[[Warren_Buffett|巴菲特]]基金会（[[Warren_Buffett|Buffett]] Foundation）的规模会多么令人头疼——都逐渐意识到我想做的这件事的意义。如今，所有关心这件事的人都迫不及待了——尤其是我。坦率地说，我有一些小小的愿望，希望我的做法能鼓励其他富人考虑慈善捐赠，他们不一定要建立自己的慈善基金，也可以考虑那些已经在运行的基金中的佼佼者，也可以打理他们的钱。人们在投资时总是会这么做。他们会把钱投给他们认为比他们自己做得更好的人。将这一理念延伸到财富传承有很多好处，而不是在你死后再由一帮老伙计来运作某个机构，或由一帮雇员按照机械的程序照章办事。我这个计划的某些版本，对于未来将要去世的20名，死后将留下10亿美元或更多遗产的人来说，并不是什么疯狂的事情。大多数最富之人面临的问题是，他们都年事已高，他们的同侪也都巅峰已过，未来时日不多。在这方面我很幸运，因为我可以将接力棒交给年轻人。
 
 :::
 
@@ -908,37 +845,13 @@ And frankly, I have some small hopes that what I'm doing might encourage other v
 
 :::lang eng
 
-I'd say virtually nothing. Anybody who knows me also knows how I feel about making [[Berkshire_Hathaway|Berkshire]] as good as it can be, and that goal is still going to be there. I won't do anything differently, because I'm not capable of doing things differently. The name on the stock certificates will change, but nothing else will.
+I'd say virtually nothing. Anybody who knows me also knows how I feel about making [[Berkshire_Hathaway|Berkshire]] as good as it can be, and that goal is still going to be there. I won't do anything differently, because I'm not capable of doing things differently. The name on the stock certificates will change, but nothing else will. I've always made it clear to [[Berkshire_Hathaway|Berkshire]]'s shareholders that my wealth from the company would go to philanthropy, so the fact that I'm starting the process is basically a nonevent for them. And, you know, though this may surprise some people, it's a non-event for me too in some ways. Ted Turner, whose philanthropic activities I admire enormously, once told me that his hands shook when he signed a $1 billion pledge. Well, I have zero of that. To me, there's just no emotional downside to this at all.
 
 :::
 
 :::lang chs
 
-我想说几乎不会有什么变化。所有了解我的人都知道，我想把[[Berkshire_Hathaway|伯克希尔]]办得尽善尽美，这一目标仍将继续。我不会做任何不同的事情，因为我没有能力做不同的事情。股票上的名字会变，其他什么都不会变。
-
-:::
-
-:::lang eng
-
-I've always made it clear to [[Berkshire_Hathaway|Berkshire]]'s [[股东|shareholders]] that my wealth from the company would go to philanthropy, so the fact that I'm starting the process is basically a nonevent for them.
-
-:::
-
-:::lang chs
-
-我一直向[[Berkshire_Hathaway|伯克希尔]]的股东们明确表示，我在这家公司的财富（指股份）将用于慈善事业，所以我启动这一进程对他们来说不是什么惊天大事。
-
-:::
-
-:::lang eng
-
-And, you know, though this may surprise some people, it's a non-event for me too in some ways. Ted Turner, whose philanthropic activities I admire enormously, once told me that his hands shook when he signed a $1 billion pledge. Well, I have zero of that. To me, there's just no emotional downside to this at all.
-
-:::
-
-:::lang chs
-
-而且，你知道，虽然这可能会让一些人感到惊讶，但在某种程度上对我来说也不是什么大事。泰德 · 特纳（CNN创始人），我非常钦佩他的捐赠善举，曾经告诉我，在他签署一份10亿美元的捐赠承诺时，手都在抖。我却一点也没有。对我来说，（捐赠这件事）没有任何情绪上的负面影响。
+我想说几乎不会有什么变化。所有了解我的人都知道，我想把[[Berkshire_Hathaway|伯克希尔]]办得尽善尽美，这一目标仍将继续。我不会做任何不同的事情，因为我没有能力做不同的事情。股票上的名字会变，其他什么都不会变。我一直向[[Berkshire_Hathaway|伯克希尔]]的股东们明确表示，我在这家公司的财富将用于慈善事业，所以我启动这一进程对他们来说不是什么惊天大事。而且，你知道，虽然这可能会让一些人感到惊讶，但在某种程度上对我来说也不是什么大事。泰德 · 特纳，我非常钦佩他的捐赠善举，曾经告诉我，在他签署一份10亿美元的捐赠承诺时，手都在抖。我却一点也没有。对我来说，没有任何情绪上的负面影响。
 
 :::
 
@@ -976,37 +889,25 @@ And, you know, though this may surprise some people, it's a non-event for me too
 
 :::lang eng
 
-It is by far the largest foundation in the world — even now, before [[Warren_Buffett|Warren Buffett]]'s historic gifts. And its creed is appropriately broad: "Guided by the belief that every life has equal value, the Bill Melinda Gates Foundation works to reduce inequities and improve lives around the world."
+It is by far the largest foundation in the world — even now, before [[Warren_Buffett|Warren Buffett]]'s historic gifts. And its creed is appropriately broad: "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to reduce inequities and improve lives around the world."
 
 :::
 
 :::lang chs
 
-这是**目前世界上规模最大**的基金会——在[[Warren_Buffett|沃伦·巴菲特]]（[[Warren_Buffett|Warren Buffett]]）做出历史性捐赠之前就已经是。该基金会的宗旨非常宽泛： 比尔·梅琳达·盖茨基金会秉承 "每个生命都一样珍贵"的信念，致力于减少不平等现象，改善全世界人民的生活。
+这是目前世界上规模最大的基金会——在[[Warren_Buffett|沃伦·巴菲特]]做出历史性捐赠之前就已经是。该基金会的宗旨非常宽泛： 比尔·梅琳达·盖茨基金会秉承 "每个生命都一样珍贵"的信念，致力于减少不平等现象，改善全世界人民的生活。
 
 :::
 
 :::lang eng
 
-To further its work, the foundation currently has just over $30 billion in assets, a purse built up from Bill and Melinda Gates' gifts of $26 billion and appreciation in its broadly diversified investments(which at the moment contain no Microsoft). The $30 billion, of course, does not include the $8 billion in gifts that the foundation has made since 1994. Last year it gave $1.36 billion, and this year it expects to spend around $1.5 billion.
+To further its work, the foundation currently has just over $30 billion in assets, a purse built up from Bill and Melinda Gates' gifts of $26 billion and appreciation in its broadly diversified investments (which at the moment contain no Microsoft). The $30 billion, of course, does not include the $8 billion in gifts that the foundation has made since 1994. Last year it gave $1.36 billion, and this year it expects to spend around $1.5 billion. Now it will be [[Warren_Buffett|Buffett]] and the Gateses building up the foundation together. Bill and Melinda have said that almost all their fortune will go to charity, and right now they still have an estimated net worth of $50 billion.
 
 :::
 
 :::lang chs
 
-为了推动基金会的发展，基金会目前的资产规模超300亿美元，这些资产来自比尔·盖茨和梅琳达·盖茨夫妇捐赠的260亿美元，以及基金会广泛的多元化投资（目前不包括微软公司）的增值。当然，这300亿美元并不包括基金会自1994年以来已经捐出去的80亿美元。去年，基金会捐出了13.6亿美元，今年预计将捐出约15亿美元。
-
-:::
-
-:::lang eng
-
-Now it will be [[Warren_Buffett|Buffett]] and the Gateses building up the foundation together. Bill and Melinda have said that almost all their fortune will go to charity, and right now they still have an estimated net worth of $50 billion.
-
-:::
-
-:::lang chs
-
-如今，将由[[Warren_Buffett|巴菲特]]和盖茨夫妇共同发展这家基金会。比尔和梅琳达曾表示，他们几乎所有的财产都将用于慈善事业，目前他们的净资产估计仍有500亿美元。
+为了推动基金会的发展，基金会目前的资产规模超300亿美元，这些资产来自比尔·盖茨和梅琳达·盖茨夫妇捐赠的260亿美元，以及基金会广泛的多元化投资（目前不包括微软公司）的增值。当然，这300亿美元并不包括基金会自1994年以来已经捐出去的80亿美元。去年，基金会捐出了13.6亿美元，今年预计将捐出约15亿美元。如今，将由[[Warren_Buffett|巴菲特]]和盖茨夫妇共同发展这家基金会。比尔和梅琳达曾表示，他们几乎所有的财产都将用于慈善事业，目前他们的净资产估计仍有500亿美元。
 
 :::
 
@@ -1026,7 +927,7 @@ Now it will be [[Warren_Buffett|Buffett]] and the Gateses building up the founda
 
 :::lang eng
 
-The foundation works heavily through partners(nongovernmental organizations, usually)and has focused on big causes. Its original giving was directed at providing U.S. libraries free online access — and today more than 99% are hooked up. The foundation then broadened its efforts to global health, on which it now spends around 60% of its funds. Much of that is beamed at what Bill Gates calls "the Big Three diseases": malaria, HIV/AIDS, and tuberculosis. The foundation is both pushing to discover a preventive AIDS vaccine and to deliver antiretrovirals to people already afflicted with the disease. In other areas, spending is focused on making medical "leaps" — the discovery, say, of a chemical that would block malaria-transmitting mosquitoes from smelling humans.
+The foundation works heavily through partners (nongovernmental organizations, usually) and has focused on big causes. Its original giving was directed at providing U.S. libraries free online access — and today more than 99% are hooked up. The foundation then broadened its efforts to global health, on which it now spends around 60% of its funds. Much of that is beamed at what Bill Gates calls "the Big Three diseases": malaria, HIV/AIDS, and tuberculosis. The foundation is both pushing to discover a preventive AIDS vaccine and to deliver antiretrovirals to people already afflicted with the disease. In other areas, spending is focused on making medical "leaps" — the discovery, say, of a chemical that would block malaria-transmitting mosquitoes from smelling humans.
 
 :::
 
@@ -1038,13 +939,13 @@ The foundation works heavily through partners(nongovernmental organizations, usu
 
 :::lang eng
 
-The Pacific Northwest receives sizable Gates grants. The national drive, meanwhile, is riveted on improving high schools, which Bill Gates has called"obsolete."The foundation and its partners have started 900 new schools and "redesigned" 700 others. The schools effort has stuttered some as the foundation has struggled to find out what works. But CEO Patty Stonesifer says roadblocks only stiffen the foundation's resolve. "We'll be stepping up our investment here,"she says, "because providing every student a quality education is key to ensuring equality of opportunity."
+The Pacific Northwest receives sizable Gates grants. The national drive, meanwhile, is riveted on improving high schools, which Bill Gates has called "obsolete." The foundation and its partners have started 900 new schools and "redesigned" 700 others. The schools effort has stuttered some as the foundation has struggled to find out what works. But CEO Patty Stonesifer says roadblocks only stiffen the foundation's resolve. "We'll be stepping up our investment here," she says, "because providing every student a quality education is key to ensuring equality of opportunity."
 
 :::
 
 :::lang chs
 
-西北太平洋地区获得了盖茨基金会的大量赠款。与此同时，全国性的投入则集中在改善被比尔·盖茨称为"过时"的高中。基金会及其合作伙伴已经开办了900所新学校，并"重新设计"了700所其他学校。由于基金会一直在努力寻找更为行之有效的方法，学校的工作有些停滞不前。但首席执行官帕蒂·斯通西弗（Patty Stonesifer）表示，道路上的障碍只会坚定基金会的决心。"她说："我们将加大对这方面的投资，因为为每个学生提供优质教育是确保机会平等的关键。
+西北太平洋地区获得了盖茨基金会的大量赠款。与此同时，全国性的投入则集中在改善被比尔·盖茨称为"过时"的高中。基金会及其合作伙伴已经开办了900所新学校，并"重新设计"了700所其他学校。由于基金会一直在努力寻找更为行之有效的方法，学校的工作有些停滞不前。但首席执行官帕蒂·斯通西弗表示，道路上的障碍只会坚定基金会的决心。"我们将加大对这方面的投资，"她说，"因为为每个学生提供优质教育是确保机会平等的关键。"
 
 :::
 
@@ -1110,7 +1011,7 @@ Yes, in some cases. The [[Warren_Buffett|Buffett]] Foundation and the kids' foun
 
 :::lang eng
 
-Yes, that may well happen. And naturally people are going to be interested in whether that selling could weigh down [[Berkshire_Hathaway|Berkshire]]'s price. I don't think so in the least — and that's true even though the annual turnover ratio for [[Berkshire_Hathaway|Berkshire]] has been running only about 15% a year, which is extremely low for large-cap stocks. Let's say the five foundations sell all the stock they get this year. If trading volume continues as it has, their selling will raise turnover to less than 17%. It would be ridiculous to think that much new selling could affect the price of the stock. In fact, the added supply could even be beneficial in increasing the stock's liquidity and should make it more likely that [[Berkshire_Hathaway|Berkshire]] would eventually be included in the [[标准普尔500指数|S&P 500]].
+Yes, that may well happen. And naturally people are going to be interested in whether that selling could weigh down [[Berkshire_Hathaway|Berkshire]]'s price. I don't think so in the least — and that's true even though the annual turnover ratio for [[Berkshire_Hathaway|Berkshire]] has been running only about 15% a year, which is extremely low for large-cap stocks. Let's say the five foundations sell all the stock they get this year. If trading volume continues as it has, their selling will raise turnover to less than 17%. It would be ridiculous to think that much new selling could affect the price of the stock. In fact, the added supply could even be beneficial in increasing the stock's liquidity and should make it more likely that [[Berkshire_Hathaway|Berkshire]] would eventually be included in the S&P 500.
 
 :::
 
@@ -1122,7 +1023,7 @@ Yes, that may well happen. And naturally people are going to be interested in wh
 
 :::lang eng
 
-I'd say this: I would not be making the gifts if they would in any way harm [[Berkshire_Hathaway|Berkshire]]'s [[股东|shareholders]]. And they won't.
+I'd say this: I would not be making the gifts if they would in any way harm [[Berkshire_Hathaway|Berkshire]]'s shareholders. And they won't.
 
 :::
 
@@ -1146,13 +1047,13 @@ I'd say this: I would not be making the gifts if they would in any way harm [[Be
 
 :::lang eng
 
-No, what I've always said is that my family won't receive huge amounts of my net worth. That doesn't mean they'll get nothing. My children have already received some money from me and Susie and will receive more. I still believe in the philosophy — FORTUNE quoted me saying this 20 years ago — that a very rich person should leave his kids enough to do anything but not enough to do nothing. \[The FORTUNE article was "Should You Leave It All to the Children?" Sept. 29, 1986.\]
+No, what I've always said is that my family won't receive huge amounts of my net worth. That doesn't mean they'll get nothing. My children have already received some money from me and Susie and will receive more. I still believe in the philosophy — FORTUNE quoted me saying this 20 years ago — that a very rich person should leave his kids enough to do anything but not enough to do nothing. [The FORTUNE article was "Should You Leave It All to the Children?" Sept. 29, 1986.]
 
 :::
 
 :::lang chs
 
-不，我一直说的是，我的家人不会从我的净资产中继承巨额财富。但这并不意味着他们什么一无所获。我的孩子们已经从我和苏茜那里得到了一些钱，而且还会继续收到更多。我仍然信奉这样一个理念——《财富》杂志20 年前引用了我说过的这句话——一个非常富有的人应该给他的孩子们留下足够的钱能去做任何事情，却不能多到什么都可以不做。\[《财富》杂志的文章是 "你应该把一切都留给孩子吗？"1986年9月29日。\］
+不，我一直说的是，我的家人不会从我的净资产中继承巨额财富。但这并不意味着他们一无所获。我的孩子们已经从我和苏茜那里得到了一些钱，而且还会继续收到更多。我仍然信奉这样一个理念——《财富》杂志20 年前引用了我说过的这句话——一个非常富有的人应该给他的孩子们留下足够的钱能去做任何事情，却不能多到什么都可以不做。[《财富》杂志的文章是 "你应该把一切都留给孩子吗？"1986年9月29日。]
 
 :::
 
@@ -1164,12 +1065,12 @@ Remember I said that way back when I was buying [[Berkshire_Hathaway|Berkshire]]
 
 :::lang chs
 
-还记得我说过，早在买进[[Berkshire_Hathaway|伯克希尔]]时，我其余的现金不到100万美元吗？在那之后的几年里，我用这些钱做了一些不错的投资——持有了一些对[[Berkshire_Hathaway|伯克希尔]]来说太小的头寸，做了一些固定收益[[Arbitrage|套利]]，还卖掉了从[[Berkshire_Hathaway|伯克希尔]]分拆出来的一家银行的股权。所以我很高兴地说，我现在还有不少现金。总的来说，我可以——也将会——把我所有的[[Berkshire_Hathaway|伯克希尔]]股份用于慈善事业，并仍将有足够的钱为我亲近的人提供良好的生活条件。
+还记得我说过，早在买进[[Berkshire_Hathaway|伯克希尔]]时，我其余的现金不到100万美元吗？在那之后的几年里，我用这些钱做了一些不错的投资——持有了一些对[[Berkshire_Hathaway|伯克希尔]]来说太小的头寸，做了一些固定收益套利，还卖掉了从[[Berkshire_Hathaway|伯克希尔]]分拆出来的一家银行的股权。所以我很高兴地说，我现在还有不少现金。总的来说，我可以——也将会——把我所有的[[Berkshire_Hathaway|伯克希尔]]股份用于慈善事业，并仍将有足够的钱为我亲近的人提供良好的生活条件。
 
 :::
 
-:::lang eng
+:::lang chs
 
-FEEDBACK cloomis@fortunemail.com
+1987 年 2 月 13 日
 
 :::

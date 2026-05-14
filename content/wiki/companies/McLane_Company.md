@@ -1,4 +1,5 @@
 ---
+publish: true
 title: McLane Company
 title_chs: 麦克莱恩
 uuid: 08b4e3eb-333c-514d-b90d-83e343dc4c8d

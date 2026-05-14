@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Wesco Financial
 title_chs: 韦斯科
 uuid: fc87dbdd-d865-5518-a4c9-bfc49bf039e1

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Precision Castparts
 title_chs: 精密铸件
 uuid: 235ce606-4e99-54e9-a62e-03a4159ee84e

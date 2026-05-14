@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Insurance Float
 title_chs: 保险浮存金
 uuid: 964e9d71-c3bd-59c0-aa04-89b5ec6183f5

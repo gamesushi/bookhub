@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Johns Manville
 title_chs: 约翰斯曼维尔
 uuid: 1e489a1b-306f-5d89-b9ea-61f5849eb65d

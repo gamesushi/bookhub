@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Benjamin Graham
 title_chs: 格雷厄姆
 uuid: e3e78a73-984b-536e-9484-d5c551e22ce1

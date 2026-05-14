@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Underwriting Discipline
 title_chs: 承保纪律
 uuid: 05d06cbe-d9e0-529c-96e5-a7b3bcd63e05

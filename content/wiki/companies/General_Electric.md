@@ -1,4 +1,5 @@
 ---
+publish: true
 title: General Electric
 title_chs: 通用电气
 uuid: 62121e00-aeda-57bc-94ff-9f4712aeaa99

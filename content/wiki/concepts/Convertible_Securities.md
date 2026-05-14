@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Convertible Securities
 title_chs: 可转换证券
 uuid: d546ef30-e131-5110-bdb2-40bea8ffda26

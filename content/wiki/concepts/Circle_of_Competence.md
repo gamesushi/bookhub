@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Circle of Competence
 title_chs: 能力圈
 uuid: 1797cfb9-4efb-5156-a1d3-04567291a085

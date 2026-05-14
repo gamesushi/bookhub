@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Diversification
 title_chs: 分散投资
 uuid: 37f7218c-7a59-58f5-986c-29e7cedab543

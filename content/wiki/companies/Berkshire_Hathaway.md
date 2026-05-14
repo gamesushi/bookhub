@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Berkshire Hathaway
 title_chs: 伯克希尔哈撒韦
 uuid: 6dcbf8ee-774c-51c4-90d0-c610849cd80d

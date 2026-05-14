@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Itochu
 title_chs: 伊藤忠商事
 uuid: 0d78c204-75ab-5b90-a279-23abefad61d8

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Mitsubishi
 title_chs: 三菱商事
 uuid: cc0fbbc0-8821-502c-9584-959f5f1233c8

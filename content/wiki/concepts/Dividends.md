@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Dividends
 title_chs: 股息
 uuid: 99eef5a7-f3df-500e-a0d0-ab83c0fed95f

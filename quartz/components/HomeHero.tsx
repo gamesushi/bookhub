@@ -27,14 +27,25 @@ const HomeHero: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
         <div class="hero-content">
           <p class="hero-eyebrow">开篇语</p>
           <h2 class="hero-quote">“每天比醒来时更聪慧一点。”</h2>
+          <div class="hero-portraits">
+            <a href="/insights/Warren_Buffett/" class="portrait-link" title="沃伦·巴菲特">
+              <img src="/static/portrait_buffett_1778486868612.png" alt="Warren Buffett" />
+            </a>
+            <a href="/insights/Charles_Munger/" class="portrait-link" title="查理·芒格">
+              <img src="/static/portrait_munger_1778486885220.png" alt="Charlie Munger" />
+            </a>
+            <a href="/insights/Duan_Yongping/" class="portrait-link" title="段永平">
+              <img src="/static/portrait_duan_user.png" alt="Duan Yongping" />
+            </a>
+          </div>
           <p class="hero-desc">真正的优势，不在于预测明天，而在于理解原则、避免愚蠢，并让时间替理性复利。</p>
           <div class="hero-tags">
-            <span class="hero-tag">能力圈</span>
-            <span class="hero-tag">安全边际</span>
-            <span class="hero-tag">反向思考</span>
-            <span class="hero-tag">少犯大错</span>
-            <span class="hero-tag">长期合伙人</span>
-            <span class="hero-tag">高品质企业</span>
+            <a href="/wiki/concepts/duan_能力圈" class="hero-tag">能力圈</a>
+            <a href="/wiki/concepts/duan_安全边际" class="hero-tag">安全边际</a>
+            <a href="/wiki/concepts/duan_错误与纠错" class="hero-tag">反向思考</a>
+            <a href="/wiki/concepts/duan_Stop-Doing-List" class="hero-tag">少犯大错</a>
+            <a href="/wiki/concepts/duan_长期主义" class="hero-tag">长期合伙人</a>
+            <a href="/wiki/concepts/duan_好公司的标准" class="hero-tag">高品质企业</a>
           </div>
         </div>
       </div>
@@ -61,6 +72,34 @@ const HomeHero: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPr
           <h3>复利与长期主义</h3>
           <p>让时间成为理性的盟友，关注可持续的学习、资本与品格复利，而非短期市场噪音。</p>
         </article>
+      </div>
+      <div class="trending-wiki">
+        <div class="section-header">
+          <span class="section-eyebrow">精选阅读</span>
+          <h2 class="section-title">深度 Wiki 条目</h2>
+        </div>
+        <div class="wiki-grid">
+          <a href="/wiki/concepts/duan_生意模式" class="wiki-item">
+            <span class="wiki-cat">商业</span>
+            <span class="wiki-name">生意模式 (Business Model)</span>
+            <span class="wiki-desc">判断一家公司优劣的最核心标准。</span>
+          </a>
+          <a href="/wiki/concepts/duan_护城河" class="wiki-item">
+            <span class="wiki-cat">竞争</span>
+            <span class="wiki-name">经济护城河</span>
+            <span class="wiki-desc">可持续竞争优势的来源。</span>
+          </a>
+          <a href="/wiki/concepts/duan_复利" class="wiki-item">
+            <span class="wiki-cat">原则</span>
+            <span class="wiki-name">复利的力量</span>
+            <span class="wiki-desc">让时间成为投资的朋友。</span>
+          </a>
+          <a href="/wiki/concepts/duan_内在价值" class="wiki-item">
+            <span class="wiki-cat">估值</span>
+            <span class="wiki-name">内在价值</span>
+            <span class="wiki-desc">理解一家公司真正值多少钱。</span>
+          </a>
+        </div>
       </div>
     </div>
   )
@@ -179,6 +218,44 @@ html[saved-theme="dark"] .hero-overlay {
   line-height: 1.2;
 }
 
+.hero-portraits {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.portrait-link {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1.5px solid var(--lightgray);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portrait-link img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(100%);
+  transition: all 0.3s ease;
+}
+
+.portrait-link:hover {
+  transform: translateY(-4px);
+  border-color: var(--secondary);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.portrait-link:hover img {
+  filter: grayscale(0%);
+  transform: scale(1.1);
+}
+
 .hero-desc {
   font-size: 1rem;
   color: var(--darkgray);
@@ -253,6 +330,81 @@ html[saved-theme="dark"] .knowledge-card:hover {
   color: var(--darkgray);
   line-height: 1.6;
   margin: 0;
+}
+
+.trending-wiki {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.section-header {
+  margin-bottom: 2rem;
+}
+
+.section-eyebrow {
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: var(--secondary);
+  text-transform: uppercase;
+}
+
+.section-title {
+  font-family: var(--headerFont);
+  font-size: 1.8rem;
+  margin: 0.5rem 0 0 0;
+  color: var(--dark);
+  border: none;
+}
+
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.wiki-item {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.wiki-item:hover {
+  border-color: var(--secondary);
+  box-shadow: 0 8px 20px rgba(44, 87, 72, 0.08);
+  transform: translateY(-2px);
+}
+
+.wiki-cat {
+  font-family: var(--codeFont);
+  font-size: 0.65rem;
+  color: var(--gray);
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.wiki-name {
+  font-family: var(--headerFont);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--dark);
+  margin-bottom: 0.5rem;
+}
+
+.wiki-desc {
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  line-height: 1.5;
+}
+
+html[saved-theme="dark"] .wiki-item {
+  background: rgba(0, 0, 0, 0.1);
+  border-color: rgba(123, 151, 170, 0.2);
 }
 `
 

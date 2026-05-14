@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Management
 title_chs: 管理层
 uuid: d4927f25-61b6-5ce0-b02f-8a5e1150b9ba

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Corporate Culture
 title_chs: 企业文化
 uuid: b0fdf4cd-22db-582d-afa8-7bebb5e4ba78

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Goldman Sachs
 title_chs: 高盛
 uuid: bc597e07-fd66-5cdc-bab7-5410debc2e4d

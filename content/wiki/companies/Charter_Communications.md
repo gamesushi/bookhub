@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Charter Communications
 title_chs: 特许通讯
 uuid: b42c2e38-5e29-548f-9d06-9a246608095d

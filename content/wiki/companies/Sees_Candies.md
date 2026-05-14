@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Sees Candies
 title_chs: 喜诗糖果
 uuid: cc4c9b8f-c575-52df-b95b-66d00fe820c7

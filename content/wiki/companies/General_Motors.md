@@ -1,4 +1,5 @@
 ---
+publish: true
 title: General Motors
 title_chs: 通用汽车
 uuid: a1a38195-0d26-55a6-9f1f-25409dbf7c68

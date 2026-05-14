@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Airline Industry
 title_chs: 航空业
 uuid: 1c5cca24-73dd-58ba-8a59-7ce2e7f5f3fd

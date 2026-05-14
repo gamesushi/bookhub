@@ -1,10 +1,15 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const HomeRightSidebar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+const HomeRightSidebar: QuartzComponent = ({ fileData, displayClass, allFiles }: QuartzComponentProps) => {
   if (fileData.slug !== "index") {
     return null
   }
+
+  // 计算人物条目数量 (wiki/people)
+  const peopleCount = allFiles.filter(f => f.slug?.startsWith("wiki/people")).length
+  // 计算核心概念数量 (wiki/concepts)
+  const conceptsCount = allFiles.filter(f => f.slug?.startsWith("wiki/concepts")).length
 
   return (
     <div class={classNames(displayClass, "home-right-sidebar")}>
@@ -23,16 +28,12 @@ const HomeRightSidebar: QuartzComponent = ({ fileData, displayClass }: QuartzCom
           索引状态
         </div>
         <div class="status-row">
-          <span>人物条目</span>
-          <span class="status-val">03</span>
-        </div>
-        <div class="status-row">
-          <span>核心概念</span>
-          <span class="status-val">06</span>
+          <a href="/wiki/people/">人物条目</a>
+          <span class="status-val">{String(peopleCount).padStart(2, '0')}</span>
         </div>
         <div class="status-row last">
-          <span>待补文献</span>
-          <span class="status-val highlight">开放中</span>
+          <a href="/wiki/concepts/">核心概念</a>
+          <span class="status-val">{String(conceptsCount).padStart(2, '0')}</span>
         </div>
       </section>
     </div>
@@ -93,6 +94,16 @@ HomeRightSidebar.css = `
   border-bottom: 1px solid var(--lightgray);
   font-size: 0.85rem;
   color: var(--darkgray);
+}
+
+.status-row a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.status-row a:hover {
+  color: var(--secondary);
 }
 
 .status-row.last {

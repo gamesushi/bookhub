@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Gillette
 title_chs: 吉列
 uuid: bae9dd8f-71af-59af-b7ad-14369f237df0

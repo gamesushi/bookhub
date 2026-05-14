@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Fruit of the Loom
 title_chs: 鲜果布衣
 uuid: 301f8771-6200-5ee0-b382-4a6b094f2944

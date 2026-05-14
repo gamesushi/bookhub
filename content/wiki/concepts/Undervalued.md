@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Undervalued
 title_chs: 低估
 uuid: 079995aa-41e0-59fc-bc9d-c5a8ba0ee328

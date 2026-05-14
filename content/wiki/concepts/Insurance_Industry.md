@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Insurance Industry
 title_chs: 保险业
 uuid: f8ae1406-0226-5378-9ee6-ffe4fe9d0300

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Bonds
 title_chs: 债券
 uuid: e234459c-9025-5522-ab10-bb3f421f9a0b

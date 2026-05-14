@@ -1,4 +1,5 @@
 ---
+publish: true
 title: IBM
 title_chs: IBM
 uuid: acb6e334-fda8-51de-aa58-52bae95ee79d

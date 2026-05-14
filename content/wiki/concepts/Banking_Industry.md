@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Banking Industry
 title_chs: 银行业
 uuid: dea9685c-4575-5cca-a04f-47f1b84c4ba0

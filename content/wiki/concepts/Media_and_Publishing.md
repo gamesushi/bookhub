@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Media and Publishing
 title_chs: 媒体与出版
 uuid: 4f7bd17c-b672-532b-be5c-f5ca627699b9

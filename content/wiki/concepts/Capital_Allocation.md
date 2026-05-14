@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Capital Allocation
 title_chs: 资本配置
 uuid: d7b1017d-502b-5402-b02d-aaece1edaf7f

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Dexter Shoe
 title_chs: 德克斯特鞋业
 uuid: b6e31f51-090c-55c4-bfa4-d80385cd8d11

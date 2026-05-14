@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Blue Chip Stamps
 title_chs: 蓝筹印花
 uuid: 91525169-5a3c-5b69-a2b6-ce9a9de217ad

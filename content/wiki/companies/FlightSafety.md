@@ -1,4 +1,5 @@
 ---
+publish: true
 title: FlightSafety
 title_chs: 飞安公司
 uuid: b265d1f5-e5b7-5f4b-908b-68a630671270

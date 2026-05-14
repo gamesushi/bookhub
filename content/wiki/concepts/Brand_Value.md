@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Brand Value
 title_chs: 品牌
 uuid: 899a1e38-2638-5d09-81cb-e4ec4c5c4d0d

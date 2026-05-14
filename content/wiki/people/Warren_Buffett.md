@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Warren Buffett
 title_chs: 沃伦·巴菲特
 uuid: d31bec71-a678-52c3-9af1-2c5ddc174d1a

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Mr Market
 title_chs: 市场先生
 uuid: 46573892-bb5a-52bd-926b-1058f5016e69

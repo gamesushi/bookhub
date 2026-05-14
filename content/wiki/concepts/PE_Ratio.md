@@ -1,4 +1,5 @@
 ---
+publish: true
 title: PE Ratio
 title_chs: 市盈率
 uuid: 50c755b5-31a2-5348-bc80-50a0a497f508

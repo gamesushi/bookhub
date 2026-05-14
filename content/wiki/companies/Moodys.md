@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Moodys
 title_chs: 穆迪
 uuid: df7256fa-c998-5bb1-8c49-1e439e8ab1bc

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Wiley Furniture
 title_chs: 威利家居
 uuid: e71d0206-2244-5fab-ac64-ce6783eda1b4

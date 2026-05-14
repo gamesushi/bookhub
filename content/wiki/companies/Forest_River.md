@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Forest River
 title_chs: 森林河公司
 uuid: 7664e04b-f9c4-5692-ad99-0f94571ebf01

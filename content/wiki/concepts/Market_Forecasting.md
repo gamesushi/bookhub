@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Market Forecasting
 title_chs: 市场预测
 uuid: 9e6398bc-a39c-5909-b1f0-9c63c165a195

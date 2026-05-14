@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Occidental Petroleum
 title_chs: 西方石油
 uuid: 78e9b0d1-c4a2-5a8f-ab64-bf567a761281

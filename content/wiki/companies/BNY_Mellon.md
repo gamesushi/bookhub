@@ -1,4 +1,5 @@
 ---
+publish: true
 title: BNY Mellon
 title_chs: 纽约梅隆银行
 uuid: 40678c92-65ca-5d69-9ae9-e5a1d8c1be32

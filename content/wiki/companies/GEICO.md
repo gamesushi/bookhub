@@ -1,4 +1,5 @@
 ---
+publish: true
 title: GEICO
 title_chs: 盖可保险
 uuid: f61af383-7b8e-5146-aef3-7a511021827e

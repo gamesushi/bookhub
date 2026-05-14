@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Chevron
 title_chs: 雪佛龙
 uuid: 065e42d3-4bd8-5b3a-8d96-02ad81954d5d

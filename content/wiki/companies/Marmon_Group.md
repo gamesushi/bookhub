@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Marmon Group
 title_chs: 马蒙集团
 uuid: 6a46d746-8f12-5d5b-917d-ffd18b0e5dcc

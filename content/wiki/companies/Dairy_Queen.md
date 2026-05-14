@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Dairy Queen
 title_chs: 冰雪皇后
 uuid: c6c4fa76-1190-5040-8dc8-12265b37ce35

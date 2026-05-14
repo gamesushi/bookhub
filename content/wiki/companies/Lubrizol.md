@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Lubrizol
 title_chs: 路博润
 uuid: 3a4f48b2-9562-505b-a78b-56e263a1587f

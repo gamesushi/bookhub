@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Share Buybacks
 title_chs: 回购
 uuid: 6e83940c-bcd5-5c9d-9b0e-7b7d099c1eab

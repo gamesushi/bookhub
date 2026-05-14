@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Apple
 title_chs: 苹果
 uuid: 0676757f-359a-51ed-aa5a-4b9c2a08316b

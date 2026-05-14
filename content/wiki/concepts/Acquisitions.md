@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Acquisitions
 title_chs: 收购
 uuid: 697f5302-1e4e-51d5-971e-78e6b68480e9

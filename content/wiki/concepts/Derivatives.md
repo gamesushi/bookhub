@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Derivatives
 title_chs: 衍生品
 uuid: 73fb39e9-8db5-532e-a60b-a29e6be7db78

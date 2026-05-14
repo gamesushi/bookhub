@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Long term Investing
 title_chs: 长期持有
 uuid: be0e724c-9c8c-5565-ab43-08c6df5cab41

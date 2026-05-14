@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Integrity
 title_chs: 诚信
 uuid: 35b550ea-a450-5534-acc6-b552a0719339

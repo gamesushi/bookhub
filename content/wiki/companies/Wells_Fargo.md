@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Wells Fargo
 title_chs: 富国银行
 uuid: ef93a519-e938-5915-9781-0fcd05ad62ae

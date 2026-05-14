@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Book Value
 title_chs: 账面价值
 uuid: ba5a601c-1238-5540-ba54-1c8e029df021

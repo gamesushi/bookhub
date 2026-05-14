@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Scott Fetzer
 title_chs: 斯科特费泽
 uuid: 1c522670-ebb6-5c32-86c9-c3f1d8911150

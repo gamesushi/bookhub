@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Margin of Safety
 title_chs: 安全边际
 uuid: e65520d9-5dec-5244-9292-dedfa30ef914

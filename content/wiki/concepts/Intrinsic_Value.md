@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Intrinsic Value
 title_chs: 内在价值
 uuid: 891a8a02-6140-5260-9911-9eb20ae4f77f

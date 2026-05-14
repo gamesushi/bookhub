@@ -1,4 +1,5 @@
 ---
+publish: true
 title: National Indemnity
 title_chs: 国民保险公司
 uuid: 641493fa-6fb4-509b-a66e-1a7404fca470

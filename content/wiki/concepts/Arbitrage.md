@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Arbitrage
 title_chs: 套利
 uuid: ccbe424c-1695-548f-aab9-4bca8e18e3f6

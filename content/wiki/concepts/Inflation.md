@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Inflation
 title_chs: 通货膨胀
 uuid: 9fc7dbc3-2d6d-5f04-a991-b348359319e4

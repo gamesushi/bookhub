@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Energy Industry
 title_chs: 能源
 uuid: 41f2d583-8546-5c3c-bb17-03b910f98996

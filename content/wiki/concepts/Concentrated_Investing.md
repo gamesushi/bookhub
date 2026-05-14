@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Concentrated Investing
 title_chs: 集中投资
 uuid: 972b532b-19e7-56d8-8841-8c6086418968

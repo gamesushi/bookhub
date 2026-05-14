@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Efficient Market Hypothesis
 title_chs: 有效市场
 uuid: dbe48e82-26c8-5ff8-9a4b-41a36fd021b1

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Washington Post
 title_chs: 华盛顿邮报
 uuid: 782fcd64-85b8-5338-b281-4cb9019679c2

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Coca Cola
 title_chs: 可口可乐
 uuid: daecf6b1-9dff-50b1-beeb-462c95ea98bc

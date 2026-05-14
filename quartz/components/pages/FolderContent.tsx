@@ -98,7 +98,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     const content = (
       (tree as Root).children.length === 0
-        ? fileData.description
+        ? (
+          <div class="folder-description">
+            <span class="lang-eng">{fileData.description}</span>
+            {fileData.frontmatter?.description_chs && (
+              <span class="lang-chs">{fileData.frontmatter.description_chs}</span>
+            )}
+          </div>
+        )
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 
@@ -108,9 +115,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         <div class="page-listing">
           {options.showFolderCount && (
             <p>
-              {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
-              })}
+              <span class="lang-eng">
+                {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
+                  count: allPagesInFolder.length,
+                })}
+              </span>
+              <span class="lang-chs">
+                该目录下共有 {allPagesInFolder.length} 篇文章。
+              </span>
             </p>
           )}
           <div>

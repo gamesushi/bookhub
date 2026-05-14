@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Leverage
 title_chs: 杠杆
 uuid: fbb61ba5-06ba-5cb8-8bc5-bf763b2c158e

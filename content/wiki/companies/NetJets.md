@@ -1,4 +1,5 @@
 ---
+publish: true
 title: NetJets
 title_chs: 利捷航空
 uuid: e324cc17-46b9-5595-8fef-2b8f29a71cc5

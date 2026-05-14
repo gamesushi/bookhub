@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Todd Combs
 title_chs: 托德·库姆斯
 uuid: e239474e-0c2d-5cba-9251-986468be2460
