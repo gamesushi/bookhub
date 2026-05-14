@@ -8,8 +8,8 @@ author: Charles Munger
 publish: true
 last_checked: '2026-05-14'
 related:
-- 首页
-- 查理·芒格
+- index
+- Charlie_Munger
 - 价值投资
 - 心理学
 ---
@@ -18,7 +18,7 @@ related:
 
 # Charles Munger Investment Thought Knowledge Base
 
-> **[[查理·芒格|Charlie Munger]]**: Vice Chairman of Berkshire Hathaway; the "Architect" of modern Berkshire; proponent of "Latticework of Mental Models" and "Multidisciplinary approach."
+> **[[../../wiki/people/Charlie_Munger|查理·芒格]]**: Vice Chairman of Berkshire Hathaway; the "Architect" of modern Berkshire; proponent of "Latticework of Mental Models" and "Multidisciplinary approach."
 > This knowledge base includes Wesco letters, classic speeches, and interviews.
 
 ---
@@ -62,7 +62,7 @@ related:
 
 # 查理·芒格投资思想知识库
 
-> **[[查理·芒格|查理·芒格]]**：伯克希尔·哈撒韦副主席；现代伯克希尔的“建筑师”；“多元思维模型”与“普世智慧”的倡导者。
+> **[[../../wiki/people/Charlie_Munger|查理·芒格]]**：伯克希尔·哈撒韦副主席；现代伯克希尔的“建筑师”；“多元思维模型”与“普世智慧”的倡导者。
 > 本知识库包含：Wesco 股东信、经典演讲录及深度访谈。
 
 ---

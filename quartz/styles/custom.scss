@@ -12,9 +12,17 @@ span.lang-eng, span.lang-chs {
 }
 div.lang-eng, div.lang-chs {
   display: block;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
+  white-space: normal;
 }
 p.lang-eng, p.lang-chs, p.lang-common {
   display: block;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
+  white-space: normal;
 }
 div.lang-common {
   display: block;

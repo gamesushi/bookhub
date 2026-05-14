@@ -204,25 +204,33 @@ The loan portfolio at the end of 1986, although containing almost no risk of los
 
 :::lang eng
 
-As pointed out in footnote 14 to the accompanying financial statements, the book value of Wesco's equity in Mutual Savings ($54.8 million at December 31, 1986) overstates the amount realizable, after taxes, from sale or liquidation at book value. If all Mutual Savings' assets, net of liabilities, were to be sold, even pursuant to a plan of complete liquidation, for the $54.8 million in book value reported under applicable accounting convention, the parent corporation would receive much less than $54.8 million after substantial income taxation imposed because about $47 million of what is designated shareholders' equity for accounting purposes is considered bad debt reserves for most tax purposes.
+As pointed out in footnote 14 to the accompanying financial statements, the \$54.8 million book value of Wesco's equity in Mutual Savings at December 31, 1986, overstates the amount realizable, after taxes, from sale or liquidation at book value. If all Mutual Savings' assets, net of liabilities, were to be sold, even pursuant to a plan of complete liquidation, for the \$54.8 million in book value reported under applicable accounting convention, the parent corporation would receive much less than \$54.8 million after substantial income taxation imposed because about \$47 million of what is designated shareholders' equity for accounting purposes is considered bad debt reserves for most tax purposes.
 
 :::
 
 :::lang chs
 
-正如随附财务报表附注 14 所指出的，Wesco 在互助储蓄银行持有的权益账面价值（截至 1986 年 12 月 31 日为 5,480 万美元）高估了按账面价值出售或清算后可实现的税后金额。如果互助储蓄银行的所有资产扣除负债后，即使根据完整清算计划按适用会计惯例报告的 5,480 万美元账面价值出售，母公司收到的金额也将远低于 5,480 万美元，因为出于会计目的指定的约 4,700 万美元股东权益在大多数税务目的下被视为坏账准备金，从而会被征收巨额所得税。
+正如随附财务报表附注 14 所指出的，Wesco 在互助储蓄银行持有的权益账面价值（截至 1986 年 12 月 31 日为 5,480 万美元）  
+高估了按账面价值出售或清算后可实现的税后金额。如果互助储蓄银行的所有资产扣除负债后，即使根据完整清算计划  
+按适用会计惯例报告的 5,480 万美元账面价值出售，母公司收到的金额也将远低于 5,480 万美元，因为出于会计目的  
+指定的约 4,700 万美元股东权益在大多数税务目的下被视为坏账准备金，从而会被征收巨额所得税。  
 
 :::
 
 :::lang eng
 
-There is, however, in Mutual Savings, not only a buried plus value in unrealized appreciation of securities, but also a buried plus value in real estate.The foreclosed property on hand (mostly 22 largely oceanfront acres in Santa Barbara) has become worth over a long holding period much more than its $1.6 million balance sheet carrying cost. Reasonable, community-sensitive development of this property has been delayed over 11 years in the course of administration of land-use laws. But we are optimistic that delay will end in 1987 and that the Santa Barbara and Montecito communities will be very pleased with development into 32 houses interspersed with large open areas. Mutual Savings plans to make the development first rate in every respect, and unique in the quality of its landscaping.
+There is, however, in Mutual Savings, not only a buried plus value in unrealized appreciation of securities, but also a buried plus value in real estate. The foreclosed property on hand (mostly 22 largely oceanfront acres in Santa Barbara) has become worth over a long holding period much more than its \$1.6 million balance sheet carrying cost. Reasonable, community-sensitive development of this property has been delayed over 11 years in the course of administration of land-use laws. But we are optimistic that delay will end in 1987 and that the Santa Barbara and Montecito communities will be very pleased with development into 32 houses interspersed with large open areas. Mutual Savings plans to make the development first rate in every respect, and unique in the quality of its landscaping.
 
 :::
 
 :::lang chs
 
-然而，互助储蓄银行不仅在证券的未实现增值中蕴藏着额外价值，在房地产中也同样如此。公司持有的止赎财产（主要是位于圣巴巴拉的约 22 英亩沿海土地）经过长期的持有，其价值已远超 1.6 百万美元的资产负债表账面价值。由于土地利用法律的行政执行，该物业合理且兼顾社区需求的开发已被推迟了 11 年。但我们乐观地认为，这种延误将在 1987 年结束，圣巴巴拉和蒙特西托（Montecito）社区将会对这一开发项目感到非常满意，该项目计划建造 32 栋房屋，并点缀以大片绿地空间。互助储蓄银行计划在各方面都将该项目打造为一流水平，并在景观质量上做到独具特色。
+然而，互助储蓄银行不仅在证券的未实现增值中蕴藏着额外价值，在房地产中也同样如此。  
+公司持有的止赎财产（主要是位于圣巴巴拉的约 22 英亩沿海土地）经过长期的持有，  
+其价值已远超 1.6 百万美元的资产负债表账面价值。由于土地利用法律的行政执行，  
+该物业合理且兼顾社区需求的开发已被推迟了 11 年。但我们乐观地认为，这种延误将在 1987 年结束，  
+圣巴巴拉和蒙特西托（Montecito）社区将会对这一开发项目感到非常满意，该项目计划建造 32 栋房屋，  
+并点缀以大片绿地空间。互助储蓄银行计划在各方面都将该项目打造为一流水平，并在景观质量上做到独具特色。  
 
 :::
 

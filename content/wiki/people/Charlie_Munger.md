@@ -2,6 +2,7 @@
 publish: true
 title: Charlie Munger
 title_chs: 芒格
+aliases: [查理·芒格, 芒格]
 uuid: 501dde7c-4e2b-51f3-a0ae-228fd95ab36b
 type: person
 status: published

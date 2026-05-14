@@ -8,8 +8,8 @@ author: Warren Buffett
 publish: true
 last_checked: '2026-05-14'
 related:
-- 首页
-- 沃伦·巴菲特
+- index
+- Warren_Buffett
 - 价值投资
 - 伯克希尔·哈撒韦
 ---
@@ -18,7 +18,7 @@ related:
 
 # Warren Buffett Investment Thought Knowledge Base
 
-> **[[沃伦·巴菲特|Warren Buffett]]**: Chairman and CEO of Berkshire Hathaway; the most successful practitioner of value investing.
+> **[[../../wiki/people/Warren_Buffett|沃伦·巴菲特]]**: Chairman and CEO of Berkshire Hathaway; the most successful practitioner of value investing.
 > This knowledge base includes 50+ years of shareholder letters, partnership letters, and key educational visits.
 
 ---
@@ -65,7 +65,7 @@ related:
 
 # 沃伦·巴菲特投资思想知识库
 
-> **[[沃伦·巴菲特|沃伦·巴菲特]]**：伯克希尔·哈撒韦公司董事长兼 CEO；价值投资最成功的实践者。
+> **[[../../wiki/people/Warren_Buffett|沃伦·巴菲特]]**：伯克希尔·哈撒韦公司董事长兼 CEO；价值投资最成功的实践者。
 > 本知识库包含：横跨 50 多年的股东信、合伙人书信以及关键的访谈与演讲。
 
 ---
