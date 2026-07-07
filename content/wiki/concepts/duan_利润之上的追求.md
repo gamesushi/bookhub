@@ -13,9 +13,130 @@ uuid: 09de11c6-3707-405c-9ab4-ae1a16b6c1b8
 
 :::lang eng
 
-# 利润之上的追求
+# Pursuit Beyond Profit
 
-(English translation pending...)
+> **Good companies don't just ask "can we make money"—they first ask "is this the right thing?"**
+
+---
+
+## 📌 Concept Explanation
+
+**Pursuit beyond profit = placing consumer needs before company short-term interests; when encountering problems first asking "is this the right thing?" rather than "will this make money?"**
+
+A restaurant—ingredients price went up. Boss faces two choices: secretly switch to cheaper ingredients or raise prices and inform customers. A boss with "pursuit beyond profit" chooses latter—not because calculated but because "deceiving customers isn't what I should do." Short-term might earn less, but 20 years later this restaurant still exists while that one secretly switching ingredients long closed.
+
+---
+
+## 💡 Core Understanding
+
+**1. Pursuit beyond profit ≠ profit above all—meanings are exactly opposite.**
+
+This concept comes from *Built to Last*—visionary companies guided by core values, not just making money. Most companies when facing problems first ask "will this make money?"; companies with pursuit beyond profit first ask "is this the right thing?"—difference small but 20 years later huge difference.
+
+**2. Companies with pursuit beyond profit more easily persist doing right things without being led astray by short-term temptations.**
+
+This pursuit makes companies easier to see essence of things and harder to do wrong things. [[Apple]] is most typical case—when launching environmental initiatives, protecting employee safety, "won't consider damn ROI"—this is pursuit beyond profit.
+
+**3. Necessary condition for good enterprises but not sufficient condition.**
+
+Enterprises with pursuit beyond profit have much higher probability of becoming good enterprises than average—the longer time, bigger difference. But not enough—also need good [[business model]]. Good [[corporate culture]] probably refers to pursuit beyond profit while "profit-above-all" culture is worst corporate culture.
+
+**4. Pursuit beyond profit = placing consumer needs before company short-term interests.**
+
+Most companies when facing problems discuss whether can make money; companies with pursuit beyond profit might first ask "is this the right thing? Is this money we should earn?" Actually difference small but 20 years later huge difference.
+
+**5. This pursuit applies at every level—not just CEO matter.**
+
+(2013-03-03, Business Logic)
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** What is pursuit beyond profit?
+
+**A:** Pursuit beyond profit means placing consumer needs before company short-term interests. Most companies when facing problems discuss whether can make money; companies with pursuit beyond profit might first ask—is this the right thing? Is this money we should earn...? Actually difference small but 20 years later huge difference. (2020-07-10, Business Logic)
+
+---
+
+**Q:** Will companies with pursuit beyond profit definitely succeed?
+
+**A:** Having "beyond profit" pursuit isn't sufficient condition for good enterprises, but enterprises with it have much higher probability of becoming good enterprises than average—the longer time, bigger difference. (2013-03-03, Business Logic)
+
+---
+
+**Q:** Where does Apple's pursuit beyond profit manifest?
+
+**A:** He said: "When we put in effort so blind people can also use our devices, I won't consider damn ROI." Apple same regarding environmental initiatives, employee safety and other policies.—This called pursuit beyond profit! (2019-06-27, Business Logic)
+
+---
+
+**Q:** How did Jobs understand pursuit beyond profit?
+
+**A:** (Quoting Jobs' own words) "My passion is building an enduring company where people motivated creating great products. Everything else secondary. Of course making money great because then you can create great products. Motivation comes from products not profit. Scully inverted priorities treating profit as goal. This difference subtle but affects everything: who you hire, who you promote, discussed in meetings." (2014-02-01, Business Logic)
+
+---
+
+## 📖 Case Analysis
+
+**Apple: Most complete interpretation of pursuit beyond profit**
+
+Duan quoted Jobs' self-statement at beginning of business logic chapter commenting: "Jim Collins in *Built to Last* once summarized one trait of great enterprises as 'pursuit beyond profit'—Jobs and his Apple gave perfect interpretation to this trait." (2014-02-01)
+
+Jobs' core points:
+- Motivation comes from products, not profit
+- Scully treated profit as goal—fundamental reason for Apple's decline
+- Great companies build "enduring companies" rather than earning money and leaving
+
+**BBK/OPPO: Not earning money shouldn't be earned**
+
+Duan said: "Our company belongs to category knowing some money shouldn't be earned." Specific manifestations:
+- No OEM (even reject Walmart's 1 million unit order)
+- No bargaining (all customers same price, no discounts)
+- No credit sales, no delayed payments, no late wages
+
+Behind these "things not done" lies questioning "is this the right thing?" rather than "will this make money?"
+
+---
+
+## 💬 Original Quotes
+
+> **Pursuit beyond profit means placing consumer needs before company short-term interests. Most companies when facing problems discuss whether can make money; companies with pursuit beyond profit might first ask—is this the right thing?...Actually difference small but 20 years later huge difference." (2020-07-10, Business Logic)
+
+> **When we put in effort so blind people can also use our devices, I won't consider damn ROI." — Cook (quoted by Duan, 2019-06-27, Business Logic)
+
+> **Having 'beyond profit' pursuit isn't sufficient condition for good enterprises, but enterprises with it have much higher probability of becoming good enterprises than average—the longer time, bigger difference." (2013-03-03, Business Logic)
+
+> **Actually truly good sustainable enterprises mostly don't focus on profits—profits merely natural results, so-called letting profits chase after you kind." (2011-01-28, Business Logic)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Pursuit beyond profit means doing charity, not making money"** — "Meaning of pursuit beyond profit isn't profit above all—exactly opposite"—not about not making money but placing consumer needs before short-term interests while making money. [[Apple]] has both pursuit beyond profit and among world's most profitable companies.
+
+- ❌ **"With pursuit beyond profit company will definitely succeed"** — "'Beyond profit' pursuit isn't sufficient condition for good enterprises"—it's necessary condition but not enough. Also need good [[business model]] and [[circle of competence]].
+
+- ❌ **"This concept only applies to large companies or CEOs"** — "If you're manager with 'beyond profit' pursuit you'll find many ideas"—this way of thinking applies at every level.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Benfen]] · [[Corporate Culture]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Business Model]] · [[Moat]] · [[Standards for Good Companies]] · [[Long-termism]]
+
+**Related Company Cases**
+[[Apple]] · [[BBK]] · [[OPPO]] · New Oriental
+
+**Related People**
+[[Duan Yongping]] · [[Jobs]]
+
+**Reference Books**:
+*Built to Last* · *Good to Great*
 
 :::
 

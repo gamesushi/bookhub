@@ -13,9 +13,101 @@ uuid: 98aa4bda-0653-4102-a3db-284572836c6e
 
 :::lang eng
 
-# 封仓十年
+# Lock 10 Years
 
-(English translation pending...)
+> **"Locking 10 years good thinking—should think this way when selecting stocks"**
+
+---
+
+## 📌 Concept Explanation
+
+**Lock 10 years = when buying stock assume cannot sell for next 10 years—if under this premise still willing buy indicates truly understood company.**
+
+Buy house for self-occupancy won't not buy because "housing prices may fall next year" because plan live 10 years. Lock 10 years thinking same—treat stock as long-term holding asset not chip can cash out anytime. Core not "must hold 10 years" but use "10 years" time frame force yourself make qualitative judgment: does company's long-term logic hold?
+
+---
+
+## 💡 Core Understanding
+
+**1. Lock 10 years thinking mode when selecting stocks not commitment when holding.**
+
+Duan explicitly says "when selecting stocks"—pre-purchase thinking framework not must hold 10 years after buying. Function before purchase forces qualitative judgment filtering opportunities only "look good short-term."
+
+**2. Lock 10 years essence is "qualitative analysis" not time length question.**
+
+Duan reduces both lock 10 years and [[long-termism]] core to qualitative analysis—"I indeed use much qualitative analysis in investing also difference between me and Wall Street analysts." Qualitative analysis questions: will company still exist in 10 years? Its [[business model]] still valid? Its [[corporate culture]] still healthy?
+
+**3. Lock 10 years thinking naturally filters speculative buying.**
+
+Logic: if unwilling hold 10 years means buying reasons short-term (price fluctuations news stimulation market emotion) not based on company [[intrinsic value]]. Such buying essentially speculation not [[value investing]].
+
+**4. Lock 10 years doesn't equal "buy never sell"—discover bought wrong correct immediately.**
+
+Duan says: "Myself haven't had lock 10 years experience yet毕竟started investing just reached 10th year. Actually when buy stocks I truly never thought about how many years hold." Lock 10 years stock selection thinking tool not holding iron rule. If discover bought wrong (company fundamentals changed) [[mistakes and correction]] principle priority—sell immediately.
+
+---
+
+## 🛠 How to Practice
+
+**Before buying test judgment using "lock 10 years":**
+
+1. **Assume cannot sell for 10 years after purchase—still willing buy?** If answer "unwilling" indicates buying reasons short-term not true value investing.
+2. **Can clearly explain why company still excellent after 10 years?** Not predict specific numbers but describe company's long-term logic—its [[moat]], [[business model]], [[corporate culture]] have persistence?
+3. **If stock price drops 50% tomorrow would judgment change?** If would change indicates "10-year judgment" actually built on stock price not company itself.
+
+**During holding check only one thing:**
+
+Judgment originally making you willing "lock 10 years" still valid today? If valid [[how to view market fluctuations]] irrelevant. If no longer (not because stock price dropped but company fundamentals changed) re-evaluate.
+
+---
+
+## 📖 Case Analysis
+
+**Apple (2011): Heavy position decision under lock 10 years thinking**
+
+2011 Duan heavily bought Apple position eventually reaching 60-70%. His judgment entirely qualitative: "Based my understanding Apple earnings probably reach $40-50/share within 2-3 years...Apple无论如何should be 600B+ company." He didn't predict which year Apple stock reach what price but judged Apple's long-term competitive position holds. Exactly reflects lock 10 years thinking—clarify long-term logic before buying not predicting short-term prices.
+
+*Source: Investment Logic, 2011-04-29*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Lock 10 years means buy never sell"** — Duan says "actually when buy stocks I truly never thought about how many years hold." Lock 10 years selection thinking framework not holding commitment. Discover bought wrong sell immediately.
+
+- ❌ **"Planning hold 10 years equals value investing"** — Lock 10 years premise "truly understood company." Haven't understood planning hold 10 years not value investing blind holding. "Outside [[circle of competence]] even bought can't hold let alone long-term."
+
+- ❌ **"Lock 10 years time strategy"** — "Actually looking few years not time length question but qualitative question." Lock 10 years core qualitative analysis not time length. Company understand 3 years actually have idea 10 too; company don't understand 3 years no bottom either.
+
+---
+
+## 💬 Original Quotes
+
+> **Lock 10 years good thinking should think this way selecting stocks." (Source: Investment Logic, 2011-04-29)
+
+> **Actually looking few years not time length question but qualitative question." (Source: Investment Logic, 2013-10-09)
+
+> **Why plan hold 10-day stocks when don't plan hold 10-year? If plan hold 30 years feel 1%+ annual fee rate somewhat crazy." (Source: Investment Logic, 2015-09-10)
+
+> **I indeed use much qualitative analysis in investing also difference between me and Wall Street analysts otherwise how I get opportunity." (Source: Investment Logic, 2010-03-30)
+
+> **For investing good companies most important. (When sell less important)." (Source: Investment Logic, 2015-11-01)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Long-termism]] · [[Circle of Competence]] · [[Intrinsic Value]] · [[Business Model]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Concentrated Investing]] · [[Ordinary Mind]] · [[Mistakes and Correction]]
+
+**Related Company Cases**
+[[Apple]] (2011 heavy position) · [[NetEase]] (held 8-9 years)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

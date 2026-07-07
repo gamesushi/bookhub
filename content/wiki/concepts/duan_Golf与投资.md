@@ -13,9 +13,98 @@ uuid: 67d6c45b-a870-4c97-b4c4-04b987d5bd5f
 
 :::lang eng
 
-# Golf与投资
+# Golf and Investing
 
-(English translation pending...)
+> **Like golf, investing is most importantly about avoiding mistakes—especially big ones.**
+
+---
+
+## 📌 Concept Analysis
+
+**Golf and investing = Duan Yongping uses golf, his favorite sport, to elucidate his investment philosophy: both investing and golf are games of "avoiding big mistakes" rather than "pursuing perfection"; both require an ordinary mind; both require focusing only on the current shot/current investment rather than being swayed by results or others' performance.**
+
+Golf is an 18-hole game—total score is what matters. One exceptional hole doesn't mean you've won; one ball in the water doesn't mean you've lost. Investing is the same—one investment making a fortune doesn't prove your investment system is correct; one losing investment doesn't prove your system is wrong. What matters is long-term total score, not any single shot's performance.
+
+---
+
+## 💡 Core Understanding
+
+**1. The difference between masters and ordinary people lies in lower error rates, not how many good shots they hit.**
+
+The core investment philosophy Duan Yongping distilled from golf: masters don't win by hitting more good shots but by making fewer mistakes than others. Buffett's success isn't because every investment made a fortune but because he almost never made big mistakes. This aligns with [[mistakes and correction]].
+
+**2. Golf is an 18-hole game; investing is a long-term game—pursue total score, not perfection in any single shot.**
+
+Golf scores are calculated by total strokes—a few bad holes ruin the overall score. This directly corresponds to [[long-termism]]—investment's total score accumulates over time; don't let short-term performance of one investment shake overall strategy.
+
+**3. Ordinary mind is the shared prerequisite for playing good golf and doing good investing.**
+
+Duan Yongping views [[Ordinary Mind]] as the shared core of golf and investing: focus only on how to play each shot, don't think about results—if you can do this, odds of winning improve greatly. In investing, ordinary mind means focusing only on the company itself, not being swayed by price fluctuations or market sentiment.
+
+**4. The biggest difference between golf and investing: in investing there are no "mandatory" shots.**
+
+In golf, you're often on the clock—when it's your turn, you must play; you can't wait. But in investing, there's nothing you must invest in; if you don't understand, you can always wait. This is another way Duan expresses [[circle of competence]] and [[opportunity cost]]—in investing, not acting IS itself a choice, and often the right choice.
+
+**5. Swing principles are very simple but extremely hard to execute—same with investment principles.**
+
+Golf swing principles are very simple yet can't be mastered; during play, people constantly forget them and struggle to maintain [[ordinary mind]] while sticking to principles. [[Value investing]]'s principles are the same—the logic is simple, but adhering to them amid market volatility and emotional pressure is extraordinarily difficult.
+
+---
+
+## 🛠 How to Practice
+
+**Investment practice principles derived from golf philosophy:**
+
+1. **Pursue "double bogey-free" (no big mistakes) rather than "hole-in-one":** Duan Yongping says his highest goal in golf is "double free"—no double bogeys. "A bit like investing: try to avoid big mistakes. As long as you can do this, your results will always be decent." In investing, this means avoiding major principle errors rather than pursuing perfection in every single trade.
+2. **Every shot has nothing to do with any previous shot:** "Golf is very similar to investing—it requires eliminating distractions, staying focused. Each shot has nothing to do with any previous shot." Every investment decision should be based on current information and judgment, not influenced by prior gains or losses.
+3. **Just play your own game, unaffected by others' performance:** "Golf scores actually have no relationship with other players' scores—just play your own game, but many people still get affected by how other players perform." In investing, how much others made or how much the market rose shouldn't influence your judgment.
+
+---
+
+## 📖 Case Analysis
+
+**Duan Yongping competing alongside Tiger Woods (2000)**
+
+In 2000, Duan Yongping played 18 holes with Tiger Woods in a team format, losing by 5 strokes. Duan Yongping said: "Played 18 holes with Tiger in 2000—we two played as one, lost by 5." This detail reflects his love for golf and serious attitude toward it, showing he's a genuine golf enthusiast who doesn't merely use golf as an investing metaphor. His handicap was around 5-6—quite high level for someone who doesn't practice professionally.
+
+*Source: Investment Logic, 2010-07-15*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"One investment making a fortune proves the system works"** — "Amateurs can occasionally play a great round, just like occasionally rolling a high bowling score. Professional level means nearly every round must be played well." Occasional success doesn't prove a sound system; long-term stable results represent genuine ability.
+
+- ❌ **"Investing requires seizing every opportunity"** — "Here investing differs enormously from golf because in golf you're often under pressure—when it's your turn, you must play; you can't wait. In investing there's nothing mandatory; if you don't understand, you can always wait." Not acting is a perfectly valid choice in investing.
+
+- ❌ **"Simple principles mean easy execution"** — "Swing principles are very simple: a. Can't learn them but don't know it; b. Always forget principles during play; c. Hard to maintain ordinary mind while sticking to principles." Simple principles are often extremely difficult to adhere to in actual practice. This is precisely where [[value investing]] gets difficult.
+
+---
+
+## 💬 Original Quotes
+
+> "Like golf, investing is most importantly about avoiding mistakes—especially big ones. As long as you avoid big mistakes, results will always be pretty good." (Source: Investment Logic, 2011-10-28)
+
+> "There's no perfect golf, no perfect investing—it's the same with life." (Source: Investment Logic, 2012-12-20)
+
+> "No matter how skilled the golfer, when ordinary mind is lost, they'll play terribly." (Source: Investment Logic, 2012-12-20)
+
+> "Here investing differs enormously from golf because in golf you're often under pressure—when it's your turn you must play; you can't wait. In investing there's nothing mandatory; if you don't understand, you can always wait." (Source: Investment Logic, 2013-02-12)
+
+> "I understand golf as a game of one shot at a time—each shot's execution has nothing to do with the previous one, most important is avoiding big mistakes. A bit like investing." (Source: Investment Logic, 2019-03-15)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Ordinary Mind]] · [[Mistakes and Correction]] · [[Circle of Competence]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Long-termism]] · [[Doing the Right Thing]] · [[Value Investing]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · Tiger Woods
 
 :::
 

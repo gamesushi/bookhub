@@ -15,7 +15,75 @@ uuid: 6c2f67e3-8ed8-4c7b-951f-08f637fa85f0
 
 # Buying Stocks is Buying Companies
 
-(English translation pending...)
+> **The ultimate belief in investing—stocks are not chips, they are partial ownership of a company**
+
+---
+
+## 📌 Concept Explanation
+
+**Buying stocks = buying partial ownership of a company, not buying a piece of paper that can go up or down.**
+
+Imagine you and a friend partner to open a bubble tea shop. You put in 10% of the money, so you own 10% of this shop's shares. You won't stare every day at "how much is this shop worth today." You care about "how much money can this shop earn each year." Buying stocks is the same—you're buying the right to the company's future earnings, not a chip you can sell high and buy low.
+
+---
+
+## 💡 Core Understanding
+
+**1. This is the "belief" of investing—truly believing it in your bones, unshaken by any market fluctuation.**
+
+[[Duan Yongping]] says this is not an ordinary viewpoint, but something truly believed from within, unshaken by any influence—it's the core of [[investment belief]]. Saying with your mouth "buying stocks is buying companies" but panicking when you see stock prices fall shows you don't truly believe it in your bones.
+
+**2. Deduction chain: Buying stocks is buying companies → buying companies means buying [[discounted future cash flow]] → short-term price movements have nothing to do with you.**
+
+This deduction chain is the logical foundation of value investing. Once truly understood, your attitude toward price fluctuations will completely change—fluctuations are not risk; not understanding the company is risk.
+
+**3. The prerequisite for truly "buying a company" is that you can understand this company—if you don't understand it, you're not investing, you're gambling.**
+
+[[Circle of competence]] is the prerequisite for this belief. Duan Yongping says "I've been doing business for so many years... I've roughly understood fewer than 10 enterprises and made heavy investments in 5"—truly understanding a company is extremely difficult, so practice [[concentrated investing]], don't diversify.
+
+**4. The essential difference from speculation: speculators buy based on "will someone else pay a higher price," investors buy based on "how much money can this company earn in the future."**
+
+Everyone has a speculative heart—that's why we need belief. [[Ordinary mind]] is the psychological foundation for holding fast to this belief.
+
+---
+
+## 💬 Original Quotes
+
+> "If there's one sentence (that can change an investor's life), it might be 'buying stocks is buying companies.'" (Source: Investment Logic, 2010-05-23)
+
+> "My understanding of investing boils down to: buying stocks is buying companies, buying companies means buying discounted future cash flow of the company, period! This is what I mean by so-called belief—or rather, I believe it from my bones, unshaken by any influence." (Source: Investment Logic)
+
+> "My understanding of 'religion' is probably belief—meaning there are some things one must believe deep inside. My religious attitude really is the same as old Warren's; we both believe Buffett's understanding of investing—'buying stocks is buying companies.' Many people say 'buying stocks is buying companies,' but I've almost never seen anyone who truly understands and believes this sentence in their bones—among people I know, probably no more than 5 (including Buffett and Munger)." (Source: Investment Logic, 2013-04-11)
+
+> "Actually everyone has a speculative heart—that's why we need belief." (Source: Investment Logic, 2013-02-01)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Buying stocks means buying companies, so research everything about the company—financial reports, industry, competitors..."** — "Generally speaking, the more you know, the less you earn." The key is understanding [[discounted future cash flow]], not knowing a lot.
+
+- ❌ **"Since we're buying the company, if the company is good just keep holding regardless of price"** — The discount rate is relative to opportunity cost; when prices are too high, even good companies aren't worth buying—"Some companies have great business models but sometimes stock prices are too expensive, then you can only wait."
+
+- ❌ **"This principle is simple, I understand it and can make money now"** — "Simple but definitely not easy! People who don't understand businesses absolutely cannot figure out future cash flows." Understanding principles and actually executing them are two different things.
+
+- ❌ **"Buying stocks means buying companies, so buy many companies to diversify risk"** — "I've roughly understood fewer than 10 enterprises and made heavy investments in 5, roughly one every two years"—truly understanding a company is extremely difficult, so practice [[concentrated investing]], don't diversify.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Discounted Future Cash Flow]] · [[Circle of Competence]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Long-termism]] · [[Concentrated Investing]] · [[Rough Estimate]]
+
+**Related Company Cases**
+[[Apple]] · [[NetEase]] · [[Moutai]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

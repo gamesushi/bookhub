@@ -15,9 +15,98 @@ uuid: 05e9e27a-0ee0-4281-b07c-af1eaf837599
 
 :::lang eng
 
-# 投资 vs 投机：为什么大多数人在赌博
+# Investing vs Speculation: Why Most People Are Gambling
 
-(English translation pending...)
+> **"My definition of speculation is thinking you can beat the market by being one step ahead. My definition of investing has nothing to do with the market"** — Duan Yongping (2011-12-13)
+
+---
+
+## 💡 Core Insights
+
+- [[段永平]]'s definition of speculation: believing you can be one step ahead of the market
+- Investing has nothing to do with the market — what others think in the short term is irrelevant to your judgment
+- 85% of people will never truly understand that "stocks are priced by each buyer themselves," and this is the fundamental reason why they will eventually lose money in the stock market
+- If you don't intend to hold a stock for 10 years, you certainly shouldn't plan to hold it for 10 days — otherwise, you're just "trading"
+- [[指数基金]] (Index funds) are the right choice for most people — because most people lack a [[能力圈]] (circle of competence)
+
+---
+
+## ❓ Selected Q&A
+
+**Q**: What's the difference between investing and speculation?
+
+**A**: My definition of speculation is believing you can be one step ahead of the market. My definition of investing has nothing to do with the market (meaning what others think in the short term doesn't matter). From a long-term perspective, the market is extremely smart! (2011-12-13)
+
+---
+
+**Q**: How should we understand that stocks are "priced" by each buyer?
+
+**A**: Stocks are "priced" by each buyer; only when you "yourself" feel it's cheap can you buy — in reality, this has nothing to do with the market (others). Once you understand this sentence, your stock market career basically has a very good chance of consistently making money. But if you don't actually understand it, that's okay too, because roughly 85% of people will never understand this statement, and this is also the fundamental reason these people will eventually lose money in the stock market. (2012-04-14)
+
+---
+
+**Q**: If I don't plan to hold a stock for 10 years, can I hold it for 10 days?
+
+**A**: If you don't intend to hold a stock for 10 years, you definitely shouldn't plan to hold it for 10 days, otherwise that would just be "trading." (2011-12-13)
+
+---
+
+**Q**: How to understand "nothing hurts more than buying the wrong stock and holding it long-term"?
+
+**A**: Nothing hurts more than buying the wrong stock and holding it long-term. Many so-called "buy-and-hold" people are actually speculators because they genuinely don't know what they bought, so after buying they spend all day asking others what they think, and when they get trapped they pull out "long-term investment" to comfort themselves. (2011-12-13)
+
+---
+
+**Q**: How to understand that "buying things you don't understand is why 85% of people can lose money in both bull and bear markets"?
+
+**A**: Buying things you don't understand is why 85% of people can lose money in both bull and bear markets. Without the concept of [[能力圈]] (circle of competence), there can be no genuine [[安全边际]] (margin of safety). (2010-04-07)
+
+---
+
+**Q**: How should ordinary people invest?
+
+**A**: Most people should actually buy [[指数基金]] (index funds), because most people actually have no circle of competence, or they don't know where their circle of competence lies. (Investment Logic Chapter)
+
+---
+
+**Q**: What is value investing?
+
+**A**: Value investing is about finding companies whose price is below their intrinsic value, then holding them long-term while waiting for the market to return to rationality. The essential difference from speculation: speculation bets on others' behavior, while investing judges a company's value. (Investment Logic Chapter)
+
+---
+
+## 📊 Extended Reflections
+
+Why are most people gambling instead of investing? [[段永平]] provides a clear diagnosis:
+
+**Root Cause: No Circle of Competence**
+
+Most people buy stocks that "others say will rise," not companies they genuinely understand. This is speculation — betting on others' behavior rather than on corporate value.
+
+**Symptoms**:
+- After buying stocks, constantly asking others "what do you think of this stock?"
+- Fear when prices fall, greed when prices rise
+- When trapped, saying "I'm a long-term investor"; when rising, saying "I need to take profits"
+- Not knowing what business their company does
+
+**The Right Approach: Seek Certainty, Not Bet on Probability**
+
+[[段永平]] firmly opposes treating investing as a probability game — investing should be about sticking to "certainty." Certainty doesn't mean the stock will definitely rise tomorrow, but rather confidence in the company's long-term value creation ability.
+
+**NetEase Case Study**: Around 2002, NetEase's stock price plummeted from $15.5 to less than $1, facing delisting risk. Duan Yongping saw two certainties: financially, cash flow per share was as high as $0.6, and at a stock price of $0.8, it was equivalent to spending $0.8 on a wallet containing $0.6 in cash; operationally, NetEase's game team was focused and passionate, with excellent game performance data. This wasn't a probabilistic event but a high-probability or even inevitable trend. (Investment Logic Chapter)
+
+**Apple Case Study**: Around 2011, the market worried Apple would decline after Jobs' death. Yet Duan Yongping bought heavily at this time — he understood Apple's business model: Apple built a closed ecosystem combining hardware and software; once users got accustomed to iOS, switching costs were extremely high, and this stickiness brought very high repeat rates and [[定价权]] (pricing power). (Investment Logic Chapter)
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[价值投资]] · [[能力圈]] · [[指数基金]] · [[市场先生]] · [[宏观与市场]] · [[投资的信仰]]
+**Related People**
+[[段永平]] · [[巴菲特]]
+**Related Topics**
+[[买股票就是买公司：知易行难在哪里]] · [[如何看待市场波动]]
 
 :::
 

@@ -13,9 +13,97 @@ uuid: b6e418ed-a2e4-4a7a-93fd-d964646f7c19
 
 :::lang eng
 
-# 好产品
+# Good Products
 
-(English translation pending...)
+> **Users never buy technology nor hardware—users buy easy-to-use products**
+
+---
+
+## 📌 Concept Explanation
+
+**Good products = products truly satisfying consumer needs delivering extreme experience, not products with most functions or newest technology.**
+
+Two phones: one has 20 functions other only 10 but each extremely usable. Which would Duan choose? Answer clear—"users never buy technology nor hardware; users buy easy-to-use products." Good product standard not engineer's self-satisfaction but consumers' real experience.
+
+---
+
+## 💡 Core Understanding
+
+**1. Good product standard is consumer experience not technical specs.**
+
+Duan on Apple: "Apple products indeed pushed user experience or [[consumer orientation]] to extreme—competitors difficult surpass or approach for long time." Technology hidden in product serves product not product itself.
+
+**2. Good product company's "North Star"—profit follows.**
+
+Cook says: "Great products our 'North Star.' All employees daily target this. We won't make anything we don't consider great enough." Duan highly agrees adds: "Most important focus on making best products profit follows." Same as [[pursuit beyond profit]]—make good products first profit result not goal.
+
+**3. Good products need focus not variety abundance.**
+
+Apple single-product model "highest state this industry." "Can concentrate manpower material resources making better products. Compare iPhone series with Nokia (launching 40 varieties this year). Apple unit development cost very low but single product development cost highest." More varieties fewer resources per product harder do well. Consistent with [[Diversification (Opposed)]] logic.
+
+**4. Good products eventually good impression—companies consistently producing good products live better.**
+
+Good products foundation for [[brand]] also source of [[moat]]. Without good products brand empty shell moat illusion.
+
+---
+
+## 🛠 How to Practice
+
+Judging whether company truly making good products look these points:
+
+- **Whether willing abandon short-term profit for product experience:** Apple rather not launch large-screen phone than release "not great enough" product. "We won't make anything we don't consider great enough."
+- **Whether focused:** Fewer varieties often indicates higher product requirements. "Apple single-product model actually highest state our industry."
+- **Whether uses consumer experience standard:** Not engineers think good but consumers find usable. "Most important user needs or experience everything else浮云."
+
+---
+
+## 📖 Case Analysis
+
+**Apple iPhone: Pushing consumer orientation to extreme**
+
+Duan in 2011 detailed own iPhone iPad experience core conclusion: "iPhone? Heh almost use immediately upon holding. Clerk only told me where switch what icons about total 15 seconds." That's good product standard—no manual no training use immediately. Apple marketing costs much lower than peers often sells well根本原因product itself good enough.
+
+*Source: Business Logic, 2011-04-01*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"High-tech enterprise core competitiveness lies continuous innovation"** — "Following your understanding probably no way. 'High-tech enterprise core competitiveness lies continuous innovation' statement wrong because easily find enterprise continuously launching new products zero competitiveness." Core competitiveness making good products consumers truly need not continuously launching new products.
+
+- ❌ **"More product functions better"** — Apple success precisely because subtraction. "Our culture make best products not most." More functions often means each function poorly done.
+
+- ❌ **"Good products naturally sell well"** — "Good wine fears deep alley too." Good products necessary condition not sufficient condition. Also need let consumers know experience. However without good products even best marketing only short-term.
+
+---
+
+## 💬 Original Quotes
+
+> **Users never buy technology nor hardware; users buy easy-to-use products." (Source: Business Logic, 2011-05-10)
+
+> **Apple products indeed pushed user experience or consumer orientation to extreme—competitors difficult surpass or approach for long time." (Source: Business Logic, 2011-01-22)
+
+> **Great products our 'North Star.' All employees daily target this. We won't make anything we don't consider great enough." (Source: Business Logic, Cook, 2013-02-13)
+
+> **Good products eventually good impression; companies can consistently produce good products live better." (Source: Business Logic)
+
+> **Most important user needs or call experience everything else浮云." (Source: Business Logic, 2013-07-04)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Consumer Orientation]] · [[Pursuit Beyond Profit]] · [[Corporate Culture]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Brand]] · [[Moat]] · [[Differentiation]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] · [[OPPO]] · [[BBK]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

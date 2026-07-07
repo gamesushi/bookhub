@@ -14,68 +14,60 @@ uuid: 48fd28c0-90d7-49a6-a4e7-0d4d54180a26
 
 :::lang eng
 
-# 特斯拉
+# Tesla
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 特斯拉
-
-> **赚了钱，但事后发现逻辑搞错了——这是段永平自己举的"赚了钱却买错了"的典型案例**
+> **Made money, but later discovered the logic was wrong — this is Duan Yongping's own typical example of "made money but bought wrong"**
 
 ---
 
-## 🏢 公司简介
+## 🏢 Company Profile
 
-特斯拉是美国电动汽车公司，以颠覆性的电动车驾驶体验著称。段永平曾持有特斯拉，赚了不少钱，但最终因为"看不懂"而全部放弃，并将其列为"赚了钱但事实或逻辑搞错了"的典型案例。
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的原话/判断 |
-|------|------|-----------------|
-| 早期 | 买入特斯拉 | "在特斯拉上赚过不少钱" |
-| 2019年前 | 全部卖出 | "最后也因为看不懂而全部放弃了"（2019-03-13） |
-| 2018年 | 回顾此案例 | "我的特斯拉就是典型哈"——赚了钱，但事后发现事实或逻辑搞错了（2018-10） |
+Tesla is an American electric vehicle company known for its disruptive EV driving experience. Duan Yongping once held Tesla and made considerable money, but ultimately sold out entirely because he "couldn't understand it," listing it as a typical case of "made money but facts or logic were wrong."
 
 ---
 
-## 💡 段永平为什么最终放弃
+## 📅 Investment Timeline
 
-- **看不懂是核心原因**：段永平明确说，汽车行业他不懂，虽然在特斯拉上赚过不少钱，但最后也因为看不懂而全部放弃了。这是[[能力圈]]原则的直接体现。（来源：段永平投资问答录(投资逻辑篇)，2019-03-13）
-- **赚了钱不代表买对了**：这个案例被段永平用来说明"赚了钱，事后却发现事实或逻辑搞错了"——结果好不等于决策对，这是[[错误与纠错]]的重要认知。（来源：商业逻辑篇，2018-10）
-- **电动车体验好，但不等于能看懂公司**：段永平认可电动车的驾驶体验"相对于传统汽车还是很震撼的"，但这不等于他能看懂特斯拉这家公司的长期价值。
-
----
-
-## 💬 原文摘录
-
-> "你的汽车行业的例子我其实也不懂，虽然在特斯拉上赚过不少钱，但最后也因为看不懂而全部放弃了。"（来源：段永平投资问答录(投资逻辑篇)，2019-03-13）
-
-> "我的特斯拉就是典型哈。"（回答"你有没有做过这样的交易：赚了钱，事后却发现事实或逻辑搞错了？"）（来源：商业逻辑篇，2018-10）
+| Time | Event | Duan Yongping's Words/Judgment |
+|------|-------|-------------------------------|
+| Early period | Bought Tesla | "Made quite a bit of money on Tesla" |
+| Before 2019 | Sold all positions | "Eventually sold everything because I couldn't understand it" (2019-03-13) |
+| 2018 | Reviewed this case | "My Tesla is a typical example" — made money, but later discovered facts or logic were wrong (2018-10) |
 
 ---
 
-## 📚 投资启示
+## 💡 Why Duan Yongping Ultimately Gave Up on Tesla
 
-- **结果好不等于决策对**：在特斯拉上赚了钱，但段永平自己承认逻辑搞错了。这提醒我们：不能用结果来验证决策的正确性，要用[[买股票就是买公司]]的逻辑来检验自己是否真正理解了这家公司。
-- **不懂就放弃，哪怕已经赚了钱**：[[能力圈]]的边界不是"我赚过钱的地方"，而是"我真正理解的地方"。
-- **像tesla这种公司，如果你之前没买，再掉下去你也不应该买**：这是段永平对特斯拉的直接判断——它不是一个"跌了就可以买"的标的，因为大多数人根本看不懂它。（来源：段永平投资问答录(投资逻辑篇)，2013-07-04）
+- **Not understanding is the core reason**: Duan Yongping explicitly said he doesn't understand the auto industry. Although he made considerable money on Tesla, he eventually sold everything because he couldn't understand it — a direct embodiment of [[circle of competence]] principles. (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-13)
+- **Making money doesn't mean the buy decision was right**: This case was used by Duan Yongping to illustrate "made money but later discovered facts or logic were wrong" — good outcomes don't equal correct decisions; this is important cognition for [[mistakes and correction]]. (Source: Business Logic, 2018-10)
+- **Good EV experience doesn't equal understanding the company**: Duan Yongping acknowledged that the EV driving experience "is still quite shocking compared to traditional cars," but this doesn't mean he can understand Tesla's long-term value as a company.
 
 ---
 
-## 🔗 相关笔记
+## 💬 Original Excerpts
 
-**体现的概念**：[[能力圈]] · [[错误与纠错]] · [[买股票就是买公司]]
+> "I actually don't understand your automotive industry examples either. Although I made quite a bit of money on Tesla, I eventually sold everything because I couldn't understand it." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-13)
 
-**相关人物**
-[[段永平]]
+> "My Tesla is a typical example." (Answering "Have you ever made trades where you made money but later discovered facts or logic were wrong?") (Source: Business Logic, 2018-10)
 
-**相关主题**
-[[段永平的错误与反思]]
+---
+
+## 📚 Investment Insights
+
+- **Good outcome doesn't equal correct decision**: Made money on Tesla, yet Duan Yongping himself admitted his logic was wrong. This reminds us: we can't use outcomes to validate decisions' correctness — must use [[buying stocks is buying companies]] logic to test whether you truly understand this company.
+- **Give up if you don't understand, even if you've already made money**: The boundary of [[circle of competence]] isn't "places where I've made money," but "places where I truly understand."
+- **For companies like Tesla, if you didn't buy before, even if it falls further you still shouldn't buy**: This was Duan Yongping's direct judgment on Tesla — it's not a target where "if it drops you can buy," because most people simply can't understand it. (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-07-04)
+
+---
+
+## 🔗 Related Notes
+
+**Concepts Embodied**: [[Circle of Competence]] · [[Mistakes and Correction]] · [[Buying Stocks Is Buying Companies]]
+
+**Related People**
+[[Duan Yongping]]
+
+**Related Topics**
+[[Duan Yongping's Mistakes and Reflections]]
 
 :::

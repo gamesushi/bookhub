@@ -13,9 +13,80 @@ uuid: f84dad49-88c7-481d-b9c9-f42b5da8eb4e
 
 :::lang eng
 
-# 造钟人 vs 报时人
+# Clock Builder vs Time Teller
 
-(English translation pending...)
+> **"Built to Last is a great book, but it cost me the opportunity to invest in Apple early"**
+
+---
+
+## 📌 Concept Analysis
+
+A concept from *Built to Last*:
+
+- **Time Teller**: A leader who drives the company through personal charisma and talent — the company's success depends on them personally, and declines after they leave.
+- **Clock Builder**: A leader who builds a system, culture, and mechanism — the company's success depends on the system they built, and continues operating after they leave.
+
+**Core difference**: A time teller tells you what time it is; a clock builder builds a clock that tells time by itself.
+
+---
+
+## 💡 Core Understanding
+
+**1. Jobs was ultimately a clock builder, not a time teller — this judgment made Duan Yongping miss early Apple.**
+
+After first reading *Built to Last*, Duan Yongping classified Jobs as a time teller, thus missing the opportunity to invest in [[Apple]] early. Later he "suddenly realized he was actually a very good clock builder" — Jobs established Apple's [[corporate culture]], Apple University, cultivated Cook — these are all clocks he built.
+
+**2. A good business should not depend on one superstar, otherwise it's not truly a good business.**
+
+Buffett said "if a business needs a superstar to produce good results, then the business itself wouldn't be considered a good business." The Mayo Clinic's success will continue even though you don't know its CEO's name — this is the value of a system built by a clock builder.
+
+**3. To judge clock builder vs time teller, look at whether the company can continue operating after they leave.**
+
+Duan Yongping said "Today at Apple, Jobs' role is no longer that significant. Even if Jobs didn't plan to return, today's Apple would continue moving forward by inertia." This is the core basis for his final judgment that Jobs was a clock builder.
+
+---
+
+## 🛠 How to Practice
+
+**To judge whether a company has a clock builder or time teller, there's only one core question:**
+
+Can the company still operate normally after this person leaves?
+
+- **Look at management succession design**: Good clock builders actively cultivate successors, establish systems and culture. [[Duan Yongping]]'s judgment about [[Apple]] was that Jobs cultivated Cook and founded Apple University — proof of a clock builder.
+- **Look at whether [[corporate culture]] is self-sustaining**: After a time teller leaves, company culture disappears; culture built by a clock builder transcends the individual.
+- **Look at company decisions under pressure**: Systems built by clock builders operate automatically during crises; time tellers need constant personal judgment.
+
+---
+
+## ❓ Selected Q&A
+
+**Q**: Do you favor Apple's corporate culture or its CEO?
+
+**A**: I used to think Jobs was a time teller, but recently I suddenly felt that Apple without only Jobs couldn't have become what it is today. Today at Apple, Jobs' role is no longer that significant. Even if Jobs didn't plan to return, today's Apple would continue moving forward by inertia.
+
+*Source: Business Logic Chapter, 2011-01-22*
+
+---
+
+## ⚠️ Common Pitfalls
+
+- ❌ **"Jobs was a time teller; Apple's success entirely depended on him personally, and Apple would decline after he left"** — "Apple without only Jobs couldn't have become what it is today" — Jobs built Apple's corporate culture, Apple University, and cultivated Cook — these are all clocks he built. "Interestingly, Microsoft reached the same conclusion I did: Apple without Steve Jobs is even more formidable." (2012-01-25, 2011-01-22)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[企业文化]] · [[生意模式]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[护城河]] · [[好公司的标准]]
+
+**Related Company Cases**
+[[苹果]] · [[步步高]] · [[OPPO]]
+
+**Related People**
+[[段永平]] · [[巴菲特]]
 
 :::
 

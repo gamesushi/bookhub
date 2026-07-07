@@ -13,9 +13,136 @@ uuid: 8af7cb3d-8ef3-4944-a005-2e2efe12b101
 
 :::lang eng
 
-# 好公司的标准
+# Standards for Good Companies
 
-(English translation pending...)
+> **Good company = good business model + good corporate culture—both essential**
+
+---
+
+## 📌 Concept Explanation
+
+**Good company = principled, not purely profit-oriented, knows what shouldn't do then efficiently does things right.**
+
+Two restaurants both doing well. One boss says "anything for money"; other boss "some things we don't do like using gutter oil." 10 years later first may closed due to food safety second still exists reputation increasingly better. Duan's good company is second one—principled knowing what shouldn't do.
+
+---
+
+## 💡 Core Understanding
+
+**1. Good company = good [[business model]] + good [[corporate culture]]—both essential.**
+
+Only good model without good culture or only good culture without good model insufficient. [[Apple]] most typical case—both extremely strong business model and Jobs-established corporate culture.
+
+**2. Good company essence is principled not purely profit-oriented.**
+
+Good companies are "those knowing to do right things (or knowing what shouldn't do) then pursuing high efficiency doing things right." Integrity commonality all great enterprises also biggest "funnel" for problematic companies.
+
+**3. Good companies also make errors but probability lower than average; error moments often buying opportunities.**
+
+Good company errors often buying opportunities but premise you can judge temporary error vs fundamental problem.
+
+**4. Good company time dimension: 5 years look CEO, 10-50 years look board, longer look corporate culture.**
+
+(2010-04-03, Business Logic)
+
+**5. Great company definition: still maintaining great status after 25-30 years.**
+
+Buffett's definition: "Great enterprise definition as follows: enterprises able maintain great enterprise status after 25 or 30 years." Duan's evaluation: "This definition good!" (2012-07-28, Business Logic)
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** What are standards for good companies?
+
+**A:** So-called "good company" I think should be principled company not purely profit-oriented; those knowing to do right things (or knowing what shouldn't do) then pursue high efficiency doing things right. (2011-09-27, Business Logic)
+
+---
+
+**Q:** Enterprise biggest "funnel"?
+
+**A:** Integrity and honesty—integrity. Commonality all great enterprises also biggest "funnel" for problematic enterprises. (2010-10-22, Business Logic)
+
+---
+
+**Q:** Can good companies fail?
+
+**A:** Everyone makes errors good companies no exception. Sometimes these errors fatal if you call them failure. But "good companies" making such errors lower probability than average. Know meaning of "probability"? Really know? Buffett bought wrong many stocks each wrong stock can be called "failure"—did Buffett "fail"? (2011-09-27, Business Logic)
+
+---
+
+**Q:** Are truly good enterprises profit-focused?
+
+**A:** Actually truly good sustainable enterprises mostly not profit-focused profits merely natural result so-called letting profits chase after you kind. (2011-01-28, Business Logic)
+
+---
+
+**Q:** How learn identify good companies?
+
+**A:** Better learning method what meaning? Everyone should find suitable own learning method. Maybe starting company doing well good method learning investment knowing buying stocks means buying companies but not knowing what good company useless. Good business model plus good corporate culture generally good company characteristics. (2015-04-17, Business Logic)
+
+---
+
+## 📖 Case Analysis
+
+**Apple: Most complete interpretation of good company**
+
+> "Apple extremely rare enterprise able long-term focus on 'doing right things'." (2013-02-13, Business Logic)
+
+Apple simultaneously has:
+- **Good business model:** ecosystem moat extremely high user stickiness
+- **Good corporate culture:** Jobs-established "pursuit beyond profit" Cook inherited and developed
+- **Good board:** able fire then rehire Jobs discover and appoint Cook
+
+> **Cook better CEO than Jobs. More rational while deeply understanding Jobs' pursuit." (2018-08-07, Business Logic)
+
+**BBK/OPPO/vivo: Model of corporate culture inheritance**
+
+Duan-established "benfen + ordinary mind" corporate culture passed down through Chen Mingyong (OPPO) Shen Wei (vivo) Huang Zheng (Pinduoduo) others. Shows good corporate culture can transcend founder individual becoming company core competitiveness.
+
+> **In my heart like Chen Mingyong Shen Wei Huang Zheng whatever achievements they eventually achieve won't surprise me; if they achieve nothing that would surprise me!" (2018-09-15, Business Logic)
+
+---
+
+## 💬 Original Quotes
+
+> **Good business model plus good corporate culture generally good company characteristic." (Source: Business Logic, 2015-04-17)
+
+> **So-called 'good company' should be principled not purely profit-oriented; those knowing to do right things...then pursuing high efficiency doing things right." (Source: Business Logic, 2011-09-27)
+
+> **Integrity and honesty—integrity. Commonality all great enterprises also biggest 'funnel' for problematic enterprises." (Source: Business Logic, 2010-10-22)
+
+> **Apple extremely rare enterprise able long-term focus on 'doing right things'." (Source: Business Logic, 2013-02-13)
+
+> **Actually truly good sustainable enterprises mostly not profit-focused profits merely natural result so-called letting profits chase after you kind." (2011-01-28, Business Logic)
+
+> **From 5-10 year angle CEO crucial. From 10-50 year angle board important...from longer angle corporate culture more important." (Source: Business Logic, 2010-04-03)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Good company means high profit fast growth"** — Good company "principled not purely profit-oriented." High profit just result; principled good culture cause. Companies without [[pursuit beyond profit]] even short-term high profit not good company defined here.
+
+- ❌ **"Good companies don't make errors buy hold worry-free"** — "Everyone makes errors good companies no exception." Good company errors often buying opportunities but premise you can judge temporary vs fundamental.
+
+- ❌ **"Good business model sufficient corporate culture unimportant"** — "Good business model plus good corporate culture generally good company characteristic"—both essential. [[Corporate culture]] determines whether company long-term persists doing right things.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Business Model]] · [[Corporate Culture]] · [[Pursuit Beyond Profit]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Moat]] · [[Buying Logic]] · [[Long-termism]]
+
+**Related Company Cases**
+[[Apple]] · [[BBK]] · [[OPPO]] · [[Tencent]] · [[Moutai]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

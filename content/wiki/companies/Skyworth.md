@@ -14,69 +14,61 @@ uuid: 4ae4ad47-e0fb-4098-9726-b487f501f1f5
 
 :::lang eng
 
-# 创维
+# Skyworth
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 创维
-
-> **市值只有十多亿港币，那栋大楼都快有那个价了——这就是段永平买入的逻辑**
+> **Market cap only slightly over 1 billion HKD — the building alone is nearly worth that much — this was Duan Yongping's logic for buying**
 
 ---
 
-## 🏢 公司简介
+## 🏢 Company Profile
 
-创维是中国彩电行业的头部企业之一。段永平在创维市值极低时买入，核心判断是：只要彩电市场还在，创维就死不了；而当时的市值已经低到荒谬的程度。这是一个典型的[[安全边际]]驱动的买入案例。
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的原话/判断 |
-|------|------|-----------------|
-| 约2003-2004年 | 买入创维 | "我们买创维时创维的市值只有十多个亿港币，他们那栋大楼都快有那个价了"（2010-03-15） |
-| 持有期间 | 判断逻辑 | "创维在电视机行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那这个行业就将不复存在了"（2010-03-15） |
-| 持有期间 | 对ROE的态度 | "没看过roe。我就觉得只要彩电市场还有的话，创维就死不了。"（2010-04-21） |
+Skyworth is one of the leading companies in China's TV industry. Duan Yongping bought when Skyworth's market cap was extremely low, with core judgment being: as long as the TV market still exists, Skyworth won't die; and the market cap at that time had fallen to an absurdly low level. This is a typical [[margin of safety]]-driven purchase case.
 
 ---
 
-## 💡 段永平为什么看好
+## 📅 Investment Timeline
 
-- **市值极度低估，资产价值明显**：买入时市值只有十多亿港币，而公司的大楼本身都快值这个价了。这是[[毛估估]]逻辑的典型体现——不需要精确计算，明显便宜就是了。（来源：段永平投资问答录(投资逻辑篇)，2010-03-15）
-- **行业逻辑简单清晰**：只要彩电市场还存在，创维就死不了。这是段永平判断[[生意模式]]的底线逻辑——不需要预测公司会有多好，只需要判断它不会消失。（来源：段永平投资问答录(投资逻辑篇)，2010-04-21）
-- **企业文化相对健康**：段永平认为创维在彩电行业里算是最健康的企业，"不太会乱来"。[[企业文化]]是他判断公司能否长期生存的重要维度。（来源：段永平投资问答录(投资逻辑篇)，2010-03-15）
-- **不依赖财务指标**：段永平明确说没看过ROE，判断依据是对行业和公司的基本理解，而不是财务指标筛选。这体现了他[[好公司的标准]]的实际应用方式。
-
----
-
-## 💬 原文摘录
-
-> "我们买创维时创维的市值只有十多个亿港币，他们那栋大楼都快有那个价了。创维在电视机行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那这个行业就将不复存在了，句号。"（来源：段永平投资问答录(投资逻辑篇)，2010-03-15）
-
-> "没看过roe。我就觉得只要彩电市场还有的话，创维就死不了。"（来源：段永平投资问答录(投资逻辑篇)，2010-04-21）
+| Time | Event | Duan Yongping's Words/Judgment |
+|------|-------|-------------------------------|
+| Around 2003–2004 | Bought Skyworth | "When we bought Skyworth its market cap was only a bit over 1 billion HKD — their building alone was nearly worth that much" (2010-03-15) |
+| During holding period | Judgment logic | "Skyworth is probably the healthiest company in the TV industry, unlikely to act recklessly. Long-term, if even they can't survive, then this industry will cease to exist" (2010-03-15) |
+| During holding period | Attitude toward ROE | "Never looked at ROE. I just felt as long as the TV market exists, Skyworth won't die." (2010-04-21) |
 
 ---
 
-## 📚 投资启示
+## 💡 Why Duan Yongping Was Bullish
 
-- **极度低估时，简单逻辑就够了**：不需要复杂的财务模型，"大楼都快值这个价了"就是足够的安全边际。
-- **行业底线判断优先于公司优劣判断**：先判断行业会不会消失，再判断公司在行业里的地位。创维不是最好的彩电公司，但是最健康的，这就够了。
-- **企业文化是"不会乱来"的保障**：段永平买创维，部分原因是判断这家公司的[[企业文化]]不会做出毁灭性的决策。
+- **Extremely undervalued market cap, clear asset value**: At time of purchase, market cap was only slightly over 1 billion HKD, while the company building alone was nearly worth that much. This is a typical embodiment of [[rough estimation]] logic — no precise calculation needed, obviously cheap. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-15)
+- **Simple and clear industry logic**: As long as the TV market still exists, Skyworth won't die. This is Duan Yongping's bottom-line logic for judging [[business model]] — no need to predict how good the company will be, just need to judge it won't disappear. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-21)
+- **Relatively healthy corporate culture**: Duan Yongping considered Skyworth among the healthiest companies in the TV industry, "unlikely to act recklessly." [[Corporate culture]] is an important dimension in his judgment of whether a company can survive long-term. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-15)
+- **Not relying on financial metrics**: Duan Yongping explicitly said he never looked at ROE; his basis for judgment was basic understanding of the industry and company, not financial metric screening. This embodies his practical application of [[criteria for good companies]].
 
 ---
 
-## 🔗 相关笔记
+## 💬 Original Excerpts
 
-**体现的概念**：[[安全边际]] · [[毛估估]] · [[生意模式]] · [[企业文化]] · [[好公司的标准]]
+> "When we bought Skyworth its market cap was only a bit over 1 billion HKD — their building alone was nearly worth that much. Skyworth is probably the healthiest company in the TV industry, unlikely to act recklessly. Long-term, if even they can't survive, then this industry will cease to exist, period." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-15)
 
-**相关人物**
-[[段永平]]
+> "Never looked at ROE. I just felt as long as the TV market exists, Skyworth won't die." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-21)
 
-**相关主题**
-[[段永平的经典投资案例]] · [[如何给公司估值]]
+---
+
+## 📚 Investment Insights
+
+- **When extremely undervalued, simple logic suffices**: No complex financial models needed — "the building alone is nearly worth that much" provides sufficient margin of safety.
+- **Industry survival judgment comes before company quality judgment**: First judge whether the industry will disappear, then judge the company's position within it. Skyworth isn't the best TV company, but it's the healthiest — and that's enough.
+- **Corporate culture as guarantee against reckless behavior**: Part of Duan Yongping's reason for buying Skyworth was judging this company's [[corporate culture]] wouldn't make destructive decisions.
+
+---
+
+## 🔗 Related Notes
+
+**Concepts Embodied**: [[Margin of Safety]] · [[Rough Estimation]] · [[Business Model]] · [[Corporate Culture]] · [[Criteria for Good Companies]]
+
+**Related People**
+[[Duan Yongping]]
+
+**Related Topics**
+[[Duan Yongping's Classic Investment Cases]] · [[How to Value a Company]]
 
 :::

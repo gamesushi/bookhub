@@ -14,9 +14,103 @@ uuid: b8df2481-5bbf-4a91-8409-2d979404e679
 
 :::lang eng
 
-# 做对的事
+# Doing the Right Thing
 
-(English translation pending...)
+> **When you discover a mistake, correct it as soon as possible—no matter the cost, it's always the smallest cost**
+
+---
+
+## 📌 Concept Explanation
+
+**Doing the right thing = on principle matters, there is only right and wrong, no degrees; when you discover a mistake, stop immediately regardless of how much has already been invested.**
+
+You're driving and took the wrong road—already went 30 kilometers out of your way. At this point there are two choices: continue forward because "I've already come this far"; or immediately turn around even if you have to detour. Duan Yongping's answer is always: turn around immediately. Because continuing down the wrong path creates new losses every minute. "Doing the right thing" isn't a strategy—it's a bottom line—for wrong things, zero tolerance.
+
+---
+
+## 💡 Core Understanding
+
+**1. "Doing the right thing" is about direction; "doing things right" is about efficiency—the two cannot be confused.**
+
+This is Duan Yongping's clearest distinction between these two sentences. The core of [[benfen]] is the combination of these two statements: first ensure direction is right, then pursue efficiency. If direction is wrong, higher efficiency means going further astray.
+
+**2. When you discover a mistake, correct it immediately—this itself is the most important embodiment of "doing the right thing."**
+
+The essence of [[Stop Doing List]] is exactly this—not telling you what to do but telling you to stop doing wrong things. When you discover a mistake, stop immediately regardless of cost already incurred—at that moment, the cost is always smallest. "What people often mean by 'persevere to the end' means persevering in 'doing the right thing,' not persisting in doing wrong things!"
+
+**3. "Doing the right thing" is the prerequisite for [[ordinary mind]] and [[long-termism]], not the result.**
+
+Duan Yongping repeatedly emphasizes that ordinary mind isn't a cultivated mindset but a natural result after doing the right things correctly. Similarly, long-termism is also built on this foundation—"thinking essence, doing the right thing, and thinking 10 years all mean the same thing."
+
+**4. Good [[corporate culture]] is a system that makes companies continuously "do the right things."**
+
+The core function of corporate culture isn't making the company faster but making the company take fewer wrong paths—fewer principle mistakes and faster correction after discovering mistakes. This is one of Duan's core dimensions for evaluating [[standards for good companies]].
+
+---
+
+## 🛠 How to Practice
+
+**Build your own Stop Doing List:**
+
+In practice, the most important tool for "doing the right thing" is the [[Stop Doing List]]—clearly list which things are wrong and shouldn't be done, then resolutely stop. This is more important than an "action list" because not doing wrong things often yields greater benefits than doing more right things.
+
+**Application in investing:**
+
+Discovering you bought the wrong company, sell immediately no matter how much you lost. "No matter the cost, it's always the smallest cost"—this sentence directly points to [[selling logic]]: the reason for selling isn't price movements but whether the original buying logic still holds. If you discovered you bought wrongly (the company itself has problems), continuing to hold only creates greater losses.
+
+**Application in business operation:**
+
+"We always say volume doesn't matter, profit doesn't matter, what matters most is doing the right things." This means when short-term profit conflicts with "doing the right thing," choose the latter. Many decisions during Duan Yongping's BBK period embodied this—abandoning certain short-term profitable opportunities that didn't conform to principles.
+
+---
+
+## 📖 Case Analysis
+
+**Alibaba Wei Zhe Incident (2011): Discovering mistake and correcting immediately**
+
+In 2011, Alibaba CEO Wei Zhe resigned due to fraud by subordinates. Duan commented: "Doing the right thing means—when you discover a mistake, correct it as soon as possible, no matter the cost it's always the smallest cost. I don't think Jack Ma did anything wrong here." He further said: "Strong corporate culture is often reflected in relatively low probability of doing wrong things, early discovery, and fast correction." This case is a positive demonstration of "doing the right thing" at enterprise management level.
+
+*Source: Business Logic, 2011-03-25*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Persevering to the end is doing the right thing"** — "What people often mean by 'persevere to the end' means persevering in 'doing the right thing,' not persisting in doing wrong things!" Perseverance itself isn't a virtue—persisting in wrong direction only increases losses.
+
+- ❌ **"Doing the right thing and doing things right are the same thing"** — "'Doing the right thing' indicates direction—it's a principle question with only right and wrong, no degree distinction, while for 'wrong things' the bottom line is zero tolerance." These are completely different dimensions: former is direction, latter is efficiency. Confusing them leads to using "efficiency" to cover up "direction errors."
+
+- ❌ **"As long as results are good, process doesn't matter"** — "Results-oriented refers to 'doing things right,' not 'doing the right thing.'" Duan clearly distinguishes between the two: results-oriented is at execution level and cannot excuse principle problems.
+
+---
+
+## 💬 Original Quotes
+
+> "Doing the right thing means—when you discover a mistake, correct it as soon as possible, no matter the cost it's always the smallest cost." (Source: Business Logic, 2011-02-21)
+
+> "'Doing the right thing' indicates direction—it's a principle question with only right and wrong, no degree distinction, while the bottom line for 'wrong things' is zero tolerance." (Source: Business Logic)
+
+> "Ordinary mind isn't something you seek—it's a natural state that comes after 'doing the right thing and doing things right.'" (Source: Business Logic, 2019-05-29)
+
+> "What people often mean by 'persevere to the end' means persevering in 'doing the right thing,' not persisting in doing wrong things!" (Source: Business Logic)
+
+> "Thinking essence, doing the right thing, and thinking 10 years all mean the same thing." (Source: Investment Logic, 2019-07-14)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Benfen]] · [[Corporate Culture]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Stop Doing List]] · [[Mistakes and Correction]] · [[Ordinary Mind]] · [[Long-termism]] · [[Selling Logic]]
+
+**Related Company Cases**
+[[Alibaba]] (Wei Zhe incident) · [[BBK]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

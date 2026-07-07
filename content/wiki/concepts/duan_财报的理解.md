@@ -13,9 +13,89 @@ uuid: a80ee455-402b-4c27-86bd-7a122d601e1a
 
 :::lang eng
 
-# 财报的理解
+# Understanding Financial Statements
 
-(English translation pending...)
+> **The most important purpose of reading financial statements is eliminating companies you don't want to invest in.**
+
+---
+
+## 📌 Concept Analysis
+
+**Understanding financial statements = Financial reports are the first step to understanding an enterprise, but not the entirety of investment decisions; the core use of financial statements is "elimination," not "selection"—don't touch companies whose financials you can't understand, and directly eliminate those you don't like after reading them.**
+
+You go on a blind date; the other person's resume is your first step in understanding them. But you wouldn't decide to marry based solely on the resume—the resume can only help you eliminate obviously unsuitable candidates; true understanding requires more contact. Financial statements are a company's "resume"—they can help you eliminate obviously problematic companies, but genuine investment judgment requires deep understanding of a company, not just financial numbers.
+
+---
+
+## 💡 Core Understanding
+
+**1. The core purpose of financial statements is "elimination," not "selection."**
+
+Duan Yongping explicitly states that financial statements are filters, not stock-picking tools. "If after reading the financial statements I don't like or can't understand them, I stop reading. The reasons for deciding to invest are usually other factors." What actually makes him decide to invest is his understanding of the company's [[business model]] and [[corporate culture]], not financial statement numbers themselves.
+
+**2. Don't touch companies whose financial statements you can't understand.**
+
+This reflects the [[circle of competence]] principle at the financial level—if you can't understand the financials, it means you don't know this company well enough, and it's outside your circle of competence.
+
+**3. Duan Yongping rarely reads financial statements himself, but he has professionals check key data for him.**
+
+The core data he focuses on: "Liabilities, net cash, cash flow, reasonableness of expenses, real profits, and net assets after deducting goodwill." This doesn't mean financial statements aren't important—it means he outsources financial analysis to professionals while focusing himself on qualitative judgment.
+
+**4. Reading only financial statements shows only the company's history; real investment judgment requires understanding the company's future.**
+
+Duan Yongping cites this view to emphasize that financial statements are historical data while investing requires judging the company's future. "I care about what exactly makes up profit and cost figures—what do they truly reflect? And you need to look at data across several quarters or even years. When you've tracked a company long enough, you'll know whether they're lying or telling the truth."
+
+---
+
+## 🛠 How to Practice
+
+**The correct approach to reading financial statements:**
+
+1. **Qualitative first, quantitative second:** First judge whether this company's [[business model]] and [[corporate culture]] merit investment, then use financial statements to verify your judgment. Not the other way around—don't read financials first, then decide whether you like this company.
+2. **Focus on core data:** Data Duan Yongping watches: liabilities, net cash, cash flow, expense reasonableness, real profits, and net assets minus goodwill. These data points help you assess a company's financial health.
+3. **Compare over multiple consecutive years:** A single quarter's financial report has limited meaning; data from several years reveals trends. "When you've tracked a company for a long time, you'll know whether they're lying or telling the truth."
+4. **Use financials to eliminate, not to select:** After reading, if there are obvious red flags (continuously declining cash flow, excessive debt, poor profit quality), eliminate immediately. Don't try to use financials to "discover" good companies.
+
+**An important warning:**
+
+"Many companies appear very profitable yet their cash flow keeps declining—that's dangerous." Divergence between profit and cash flow is one of the most important warning signals in financial statements.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Understanding financial statements means good investing"** — "Reading only financial statements only reveals a company's history." Financial statements are historical data; investing requires judgment about a company's future. Financials are necessary but not sufficient.
+
+- ❌ **"Duan Yongping doesn't look at financials, so they're not important"** — "Don't be misled by my saying I don't read financials—you absolutely must read them, otherwise there's no way to do 'rough estimation.'" Duan Yongping has professionals review them for him; he doesn't completely ignore them.
+
+- ❌ **"Better financial numbers mean a better investment"** — Good financial numbers are necessary but not sufficient conditions. "The reasons for deciding to invest are usually other factors"—[[business model]], [[corporate culture]], management integrity—these don't show up in financials.
+
+---
+
+## 💬 Original Quotes
+
+> "I think the most important thing when reading financial statements is eliminating companies you don't want to invest in." (Source: Investment Logic, 2011-01-27)
+
+> "If you feel you can't understand a company's financial statements, it's best not to touch it." (Source: Investment Logic, 2011-01-27)
+
+> "Reading only financial statements only shows a company's history." (Source: Investment Logic, 2013-09-03)
+
+> "The figures I pay particular attention to are: liabilities, net cash, cash flow, expense reasonableness, real profits, net assets after deducting goodwill—I think that's it." (Source: Investment Logic, 2010-03-08)
+
+> "Many companies appear very profitable yet their cash flow keeps declining—that's dangerous." (Source: Investment Logic, 2013-09-03)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Business Model]] · [[Corporate Culture]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Intrinsic Value]] · [[Rough Estimation]] · [[Buying Logic]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

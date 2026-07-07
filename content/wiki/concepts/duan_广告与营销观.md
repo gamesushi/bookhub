@@ -13,9 +13,97 @@ uuid: b08a3f7e-221d-4644-b157-dcd63299e0af
 
 :::lang eng
 
-# 广告与营销观
+# Views on Advertising and Marketing
 
-(English translation pending...)
+> **No company has ever failed because of marketing failure—when companies fail, it is essentially always because of product failure.**
+
+---
+
+## 📌 Concept Analysis
+
+**Advertising and marketing = Using the simplest language to efficiently convey the product's actual functions to the target consumer group—not attributing non-existent functions to the product, nor using marketing to compensate for the product's deficiencies.**
+
+Many people think BBK's success came from good marketing—celebrity endorsements, ubiquitous advertising. Duan Yongping said: "There is a misconception that we place great importance on marketing. Actually, for us, marketing isn't important at all; the most important thing is still the product." This is not modesty; it reflects his understanding of the essence of marketing: marketing is an efficiency tool, not a life-saving straw.
+
+---
+
+## 💡 Core Understanding
+
+**1. The essence of marketing is conveying product information, not creating product value.**
+
+Advertising cannot turn a bad product into a good one; it can only make consumers aware of a good product faster.
+
+**2. Advertising can influence at most 20% of people; the remaining 80% rely on the product itself.**
+
+This means that even if advertising is done well, if the product is poor, 80% of consumers will ultimately vote with their feet. "Good wine fears being hidden in deep alleys," but no matter how much you promote "bad wine," it only produces short-term effects.
+
+**3. Exaggerated advertising is the worst kind of advertising—companies that rely on it ultimately meet a bad end.**
+
+Duan Yongping has a classic counter-example: "'Charge for five minutes, talk for three and a half hours,' and then he went bankrupt—why?" — The ad promised more than the product could deliver; after consumers experienced it, they were disappointed, and brand trust collapsed.
+
+**4. A good company's marketing department should not be "impressive."**
+
+The logic behind this statement: If the marketing department is impressive, it means the company is relying on marketing to compensate for the product's deficiencies. In truly good companies, the product itself is the best marketing; the marketing department only needs to do a good job of communication.
+
+---
+
+## 🛠 How to Practice
+
+To judge whether a company's marketing is healthy, the core question is: **Can the product deliver what the advertisement promises?**
+
+- **Advertising content should be based on the product's real capabilities:** No exaggeration, no promises the product cannot fulfill. "The worst kind of advertising is exaggerated advertising."
+- **Marketing budgets should not far exceed those of peers:** Apple's advertising costs are much lower than its peers', yet it often sells at premium prices—because the product itself is the best advertisement. If a company relies on heavy advertising to maintain sales, be alert to whether there are problems with the product itself.
+- **Look at the proportion of word-of-mouth transmission:** "Advertising can influence at most about 20% of people; the remaining 80% are influenced by this 20%." For truly excellent products, word-of-mouth spreads far more efficiently than advertising.
+
+---
+
+## 📖 Case Analysis
+
+**Gree: Building brand through word of mouth, not through advertising**
+
+Dong Mingzhu said: "Over all these years, frankly speaking, we've had no secret weapon—the only thing is these two words—integrity! In fact, our entire marketing revolves around integrity. It's not about shouting what brand you are; consumers need an experience process, and Gree Electric has relied on the long-term accumulation of reputation to this day." Duan Yongping's assessment was: "I very much agree with Sister Dong's view." This precisely captures his understanding of marketing—product and integrity are fundamental; advertising is just a transmission tool.
+
+*Source: Business Logic, 2010-09-22*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"If marketing is done well, it doesn't matter if the product is somewhat lacking"** — "No company has ever failed because of marketing failure. When companies fail, it is essentially because of product failure." Marketing can temporarily compensate for product deficiencies, but in the long run, consumers are an extremely smart group; poor products will eventually be exposed.
+
+- ❌ **"More advertising makes a stronger brand"** — "Advertising can probably influence only around 20% of consumers; everything else depends on the product itself." Advertising is an efficiency tool, not the foundation of brand building. The foundation of [[brand]] is product quality and [[integrity and reputation]].
+
+- ❌ **"A stronger marketing department means greater corporate competitiveness"** — "A good company's marketing department should not be impressive." An impressive marketing department often indicates the company is relying on marketing to compensate for product deficiencies—a dangerous signal, not a competitive advantage.
+
+---
+
+## 💬 Original Quotes
+
+> "No company has ever failed because of marketing failure. When companies fail, it is essentially always because of product failure. Marketing simply uses the simplest language to spread the message you want to convey (to your users)." (Source: Business Logic, 2018-09-30)
+
+> "Advertising merely uncovers or displays the product's functions; it does not attribute functions to the product. Advertising is efficiency-oriented—it conveys the product itself to your target consumer group as efficiently as possible." (Source: Business Logic, 2010-04-21)
+
+> "The worst kind of advertising is exaggerated advertising. Companies that rely on such advertising never end well, because over the long term, consumers are an extremely smart group." (Source: Business Logic, 2010-04-21)
+
+> "Advertising can probably influence only around 20% of consumers; everything else depends on the product itself." (Source: Business Logic, 2010-04-21)
+
+> "A good company's marketing department should not be impressive." (Source: Business Logic, 2010-11-28)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Good Products]] · [[Consumer Orientation]] · [[Integrity and Reputation]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Brand]] · [[Pursuit Beyond Profit]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] · [[BBK]] · [[OPPO]] · Gree
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

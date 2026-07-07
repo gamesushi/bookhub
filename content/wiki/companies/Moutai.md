@@ -17,178 +17,170 @@ uuid: f89a0f33-bd7c-4775-894a-ab7bd1c5194d
 
 # Moutai
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 茅台
-
-> **"茅台还是茅台，生意模式刚刚的，10年后人们还是会说10年前那个价格真不贵"** — 段永平（2017-12-14）
+> **"Moutai is still Moutai; the business model is solid. Ten years from now, people will still say that price 10 years ago really wasn't expensive."** — Duan Yongping (2017-12-14)
 
 ---
 
-## 🏢 基本信息
+## 🏢 Basic Information
 
-- **行业**：白酒/消费品
-- **核心产品**：飞天茅台（53度）
-- **段永平持仓**：是（塑化剂事件后约180元开始买入）
-- **段永平评价**：生意模式刚刚的，是极少数不怕有库存的生意
-
----
-
-## 💡 段永平的核心观点
-
-### 茅台的生意模式为什么好？
-
-1. **库存是宝，不是垃圾**：消费电子的库存几乎就是垃圾，茅台的库存几乎就是个宝——越放越值钱
-2. **[[差异化]]极强**：白酒的消费群体忠诚度很高，口味、口感、酒文化造成了极强的差异化
-3. **不怕有库存**：这是极少见的不怕有库存的[[生意模式]]
-4. **[[定价权]]强**：能涨价的东西就表示他有"[[护城河]]"
-
-### 茅台的护城河
-
-- 品牌忠诚度极高
-- 产地不可复制（茅台镇特殊地理环境）
-- 年份酒越放越值钱
-- 国内面子文化和送礼文化的加持
+- **Industry**: Baijiu / Consumer Goods
+- **Core Product**: Feitian Moutai (53% ABV)
+- **Duan Yongping's Holding**: Yes (started buying around ¥180 after the plasticizer incident)
+- **Duan Yongping's Assessment**: Business model is solid; one of the very few businesses not afraid of having inventory
 
 ---
 
-## 🔍 定性分析三维度（right business / right people / right price）
+## 💡 Duan Yongping's Core Views
 
-段永平在茅台案例开篇即点明投资框架：
+### Why is Moutai's business model good?
 
-> "right business + right people + right price + time = good result。虽然这个不是投资的充分公式，但好结果却是个比较大概率的事件。"（来源：段永平投资问答录(投资逻辑篇)，2013-04-20）
+1. **Inventory is a treasure, not trash**: Inventory in consumer electronics is nearly trash, but Moutai's inventory is practically a treasure — it appreciates with age
+2. **Extremely strong [[differentiation]]**: Baijiu consumers have very high loyalty; taste, mouthfeel, and drinking culture create extremely strong differentiation
+3. **Not afraid of inventory**: This is a rare [[business model]] not afraid of holding inventory
+4. **Strong [[pricing power]]**: The ability to raise prices indicates a [[moat]]
 
-### 一、商业模式（right business）
+### Moutai's Moat
 
-**[[差异化]]是核心**：喜欢喝茅台的，不会因为茅台涨价而买五粮液。价格战一般在产品差异化很小时容易发生，酒是有很大差异化的东西。
-
-> "价格战一般在产品差异化很小时容易发生。酒是有很大差异化的东西，至少感觉如此。See's candy 也是有很大差异化的产品。"（来源：段永平投资问答录(投资逻辑篇)，2011-01-14）
-
-**不怕库存的生意**：茅台的库存越放越值钱，这在消费品中极为罕见。
-
-> "茅台这个生意和我们的消费电子比较起来，最大的差别可能就在库存上。我们这个行业的库存几乎就是垃圾，茅台几乎就是个宝。"（来源：段永平投资问答录(投资逻辑篇)，2013-12-12）
-
-**成长空间**：茅台在中国白酒里的市场份额极小（约千分之一），对一个份额只有千分之一的好酒不需要担心成长空间。
-
-> "茅台在中国白酒里的份额极小。对一个份额只有千分之一的好酒你到底着得是哪门子急？"（来源：段永平投资问答录(投资逻辑篇)，2013-10-28）
-
-### 二、企业文化（right people）
-
-茅台的"四服从原则"：产量服从质量、速度服从质量、成本服从质量、效益服从质量。"不挖老窖，不卖新酒"，出厂酒品酒龄至少5年以上。
-
-> "作为国企，茅台确实是有点东西不是很完美，但做好酒的文化是茅台之所以是茅台的原因。有着这种文化的酒也就茅台了吧？！"（来源：段永平投资问答录(投资逻辑篇)，2014-01-23）
-
-> "茅台就是那个53度飞天，谁改谁下台哈。"（来源：段永平投资问答录(投资逻辑篇)，2018-05-20）
-
-> "个人觉得茅台的产品文化已经定型了，那么多人盯着，不会有人敢改变的。国营企业的优势在茅台上发挥的淋漓尽致，民营企业可能反而会因为个人的因素而有所变化。"（来源：段永平投资问答录(投资逻辑篇)，2019-03-15）
-
-### 三、估值（right price）
-
-**毛估估思维**：用10年眼光看，130或160或200差别其实没那么大。
-
-> "我觉得茅台的生意模式很难得，价钱合适就可以买，未必要等到很便宜。从10年以上的角度看，130或160或200差别其实没那么大。"（来源：段永平投资问答录(投资逻辑篇)，2013-09-30）
-
-> "长期来说，存银行很难有5%的利息，所以茅台长期的回报能到20pe或更好的，茅台就不贵了。"（来源：段永平投资问答录(投资逻辑篇)，2019-03-15）
+- Extremely high brand loyalty
+- Unreplicable production location (special geographic environment of Maotai Town)
+- Aged liquor becomes more valuable over time
+- Reinforced by domestic "face" culture and gift-giving culture
 
 ---
 
-## 📅 买入时机：塑化剂事件
+## 🔍 Qualitative Analysis in Three Dimensions (Right Business / Right People / Right Price)
 
-2012年底，白酒行业塑化剂事件爆发，茅台股价大跌。段永平委托朋友将从美国市场购买的53度飞天茅台送检，根据检测报告确信茅台没有主动添加塑化剂，随后开始大规模买入。
+Duan Yongping opens the Moutai case by clarifying his investment framework:
 
-> "好像当年我们就是根据这份送检报告确信茅台没问题然后开始大规模买入茅台的。"（来源：段永平投资问答录(投资逻辑篇)，2013-01-28）
+> "right business + right people + right price + time = good result. Although this isn't a sufficient formula for investing, a good result becomes a fairly high-probability outcome." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-04-20)
 
-> "虽然我不喝白酒，但觉得喝酒的人不会因为这个就不喝白酒了。"（来源：段永平投资问答录(投资逻辑篇)，2012-12-06）
+### I. Business Model (Right Business)
 
-> "这个价钱拿个5年或更长的时间的回报应该会不错。"（来源：段永平投资问答录(投资逻辑篇)，2013-02-07）
+**[[Differentiation]] is core**: Those who like drinking Moutai won't switch to Wuliangye because Moutai raised prices. Price wars tend to occur when product differentiation is weak; baijiu is a highly differentiated product.
 
----
+> "Price wars tend to occur when product differentiation is weak. Baijiu is a highly differentiated product — at least that's how it feels. See's Candy is also a highly differentiated product." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-01-14)
 
-## ❓ 精选问答
+**Business not afraid of inventory**: Moutai's inventory appreciates over time — this is extremely rare among consumer goods.
 
-**问**：茅台和腐败有直接关系吗？
+> "Comparing Moutai's business to our consumer electronics, the biggest difference might be inventory. In our industry, inventory is almost trash; Moutai's is practically a treasure." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-12-12)
 
-**答**：难道你认为我们以前的都不是动真格的？茅台和腐败没有直接关系，但减少公款消费确实会减少很多浪费，短期内应该也会影响到茅台以及很多东西的销量。但公款消费应该不是茅台的大头。茅台如果短期销量下降些，那年份酒的产量就可以提高了？还真是很少见不怕有库存的生意模式。（2013-02-13）
+**Growth potential**: Moutai has an extremely small market share in Chinese baijiu (around one-thousandth); for good liquor with only one-thousandth market share, there's no need to worry about growth potential.
 
----
+> "Moutai's share of Chinese baijiu is extremely small. For good liquor with only one-thousandth share, what exactly are you anxious about?" (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-10-28)
 
-**问**：茅台的生意模式和消费电子有什么区别？
+### II. Corporate Culture (Right People)
 
-**答**：茅台这个生意和我们的消费电子比较起来，最大的差别可能就在库存上。我们这个行业的库存几乎就是垃圾，茅台几乎就是个宝。（2013-12-12）
+Moutai's "Four Principles of Subordination": Production subordinates to quality, speed subordinates to quality, cost subordinates to quality, profit subordinates to quality. "Don't dig up old pits, don't sell new liquor";出厂 liquor is at least 5 years aged.
 
----
+> "As a state-owned enterprise, Moutai does have some imperfections, but the culture of making good liquor is why Moutai is Moutai. With this kind of culture, only Moutai can be Moutai!" (Source: Duan Yongping Investment Q&A (Investment Logic), 2014-01-23)
 
-**问**：茅台还是茅台，生意模式刚刚的，这句话怎么理解？
+> "Moutai IS that 53° Feitian — whoever changes it steps down, haha." (Source: Duan Yongping Investment Q&A (Investment Logic), 2018-05-20)
 
-**答**：茅台还是茅台，生意模式刚刚的，10年后人们还是会说10年前那个价格真不贵。（2017-12-14）
+> "Personally I feel Moutai's product culture has already been set in stone. With so many people watching, no one dares change it. The advantages of state-owned enterprises are fully demonstrated in Moutai; private companies might actually change due to individual factors." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-15)
 
----
+### III. Valuation (Right Price)
 
-**问**：怎样才能改变茅台在中国人心中的地位？
+**Rough estimation mindset**: Looking from a 10-year perspective, the difference between 130, 160, or 200 isn't actually that large.
 
-**答**：多推一些便宜的非53度酒，包括茅台啤酒和红酒，甚至茅台米酒啥的，以及茅台矿泉水，茅台酒店，茅台手机，茅台空调，加快推出的速度，五年出厂的规矩也不要了，假酒也不管……十年后，茅台的地位就应该彻底不一样了。（2015-02-16）
+> "I think Moutai's business model is rare; you can buy when the price is right, without needing to wait until it's very cheap. From a 10+ year perspective, the difference between 130, 160, or 200 isn't actually that big." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-09-30)
 
----
-
-**问**：茅台应该做加法还是减法？
-
-**答**：我认为茅台应该做减法而不是加法。好像茅台正在做的也有点这个意思，希望他们能坚持。（来源：段永平投资问答录(投资逻辑篇)，2014-03-25）
+> "Long-term, it's hard to get 5% interest from banks, so as long as Moutai's long-term return can reach 20x PE or better, Moutai isn't expensive." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-15)
 
 ---
 
-**问**：为什么看10年比看3年容易？
+## 📅 Entry Timing: The Plasticizer Incident
 
-**答**：我们买茅台时（大概是12-13年），那时是不知道两三年内茅台会怎么样的，但我可以大概率肯定，茅台10年后会不错。现在其实还不到十年呢，效果就已经不错了。其实用老巴那句话来解释可能就容易理解些了：知道什么会发生比知道什么时候会发生要容易的多。（2018-10-23）
+At the end of 2012, the baijiu industry's plasticizer incident erupted, causing Moutai's stock price to plummet. Duan Yongping commissioned a friend to have 53° Feitian Moutai purchased from the US market tested, and based on the test report confirmed Moutai hadn't intentionally added plasticizers, then began buying on a large scale.
 
----
+> "It seems back then we started大规模 buying Moutai after confirming from this test report that there was no problem." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-01-28)
 
-**问**：现在买入茅台是比较好的选择吗？（2018-10-29）
+> "Although I don't drink baijiu, I felt that people who drink wouldn't stop drinking baijiu because of this incident." (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-12-06)
 
-**答**：比较好的意思是跟你自己的机会成本比，所以只有你自己才可能知道现在是不是比较好。个人观点，现在买入过10年看显然大概率会比存银行好。（2018-10-29）
-
----
-
-**问**：茅台的分红和苹果的回购有什么区别？
-
-**答**：茅台的生意模式不错，但对赚到的钱的处理方式不尽如人意，苹果在这方面则是完美的。从这两年两个公司出现回购机会时两家公司完全不同的表现就可以看出这点。茅台甚至有些滑稽的地方是分红居然还因为股价掉了而下降了。苹果对分红和回购的策略的阐述是非常清晰的，作为股东基本可预期，而茅台则会受到非股东因素影响。（2015-04-09）
+> "Holding this price for 5 years or longer should yield decent returns." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-02-07)
 
 ---
 
-## 📊 段永平的买入逻辑
+## ❓ Selected Q&A
 
-- 买入时机：塑化剂事件后，约180元开始买入
-- 买入逻辑：[[生意模式]]好，[[护城河]]宽，[[企业文化]]不错
-- 持有逻辑：好公司是不需要卖的；用10年眼光看，中间的起跌都不是事儿
+**Q**: Does Moutai have a direct relationship with corruption?
 
----
-
-## 💬 原文金句
-
-> "right business + right people + right price + time = good result。虽然这个不是投资的充分公式，但好结果却是个比较大概率的事件。"（来源：段永平投资问答录(投资逻辑篇)，2013-04-20）
-
-> "茅台还是茅台，生意模式刚刚的，10年后人们还是会说10年前那个价格真不贵。"（来源：段永平投资问答录(投资逻辑篇)，2017-12-14）
-
-> "茅台这个生意和我们的消费电子比较起来，最大的差别可能就在库存上。我们这个行业的库存几乎就是垃圾，茅台几乎就是个宝。"（来源：段永平投资问答录(投资逻辑篇)，2013-12-12）
-
-> "茅台就是那个53度飞天，谁改谁下台哈。"（来源：段永平投资问答录(投资逻辑篇)，2018-05-20）
-
-> "A股我们主要是持有茅台，用10年的眼光看，茅台依然不贵啊，上个礼拜绿一下或者上个季度绿一下不是什么了不起的事情。"（来源：段永平投资问答录(投资逻辑篇)，2018-09-08）
-
-> "茅台的生意模式很好。哪怕你以目前的价格买入，10年后看也至少应该比你把钱放银行好。"（来源：段永平投资问答录(投资逻辑篇)，2019-03-15）
+**A**: Do you think our previous [consumption] wasn't real? Moutai doesn't have a direct relationship with corruption, but reducing public spending would indeed reduce much waste and should also affect sales volumes of Moutai and many other things in the short term. However, public spending probably isn't the main driver of Moutai's sales. If Moutai's short-term sales decline somewhat, couldn't the output of aged liquor be increased? It truly is a rare business model not afraid of having inventory. (2013-02-13)
 
 ---
 
-## 🔗 相关笔记
+**Q**: What's the difference between Moutai's business model and consumer electronics?
 
-**相关概念**
-[[护城河]] · [[生意模式]] · [[差异化]] · [[定价权]] · [[企业文化]] · [[长期主义]]
-**相关人物**
-[[段永平]]
-**相关主题**
-[[段永平的经典投资案例]] · [[如何判断一家好公司]] · [[好公司的标准]]
+**A**: Comparing Moutai's business to our consumer electronics, the biggest difference might be inventory. In our industry, inventory is almost trash; Moutai's is practically a treasure. (2013-12-12)
+
+---
+
+**Q**: How do you interpret "Moutai is still Moutai; the business model is solid"?
+
+**A**: Moutai is still Moutai; the business model is solid. Ten years from now, people will still say that price 10 years ago really wasn't expensive. (2017-12-14)
+
+---
+
+**Q**: How could Moutai's status in Chinese minds be changed?
+
+**A**: Push more cheap non-53° liquors, including Moutai beer and wine, even Moutai rice wine, plus Moutai mineral water, Moutai hotels, Moutai phones, Moutai air conditioners, accelerate launch speed, drop the 5-year aging rule, ignore fake liquor too... Ten years later, Moutai's status should be completely different. (2015-02-16)
+
+---
+
+**Q**: Should Moutai do addition or subtraction?
+
+**A**: I think Moutai should do subtraction rather than addition. It seems Moutai is heading somewhat in this direction too; hope they can persist. (Source: Duan Yongping Investment Q&A (Investment Logic), 2014-03-25)
+
+---
+
+**Q**: Why is looking at 10 years easier than 3 years?
+
+**A**: When we bought Moutai (around 2012–13), we didn't know how Moutai would perform in the next 2–3 years, but I could say with high probability that Moutai would be doing well in 10 years. Now it hasn't even been 10 years yet, and results are already quite good. Actually using Old Buffett's line makes it easier to understand: knowing what will happen is much easier than knowing when it will happen. (2018-10-23)
+
+---
+
+**Q**: Is buying Moutai now a relatively good choice? (2018-10-29)
+
+**A**: "Relatively good" means compared to your own opportunity cost, so only you yourself can know whether now is relatively good. Personal view: buying now and looking back in 10 years will likely clearly beat bank deposits. (2018-10-29)
+
+---
+
+**Q**: What's the difference between Moutai's dividends and Apple's buybacks?
+
+**A**: Moutai's business model is decent, but how they handle their earned money is less than satisfactory; Apple is perfect in this regard. You can see this from how differently these two companies behaved when buyback opportunities appeared in recent years. Moutai even had some absurd situations where dividends actually declined because the stock price fell. Apple's articulation of its dividend and buyback strategy is very clear; as a shareholder it's basically predictable, whereas Moutai gets influenced by non-shareholder factors. (2015-04-09)
+
+---
+
+## 📊 Duan Yongping's Buying Logic
+
+- Entry timing: Started buying around ¥180 after the plasticizer incident
+- Buying logic: Good [[business model]], wide [[moat]], decent [[corporate culture]]
+- Holding logic: Good companies don't need to be sold; looking from a 10-year perspective, interim ups and downs don't matter
+
+---
+
+## 💬 Original Quotes
+
+> "right business + right people + right price + time = good result. Although this isn't a sufficient formula for investing, a good result becomes a fairly high-probability outcome." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-04-20)
+
+> "Moutai is still Moutai; the business model is solid. Ten years from now, people will still say that price 10 years ago really wasn't expensive." (Source: Duan Yongping Investment Q&A (Investment Logic), 2017-12-14)
+
+> "Comparing Moutai's business to our consumer electronics, the biggest difference might be inventory. In our industry, inventory is almost trash; Moutai's is practically a treasure." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-12-12)
+
+> "Moutai IS that 53° Feitian — whoever changes it steps down, haha." (Source: Duan Yongping Investment Q&A (Investment Logic), 2018-05-20)
+
+> "In A-shares we mainly hold Moutai. Looking from a 10-year perspective, Moutai still isn't expensive. Turning green last week or last quarter is nothing remarkable." (Source: Duan Yongping Investment Q&A (Investment Logic), 2018-09-08)
+
+> "Moutai's business model is excellent. Even if you bought at current prices, 10 years from now it should at least be better than putting money in the bank." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-15)
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Moat]] · [[Business Model]] · [[Differentiation]] · [[Pricing Power]] · [[Corporate Culture]] · [[Long-termism]]
+**Related People**
+[[Duan Yongping]]
+**Related Topics**
+[[Duan Yongping's Classic Investment Cases]] · [[How to Judge a Good Company]] · [[Criteria for Good Companies]]
 
 :::

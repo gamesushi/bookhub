@@ -27,6 +27,9 @@ export const sharedPageComponents: SharedLayout = {
         lang: 'zh-CN'
       }
     }),
+    Component.Annotations({
+      provider: "local",
+    }),
   ],
   footer: Component.Footer({
     links: {

@@ -13,9 +13,108 @@ uuid: ef29920f-faee-4613-88b4-fb0a1646e5bb
 
 :::lang eng
 
-# 市盈率（PE）
+# Price-to-Earnings Ratio (P/E)
 
-(English translation pending...)
+> **P/E is a rearview mirror—it shows the past; you're buying the future.**
+
+---
+
+## 📌 Concept Analysis
+
+**Price-to-Earnings (P/E) ratio = Historical data—only for reference, cannot serve as a buying standard.**
+
+When you drive, the rearview mirror tells what's behind you but not what lies ahead on the road. P/E is that rearview mirror—it reflects the company's past earnings, while when buying stocks you're purchasing future cash flows. Driving while looking at the rearview mirror will eventually lead to trouble.
+
+---
+
+## 💡 Core Understanding
+
+**1. P/E is historical data and cannot alone be the standard for buying or not buying.**
+
+P/E reflects past company earnings, while [[discounted future cash flow]] represents where true value lies. A low P/E doesn't mean cheap—General Motors (GM) had P/E around 5 long-term but with extremely high debt and eventually went bankrupt. A high P/E doesn't mean expensive either—if you can confirm high growth, high P/E is acceptable.
+
+**2. Duan Yongping doesn't use the financial statement P/E but "P/E relative to future long-term actual profits."**
+
+The P/E he refers to means your own judgment of the company's future long-term earning power, not the number on financial statements. These are fundamentally different things. The core of [[rough estimation]] is: how many multiples of P/E you're willing to give depends entirely on your judgment about the company's future and your capital's [[opportunity cost]]—it has nothing to do with the market.
+
+**3. 12x P/E is a rough reference line, not an iron rule.**
+
+Duan Yongping mentions that appropriate P/E multiple relates to average long-term interest rates; 12x long-term P/E should suffice. But he emphasizes this is only a rough reference, not a standard answer—he also says "I actually don't know what P/E to assign." What truly matters is your judgment about the company's [[intrinsic value]], not applying some formulaic multiple.
+
+**4. Companies with extremely low P/E are often problematic companies.**
+
+This contradicts many people's intuition—many think low P/E equals cheap, but behind low P/E often hides risk the market has already seen. Don't touch low-P/E companies outside your [[circle of competence]].
+
+---
+
+## 🛠 How to Practice
+
+**The correct way to use P/E:**
+
+1. **Use P/E as reference, not standard.** When seeing a company's P/E, first ask yourself: does this P/E correspond to past or future earnings? If the company is in rapid growth phase, current high P/E doesn't mean expensive; if earnings are declining, low P/E doesn't mean cheap.
+2. **Recalculate P/E using "future long-term actual profit."** Don't directly use financial statement P/E—instead estimate average annual profit over 5-10 years, then divide current market cap by this figure to get your own "real P/E."
+3. **Combine with [[opportunity cost]] judgment.** How many multiples of P/E you're willing to give depends on what returns your capital can get elsewhere. If your capital can earn 20x P/E returns elsewhere, then 60x P/E stocks aren't reasonable.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Do you care about the price-to-earnings ratio of companies you invest in?
+
+**A:** I look at it but don't focus on it. P/E is historical data—we buy future cash flows. So unless you can see the future from history, it's meaningless. Relative to P/E, I more often use E/E to evaluate an enterprise.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01*
+
+---
+
+**Q:** Even for good companies, above what P/E multiple should one generally not buy?
+
+**A:** Having this thought shows you don't yet understand the company. For example, NetEase was still losing money back then...
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2013-03-26*
+
+---
+
+**Q:** What P/E multiple is appropriate?
+
+**A:** What P/E multiple is appropriate relates to average long-term interest rates; 12x long-term P/E should work—I generally use something around there too.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2011-01-05*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Low P/E means cheap and worth buying"** — Correct view: Duan Yongping says "generally speaking, companies with very low P/E likely have problems—unless you understand them, best not to touch." GM's P/E was around 5 long-term yet eventually went bankrupt. *(Source: Investment Logic, 2011-06-17)*
+
+- ❌ **"High P/E means expensive, can't buy"** — Correct view: "For high-growth enterprises, somewhat higher P/E is acceptable—as long as you can confirm their high growth. If you understand the concept of [[discounted future cash flow]], this won't be an issue."*(Source: Investment Logic, 2011-04-05)*
+
+- ❌ **"Use financial statement P/E for valuation"** — Correct view: Duan Yongping's P/E refers to "P/E relative to future long-term actual profit, not the ordinary financial statement P/E." *(Source: Investment Logic, 2011-10-01)*
+
+---
+
+## 💬 Original Quotes
+
+> "P/E is historical data—we buy future cash flows." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01)
+
+> "Price-to-earnings ratio is a rearview mirror—cannot serve as whether-to-invest standard. Key is future earning capacity—if you don't understand it, no matter how low, don't touch." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-09-16)
+
+> "Never be misled by P/E because it's historical data and may not indicate the future. My P/E generally refers to P/E relative to future long-term actual profit, not the ordinary financial statement P/E. How many multiples you're willing to give depends entirely on your ability or your capital's opportunity cost—actually unrelated to the market." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-10-01)
+
+> "Generally speaking, companies with very low P/E likely have problems—unless you understand them, best not to touch." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-06-17)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Discounted Future Cash Flow]] · [[Intrinsic Value]] · [[Rough Estimation]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Opportunity Cost]] · [[Margin of Safety]] · [[Buying Logic]]
+
+**Related Cases**
+[[NetEase]] · [[Apple]] · [[Moutai]]
 
 :::
 

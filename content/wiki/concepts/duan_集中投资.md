@@ -15,7 +15,111 @@ uuid: 024b7f1d-3a07-42c1-b102-b8f1474616a6
 
 # Concentrated Investment
 
-(English translation pending...)
+> **I'm not just concentrated—I'm absolutely concentrated.**
+
+---
+
+## 📌 Concept Analysis
+
+**Concentrated investment = Placing heavy bets only on the very few companies you truly understand, rather than spreading widely in pursuit of "safety."**
+
+You're a chef who excels at Sichuan and Cantonese cuisine. Someone suggests opening 10 stalls, each specializing in one cuisine—to "diversify risk." But Duan Yongping would say: focus your effort on what you truly know how to do well—running two excellent stalls is far better than running ten mediocre ones.
+
+---
+
+## 💡 Core Understanding
+
+**1. The more you invest, the less you earn—there are very few companies you truly understand, so concentration is the natural result of [[circle of competence]].**
+
+Concentration isn't for concentration's sake—it's because there are very few companies you truly understand—"understanding even one stock is very difficult; ten is almost 'mission impossible.'"
+
+**2. Concentration is simple but extremely difficult; the prerequisite is truly understanding, not gambling-style heavy positions.**
+
+The premise of concentrated investing is "if you don't understand it, what kind of move are you making?" — Heavy positions without understanding aren't concentrated investing; they're gambling.
+
+**3. If you think something is a good investment opportunity, why allocate only 5-10%?**
+
+If you truly understand, you should dare to place a heavy bet—this is [[margin of safety]] manifested through depth of understanding.
+
+**4. Position sizing depends on how much you understand—no fixed formula.**
+
+Duan Yongping's own approach: large allocations for companies he deeply understands (like [[Apple]], [[Moutai]]), tiny allocations for companies he thinks are good but doesn't understand thoroughly enough. "I'm usually relatively concentrated in companies I understand well, like Apple and Moutai. But I also buy some stocks I think are good but feel my understanding isn't thorough—for these, the proportion is usually small."
+
+---
+
+## 🛠 How to Practice
+
+**Concentrated investing has only one prerequisite: truly understanding.**
+
+Before placing heavy bets, ask yourself:
+1. **Would you still buy this company if it weren't public?** If you wouldn't buy it private, that's speculation, not investment.
+2. **What's your reason for buying?** If the reason is simply "it's been rising lately" or "everyone else is buying," that's not true understanding.
+3. **Can you accept a 50% drop?** Those who truly understand will only think "should I add to my position?" when prices fall.
+
+**Regarding positions:**
+- No fixed ratios—entirely depends on depth of understanding
+- Eggs in one basket can be watched more carefully
+- When no suitable targets exist, holding cash beats random investing and losing money
+
+---
+
+## 📖 Case Analysis
+
+**[[NetEase]] (2002): Invested all available funds**
+
+In 2002, [[NetEase]]'s stock price fell below $1 facing delusion risk. [[Duan Yongping]] "after doing thorough homework, basically mobilized all available funds to buy its stock." His reason for daring to concentrate was singular: while building Subor he had accumulated deep understanding of the gaming industry—"this kind of understanding isn't taught in schools, found in books, or visible in financial statements." He ultimately held for 8-9 years with gains over 100x.
+
+*Source: Absolute Concentration, Duan Yongping*
+
+---
+
+**[[GE]] (2008-2009): Buying almost every day**
+
+During the financial crisis, GE's stock price fell from over $40 to $6. Duan Yongping was "busy buying GE almost every day, constantly finding ways to mobilize resources, buying from around $9 down to $6 then back up past $10." His reason for daring to concentrate was "tracking GE's corporate culture for many years and genuinely believing deep down that GE is a great company." This is a classic case where [[corporate culture]] understanding supports concentrated investing.
+
+*Source: Absolute Concentration, Duan Yongping*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Diversified investing is safer—don't put all eggs in one basket"** — "Seems like diversifying is actually more dangerous." "First clarify whether we're discussing investing or speculating—that's called wealth management...Investing means finding a good company, then putting your money into what you consider the best company. Since you think it's best but only invested a small portion while putting the rest into companies you think aren't as good, that's logically wrong." (Source: Duan Yongping Investment Q&A (Investment Logic), 2006-7-18)
+
+- ❌ **"Concentrated investing means gambling everything on one stock"** — Concentration's prerequisite is "truly understanding." "If you don't understand it, what kind of move are you making?" Heavy positions without understanding = gambling, not concentrated investing. Concentration is the natural result of [[circle of competence]]—very few companies within your circle can be truly understood. (Source: Duan Yongping Investment Q&A (Investment Logic), 2014-07-30)
+
+- ❌ **"More stocks held means deeper research and greater professionalism"** — "The more you invest, the less you earn," plus "understanding even one stock is very difficult; ten is almost 'mission possible.'" Holding too many stocks often means none are truly understood. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-25)
+
+---
+
+## 💬 Original Quotes
+
+> "From start to finish, I've truly invested in at most five or six companies; sold some, and generally hold about three. Berkshire Hathaway has over $100 billion market cap yet only invests in about ten-some companies. I'm not afraid of concentration—I'm not just concentrated, I'm absolutely concentrated." (Source: Absolute Concentration)
+
+> "Concentration is simple but extremely difficult—most people struggle to understand it and can't do it." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-02-18)
+
+> "In short: the more you invest, the less you earn, and the earlier you retire (exhausted, like Peter Lynch.)" (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-02-15)
+
+> "Finally finding a good stock at a good price—not concentrating shows lack of understanding." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-05-30)
+
+> "If you think it's a good investment opportunity, why only allocate 5-10%? What are you keeping money for? Either you think this is speculation, so you're only putting in 5-10%?" (Source: Duan Yongping Investment Q&A (Investment Logic), 2018-01-12)
+
+> "Eggs in one basket can be watched more carefully." (Source: Absolute Concentration)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Buying Logic]] · [[Margin of Safety]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Long-termism]] · [[Lock Position for Ten Years]]
+
+**Related Company Cases**
+[[NetEase]] (invested all available funds) · [[GE]] (bought almost every day) · [[Apple]] (largest position) · [[Moutai]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

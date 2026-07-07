@@ -17,162 +17,154 @@ uuid: 34efbe78-9b5e-4903-ab93-36b6994498ac
 
 # NetEase
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 网易
-
-> **"记得以前有记者问为什么当年我那么有勇气买网易，我说10块钱的东西有人一块钱哭着喊着要卖给你，你要勇气干什么？"** — 段永平（2011-05-08）
+> **"I remember a reporter once asked why I had the courage to buy NetEase back then. I said: something worth 10 yuan, someone is crying and begging to sell it to you for 1 yuan — what do you need courage for?"** — Duan Yongping (2011-05-08)
 
 ---
 
-## 🏢 基本信息
+## 🏢 Basic Information
 
-- **行业**：互联网/游戏
-- **买入时间**：约2002年，网易股价跌破1美元时
-- **买入价格**：约0.8-1美元（最低时）
-- **卖出时间**：约2010年前后，大部分在30-35美元卖出（涨到20-30倍时还追加，最终100多倍卖出）
-- **投资回报**：100倍以上
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的判断 |
-|------|------|------------|
-| 2002年 | 约1美元/股买入，最后一天一下买了接近50万股 | 看好游戏市场，在[[能力圈]]内；认为买的是公司，上不上市无所谓 |
-| 2002-2010年 | 持有8-9年，涨到20-30倍时还追加 | 用[[平常心]]抵抗每天的卖价诱惑 |
-| 2010年前后 | 大部分在30-35美元卖出 | 换仓[[GE]]和雅虎 |
-| 后来 | 保留一些网易股票 | "我会一直保留一些网易的股票的" |
+- **Industry**: Internet / Gaming
+- **Purchase Time**: Around 2002, when NetEase's stock price fell below $1
+- **Purchase Price**: Around $0.8–$1 (at its lowest)
+- **Sale Time**: Around 2010, most sold at $30–35 (added more when up 20–30x, eventually sold at over 100x)
+- **Investment Return**: Over 100x
 
 ---
 
-## 💡 段永平的核心观点
+## 📅 Investment Timeline
 
-### 为什么买网易？
-
-- 非常懂游戏，当时非常确定他们将来会赚很多钱——"我在做小霸王时就有了很多对游戏的理解，这种理解学校是不会教的，书上也没有，财报里也看不出来"
-- [[生意模式]]好：网络游戏是有相当[[差异化]]的产品
-- 价格极度低估：10块钱的东西有人一块钱哭着喊着要卖给你
-
-### 为什么能拿住100倍？
-
-- 对公司及其业务的了解——只有能看懂公司和生意才能做到这一点
-- [[平常心]]——不要去想买入的成本，把焦点放在能理解的未来现金流上
-- [[买股票就是买公司]]——把股票当成非上市公司来看，没有股价的变化就明白了
-
-### 为什么卖网易？
-
-- 换仓GE和雅虎（后来又都换了苹果）
-- 丁磊是个大孩子，那么多钱放他手里不放心——这是段永平对网易现金管理问题的担忧
+| Time | Event | Duan Yongping's Judgment |
+|------|-------|-------------------------|
+| 2002 | Bought around $1/share; bought nearly 500,000 shares in one day on the last day | Bullish on gaming market, within [[circle of competence]] believed he was buying the company regardless of listing status |
+| 2002–2010 | Held for 8–9 years; added more positions when up 20–30x | Used [[ordinary mind]] to resist daily temptation of selling prices |
+| Around 2010 | Most sold at $30–35 | Rotated into [[GE]] and Yahoo |
+| Later | Kept some NetEase shares | "I'll always keep some NetEase shares" |
 
 ---
 
-## ❓ 精选问答
+## 💡 Duan Yongping's Core Views
 
-**问**：当年买网易需要很大勇气吗？
+### Why Buy NetEase?
 
-**答**：记得以前有记者问为什么当年我那么有勇气买网易，我说10块钱的东西有人一块钱哭着喊着要卖给你，你要勇气干什么？（2011-05-08）
+- Deeply understood gaming; was very certain they would earn lots of money in the future — "When I was at Subor I already gained much understanding about games; this kind of understanding isn't taught in school, isn't in books, and can't be seen from financial reports"
+- Good [[business model]]: Online games are highly [[differentiated]] products
+- Extremely undervalued: Something worth 10 yuan, someone crying and begging to sell it to you for 1 yuan
 
-*来源：段永平投资问答录(投资逻辑篇)，2011-05-08*
+### How Did He Hold Through 100x?
 
----
+- Understanding of the company and its business — only those who truly understand the company and business can do this
+- [[Ordinary mind]] — don't think about purchase cost; focus on future cash flows you can understand
+- [[Buying stocks is buying companies]] — treat stocks like unlisted companies; without stock price fluctuations it becomes clear
 
-**问**：网易涨到20-30倍时为什么还追加？
+### Why Sell NetEase?
 
-**答**：事实上，网易涨到20-30倍时我们还追加了一些。能够拿得住的最主要原因还是对公司及其业务的了解，还有就是[[平常心]]了，不要去想买入的成本，把焦点放在能理解的未来现金流上。
-
-*来源：段永平投资问答录(投资逻辑篇)，2010-05-13*
-
----
-
-**问**：买网易时感觉孤独吗？
-
-**答**：说起孤独，让我想起当年买网易的时候。从开始买到网易跌破1块钱满3个月的那天总共两个多月的时间里，每天的买单可能有一半都是我的（每天只有几千股成交），当时确实感觉很孤独，尤其是最后一天，居然一下买了接近50万股。据说那天卖的人是害怕3个月满了会被摘牌。买的那个人的想法非常简单，认为买的是公司，上不上市无所谓。孤独有时候确实价值连城。
-
-*来源：段永平投资问答录(投资逻辑篇)，2012-05-21*
+- Rotated into GE and Yahoo (which later were both rotated into Apple again)
+- Ding Lei is like a big kid — didn't feel comfortable with so much money in his hands — Duan Yongping's concern about NetEase's cash management
 
 ---
 
-**问**：当有人非要把金子按铜的价钱卖给你的时候，你需要勇气吗？
+## ❓ Selected Q&A
 
-**答**：当有人非要把金子按铜的价钱卖给你的时候，你是不需要勇气的，你只要确认那真的是金就行了（有可能其实是镀金的铁块或石头）。买网易时我觉得有点孤独，好像这个世界就我一个人再买。
+**Q**: Did buying NetEase require great courage back then?
 
-*来源：段永平投资问答录(投资逻辑篇)，2010-03-05*
+**A**: I remember a reporter once asked why I had the courage to buy NetEase back then. I said: something worth 10 yuan, someone crying and begging to sell it to you for 1 yuan — what do you need courage for? (2011-05-08)
 
----
-
-**问**：为什么卖网易？
-
-**答**：因为丁磊就是个大孩子，那么多钱放他手里不放心，虽然股价证明我可能卖错了。（2018-09-30）
-
-说丁磊是个大孩子绝对不是贬义啊！大孩子的意思是虽然是大人，但非常单纯，不会算计人，做朋友很好啊。至于卖掉大部分网易股票，事实证明也是不对的哈，虽然当时卖是为了换Yahoo，后来又都换了苹果，但要都留到今天似乎收益好像还要好点。
-
-*来源：段永平投资问答录(投资逻辑篇)，2018-10-05*
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2011-05-08*
 
 ---
 
-**问**：我们在网易上赚到100多倍是因为什么？
+**Q**: Why did you add more to NetEase when it was already up 20–30x?
 
-**答**：我们能在网易上赚到100多倍是因为我在做小霸王时就有了很多对游戏的理解，这种理解学校是不会教的，书上也没有，财报里也看不出来。
+**A**: In fact, we did add more to our position when NetEase was up 20–30x. The main reason we could hold on was understanding of the company and its business, plus having an [[ordinary mind]] — don't think about purchase cost; focus on future cash flows you can understand.
 
-*来源：段永平投资问答录(投资逻辑篇)，2010-02-07*
-
----
-
-**问**：网易账上现金太多，怎么看？
-
-**答**：记得很久以前我就跟丁老大说网易的最大问题可能是现金太多。现在的现金显然已经比那个时候要多多了，但丁磊似乎没有因为有这么多现金而犯什么大错，这是非常不容易的事情。连老巴都说以前他现金一多就容易犯错。如果网易对自己公司的未来有信心的话，回购永远是最好的消耗现金的办法（在价格过得去的情况下）。
-
-*来源：段永平投资问答录(投资逻辑篇)，2011-12-02*
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-05-13*
 
 ---
 
-**问**：投资是为了赚钱吗？
+**Q**: Did you feel lonely buying NetEase?
 
-**答**：呵呵，这个问题有意思。我想，对大多数人而言，投资当然是为了赚钱吧。投资的过程也是很有乐趣的。所以对我个人而言，享受过程可能更重要，因为结果已经不那么重要了。不过，好的结果还能帮到别人，也算是个不错的副产品。
+**A}: Speaking of loneliness, reminds me of when I bought NetEase back then. From when I started buying until the day NetEase fell below ¥1 for a full 3 months — totaling over two months — my buy orders probably accounted for half of all daily orders each day (only a few thousand shares traded daily). It really felt lonely back then, especially that last day when I suddenly bought nearly 500,000 shares. Apparently sellers that day feared delisting after the 3-month period ended. The buyer's thinking was very simple: believed he was buying the company, listed or unlisted didn't matter. Loneliness is sometimes indeed priceless.
 
-*来源：段永平投资问答录(投资逻辑篇)，2010-04-24*
-
----
-
-## 📊 投资启示
-
-网易案例的核心启示：
-1. **[[能力圈]]决定一切**：段永平懂游戏，所以能在别人恐惧时买入，也能在涨到100倍时还拿得住
-2. **[[买股票就是买公司]]**：把股票当成非上市公司来看，就不会被股价波动影响
-3. **[[平常心]]**：不要去想买入的成本，把焦点放在能理解的未来现金流上
-4. **孤独是价值连城的**：在别人都在卖的时候，你独自买入
-5. **好公司轻易不要卖**：当时卖了100多倍，如果没卖到现在可能有500倍了——"所以不要轻易卖掉好公司"
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2012-05-21*
 
 ---
 
-## 💬 原文金句
+**Q**: When someone insists on selling you gold at copper prices, do you need courage?
 
-> "从开始买到网易跌破1块钱满3个月的那天总共两个多月的时间里，每天的买单可能有一半都是我的（每天只有几千股成交），当时确实感觉很孤独，尤其是最后一天，居然一下买了接近50万股。孤独有时候确实价值连城。"（来源：段永平投资问答录(投资逻辑篇)，2012-05-21）
+**A}: When someone insists on selling you gold at copper prices, you don't need courage; you just need to confirm it really is gold (though it could be gold-plated iron or stone). Buying NetEase I felt somewhat lonely, as if I was the only person in the world buying.
 
-> "因为丁磊就是个大孩子，那么多钱放他手里不放心，虽然股价证明我可能卖错了。"（来源：段永平投资问答录(投资逻辑篇)，2018-09-30）
-
-> "好公司是知道怎么花钱的那些公司。这点上网易不算好公司，账上躺太多现金。账上的现金不用是会贬值的！"（来源：段永平投资问答录(投资逻辑篇)，2014-06-06）
-
-> "对我个人而言，享受过程可能更重要，因为结果已经不那么重要了。"（来源：段永平投资问答录(投资逻辑篇)，2010-04-24）
-
-> "我们能在网易上赚到100多倍是因为我在做小霸王时就有了很多对游戏的理解，这种理解学校是不会教的，书上也没有，财报里也看不出来。"（来源：段永平投资问答录(投资逻辑篇)，2010-02-07）
-
-> "当时卖的时候大概赚了100多倍，如果没卖到现在可能有500倍了。所以不要轻易卖掉好公司哈。"（来源：段永平投资问答录(投资逻辑篇)，2019-03-20）
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-05*
 
 ---
 
-## 🔗 相关笔记
+**Q**: Why did you sell NetEase?
 
-**相关概念**
-[[能力圈]] · [[买股票就是买公司]] · [[平常心]] · [[长期主义]] · [[差异化]]
-**相关人物**
-[[段永平]] · [[丁磊]]
-**相关主题**
-[[段永平的经典投资案例]] · [[如何看待市场波动]] · [[卖出的逻辑：段永平为什么很少卖]]
+**A**: Because Ding Lei is just a big kid — didn't feel comfortable with so much money in his hands, even though the stock price may prove I sold wrong. (2018-09-30)
+
+Calling Ding Lei a "big kid" absolutely isn't derogatory! "Big kid" means although he's an adult, he's very pure, doesn't scheme against people, makes a great friend. As for selling most of the NetEase shares, facts also prove that was wrong haha, although at the time I sold to rotate into Yahoo, which later got rotated into Apple, but holding until today might have been slightly better.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2018-10-05*
+
+---
+
+**Q**: What allowed us to make over 100x on NetEase?
+
+**A}: We could make over 100x on NetEase because when I was at Subor I already gained much understanding about games; this kind of understanding isn't taught in school, isn't in books, and can't be seen from financial reports.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-07*
+
+---
+
+**Q**: NetEase has too much cash on hand — what do you think?
+
+**A}: I remember telling Ding long ago that NetEase's biggest problem might be having too much cash. Obviously there's much more now than back then, but Ding Lei doesn't seem to have made any major mistakes despite having so much cash — this is very difficult to achieve. Even Old Buffett said he tended to make mistakes when he had too much cash. If NetEase has confidence in their company's future, share repurchase is always the best way to deploy cash (at reasonable prices).
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2011-12-02*
+
+---
+
+**Q**: Is investing about making money?
+
+**A}: Haha, interesting question. Well, for most people, investing of course is about making money. The investing process itself is enjoyable too. So personally for me, enjoying the process might be more important since results aren't as critical anymore. But good results can help others too, making it a nice byproduct.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-24*
+
+---
+
+## 📊 Investment Insights
+
+Core lessons from the NetEase case:
+1. **[[Circle of competence]] determines everything**: Duan Yongping understood gaming, so he could buy when others were fearful and hold through 100x gains
+2. **[[Buying stocks is buying companies]]**: Treat stocks like unlisted companies and you won't be affected by stock price fluctuations
+3. **[[Ordinary mind]]**: Don't think about purchase cost; focus on future cash flows you can understand
+4. **Loneliness is priceless**: You're buying alone while everyone else is selling
+5. **Don't easily sell good companies**: Sold at 100x+; if not sold could be 500x now — "So don't轻易 sell good companies"
+
+---
+
+## 💬 Original Quotes
+
+> "From when I started buying until the day NetEase fell below ¥1 for a full 3 months — totaling over two months — my buy orders probably accounted for half of all daily orders each day (only a few thousand shares traded daily). It really felt lonely back then, especially that last day when I suddenly bought nearly 500,000 shares. Loneliness is sometimes indeed priceless." (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-05-21)
+
+> "Because Ding Lei is just a big kid — didn't feel comfortable with so much money in his hands, even though the stock price may prove I sold wrong." (Source: Duan Yongping Investment Q&A (Investment Logic), 2018-09-30)
+
+> "Good companies are those that know how to spend money. In this regard NetEase isn't quite a good company; too much cash sitting idle. Cash left unused depreciates!" (Source: Duan Yongping Investment Q&A (Investment Logic), 2014-06-06)
+
+> "Personally for me, enjoying the process might be more important since results aren't as critical anymore." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-24)
+
+> "We could make over 100x on NetEase because when I was at Subor I already gained much understanding about games; this kind of understanding isn't taught in school, isn't in books, and can't be seen from financial reports." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-07)
+
+> "When I sold I'd made roughly 100x+; if I hadn't sold might be 500x now. So don't轻易 sell good companies haha." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-03-20)
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Circle of Competence]] · [[Buying Stocks Is Buying Companies]] · [[Ordinary Mind]] · [[Long-termism]] · [[Differentiation]]
+**Related People**
+[[Duan Yongping]] · [[Ding Lei]]
+**Related Topics**
+[[Duan Yongping's Classic Investment Cases]] · [[How to View Market Volatility]] · [[Selling Logic: Why Duan Yongping Rarely Sells]]
 
 :::

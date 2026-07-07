@@ -15,104 +15,96 @@ uuid: 9c2499a3-009b-4553-b7cb-f4514bb1b7be
 
 :::lang eng
 
-# 亚马逊
+# Amazon
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 亚马逊
-
-> **"这是一家企业文化很强大，生意模式也日渐强大的公司"** — 段永平（来源：商业逻辑篇，2019-09-21）
+> **"This is a company with a powerful corporate culture and an increasingly strong business model"** — Duan Yongping (Source: Business Logic, 2019-09-21)
 
 ---
 
-## 🏢 基本信息
+## 🏢 Basic Information
 
-- **行业**：电商/云计算/科技
-- **段永平持仓**：未持有（认为看不懂估值）
-- **段永平评价**：伟大的公司，但估值困难；企业文化和生意模式都很厉害
-
----
-
-## 💡 段永平的核心观点
-
-**1. 认知的转变：从"雪不厚"到"伟大的公司"**
-
-段永平对亚马逊的看法经历了明显转变。早期他说："amazon？当然是长长的坡，但上面的雪不太厚啊，不然人家怎么能坚持亏20年？"——这是他对亚马逊[[护城河]]深度的质疑。
-
-后来他改变了看法："是的，我对amazon的认识有些改变，确实觉得这个公司企业文化和[[生意模式]]都很厉害。以前对amazon的生意模式不太有概念。"（来源：商业逻辑篇，2019-06-11）
-
-**2. 为什么没有买亚马逊？**
-
-"我知道amazon是家伟大的公司，但也不知道应该值多少钱，不过未来他们一年赚500亿或更多似乎不是件太困难的事情。换来换去这种事情难度比较高，少作为佳。"（来源：商业逻辑篇，2019-06-01）
-
-**核心原因**：[[能力圈]]——看不懂估值，就不买。这是[[本分]]的体现。
-
-**3. 亚马逊的护城河**
-
-早期评价："amazon？当然是长长的坡，但上面的雪不太厚啊，不然人家怎么能坚持亏20年？"——这说明亚马逊的护城河是靠长期投入和规模效应建立的，不是一开始就很深。
-
-后期评价："这是一家企业文化很强大，生意模式也日渐强大的公司，未来一年赚500亿以上是大概率事件。"（来源：商业逻辑篇，2019-09-21）
-
-**4. 亚马逊 vs 京东**
-
-"亚马逊是不错，但美国物流环境好。京东需要建自己的物流，我有点不确定……amazon似乎在未来要厉害很多。另外，贝索斯几乎每天回家吃饭洗碗。"（来源：商业逻辑篇）
+- **Industry**: E-commerce / Cloud Computing / Technology
+- **Duan Yongping's Holding**: Not held (believes he cannot understand the valuation)
+- **Duan Yongping's Assessment**: Great company, but difficult to value; both corporate culture and business model are impressive
 
 ---
 
-## ❓ 精选问答
+## 💡 Duan Yongping's Core Views
 
-**问**：怎么看亚马逊？
+**1. Shift in Perception: From "Thin Snow" to "Great Company"**
 
-**答**：我知道amazon是家伟大的公司，但也不知道应该值多少钱，不过未来他们一年赚500亿或更多似乎不是件太困难的事情。换来换去这种事情难度比较高，少作为佳。（来源：商业逻辑篇，2019-06-01）
+Duan Yongping's view of Amazon underwent a notable transformation. Early on he said: "Amazon? Of course it's a long slope, but the snow on it isn't very thick — otherwise how could they sustain losses for 20 years?" — This was his questioning of Amazon's [[moat]] depth.
 
----
+Later he changed his view: "Yes, my understanding of Amazon has shifted somewhat; I do feel this company's corporate culture and [[business model]] are both impressive. I didn't have much concept of Amazon's business model before." (Source: Business Logic, 2019-06-11)
 
-**问**：亚马逊的生意模式怎么看？
+**2. Why didn't he buy Amazon?**
 
-**答**：是的，我对amazon的认识有些改变，确实觉得这个公司企业文化和生意模式都很厉害。以前对amazon的生意模式不太有概念。（来源：商业逻辑篇，2019-06-11）
+"I know Amazon is a great company, but I also don't know what it should be worth. However, earning $50 billion or more per year in the future doesn't seem too difficult for them. Switching back and forth is quite difficult, so better to do less of it." (Source: Business Logic, 2019-06-01)
 
----
+**Core reason**: [[Circle of competence]] — if you can't understand the valuation, don't buy. This is an embodiment of [[doing the right things]].
 
-**问**：怎么看亚马逊的估值？
+**3. Amazon's Moat**
 
-**答**：看未来能赚多少钱，看不懂就不碰了。我现在对amazon的看法：这是一家企业文化很强大，生意模式也日渐强大的公司，未来一年赚500亿以上是大概率事件。（来源：商业逻辑篇，2019-09-21）
+Early assessment: "Amazon? Of course it's a long slope, but the snow on it isn't very thick — otherwise how could they sustain losses for 20 years?" — This shows that Amazon's moat was built through long-term investment and scale effects, not deep from the start.
 
----
+Later assessment: "This is a company with a powerful corporate culture and an increasingly strong business model; earning over $50 billion per year in the future is highly probable." (Source: Business Logic, 2019-09-21)
 
-## 💬 原文金句
+**4. Amazon vs. JD.com**
 
-> "amazon？当然是长长的坡，但上面的雪不太厚啊，不然人家怎么能坚持亏20年？" — 段永平（早期评价，来源：商业逻辑篇）
-
-> "我知道amazon是家伟大的公司，但也不知道应该值多少钱，不过未来他们一年赚500亿或更多似乎不是件太困难的事情。" — 段永平（来源：商业逻辑篇，2019-06-01）
-
-> "是的，我对amazon的认识有些改变，确实觉得这个公司企业文化和生意模式都很厉害。以前对amazon的生意模式不太有概念。" — 段永平（来源：商业逻辑篇，2019-06-11）
-
-> "这是一家企业文化很强大，生意模式也日渐强大的公司，未来一年赚500亿以上是大概率事件。" — 段永平（来源：商业逻辑篇，2019-09-21）
+"Amazon is good, but US logistics environment is good. JD needs to build its own logistics, which I'm somewhat uncertain about... Amazon seems to be much stronger in the future. Also, Bezos almost always goes home to eat and wash dishes." (Source: Business Logic)
 
 ---
 
-## 📚 投资启示
+## ❓ Selected Q&A
 
-- **看懂才能买**：即使是伟大的公司，看不懂估值也不买——这是[[能力圈]]的边界
-- **认知可以改变**：段永平对亚马逊的认识从"雪不厚"到"企业文化和生意模式都很厉害"，说明[[能力圈]]是可以扩展的
-- **[[护城河]]需要时间验证**：亚马逊靠亏损20年建立的护城河，不是一眼就能看清楚的
-- **不懂不碰**：段永平知道亚马逊伟大，但因为看不懂估值就不买——这是[[本分]]的最好体现
+**Q**: What do you think about Amazon?
+
+**A**: I know Amazon is a great company, but I also don't know what it should be worth. However, earning $50 billion or more per year in the future doesn't seem too difficult for them. Switching back and forth is quite difficult, so better to do less of it. (Source: Business Logic, 2019-06-01)
 
 ---
 
-## 🔗 相关笔记
+**Q**: What's your take on Amazon's business model?
 
-**相关概念**
-[[能力圈]] · [[生意模式]] · [[护城河]] · [[本分]]
-**相关人物**
-[[段永平]]
-**相关公司**
-[[苹果]] · [[腾讯]] · [[茅台]] · [[阿里巴巴]]
-**相关主题**
-段永平的价值投资体系 · [[如何判断一家好公司]]
+**A**: Yes, my understanding of Amazon has shifted somewhat; I do feel this company's corporate culture and business model are both impressive. I didn't have much concept of Amazon's business model before. (Source: Business Logic, 2019-06-11)
+
+---
+
+**Q**: What about Amazon's valuation?
+
+**A**: Look at how much it can earn in the future; if you can't understand it, don't touch it. My current view on Amazon: this is a company with a powerful corporate culture and an increasingly strong business model; earning over $50 billion per year in the future is highly probable. (Source: Business Logic, 2019-09-21)
+
+---
+
+## 💬 Original Quotes
+
+> "Amazon? Of course it's a long slope, but the snow on it isn't very thick — otherwise how could they sustain losses for 20 years?" — Duan Yongping (Early assessment, Source: Business Logic)
+
+> "I know Amazon is a great company, but I also don't know what it should be worth. However, earning $50 billion or more per year in the future doesn't seem too difficult for them." — Duan Yongping (Source: Business Logic, 2019-06-01)
+
+> "Yes, my understanding of Amazon has shifted somewhat; I do feel this company's corporate culture and business model are both impressive. I didn't have much concept of Amazon's business model before." — Duan Yongping (Source: Business Logic, 2019-06-11)
+
+> "This is a company with a powerful corporate culture and an increasingly strong business model; earning over $50 billion per year in the future is highly probable." — Duan Yongping (Source: Business Logic, 2019-09-21)
+
+---
+
+## 📚 Investment Insights
+
+- **Only buy what you understand**: Even for great companies, if you can't understand the valuation, don't buy — this is the boundary of [[circle of competence]]
+- **Perception can change**: Duan Yongping's view of Amazon shifted from "thin snow" to "corporate culture and business model are both impressive," showing that [[circle of competence]] can expand
+- **[[Moat]] takes time to verify**: Amazon built its moat over 20 years of losses — not something visible at first glance
+- **If you don't understand, don't touch**: Duan Yongping knows Amazon is great, but because he couldn't understand the valuation, he didn't buy — this is the best embodiment of [[doing the right things]]
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Circle of Competence]] · [[Business Model]] · [[Moat]] · [[Doing the Right Things]]
+**Related People**
+[[Duan Yongping]]
+**Related Companies**
+[[Apple]] · [[Tencent]] · [[Moutai]] · [[Alibaba]]
+**Related Topics**
+Duan Yongping's Value Investing System · [[How to Judge a Good Company]]
 
 :::

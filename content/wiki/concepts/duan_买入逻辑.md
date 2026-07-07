@@ -13,9 +13,88 @@ uuid: 2ac0ab3b-ae26-4d3f-a908-075d6be3dda1
 
 :::lang eng
 
-# 买入逻辑
+# Buying Logic
 
-(English translation pending...)
+> **Only buy when you think it's cheap—regardless of what the market (others) thinks**
+
+---
+
+## 📌 Concept Explanation
+
+**Buying logic = Only buy when you believe it's cheap (price below intrinsic value). The judgment standard is company value, unrelated to stock price history or market sentiment.**
+
+You go to the vegetable market to buy tomatoes—you have a price in mind—you won't buy if it's over 3 yuan per jin. Whether yesterday it was 2 yuan or 5 yuan, whether people around you are snatching them up or not, you only care: is today's price worth it? Duan Yongping's stock-buying logic is exactly the same—if you think it's cheap, you buy; it has nothing to do with how others see it.
+
+---
+
+## 💡 Core Understanding
+
+**1. The only standard for buying is that you personally think it's cheap—independent of the market.**
+
+Each stock buyer "prices" the stock themselves—it's not others saying it's cheap, not that it has fallen a lot, but your own judgment of [[discounted future cash flow]] tells you this price is below intrinsic value. Only when you can truly ignore the market can you say your understanding of [[value investing]] is in place.
+
+**2. Buying is unrelated to stock price history—the only judgment standard is: company value.**
+
+What price this stock once reached should not become a reason to buy. Similarly, selling is also unrelated to your purchase cost—[[selling logic]] and buying logic are one and the same; both only look at the company itself.
+
+**3. Buying stocks means buying the company—you must think as if buying the entire company.**
+
+Before buying, ask yourself: If I had enough money, would I be willing to buy the entire company? This question helps you return to the essence of [[buying stocks is buying companies]], rather than looking at a piece of paper that can go up or down.
+
+**4. Stocks you don't plan to hold for 10 years—definitely don't plan to hold for 10 days.**
+
+Before buying, think clearly about your holding logic. If your holding logic is just "it will rise short-term," then you're speculating, not investing. [[Long-termism]] is the natural extension of buying logic.
+
+---
+
+## 💬 Original Quotes
+
+> "Stocks are 'priced' by each buyer themselves—you can only buy when you yourself think it's cheap; actually, it has nothing to do with the market (others)." (Source: Investment Logic · Chapter 5 Section 5, 2012-04-14)
+
+> "It's the same when buying. There can be many reasons to buy, but what price this stock once reached had better not be your reason. My judgment standard is value." (Source: Investment Logic · Chapter 5 Section 5, 2010-03-27)
+
+> "Stocks you don't plan to hold for 10 years definitely don't plan to hold for 10 days, otherwise you're just 'speculating'." (Source: Investment Logic · Chapter 5 Section 5, 2011-12-13)
+
+> "Buying stocks has nothing to do with what this stock cost in the past, just like selling stocks has nothing to do with purchase cost. If you don't understand this point, you're just a trader." (Source: Investment Logic · Chapter 5 Section 5, 2012-01-28)
+
+---
+
+## 🛠 How to Practice
+
+**Before buying, ask yourself two questions:**
+
+1. **Do I truly understand this company?** The prerequisite for buying is being within your [[circle of competence]]. Companies you cannot understand, no matter how cheap, cannot be bought—"If you haven't understood it, what kind of move are you making?"
+2. **Do I personally think it's cheap?** Not others saying it's cheap, not that it has fallen a lot, but your own judgment of [[discounted future cash flow]] telling you this price is below intrinsic value. If you need a calculator to figure out even a little bit of cheapness, then it's not cheap enough ([[rough estimate]]).
+
+**After buying, there's only one thing to check:**
+
+Does the logic at the time of buying still hold? Have there been fundamental changes to the company's [[business model]] and [[corporate culture]]? If not, price fluctuations have nothing to do with you.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"The stock price has fallen a lot, so it's a buying opportunity"** — The buying standard is "you personally think it's cheap," not "how much it has fallen." A stock that has fallen a lot but is still overvalued is not worth buying; the key is your judgment of company value, not the magnitude of price changes.
+
+- ❌ **"Wait until market sentiment improves and someone is willing to take over before buying"** — "The most important thing about investing is actually being able to ignore the market." Waiting for market sentiment to improve before buying often means it's no longer cheap by then. (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-02-14)
+
+- ❌ **"Before buying, research many companies—cast a wide net"** — "I understand very few businesses." In 10 years, he only made heavy investments in 5 companies. The prerequisite for buying is truly understanding, not broad exploration.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Buying Stocks is Buying Companies]] · [[Discounted Future Cash Flow]] · [[Circle of Competence]] · [[Margin of Safety]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Selling Logic]] · [[Concentrated Investing]] · [[Ordinary Mind]]
+
+**Related Company Cases**
+[[NetEase]] (bought at 1 yuan, held for 8-9 years) · [[Apple]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

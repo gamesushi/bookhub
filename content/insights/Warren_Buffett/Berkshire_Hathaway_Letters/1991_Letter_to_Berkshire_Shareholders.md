@@ -1613,7 +1613,7 @@ February 28, 1992
 :::lang chs
 
 原文: (1) Fair value as determined by Charlie and me
-	(2) Carrying value in our financial statements
+	(2) 我们财务报表中的账面价值
 
 :::
 

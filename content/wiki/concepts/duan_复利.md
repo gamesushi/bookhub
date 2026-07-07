@@ -13,9 +13,106 @@ uuid: 872c707e-85c1-42d3-a762-26a770001c92
 
 :::lang eng
 
-# 复利
+# Compound Interest
 
-(English translation pending...)
+> **"Discounting is reverse of compound interest"**
+
+---
+
+## 📌 Concept Explanation
+
+**Compound interest = interest on interest; each year's earnings added to principal continue generating earnings. Discounting is reverse operation—converting future money into today's value.**
+
+Compound interest mathematical foundation for value investing:
+
+- **Compound interest:** Interest on interest; annual earnings added to principal continue generating earnings
+- **Discounting:** Reverse of compound interest—converting future money to today's value
+- **[[Discounted future cash flow]]:** Converting all company future net cash flows to today's value equals company intrinsic value
+
+---
+
+## 💡 Core Understanding
+
+**1. Mathematics needed for investing extremely simple: knowing addition/subtraction/multiplication/division understanding compound interest enough.**
+
+Duan says "knowing addition/subtraction/multiplication/division understanding compound interest enough. Rest I don't know useful whom." Complex DCF formulas precise calculations instead give false security.
+
+**2. Discounting is reverse compound interest key to understanding company intrinsic value.**
+
+Understanding compound interest understand why today's 1 yuan worth more than tomorrow's 1 yuan thus understand [[discounted future cash flow]] essence.
+
+**3. Time most important variable for compound interest—long-term holding allows full play.**
+
+[[Duan Yongping]]'s compound interest data:
+
+| Annual Return | 10 years | 20 years | 30 years | 40 years |
+|--------------|----------|----------|----------|----------|
+| 12% | 3.1x | 9.65x | 30x | 93x |
+| 15% | 4x | 16x | 66x | **268x** |
+| 20% | 6x | 38x | 237x | **1469x** |
+
+As amateur investor 12% compound growth decent; plus big opportunities possibly encountered during long process actually exceeding 15% possible.
+
+---
+
+## 📖 Case Analysis
+
+**Compound interest and "slowly getting rich": Duan's core belief**
+
+Duan says: "Allegedly current world richest person once asked old Ba this; old Ba's answer: because very few people willing slowly get rich like him." Reveals compound interest essence—not skill but willingness. Most people unwilling go slow so compound interest power belongs only to minority.
+
+> "I think 'slowly getting rich' actually fastest method. Investing fun game." (2019-03-21, Investment Logic)
+
+**"Doing right things" equals compound interest**
+
+Duan has unique understanding compound interest: not just mathematical interest on interest but behavioral "not making errors."
+
+> Netizen: Today suddenly understood "doing right things + doing things right" = compound interest also understood greatness and difficulty.
+> Duan: Difficulty说法odd actually easiest method. (2014-04-28, Investment Logic)
+
+> **Not doing wrong things thereby making fewer errors. For those with capability doing things right over time understand what compound interest." (2013-06-04, Investment Logic)
+
+**Buffett's three snowball stories**
+
+Duan cites Buffett's compound interest stories demonstrating time power:
+- $30k at 4% compound 500 years → $2 trillion
+- $20k at 6% compound 423 years → $1 quadrillion
+- $24 at 6.5% compound 338 years → $42 billion
+
+> **People always say Buffett we can't learn from because he has much money. See what old Ba says." (2011-11-17, Investment Logic)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Investing needs much math like DFC formulas precise calculation"** — Duan says mathematics needed extremely simple complex formulas give false security instead. (2010-04-15)
+
+- ❌ **"Compound interest means frequent trading letting each profit roll into next"** — Compound interest key "not making big errors" and "time" not trading frequency. "Not doing wrong things thereby making fewer errors...over time understand what compound interest." Frequent trading erodes compound effect instead. (2013-06-04)
+
+- ❌ **"Compound interest only meaningful with high annual return"** — 12% annual return 40 years 93x; 15% 268x. "As amateur investor 12% compound decent." Compound power lies in time not how high return rate. (2012-06-24)
+
+---
+
+## 💬 Original Quotes
+
+> **"Discounting is reverse of compound interest." (2010-04-27, Investment Logic)
+
+> **Not doing wrong things thereby making fewer errors. For those with capability doing things right over time understand what compound interest." (2013-06-04, Investment Logic)
+
+> **Allegedly current world richest person once asked old Ba this; old Ba's answer: because very few people willing slowly get rich like him." (2019-10-09, Investment Logic)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Buying Stocks is Buying Companies]] · [[Investment Belief]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Discounted Future Cash Flow]] · [[Long-termism]] · [[Ordinary Mind]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

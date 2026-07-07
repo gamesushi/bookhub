@@ -13,9 +13,89 @@ uuid: fa4133b3-1d80-45fe-9884-6a61d6cbc380
 
 :::lang eng
 
-# 沉没成本
+# Sunk Cost
 
-(English translation pending...)
+> **Money already spent shouldn't influence your decisions today.**
+
+---
+
+## 📌 Concept Analysis
+
+**Sunk cost = Costs that have already been incurred and cannot be recovered; they should not become a reason to continue investing.**
+
+You buy a movie ticket, go in, and discover the film is terrible. Will you sit through it just because "the ticket money's already spent"? The rational approach: the ticket money is sunk—whether you leave or stay, it won't come back. Staying there is only wasting your time. Investing is the same—the purchase price is sunk cost; it shouldn't affect your judgment today on "whether this stock is worth continuing to hold."
+
+---
+
+## 💡 Core Understanding
+
+**1. Sunk cost is the most common psychological trap in investing, directly causing "holding onto losses longer and longer."**
+
+After most people get trapped in losing positions, they wait for "break-even" rather than calmly comparing whether "continuing to hold" or "switching to other targets" offers greater opportunity. This is sunk cost at work—the purchase price becomes a psychological anchor preventing rational [[selling logic]] judgment. Duan Yongping says over 95% of people struggle with this most of the time.
+
+**2. Each day's closing price is your opportunity cost; not selling equals buying again today.**
+
+This is the most powerful perspective for understanding sunk cost: you hold this stock today not because of what you originally paid for it, but because today you choose to continue holding it rather than switching to something better. This is one with [[opportunity cost]]—your purchase price has nothing to do with today's decision; today's decision relates only to "this stock's future value."
+
+**3. Truly understanding sunk cost enables you to "forget the purchase price and view how much the company is worth with an ordinary mind."**
+
+Duan Yongping says this is the hardest hurdle. When you discover you bought wrong, sell immediately—don't comfort yourself with "waiting for break-even." The core of [[mistakes and correction]] lies here: the cost of admitting an error is far smaller than the cost of continuing to hold a wrong decision. The spirit of [[Stop Doing List]] also lies here: once you discover it's a pit, stop digging.
+
+---
+
+## 🛠 How to Practice
+
+**Whenever facing a holding decision, ask yourself this question:**
+
+"If I had cash in hand today, would I buy this stock?"
+
+If the answer is "no," then the only reason you're continuing to hold is sunk cost—you don't want to admit a loss. At this point, the right approach is to sell, not wait.
+
+**Three signals that indicate you've fallen into the sunk cost trap:**
+1. You say "I'll sell when it bounces back" — this is sunk cost thinking
+2. You say "I've already lost so much; another drop doesn't matter" — this is sunk cost thinking
+3. You say "I'm a long-term investor," but your original buying logic has long since ceased to apply—this is also sunk cost thinking
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Mr. Duan, I'd like to ask: Munger said "We don't sell a company simply because it's in trouble," while Buffett said "If it's a hole, stop digging." Can these two statements apply to the same company? I'm still conflicted by past sunk costs.
+
+**A:** If it's the right company, you shouldn't sell it when it's cheap. If it's the wrong company, at least don't buy more. If you feel the company you currently hold will collapse at some point in the foreseeable future, do you think you should: 1. Add to your position because you lost money before and want to average down so you can recover costs when it rebounds? 2. Don't buy but don't sell either, hoping for a rebound opportunity to exit? 3. Forget what price you bought at and think with an ordinary mind about what this company is worth? ...This last option is the hardest.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2013-04-08*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"If you lose money, you must wait for break-even, otherwise the loss becomes real"** — Correct view: Duan Yongping says there's a financial term called sunk cost—if you truly understand it, you can resolve this question. A loss doesn't "become real" at the moment of sale—it occurred the moment you bought wrong. *(Source: Duan Yongping Investment Q&A (Investment Logic), 2013-12-28)*
+
+- ❌ **"Averaging down is a rational operation"** — Correct view: If the company itself is wrong, averaging down is just digging yourself deeper in the same pit. What Munger calls "stop digging" addresses exactly this situation. *(Source: Duan Yongping Investment Q&A (Investment Logic), 2012-06-26)*
+
+---
+
+## 💬 Original Quotes
+
+> "There's a term in finance called sunk cost. If you truly understand it, you can solve your problem. I believe over 95% of people will struggle with this most of the time." (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-12-28)
+
+> "Sunk cost refers to costs already incurred from past decisions that cannot be changed by any present or future decisions. The story describes spending new investment trying to rescue already-sunken money—the result is throwing good money after bad." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-30)
+
+> "It makes me think of sunk cost. It also reminds me of what old Buffett said: if it's a hole, stop digging. Just look at how many people are digging their own holes and you'll understand." (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-06-26)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Opportunity Cost]] · [[Ordinary Mind]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Selling Logic]] · [[Mistakes and Correction]] · [[Stop Doing List]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

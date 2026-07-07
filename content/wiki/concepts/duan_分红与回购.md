@@ -13,9 +13,79 @@ uuid: a4157686-794d-4713-9286-b26b46642ee3
 
 :::lang eng
 
-# 分红与回购
+# Dividends and Buybacks
 
-(English translation pending...)
+> **Good companies know how to spend money: unused money should be returned to shareholders**
+
+---
+
+## 📌 Concept Explanation
+
+**Dividends and buybacks = two ways companies return excess cash to shareholders; important signals for whether management truly considers shareholder interests.**
+
+You invested in a steamed bun shop earning 1 million annually, but shop only needs 200k for operations. What about remaining 800k? A good boss will distribute this 800k to you (dividend) or use 800k to repurchase shares making your portion worth more (buyback). A bad boss will sit on this 800k or invest recklessly—money sitting loses value; reckless investment is worse. Dividends and buybacks reflect good bosses being responsible to shareholders.
+
+---
+
+## 💡 Core Understanding
+
+**1. The most ideal companies are those that can continuously reinvest profits into original business—dividends are secondary choice.**
+
+**2. Good companies when cash exceeds needs will naturally distribute dividends—hoarding cash harms shareholder interests.**
+
+Cash sitting idle depreciates.
+
+**3. Buyback premise is cheap stock price—buybacks aren't more better; depends if price is appropriate.**
+
+Buyback essence is [[opportunity cost]] judgment: when company's own stock is cheapest investment target, buyback is optimal choice.
+
+**4. Dividends have nothing to do with stock value—distributing or not doesn't affect company [[intrinsic value]].**
+
+Duan says he "doesn't care at all about dividends" because company value comes from its cash flow generation ability, not dividend action itself. "Dividends actually have nothing to do with company value. Old Warren never distributed dividends."
+
+---
+
+## 📖 Case Analysis
+
+**[[Apple]]'s Buyback Logic (2013)**
+
+Duan predicted Apple would debt-finance buybacks reasoning: Apple already had far more cash than operational needs but overseas cash returning to US faced tax barriers while debt cost extremely low—optimal solution was borrowing in US to repurchase stock awaiting overseas cash return window. "Finally Apple really did debt-financed buybacks as I thought. Good companies are ones that know how to spend money." (Source: Investment Logic, 2014-06-06)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Companies distributing high dividends are good companies"** — "Domestically people often mix shareholder returns with dividends—actually no necessary relationship." Dividends are just one way of returning cash; if company can reinvest at higher returns, not distributing is better for shareholders. Buffett's Berkshire never distributed dividends but shareholder returns extremely high. (Source: Investment Logic, 2010-05-23)
+
+- ❌ **"Companies heavily repurchasing stocks indicate good company"** — "Buybacks at most show major shareholders think their stock undervalued. Often company buybacks just posture for market—actually mean nothing." Debt-financed buybacks even more "very uncomfortable matter." Buyback quality depends on: was stock price really cheap when buying back? (Source: Investment Logic, 2012-02-11; 2015-04-08)
+
+---
+
+## 💬 Original Quotes
+
+> "Actually most ideal companies can continue investing profits into original business model—dividends are secondary choice. Of course, dividends 100x better than spending recklessly." — Duan Yongping (Source: Investment Logic, 2013-09-28)
+
+> "Good companies when cash exceeds needs and cannot utilize effectively will naturally distribute dividends—otherwise not very good companies. Some companies hoarding cash without using it harm shareholder interests." — Duan Yongping (Source: Investment Logic, 2012-03-07)
+
+> "Actually whether repurchasing or distributing dividends aren't keys to return rate—but truly profitable good companies eventually definitely pass profits to shareholders through one or several channels." — Duan Yongping (Source: Investment Logic, 2015-11-16)
+
+> "Domestically people often mix shareholder returns with dividends—actually no necessary relationship." — Duan Yongping (Source: Investment Logic, 2010-05-23)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Intrinsic Value]] · [[Discounted Future Cash Flow]] · [[Opportunity Cost]] · [[Business Model]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Standards for Good Companies]] · [[ROE]]
+
+**Related Company Cases**
+[[Apple]] (typical debt-financed buyback case) · [[NetEase]] (excessive cash on hand—Duan thinks not good company)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

@@ -15,7 +15,125 @@ uuid: dff9f54d-3f0b-4391-8961-4064f63c0bd1
 
 # Business Model
 
-(English translation pending...)
+> **The most important concept Duan Yongping learned from Buffett—look at this first when investing.**
+
+---
+
+## 📌 Concept Analysis
+
+**Business model = The way net cash flow is generated. A good business model = Can generate large, sustainable amounts of net cash flow over the long term.**
+
+Imagine two bubble tea shops: Shop A buys fresh ingredients for every cup; as soon as competitors cut prices, it follows suit, with profit margins getting thinner. Shop B has a proprietary recipe—customers are loyal to that taste and willing to pay 10 yuan more, and competitors can't copy it. Shop B has a good business model—it has [[differentiation]], a [[moat]], and can earn money long-term. [[Duan Yongping]] says: "Even the best driver struggles to drive a broken car well." Choosing the right business model is more important than finding good management.
+
+---
+
+## 💡 Core Understanding
+
+**1. Business model is the #1 investment standard, more important than management.**
+
+Duan Yongping said "[[Buffett]]'s lunch wasn't wasted—the statement 'business model matters most' alone was worth 100 lunches"—this was the most important thing he learned from the 2006 lunch. "Right business, right people, right price"—right business comes first.
+
+**2. Business model determines [[discounted future cash flow]]; good business models guarantee good future cash flows.**
+
+A good business model includes a [[moat]]—"a moat is actually part of a business model; good business models often have very wide moats."
+
+**3. The opposite of a good model: industries with little differentiation, fierce competition, capital intensity—even hard work rarely makes big money here.**
+
+Airlines, solar PV companies—these have poor business models not because management doesn't work hard but because "even the best driver struggles to drive a broken car well." Investing should avoid companies where products struggle to achieve long-term [[differentiation]].
+
+**4. Good business model = Long slope + thick snow.**
+
+Duan Yongping uses "rolling a snowball" to describe good business models: Apple, Moutai, Tencent are "long slope, thick snow"; companies pursuing "price-performance ratio" "probably lack both long slopes AND thick snow." (2017-03-17, Business Logic)
+
+**5. A good business model necessarily includes good corporate culture.**
+
+Business model and corporate culture are two sides of the same coin—without good corporate culture, even a good business model is difficult to sustain. (2018-09-30, Stanford)
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** What is a business model?
+
+**A:** Old buddy Buffett says business model is most important. I've been thinking about this sentence for several years now, still thinking, but increasingly feeling he's right. That lunch with old Buffett wasn't wasted—that sentence alone was worth 100 lunches (actually far more, haha)? (2012-06-24, Investment Logic)
+
+---
+
+**Q:** How do you judge whether a company has a good business model?
+
+**A:** If you don't yet understand what a business model means, then look at Buffett's speeches at several universities. Still don't get it? Then look at See's Candies, Coca-Cola, BYD, Apple, airlines, those solar wafer "PV companies"... Still don't understand? Start over, read again. If you haven't grasped it within 10-20 years, keep using this method—"start over, read again." (2012-06-24, Investment Logic)
+
+---
+
+**Q:** Why do companies pursuing "price-performance ratio" fail to produce good results?
+
+**A:** Most companies pursuing "price-performance ratio" are probably just making excuses for their low prices. Long-lived companies probably don't emphasize this concept much—the people know what's good. Good products aren't cheap. (2017-03-25, Business Logic)
+
+---
+
+**Q:** Which is more important: a good business model or good corporate culture?
+
+**A:** Good business model plus good corporate culture is generally characteristic of a good company. (2015-04-17, Business Logic)
+
+---
+
+## 📖 Case Analysis
+
+**"Long slope, thick snow"—Duan Yongping's business model classification**
+
+> "Apple fits, right? Apple is on a long slope, and the snow seems thick too. Moutai certainly qualifies! Long slope, thick snow, though it occasionally loses a little bit of snow. NetEase should probably count too? Tencent should count too? Google should definitely count too? Absolutely long slope, thick snow." (2017-03-17, Business Logic)
+
+Comparison:
+- **Apple:** Long slope, thick snow, extremely deep ecosystem moat
+- **Moutai:** Long slope, thick snow, brand moat, occasional small losses like "plasticizer incident"
+- **Airlines:** Short slope, thin snow, fierce competition, extremely difficult differentiation
+- **Phone brands pursuing price-performance ratio:** Neither long slope nor thick snow
+
+**The most important lesson from the Buffett lunch**
+
+> "The most important thing I learned from Buffett is business model. Before, while I knew business model was important, I often looked at it mixed in with many other important things. Back then, old Buffett specifically reminded me to look at business model first. Over these few years, I've gradually come to feel this is indeed how it should be." (2012-04-05, Investment Logic)
+
+---
+
+## 💬 Original Quotes
+
+> "Old buddy Buffett says business model is most important. I've been thinking about this for several years, still thinking, but increasingly feeling his view makes sense. That lunch with old Buffett wasn't wasted—that sentence alone was worth 100 lunches (actually far more, haha)?" (2012-06-24, Investment Logic)
+
+> "The better the business model, the higher the certainty of investing—or put differently, the lower the risk." (2013-04-03)
+
+> "Even the best driver struggles to drive a broken car well." (2013-04-22, on the relationship between business model and management)
+
+> "A good business model shouldn't be mediocre in profitability over the long term, though short-term mediocrity is possible. My definition of 'good business model' inherently includes strong future earning power; otherwise it isn't a 'good business model.'" (Source: Investment Logic)
+
+> "Right business, right people, right price. Right business refers to business model; right people refers to corporate culture. Price isn't as important—business and people matter most." (2018-09-30, Stanford)
+
+> "Apple fits, right? Apple is on a long slope, and the snow seems thick too.... Moutai certainly qualifies! Long slope, thick snow, though it occasionally loses a little bit of snow." (2017-03-17, Business Logic)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"A good business model must be high-tech, high-growth industry"** — "Boring" businesses like [[Moutai]] or See's Candies often have the best models. "Still don't get it? Then look at See's Candies, Coca-Cola... Still don't understand? Start over, read again."
+
+- ❌ **"Find good management first, then look at business model"** — "You should look at business model first." Even good management struggles in poor business models, but a good business model can tolerate mediocre management.
+
+- ❌ **"If the business model is good, I must buy it" — It also needs to be within your [[circle of competence]], at a reasonable price ([[rough estimation]]), and have [[margin of safety]].**
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Buying Stocks Means Buying Companies]] · [[Discounted Future Cash Flow]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Moat]] · [[Differentiation]] · [[Corporate Culture]] · [[Standards for Good Companies]] · [[Rough Estimation]] · [[Understanding Financial Statements]]
+
+**Related Company Cases**
+[[Apple]] · [[Moutai]] · [[NetEase]] · [[BBK]] · [[OPPO]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

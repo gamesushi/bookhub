@@ -1869,7 +1869,6 @@ Our contracts fall into four major categories. With apologies to those who are n
 
 :::lang chs
 
-- We have added modestly to the “equity put” portfolio I described in last year’s report. Some of our contracts come due in 15 years, others in 20. We must make a payment to our counterparty at maturity if the reference index to which the put is tied is then below what it was at the inception of the contract. Neither party can elect to settle early; it’s only the price on the final day that counts.
 - 我在去年报告中描述的“股票看跌”投资组合适度增加了。我们的一些合约将在15 年内到期，其他将在 20 年内到期。如果与看跌期权合约挂钩的参考指数，低于合约签订时的价格，我们将要在到期时给交易对方支付款项。任何一方都不能选择提前结算，重要的只是最后那一天的价格。
 
 :::

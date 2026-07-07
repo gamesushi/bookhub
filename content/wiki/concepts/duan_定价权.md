@@ -13,9 +13,93 @@ uuid: 8ec20b37-0f4a-4f45-8401-05dc3856d0b8
 
 :::lang eng
 
-# 定价权
+# Pricing Power
 
-(English translation pending...)
+> **Things able to raise prices indicate having moat**
+
+---
+
+## 📌 Concept Explanation
+
+**Pricing power = company's ability raise product prices without losing customers; having pricing power indicates product has genuine [[differentiation]] consumers can't find alternatives.**
+
+Only one bakery near your home you buy daily even if raises 10% still go—because no other choice or its bread simply better than others. This pricing power. Conversely if five more bakeries nearby you'd switch when price raises—this shop has no pricing power. Duan's pricing power exactly this: consumers willing accept price increases not run to competitors.
+
+---
+
+## 💡 Core Understanding
+
+**1. Pricing power is moat—essentially same thing.**
+
+(2010-05-18) "Pricing ability and moat actually same thing." (2011-02-22) Duan equates pricing power and [[moat]] directly. Can continuously raise prices without losing customers indicates company has competitive advantage others cannot replicate—exactly moat definition. Companies without pricing power often have fragile moats too.
+
+**2. Buffett values pricing power most when evaluating companies—sometimes even over management.**
+
+(Buffett, 2010-04-13, quoted by Duan) Duan's understanding: "Old Ba says relative to management ability he values pricing ability more; actually establishing strong pricing ability takes very long time without good management ability impossible at all. So what he says not contradictory." (2011-02-22) Pricing power doesn't fall from sky but result of long-term accumulation.
+
+**3. Companies with pricing power often also have "underutilized price increase space"—best investment opportunities.**
+
+Munger says: "There's sub-pattern: in lifetime you can find few enterprises where managers can greatly improve profits merely by raising prices—yet they haven't done so. Therefore they possess unused pricing power. People without thinking know these good stocks." (Munger, quoted by Duan, 2012-06-26) See's Candies Disney typical such companies.
+
+**4. Companies without pricing power ultimately can only compete through price wars difficult become great enterprises.**
+
+(Netizen quote, Duan agrees, 2010-05-30) Consistent with [[differentiation]] logic—no differentiation no pricing power; without pricing power only price wars; industries with price wars rarely produce good [[business model]]s.
+
+---
+
+## 📖 Case Analysis
+
+**Moutai (2013): Typical case of pricing power**
+
+"People who like drinking Moutai won't switch to Wuliangye because Moutai raised prices." (2011-01-14) When analyzing Moutai Duan lists "having pricing power" as core advantages: "Moutai production environment unreplicable state banquet wine历代leader favor forming national wine status 1915 Panama Gold Award best liquor quality has pricing power good corporate culture." Moutai's pricing power comes from high product differentiation—consumers drinking Moutai not just consuming wine but cultural symbol this differentiation means price increases won't cause customer loss.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2011-01-14; Moutai analysis original*
+
+**Apple (2011): Differentiation brings pricing power**
+
+"Apple's differentiation well done cost control very good. Similar Coca-Cola See's Candies domestic Moutai similar." (2011-02-24) Apple can maintain high pricing extremely competitive consumer electronics industry fundamentally because iPhone's differentiation—users won't abandon iPhone because Android cheaper. This pricing power direct result of [[differentiation]].
+
+*Source: Business Logic, 2011-02-24*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Pricing power means arbitrarily raising prices"** — "Cannot abuse so-called pricing power (price increases)." (Netizen, 2010-05-30) Duan responds: "You think Rolex producing more would earn more? Quickly read Munger's book." Pricing power not unlimited right raise prices but ability reasonably raise prices without losing core customers. Abusing pricing power (excessive increases) damages brand customer relations.
+
+- ❌ **"Management ability more important than pricing power"** — Buffett explicitly says "sometimes he doesn't care at all who manages company" premise company has strong pricing power. Duan's understanding: establishing pricing power takes extremely long time without good management ability impossible at all—so pricing power and management ability not opposed but pricing power result of management ability long-term accumulation.
+
+- ❌ **"Low-price companies don't have pricing power"** — Pricing power doesn't mean high price but room raise prices on existing basis without customer loss. Munger's example: some companies "can greatly improve profits merely by raising prices—yet they haven't done so" this "unused pricing ability" best investment opportunity.
+
+---
+
+## 💬 Original Quotes
+
+> **Things able to raise prices indicate they have 'moat'—being able realize this shows talent." (Source: Business Logic, 2010-05-28)
+
+> **Pricing power equals 'moat' right?" (Source: Business Logic, 2010-05-18)
+
+> **Pricing ability and moat actually same thing. Old Ba says relative to management ability he values pricing ability more; actually establishing strong pricing ability takes very long time without good management ability impossible at all." (Source: Business Logic, 2011-02-22)
+
+> **Apple's differentiation well done cost control very good. Similar Coca-Cola See's Candies domestic Moutai similar." (Source: Business Logic, 2011-02-24)
+
+> **If enterprise has ability raise prices without business flowing to competitors definitely excellent enterprise." (Source: Business Logic quoting Buffett, 2010-04-13)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Differentiation]] · [[Business Model]] · [[Moat]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Standards for Good Companies]] · [[Intrinsic Value]]
+
+**Related Company Cases**
+[[Moutai]] (liquor pricing power) · [[Apple]] (iPhone pricing power) · See's Candies (candy pricing power) · Coca-Cola
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

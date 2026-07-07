@@ -13,9 +13,110 @@ uuid: 0eff7255-6a8e-4f84-a604-c326e27988af
 
 :::lang eng
 
-# 平常心
+# Ordinary Mind
 
-(English translation pending...)
+> **"All our success comes from 'Fundamental Duty + Ordinary Mind'"**
+
+---
+
+## 📌 Concept Analysis
+
+**Ordinary Mind = Returning to the essence of things, viewing everything rationally, not being carried away by short-term fluctuations and emotions.**
+
+Ordinary Mind = rational = returning to the origin of things. When you have an ordinary mind, you ask: "Has this company's business gotten worse?" rather than "The stock price has fallen, should I cut my losses?"
+
+---
+
+## 💡 Core Understanding
+
+**1. Ordinary Mind is rational—it means returning to the origin of things.**
+
+[[Fundamental Duty]] and Ordinary Mind are the core secrets of [[BBK]][[corporate culture]].
+
+**2. Ordinary Mind is something already within you; it can only be discovered through making mistakes and suffering losses.**
+
+Ordinary Mind cannot be learned; it is gradually discovered through making mistakes and reflection.
+
+**3. Ordinary Mind is extraordinary; it is very difficult for ordinary people to truly achieve it.**
+
+This is why most people become emotional when stock prices fluctuate—achieving true rationality is far harder than imagined.
+
+**4. Ordinary Mind is a "pure mind," the psychological foundation for doing the right thing.**
+
+Duan Yongping cites the *Qingjing Scripture* (Scripture of Purity and Tranquility): "When humans maintain constant purity and tranquility, all of heaven and earth return to them." Ordinary Mind is pure mind—the supreme wisdom spoken of in Buddhism. "Only with Ordinary Mind can one fulfill Fundamental Duty." The persistence in returning to a pure mind and doing the right thing is Fundamental Duty. (2018-12-17, Business Logic)
+
+**5. Professional investors need Ordinary Mind most—do not become a professional investor without it.**
+
+Ordinary Mind is the foundation for investors to remain rational amid market fluctuations. (2011-03-08, Investment Logic)
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** How should we understand the role of Ordinary Mind in investing?
+
+**A:** Simply put, "Ordinary Mind" means returning to the source of things. Knowing what the "source of things" is, however, is not easy. For example, in investing, what you're buying is the company's future net cash flow; everything else is irrelevant. But understanding a company's future net cash flow is extremely difficult. If you invest without being able to figure out the company's future cash flow, what exactly are you buying? (Investment Logic)
+
+---
+
+**Q:** Why do you not recommend becoming a professional investor?
+
+**A:** I have always believed that if someone is still struggling with these questions, they'd better not engage in professional investment, otherwise it's hard to maintain an Ordinary Mind. My companies don't generate any cash flow for me anymore; I stopped needing that long ago. (2011-03-08, Investment Logic)
+
+---
+
+**Q:** What is the relationship between Ordinary Mind and Fundamental Duty?
+
+**A:** Ordinary Mind essentially means that at any time, especially when there are temptations, you can exclude all external interference, return to the essence of things (the origin), distinguish right from wrong, and know what is the right thing to do. (2016-10-12, Business Logic)
+
+---
+
+## 📖 Case Analysis
+
+**Ordinary Mind when NetEase fell below $1**
+
+When Duan Yongping bought NetEase in 2002, its stock price had fallen from its high to under $1, and the market was in panic. He said: "From when I started buying until the day NetEase had been below $1 for a full three months—a period of over two months—about half of the daily buy orders were probably mine." This ability to continue buying amid extreme panic is precisely the embodiment of Ordinary Mind—he focused on the company's future cash flows, not on the stock price.
+
+**Ordinary Mind during the Moutai plasticizer incident**
+
+During the 2012 Moutai plasticizer incident, stock prices plummeted. Duan Yongping bought Moutai at around 180 yuan because of "right business + right people + right price." When the market panics, those with an Ordinary Mind ask: "Has Moutai's business model changed?" rather than "How much further will the stock price fall?"
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Ordinary Mind means being numb, indifferent to rises and falls"** — Ordinary Mind is "rational"—it doesn't mean not caring, but rather caring about company fundamentals, not stock price fluctuations. When the stock price falls, a person with an Ordinary Mind asks "Has the company's business gotten worse?" rather than panic-selling. (Source: 2018 Stanford speech)
+
+- ❌ **"Ordinary Mind is innate; some people just can't do it"** — "Maintaining it isn't difficult because it's already there (it's something already inside you). Discovering it, however, requires suffering losses." Ordinary Mind is inherent in everyone's heart; it only needs to be discovered through mistakes and reflection. (2018-09-30, Stanford SDL dialogue)
+
+- ❌ **"Having Ordinary Mind is enough to be a professional investor"** — Ordinary Mind is necessary but not sufficient. "If you're still thinking about how much stable cash flow you need, you'd better not be a 'professional investor'—you also need the ability to truly understand companies." (2011-03-08, Investment Logic)
+
+---
+
+## 💬 Original Quotes
+
+> "All our success comes from 'Fundamental Duty + Ordinary Mind.' Ordinary Mind is rational, returning to the origin of things, doing the right thing, and doing things right." (Source: Stanford SDL dialogue, 2018-09-30)
+
+> "How do you discover and maintain Ordinary Mind? Maintaining it isn't difficult because it's already there (it's something inside you). Discovering it requires suffering losses. Without Ordinary Mind, the moment you stop being rational, you'll stumble." (Source: Stanford SDL dialogue, 2018-09-30)
+
+> "Jack Ma also said this: 'Ordinary people find it very hard to have an Ordinary Mind, so Ordinary Mind is actually Extraordinary Mind!'" (Source: Stanford SDL dialogue, 2018-09-30)
+
+> "Ordinary Mind essentially means that at any time, especially when there are temptations, you can exclude all external interference, return to the essence of things (the origin), distinguish right from wrong, and know what is the right thing to do." (2016-10-12, Business Logic)
+
+> "The *Qingjing Scripture* says 'when humans maintain constant purity and tranquility, all of heaven and earth return to them'... Ordinary Mind essentially means this kind of purity. Only with Ordinary Mind can one fulfill Fundamental Duty." (2018-12-17, Business Logic)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Fundamental Duty]] · [[Buying Stocks Means Buying Companies]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Long-termism]] · [[Selling Logic]] · [[Concentrated Investing]] · [[Macroeconomics and Markets]] · [[Golf and Investing]] · [[Short Selling]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

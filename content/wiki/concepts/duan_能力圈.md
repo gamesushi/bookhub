@@ -15,7 +15,77 @@ uuid: 86184a88-3bcb-44a3-9e62-f8e3aace063b
 
 # Circle of Competence
 
-(English translation pending...)
+> **Only do what you truly understand—knowing your boundaries matters more than expanding them.**
+
+---
+
+## 📌 Concept Analysis
+
+**Circle of competence = The range of enterprises whose future cash flows you can truly understand.**
+
+You're a chef. Sichuan cuisine is your specialty; when guests order Sichuan dishes, you're confident. But someone asks you to make French cuisine—you've watched a few videos but never actually done it. If you accept the order anyway, things will likely go wrong. **Knowing you only do Sichuan cuisine is far smarter than pretending you can do everything.**
+
+---
+
+## 💡 Core Understanding
+
+**1. Knowing boundaries is more important than expanding them; size doesn't matter—knowing where the boundary is does.**
+
+Duan Yongping says "I understand very few businesses. The difference between me and many people is that I admit I understand very few, so it becomes simple"—admitting what you don't know is the most important part of circle of competence.
+
+**2. Circle of competence is the true meaning of [[margin of safety]]; businesses within your circle are usually easier to understand.**
+
+Margin of safety should actually refer to circle of competence, not just price. Within your circle of competence, you often understand businesses well; others' uncertainty is often certainty for yourself.
+
+**3. Don't lightly expand your circle of competence—it often takes many years to truly understand a business.**
+
+Circle of competence is hard to expand; reading books alone won't work.
+
+**4. Most people who lose money long-term in the stock market don't know how big their circle of competence is.**
+
+[[Concentrated investing]] is the natural result of circle of competence—there are very few companies you can truly understand within your circle, so concentrate, don't diversify.
+
+---
+
+## 💬 Original Quotes
+
+> "Knowing how large your circle of competence is matters far more than how large it actually is!" (Source: Investment Logic · Chapter 2 Section 2)
+
+> "Most people who lose money long-term in the stock market belong to those who don't know how large their circle of competence is." (Source: Investment Logic · Chapter 3 Section 3, 2012-07-28)
+
+> "Don't lightly try to 'expand' your circle of competence. Understanding a business often takes many years—don't jump into unfamiliar fields or places just because you've seen one or two concepts, otherwise you'll eventually stumble." (Source: Investment Logic · Chapter 3 Section 3, 2012-04-06)
+
+> "Actually, circle of competence is hard to expand—at least not through reading books alone. However, reading more can help tell you how large your circle of competence is." (Source: Investment Logic · Chapter 3 Section 3, 2012-07-16)
+
+> "I understand very few businesses. The difference between me and many people is that I admit I understand very few, so it becomes simple." (Source: Investment Logic, 2018-08-10)
+
+> "Size doesn't matter—knowing where the boundary is matters." (Source: Investment Logic, 2013-10-20)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"The bigger the circle of competence, the better—constantly strive to expand it"** — "Expanding your circle of competence isn't necessarily wise." "For most people capable of investing, there's actually plenty they can do within their own circles of competence." Circle of competence is hard to expand; reading books alone won't work.
+
+- ❌ **"Margin of safety means buying cheap enough—a price discount equals margin of safety"** — "Margin of safety should actually refer to circle of competence, not just price." Within your circle of competence, your judgment about the enterprise itself is the greatest margin of safety.
+
+- ❌ **"Learning from Buffett means learning which stocks he buys and imitating his trades"** — "The most important thing about learning from Buffett that people can actually learn is what he DOESN'T do! Most people learn the opposite—what he does, which is impossible to learn because everyone's circle of competence differs."
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Buying Stocks Means Buying Companies]] · [[Discounted Future Cash Flow]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Business Model]] · [[Margin of Safety]] · [[Concentrated Investing]] · [[Stop Doing List]] · [[Macroeconomics and Markets]] · [[Understanding Financial Statements]] · [[Golf and Investing]]
+
+**Related Company Cases**
+[[NetEase]] (Duan Yongping judged the gaming market far larger than market expected due to deep experience in the gaming industry) · [[Apple]]
+
+**Related People**
+[[Buffett]] · [[Munger]]
 
 :::
 

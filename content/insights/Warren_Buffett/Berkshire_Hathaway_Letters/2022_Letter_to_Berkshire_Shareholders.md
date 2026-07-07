@@ -29,7 +29,7 @@ related: []
 
 ---
 
-# Berkshire's Corporate Performance vs. the S&P 500
+# 伯克希尔公司表现 vs. 标普 500
 
 :::lang common
 

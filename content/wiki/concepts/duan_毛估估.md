@@ -13,9 +13,77 @@ uuid: 492fe547-92d2-4ab0-9f4f-814b3ec2a814
 
 :::lang eng
 
-# Rough Estimation
+# Rough Estimation (Mao Gu Gu)
 
-(English translation pending...)
+> **Better to be vaguely right than precisely wrong.**
+
+---
+
+## 📌 Concept Analysis
+
+**Rough estimation = No need for precise calculator calculations—just roughly determine whether a company is obviously cheap; if you can figure it out in 5 minutes, it's cheap enough.**
+
+You want to know how much heavier Yao Ming is than you—you don't need a scale. He stands there and anyone can see he's heavier. Duan Yongping's rough estimation means exactly this—if a company is so cheap that "you can tell at a glance," then it's truly cheap; if you need to calculate on a calculator for half a day to find even a slight discount, it's not cheap enough.
+
+---
+
+## 💡 Core Understanding
+
+**1. Valuation is essentially a rough estimation thing—if you need a calculator to figure out the bargain, it's not cheap enough.**
+
+Yao Ming stands there and anyone can see he's heavier than me—do you really need a scale? True cheapness is "obvious at a glance" cheapness, not a slight discount calculated precisely.
+
+**2. Better to be vaguely right than precisely wrong.**
+
+Precise calculation gives a false sense of security—the more precise your calculated numbers, the more assumptions about the future you're making, and these assumptions themselves are uncertain.
+
+**3. Rough estimation focuses on qualitative analysis, not quantitative calculation.**
+
+Rough estimation doesn't mean no analysis—it means the analysis focuses on "is this company good?" rather than "precisely calculating how much."
+
+**4. Rough estimation of course considers growth—discounting is the result after considering growth.**
+
+Rough estimation doesn't just look at current profits; it's a simplified version of [[discounted future cash flow]]—future growth is factored in, just without needing precise calculation.
+
+---
+
+## 💬 Original Quotes
+
+> "I think valuation is essentially a rough estimation thing. If you need a calculator to figure out it's cheap, then it's not cheap enough." (Source: Investment Logic · Chapter 5 Section 1, 2010-04-25)
+
+> "Yao Ming stands there and anyone can see he's heavier than me—do we really need a scale to know?" (Source: Investment Logic · Chapter 5 Section 2, 2019-03-20)
+
+> "What rough estimation means is I don't actually know what discount to apply. Anyway, I feel it's obviously cheap—the kind of price where I can sleep soundly at night." (Source: Investment Logic · Chapter 5 Section 2, 2011-01-19)
+
+> "'Better to be vaguely right than precisely wrong'...I think this captures exactly what I mean by rough estimation." (Source: Investment Logic · Chapter 5 Section 2, 2018-05-28)
+
+> "Rough valuation is mainly used to assess downside space; qualitative analysis is where real profits come from—and this might be the hardest part of value investing." (Source: Investment Logic · Chapter 5 Section 1, 2010-04-25)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Valuation requires precise calculation—you need DCF formulas to produce reliable numbers"** — "Munger says he's never seen Buffett use a calculator to value a business; I don't think I've ever truly used one either." Precise calculation gives a false sense of security; true valuation is qualitative judgment.
+
+- ❌ **"Rough estimation means wild guessing—no serious analysis needed"** — "Qualitative analysis is where real profits come from, and this may be the hardest part of value investing." Rough estimation doesn't mean no analysis—it means focusing on qualitative analysis (is this company good?) rather than quantitative (precisely calculating amounts).
+
+- ❌ **"Rough estimation doesn't consider growth—it only looks at current profits"** — "Rough estimation of course considers growth. Discounting is the result after considering growth." Rough estimation is a simplified version of [[discounted future cash flow]], not ignoring the future.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Discounted Future Cash Flow]] · [[Circle of Competence]] · [[Margin of Safety]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Buying Logic]] · [[Selling Logic]]
+
+**Related Company Cases**
+[[NetEase]] (bought via rough estimation, rose 160x) · [[Vanke]] (sold via rough estimation) · [[Apple]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

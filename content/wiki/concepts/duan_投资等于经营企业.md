@@ -13,9 +13,124 @@ uuid: e5993d29-26ba-4a16-8a72-a36b8b9900dd
 
 :::lang eng
 
-# 投资等于经营企业
+# Investing Equals Operating a Business
 
-(English translation pending...)
+> **View the company from an owner's perspective, not a shareholder's—this is the most fundamental cognitive shift.**
+
+---
+
+## 📌 Concept Analysis
+
+**Investing = Operating a business. When buying stocks, look at the company with an owner's eyes, not at stock prices with a shareholder's eyes.**
+
+You buy 10% of a bubble tea shop. Shareholder's perspective: The shop's "stock price" rose today—should I sell? Will it fall tomorrow? Owner's perspective: Is this shop's business good? How much can it earn annually? Do competitors pose threats? Duan Yongping said: "Buying stocks means buying companies, so at the same price there is no difference whether the company you're buying is publicly traded or not—going public merely provides convenience for exit."
+
+---
+
+## 💡 Core Understanding
+
+**1. Going public only provides convenience for exit; essentially, there is no difference between buying public or private companies.**
+
+This is a specific extension of [[buying stocks means buying companies]]—the stock market is merely a trading venue, not a basis for pricing.
+
+**2. 95% of people focus their investing on the market—that's not understanding investing.**
+
+Only by viewing a company from an owner's perspective can you resist the temptation to speculate—it's very easy for investors to become speculators and take risks they shouldn't take.
+
+**3. Experience in operating businesses is an advantage in investing, but not a prerequisite.**
+
+Duan Yongping's operating experience at [[BBK]] enabled him to understand [[NetEase]]'s gaming business and [[Apple]]'s product logic—an important reason for his investment success. But he also says "anyone can invest, as long as you understand what you're buying"—the key is thinking from an owner's perspective, not necessarily having operating experience.
+
+**4. There is no essential difference between investing and operating a business; you just don't have to exert yourself running it.**
+
+(2019-04-06, Business Logic) The advantage of investing is that you can hire people more capable than yourself to run it, while you only need to assess the value of the business.
+
+**5. The "ten-year locked position" perspective is a concrete embodiment of an owner's viewpoint.**
+
+The essence of this statement is: If you were the owner of this company, would you care about today's stock price? An owner's perspective naturally leads one to focus on the company's long-term value rather than short-term stock price fluctuations.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** What is the difference between investing and operating a business?
+
+**A:** I don't feel there's much difference between investing and running your own business. The difference is that when investing, it's people you approve of who are doing the operating. (2019-04-06, Business Logic)
+
+---
+
+**Q:** What kind of person is suitable for investing?
+
+**A:** From my personal perspective, actually anyone can invest, as long as you understand what you're buying and where its value lies. (Source: Absolute Concentration)
+
+---
+
+**Q:** Why do most people lose money investing?
+
+**A:** 95% of people focus their investing on the market—that's not understanding investing. You must focus on the business. Companies are meant to generate profits. (2018-09-30, Stanford)
+
+---
+
+**Q:** What is the difference between investing in public companies and starting your own business?
+
+**A:** Money invested in public companies should be idle money anyway; if you can find a business opportunity, of course you should invest in your own business. Actually, the underlying logic for investing in public companies is the same—the difference is you don't have to exert yourself running it, and often you can even hire people more capable than yourself to run it. (2013-05-29, Investment Logic)
+
+---
+
+## 📖 Case Analysis
+
+**Duan Yongping looks at Apple: Using 20 years of consumer electronics experience to build an owner's perspective**
+
+When Duan Yongping bought Apple in 2011, it wasn't because he read financial reports but because he had over 20 years of experience operating in consumer electronics. He said "Apple has always been the business model I dreamed of but thought was hard to achieve"—this is looking at a company from an owner's perspective, not at stock prices from a shareholder's perspective.
+
+His assessment of Apple:
+- Extremely good products (personal experience using iPhone/iPad)
+- Extremely strong business model (ecosystem moat)
+- Extremely good management (Jobs was a clock-builder, Cook is an even better CEO)
+- Reasonable price ($300 billion market cap, $100 billion net cash, $200 billion for a company earning $20 billion annually)
+
+**Duan Yongping looks at NetEase: Using gaming industry experience to build an owner's perspective**
+
+> "Back when I invested in NetEase, the reason the market wasn't bullish was that many people felt the gaming market wasn't very large. But because I'd been in this industry for a long time, I was very certain this market was extremely large (though I didn't know exactly how large—the results turned out even larger than what I saw)." (2012-04-05, Investment Logic)
+
+This is the advantage of an owner's perspective: Duan Yongping's experience in consumer electronics enabled him to see the potential of the gaming market, while most people in the market couldn't understand it.
+
+---
+
+## 💬 Original Quotes
+
+> "Buying stocks means buying companies, so at the same price there's no difference whether the company is publicly traded or not—going public simply provides convenience for exit." (Source: Absolute Concentration)
+
+> "From my personal view, actually anyone can invest, as long as you understand what you're buying and where its value lies." (Source: Absolute Concentration)
+
+> "95% of people focus their investing on the market—that's not understanding investing. You must focus on the business. Companies are meant to generate profits." (Source: 2018-09-30, Stanford)
+
+> "Investing and speculating are actually very different games, yet they look very similar. It's like in Macau: the casino operator is the investor, while the gambler is the speculator." (Source: Absolute Concentration)
+
+> "I don't feel there's much difference between investing and running your own business. The difference is that when investing, it's people you approve of who are doing the operating." (2019-04-06, Business Logic)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **Misconception 1:** Investing and operating a business are completely different things.
+  ✅ **Correct view:** Duan Yongping says the two "actually have no essential difference"—both involve assessing the value of a business, both require understanding [[business model]], [[corporate culture]], and [[discounted future cash flow]].
+
+- ❌ **Misconception 2:** People without business operating experience are unsuitable for investing.
+  ✅ **Correct view:** Duan Yongping says "anyone can invest, as long as you understand what you're buying"—the key is thinking from an owner's perspective, not necessarily having operating experience.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Buying Stocks Means Buying Companies]] · [[Faith in Investing]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Business Model]] · [[Circle of Competence]] · [[Ordinary Mind]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

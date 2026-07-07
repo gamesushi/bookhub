@@ -15,7 +15,134 @@ uuid: e94a61fc-2bb7-417d-ae42-bf585ad35082
 
 # Moat
 
-(English translation pending...)
+> **Only companies that can raise prices over the long term have a moat—pricing power is the moat.**
+
+---
+
+## 📌 Concept Analysis
+
+**Moat = A sustainable competitive advantage that is difficult for competitors to replicate—the fundamental reason a company can maintain excess profits long-term.**
+
+Ancient castles dug moats outside their walls, making it hard for enemies to attack. Corporate moats are the same—[[Apple]]'s ecosystem makes it extremely costly for users to switch phones, [[Moutai]]'s brand makes consumers willing to pay several times more, and [[Tencent]]'s WeChat makes it impossible for users to leave. Companies without moats are like villages without walls—when competitors arrive, they can only resist through price cuts, and eventually no one makes money.
+
+---
+
+## 💡 Core Understanding
+
+**1. A moat is part of the [[business model]]; good business models often have very wide moats.**
+
+Moats don't exist in isolation; they are the natural result of good business models.
+
+**2. The essence of a moat is [[differentiation]]—differentiation that can be maintained long-term is a moat, and pricing power is the moat.**
+
+Differentiation is the underlying logic of moats: when a product can satisfy certain needs that others cannot, and this differentiation can be sustained long-term, a moat forms. "Is pricing power essentially 'moat'?" — Only things that can raise prices have moats; companies that rely on selling cheap have no moats.
+
+**3. [[Corporate culture]] is an important component of a moat; culture is the "software" of the moat.**
+
+A moat isn't just about business models; it also includes cultural accumulation. [[Apple]]'s moat includes both its ecosystem and the corporate culture established by Steve Jobs.
+
+**4. Moats are not immutable—they require continuous maintenance.**
+
+[[Pursuit beyond profit]] is the driving force behind maintaining a moat—good companies consistently put consumer needs ahead of short-term interests, allowing the moat to grow ever deeper.
+
+**5. Cost advantages are rarely moats, especially in manufacturing.**
+
+Companies that rely on low prices find it hard to last long. Few enterprises can maintain low costs long-term; there's virtually no precedent in manufacturing. True [[moats]] come from [[differentiation]] and [[brand]], not from low prices.
+
+---
+
+## 🛠 How to Practice
+
+**To determine whether a company has a moat, there's only one core question:**
+
+Can this company raise prices? After raising prices, do customers still stay?
+
+- **Can raise prices** → Has a moat (brand, switching costs, network effects)
+- **Can only compete by cutting prices** → No moat, not a good business model
+- **High customer loyalty** → "So-called customer loyalty is actually customer trust (understanding)—this is a very important part of the moat"
+
+**Three dimensions to evaluate moats:**
+1. **Width:** How difficult is this advantage for competitors to replicate?
+2. **Durability:** Will this advantage deepen or narrow over time?
+3. **Cultural support:** Is there strong [[corporate culture]] backing this moat?
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** I'd like to ask about the relationship between differentiation and moats.
+
+**A:** Differentiation refers to products satisfying certain user needs that others cannot satisfy. Differentiation that can be sustained long-term is a moat.
+
+*Source: Business Logic, 2019-08-02*
+
+---
+
+**Q:** The business model IS the moat.
+
+**A:** A moat should be part of the business model. A business model without a moat is not a good business model, but a business with a moat isn't necessarily a good business model.
+
+*Source: Business Logic, 2012-06-24*
+
+---
+
+**Q:** Do you think having a moat is important for a company? Which is more important: an excellent management team or a moat?
+
+**A:** It's like war—is a capable army more important or a good trench? Without good protection, even the best army won't hold up. But obviously just having a trench isn't enough either.
+
+*Source: Business Logic, 2010-04-14*
+
+---
+
+**Q:** BYD's cost advantage should qualify as a moat, and a fairly important one at that—what do you think?
+
+**A:** Heh, I've never seen cost advantage become a "moat." Few enterprises can maintain low costs long-term; I haven't seen it in manufacturing. And companies relying on low product prices struggle to last long—at least I haven't seen any.
+
+*Source: Business Logic, 2010-05-18*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Large market share equals a moat"** — Market share is a result; a moat is the cause. [[Differentiation]], brand, and switching costs are what constitute moats. Nokia once had #1 market share but lacked a true moat and was crushed by [[Apple]].
+
+- ❌ **"Cost advantage is a moat"** — "I've never seen cost advantage become a 'moat.' Few enterprises can maintain low costs long-term; I haven't seen it in manufacturing." Companies competing on low prices struggle to survive long-term. (Source: Business Logic, 2010-05-18)
+
+- ❌ **"Once established, a moat exists permanently"** — "Moats aren't immutable; understanding moats is important for investing." [[GE]] once had strong corporate culture and a moat, but later its culture was destroyed and the moat disappeared accordingly. (Source: Business Logic, 2019-10-13)
+
+- ❌ **"Technology leadership is a moat"** — Technology moats are often unsustainable because technology gets surpassed. Duan Yongping values "soft moats" like brand, culture, and business models more—"a moat requiring constant redigging essentially means there's no moat at all." (Source: Business Logic, citing Buffett's 2007 shareholder letter)
+
+---
+
+## 💬 Original Quotes
+
+> "A moat should be part of the business model. A business model without a moat is not a good business model, but a business with a moat isn't necessarily a good business model." (Source: Business Logic, 2012-06-24)
+
+> "Corporate culture is an important part of 'moats.' It's hard to imagine an enterprise without strong corporate culture having a very wide 'moat.'" (Source: Business Logic, 2010-05-25)
+
+> "Differentiation refers to products satisfying certain user needs that others cannot satisfy. Differentiation that can be sustained long-term is a moat." (Source: Business Logic, 2019-08-02)
+
+> "Is pricing power essentially 'moat'?" (Source: Business Logic, 2010-05-18)
+
+> "A moat is competitive advantage. Good business models generally have powerful moats. Moats aren't immutable; understanding moats is important for investing. Corporate culture plays an indispensable role in building and maintaining moats." (Source: Business Logic, 2019-10-13)
+
+> "Things that can raise prices indicate they have a 'moat.' Being able to grasp this point shows real talent." (Source: Business Logic, 2010-05-28)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Business Model]] · [[Differentiation]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Corporate Culture]] · [[Pursuit Beyond Profit]] · [[Discounted Future Cash Flow]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] · [[Moutai]] · [[Tencent]] · [[BBK]] · [[GE]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

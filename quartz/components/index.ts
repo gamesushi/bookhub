@@ -23,6 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import Annotations from "./Annotations"
 
 import NounPreview from "./NounPreview"
 import LanguageToggle from "./LanguageToggle"
@@ -59,4 +60,5 @@ export {
   LanguageToggle,
   HomeHero,
   HomeRightSidebar,
+  Annotations,
 }

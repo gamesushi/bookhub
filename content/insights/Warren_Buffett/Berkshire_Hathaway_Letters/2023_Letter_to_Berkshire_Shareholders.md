@@ -138,7 +138,7 @@ In the physical world, great buildings are linked to their architect while those
 
 :::
 
-# BERKSHIRE HATHAWAY INC.
+# 伯克希尔·哈撒韦公司
 
 :::lang eng
 

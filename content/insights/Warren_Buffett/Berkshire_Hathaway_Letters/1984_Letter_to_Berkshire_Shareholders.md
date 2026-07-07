@@ -29,7 +29,7 @@ related: []
 
 ---
 
-# BERKSHIRE HATHAWAY INC.
+# 伯克希尔·哈撒韦公司
 
 :::lang eng
 

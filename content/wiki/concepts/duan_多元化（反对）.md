@@ -13,9 +13,115 @@ uuid: 59d4033e-4122-4188-8cdd-ff1ad31633b9
 
 :::lang eng
 
-# 多元化（反对）
+# Diversification (Opposed)
 
-(English translation pending...)
+> **Never seen example of successful enterprise diversification—GE exception but over time even that failed**
+
+---
+
+## 📌 Concept Explanation
+
+**Diversification = expansion under same boss management with very low business correlation—"don't put all eggs in one basket" folk logic but this logic almost always wrong in business.**
+
+Company doing well making phones then starts real estate finance minerals...each step appears "diversifying risk" but Duan says: "Many companies after period good development to diversify risk start diversification result some companies soon no longer need worry about risk"—because they went bankrupt.
+
+---
+
+## 💡 Core Understanding
+
+**1. Diversification almost always fails—GE exception but over time even that failed.**
+
+Duan's 2018 reflection—even [[GE]] he once considered exception ultimately proved diversification danger. He bought GE because reading *Built to Later* and Welch's books later couldn't find corporate culture Welch described on GE website plus "GE business too complex I don't understand" finally sold.
+
+**2. Diversification essence running out of [[circle of competence]] root cause arrogance after success.**
+
+Diversification root cause post-success arrogance—thinking ability transferable to any field actually each industry has own moat and barriers.
+
+**3. BBK/OPPO/vivo multi-products not diversification but highly independent specialization.**
+
+VCD DVD phone mobile—appear diversification each product completely independent team each highly focused. "Each division highly independent specialized focused on own expertise. We won't diversify for sake of diversification."
+
+**4. Accurate diversification definition: same boss management with very low business correlation.**
+
+High-correlation expansion not diversification—most Tencent products have intrinsic connection not diversification; if Tencent started real estate then called diversification.
+
+**5. Diversification like playing basketball well then switching to baseball—Jordan's lesson.**
+
+Duan uses Jordan mid-career professional baseball story illustrating diversification danger—Jordan greatest player basketball history but baseball only ordinary professional level. Success not transferable; [[circle of competence]] cannot expand arbitrarily.
+
+---
+
+## 🛠 How to Practice
+
+Judging whether company doing dangerous diversification core question: **New business within company's circle of competence? High interconnection between businesses?**
+
+- **Look business correlation:** "Don't know diversification definition seems like things under same boss management with very low correlation." High correlation expansion not diversification; low correlation is.
+- **Look whether diversifying for diversification:** "Especially oppose diversification for diversification." If expansion reason "diversify risk" or "use idle funds" not "this what we truly excel at" be vigilant.
+- **Look whether management within circle of competence:** One reason Duan sold GE "GE business too complex I don't understand"—even good companies not touched outside circle of competence.
+
+---
+
+## 📖 Case Analysis
+
+**GE: Duan bought then sold ultimately confirming diversification danger**
+
+Duan bought [[GE]] reading *Built to Last* and Welch's books. "I bought GE reading *Built to Last* and Welch books ha. Jack Welch said most important their corporate culture integrity also said much about corporate culture later discovered on GE website couldn't find any." Plus GE business too complex don't understand suspecting company "cooking book" (financial fraud) Duan finally sold. "I always said never saw successful enterprise diversification example GE exception. Now looks over time even fails ha."
+
+*Source: Business Logic, 2018-09-21*
+
+---
+
+**Moutai: Duan suggests subtraction not addition**
+
+Moutai once launched Moutai beer Moutai wine Moutai mineral water even Moutai hotel plans. Duan's evaluation: "I think Moutai should do subtraction not addition." Even used sarcasm listing: "Launch more cheap non-53-degree liquor including Moutai beer wine even Moutai rice wine etc plus Moutai mineral water Moutai hotel Moutai phone Moutai air conditioning...ten years later Moutai status completely different."—meaning this would completely destroy [[Moutai]] brand.
+
+*Source: Business Logic, 2015-02-16*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Diversification can spread risk"** — "Many companies after period good development to diversify risk start diversification result some companies soon no longer need worry about risk." Diversification doesn't spread risk but spreads risk to areas you're unfamiliar with increasing risk instead.
+
+- ❌ **"Apple makes so many products isn't that diversification?"** — "Apple's various businesses highly connected obviously not general diversification." Key not product quantity but business correlation. [[Apple]]'s all products around same ecosystem not diversification.
+
+- ❌ **"Unfocused companies just inefficient won't go bankrupt"** — "Unfocused companies迟早will have trouble." Shanda typical case—non-gaming business dragged overall profit proving diversification cost.
+
+---
+
+## 💬 Original Quotes
+
+> **Agree with this. I always said never saw successful enterprise diversification example GE exception. Now looks over time even fails ha." (Source: Business Logic, 2018-09-21)
+
+> **Don't know diversification definition seems like things under same boss management with very low correlation. Apple's businesses highly connected obviously not general diversification." (Source: Business Logic, 2018-11-03)
+
+> **Most diversification I see because succeeded somewhere want replicate elsewhere. Like play basketball well then switch to baseball or golf?" (Source: Business Logic, 2019-01-09)
+
+> **These three companies different periods different teams made products each team should highly focused do well." (Source: Business Logic, 2010-10-15)
+
+> **Oppose general diversification especially oppose diversification for diversification—many companies after period good development to diversify risk start diversification result some companies soon no longer need worry about risk." (Source: Business Logic, 2010-09-20)
+
+> **Few companies can 'diversify' well especially those diversifying for diversification." (Source: Business Logic, 2013-02-25)
+
+> **Unfocused companies迟早will have trouble." (Source: Business Logic, 2011-09-01)
+
+> **I think Moutai should do subtraction not addition." (Source: Business Logic, 2014-03-25)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Stop Doing List]] · [[Benfen]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Brand]] · [[Standards for Good Companies]] · [[Moat]] · [[Acquisition]]
+
+**Related Company Cases**
+[[Moutai]] · [[BBK]] · [[Apple]] · [[GE]] · Shanda
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

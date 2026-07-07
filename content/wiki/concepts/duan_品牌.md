@@ -13,9 +13,123 @@ uuid: ec5ab7f0-be45-42da-b5d8-5d6dc218cf7e
 
 :::lang eng
 
-# 品牌
+# Brand
 
-(English translation pending...)
+> **Without valuing brands, you cannot value quality—brands are carriers of quality, not products of advertising**
+
+---
+
+## 📌 Concept Explanation
+
+**Brand = the imprint (impression) of everything (products) a company has done in consumers' minds—good or bad, everyone remembers.** (Source: Business Logic, 2019-08-20)
+
+Two companies selling appliances: one runs ads every day shouting "quality first"; other says nothing but resolves any product issue first time without excuses. Ten years later, which brand worth more? Duan's answer clear: brands aren't shouted into existence—they're made. "Most cases don't know how to value quality without valuing brand."
+
+---
+
+## 💡 Core Understanding
+
+**1. Brand is carrier of quality—without valuing brand cannot value quality.**
+
+This statement reversed—brand and quality integrated, not separate things. BBK from start decided against OEM path firmly choosing [[brand]] path; underlying logic exactly: OEM always controlled by others; without brand no long-term quality commitment.
+
+**2. Lower social trust level, greater role of brand.**
+
+In market where consumers hard to distinguish genuine/fake, brand most important signal—it tells consumer "this company willing to take responsibility for its products." This why [[integrity and credibility]] foundation for brand; without integrity brand just empty shell.
+
+**3. One well-done brand far superior to multiple poorly done brands.**
+
+Multi-brand strategy appears diversifying risk actually disperses attention and resources. "Same thing split into multiple brands clearly business-oriented not user-oriented." Consistent with [[consumer orientation]] logic.
+
+**4. Brand essence user-oriented, not business-oriented.**
+
+Companies truly caring about brand care about consumers' long-term perception not short-term sales. Same thing as [[pursuit beyond profit]]—willing abandon short-term profit for long-term brand value.
+
+**5. Brand naming has three principles—violating any costs price.**
+
+Duan summarized three principles in video interview: **First, characters cannot be complex**—"ba" character too many strokes causing "Xiao Ba Wang" three characters design never looking good bringing much confusion promotion. **Second, cannot have objections (ambiguity)**—name must be writable immediately when said; no negative associations. **Third, easy spread easy remember**—"Bu Bu Gao" three characters good balance; eight people submitted same name when soliciting showing name truly memorable.
+
+**6. Rented brands迟早will have major trouble—must establish own brand.**
+
+BBK early also had lessons—originally used Taiwan's "Creator" brand for game consoles; due to good quality initially okay but Taiwanese started selling packaging boxes to others. Duan realized "long-term this won't work" thus "Xiao Ba Wang" born. Without own brand forever controlled by others.
+
+---
+
+## 🛠 How to Practice
+
+Core of brand building not advertising budget but whether each consumer contact fulfills promises:
+
+- **Product is brand's first advertisement:** Duan says "ads can at most affect 20% people; remaining 80% affected by that 20%." True brand building relies on word-of-mouth from [[good products]] not ad bombing.
+- **Subtraction not addition:** Brand extension cautious. "I think Moutai should do subtraction not addition." Deeply cultivating one brand within [[circle of competence]] accumulates more brand value than expanding everywhere.
+- **Integrity brand's bottom line:** One dishonest act can destroy years accumulated brand trust. "Dishonest companies probably won't have good outcome."
+
+---
+
+## 📖 Case Analysis
+
+**BBK: Decided from start not to take OEM path**
+
+BBK early clarified "no OEM, establish own brand" strategy. "We need invest all resources into our own products. Professional OEM companies exist—we won't do it." Underlying logic: OEM forever controlled by clients; without brand no pricing power no long-term quality commitment. This focus enabled [[BBK]], [[OPPO]], [[vivo]] ultimately build powerful brands.
+
+*Source: Business Logic, 2010-06-17*
+
+---
+
+**Three naming stories: Xiao Ba Wang, Bu Bu Gao, Xiao Tian Cai**
+
+**Xiao Ba Wang:** Name accidental—several friends dining saw Xiao Ba Wang car someone proposed calling "Xiao Ba Wang." Duan felt name had personality easy remember but "ba" character too many strokes flaw; "xiao" and "wang" simple strokes "ba" unbalanced—spreadability and clarity excellent high efficiency but design confusion remained. (Source: Business Logic, video · Fortune Life)
+
+**Bu Bu Gao:** Solicited name. Received over ten thousand names secretary selected "Bu Bu Gao" for Duan—he felt "that's it." Discovered eight people simultaneously submitted "Bu Bu Gao"—paid each 5000 yuan. "Said luckily not 80—if 80 might choose not use this one." (Source: Business Logic, video · Fortune Life)
+
+**Xiao Tian Cai:** BBK startup once offered 3 million for "Xiao Tian Cai" trademark flatly refused. 10 years later approached again other party offered 300k completely unaware BBK had offered 3 million back then. "Actually we still planned pay 3 million then—even if 'Xiao Tian Cai' owner found us today we'd still make up difference because really didn't want take advantage." (Source: Business Logic, 2012-03-01)
+
+**OPPO:** Why not use BBK for international markets? "Remember testing BBK—seemed inappropriate some markets even pronunciation different. OPPO basically same most regions." OPPO brand design by Dutch company voice-tested globally "took many years effort." (Source: Business Logic, 2010-04-02)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Multi-brand strategy can cover more markets"** — "Most products doing this very stupid." Multi-brand disperses resources making each brand poor. "Same thing split into multiple brands clearly business-oriented not user-oriented."
+
+- ❌ **"More ads stronger brand"** — Ads just convey product functions to consumers not grant product functions. "Worst ads are exaggerated ones—companies relying on such ads eventually won't have good outcomes." Brand core is product itself not ads.
+
+- ❌ **"Brand and quality separate can manage separately"** — "Most cases don't know how to value quality without valuing brand." Brand and quality integrated; companies not valuing brand often don't truly value quality.
+
+---
+
+## 💬 Original Quotes
+
+> **So-called brand is imprint (impression) of everything (products) company has done in consumers' minds—good or bad everyone remembers." (Source: Business Logic, 2019-08-20)
+
+> **Most cases don't know how to value quality without valuing brand." (Source: Business Logic, 2010-06-17)
+
+> **Lower social trust level greater role of brand." (Source: Business Logic, 2010-07-08)
+
+> **Same thing split into multiple brands clearly business-oriented not user-oriented." (Source: Business Logic, 2017-08-20)
+
+> **If same thing one brand can't do well multiple brands worse. If one brand can do well why need multiple?" (Source: Business Logic, 2017-08-20)
+
+> **Only famous enterprises get attention rate; only enterprises caring about brand will care." (Source: Business Logic, 2013-03-16)
+
+> **Robust Spring, Wang Lao Ji both rented brands—both encountered big trouble eventually." (Source: Business Logic, 2016-11-18)
+
+> **OPPO basically same in most regions." (Source: Business Logic, 2010-04-02)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Good Products]] · [[Integrity and Credibility]] · [[Consumer Orientation]] · [[Pursuit Beyond Profit]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Moat]] · [[Diversification (Opposed)]] · [[Advertising and Marketing Views]] · [[Standards for Good Companies]] · [[Acquisition]]
+
+**Related Company Cases**
+[[BBK]] · [[OPPO]] · [[vivo]] · [[Apple]] · [[Moutai]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

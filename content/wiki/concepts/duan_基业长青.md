@@ -13,9 +13,93 @@ uuid: f93c0748-4f4f-4f79-9bab-610ae3f17f28
 
 :::lang eng
 
-# 基业长青
+# Built to Last
 
-(English translation pending...)
+> **Products can be imitated; culture cannot be imitated**
+
+---
+
+## 📌 Concept Explanation
+
+**Built to Last = enterprises can live long, live healthy—depends not on cleverness but making fewer mistakes.**
+
+Seen those shops open decades? Not necessarily most fashionable but survived. Reason often not doing something specially impressive but avoiding fatal mistakes. Duan says BBK alive today "not because we have extraordinary qualities but because we made fewer errors." Built to last secret hidden in this sentence.
+
+---
+
+## 💡 Core Understanding
+
+**1. Core of built to last is [[corporate culture]], not products or technology.**
+
+Duan's exact words from BBK corporate culture training class. Technology becomes outdated products surpassed but company's values and behaviors deep down are true [[moat]].
+
+**2. Making fewer errors more important than doing more right things.**
+
+Completely consistent with [[Stop Doing List]] logic—knowing what not to do more important than knowing what to do. [[Benfen]] essence is not doing wrong things.
+
+**3. Built to last needs "Way" before "Technique"—if direction right clumsy methods fine.**
+
+Same logic as [[doing the right thing]]—first judge direction right then discuss how.
+
+**4. *Built to Last* book profoundly influenced Duan but he has independent judgment.**
+
+Duan repeatedly recommends *Built to Last* but also said: "*Built to Last* good book but cost me early Apple investment opportunity because book called Jobs 'time teller' while I later realized Jobs actually also excellent 'clock builder'." Shows he reads for thinking not copying conclusions.
+
+---
+
+## 🛠 How to Practice
+
+**Judging whether company can last long look three things:**
+
+1. **Does corporate culture truly exist?** Not slogans on walls but behavior employees truly identify with and consciously follow. Duan says BBK core values: benfen, integrity, team, quality, continuous learning, consumer orientation—not slogans but real decision standards.
+2. **Is management "clock builder"?** Reference [[Clock Builder vs Time Teller]]—leaders who build systems and culture better support enterprise long-term operation than leaders driven by personal charisma alone.
+3. **Does company have "Not-Doing List"?** Long-lasting companies often know what firmly not do. Reference [[Stop Doing List]].
+
+---
+
+## 📖 Case Analysis
+
+**BBK: Surviving competition through corporate culture**
+
+Duan at BBK corporate culture training said: "China private enterprises average lifespan only around 3 years...lacking long-term vision sustainable development vision haven't practiced corporate culture 'internal skills' problems迟早happen." BBK survived competitive consumer electronics industry relying exactly this cultural internal skill.
+
+*Source: Business Logic (Duan Yongping Corporate Culture Training Explanation)*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Built to last relies on continuous innovation"** — Correct: Duan says BBK follows "dare to follow"—not first eat crab person wait market verification then enter do best. "Many successful enterprises followers; pioneers difficult." (Source: Business Logic)
+
+- ❌ **"Large scale can last long"** — Correct: "Some Chinese like grandiose quick success eager profit always want Fortune 500. Lacking long-term vision sustainable development vision haven't practiced corporate culture 'internal skills' problems迟早happen." (Source: Business Logic)
+
+---
+
+## 💬 Original Quotes
+
+> **Enterprise wants long-term must maintain competitiveness must have own culture. Products can imitate; culture cannot imitate." (Source: Business Logic)
+
+> **Our enterprise之所以alive now and living well not because we have extraordinary qualities but made fewer errors; fewer error rates more success opportunities—my investing same." (Source: Business Logic)
+
+> ***Built to Last* good book but cost me early Apple investment opportunity because book said Jobs 'time teller' while later realized Jobs actually also excellent 'clock builder'." (Source: Business Logic, 2012-01-25)
+
+> **'Way' precedes 'Technique' because if direction right even clumsy methods just slower won't go wrong path." (Source: Business Logic)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Benfen]] · [[Doing the Right Thing]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Snowball Rolling]] · [[Clock Builder vs Time Teller]] · [[Stop Doing List]] · [[Long-termism]]
+
+**Related Cases**
+[[BBK]] · [[Apple]]
+
+**Related People**
+[[Duan Yongping]] · [[Jobs]]
 
 :::
 

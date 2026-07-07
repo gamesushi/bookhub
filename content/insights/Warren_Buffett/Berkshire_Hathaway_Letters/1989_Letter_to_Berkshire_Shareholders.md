@@ -663,7 +663,7 @@ Another plug for newspapers: NFM increased its linage in the local paper by over
 
 :::
 
-## The Buffalo News
+## 《布法罗新闻报》
 
 :::lang eng
 

@@ -13,9 +13,98 @@ uuid: d0e12f74-1241-42ea-9a93-050b15f6914d
 
 :::lang eng
 
-# 诚信与信誉
+# Integrity and Reputation
 
-(English translation pending...)
+> **Integrity isn't spoken—it's proven when there's a price to pay.**
+
+---
+
+## 📌 Concept Analysis
+
+**Integrity = The ability to keep promises and uphold principles even when it requires paying a cost.**
+
+Two merchants both claim to be honest. One never breaks his word when things go smoothly, but as soon as he faces a loss, he finds excuses to dodge. The other fulfills his promises word-for-word even when it costs him. What Duan Yongping means by integrity is the second kind: "Anyone can talk about reputation, but when you need to actually 'uphold' your reputation, many people fall short."
+
+---
+
+## 💡 Core Understanding
+
+**1. Integrity is a shared trait of all great enterprises and also the biggest "funnel" for troubled companies.**
+
+Duan Yongping heard a survey conclusion at CEIBS: researchers studying what highly successful people have in common found they possess every kind of trait—but the one shared characteristic is integrity. This is no coincidence—without integrity, a company will inevitably face problems long-term even if it succeeds in the short term.
+
+**2. Integrity only manifests when there's a price to pay.**
+
+It's easy to say you're honest in ordinary times. Only when integrity requires paying a real cost—admitting errors, compensating losses, forgoing profits—can you see whether a company truly has integrity. "Reputation isn't just talk; only when a cost must be paid do we discover who actually upholds their reputation."
+
+**3. Integrity ranks below [[Fundamental Duty (Ben Fen)]] but above ordinary promise-keeping.**
+
+Integrity means keeping commitments once made. Ben Fen means doing what should be done even without any commitment having been made.
+
+**4. Companies lacking integrity probably won't end well.**
+
+This isn't moral preaching but business logic—over the long term, consumers are an extremely smart group. Dishonest behavior will eventually be exposed, and once brand trust collapses, rebuilding is very difficult. Duan Yongping has clear investment boundaries for dishonest companies: "If I believe a company lacks integrity, I simply don't touch it."
+
+---
+
+## 🛠 How to Practice
+
+To judge whether a company truly has integrity, don't look at what it says ordinarily—look at how it acts when there's a cost to pay:
+
+- **How does it handle product problems?** When issues arise, does it immediately admit and compensate, or make excuses and delay?
+- **How does it treat suppliers?** Does it pay on time? Does it withhold payments? "Excessively delaying payments to suppliers is wrong—and ultimately, wool comes from sheep."
+- **Management's word-action consistency:** Do they follow through on what they said? Are promises kept?
+- **Is it willing to forgo money it shouldn't earn?** BBK's "Three Non-Profit Principles"—don't earn illegal money, don't earn immoral money, don't earn beyond your capabilities.
+
+---
+
+## 📖 Case Analysis
+
+**OPPO: Zero tolerance for dishonest practices**
+
+Built-in SP fee traps on mobile phones were once an industry hidden rule that many companies tacitly encouraged. OPPO stated explicitly: "Built-in SP fee traps on phones are dishonest behavior completely contrary to our core values." Duan Yongping's attitude was: "Do the right thing, then do things right. We have zero tolerance for such dishonest conduct." This attitude might sacrifice short-term revenue but builds consumer trust over the long term.
+
+*Source: Business Logic, 2010-09-22*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Integrity is soft power—it doesn't affect performance"** — "Companies lacking integrity probably won't end well." Integrity is hard power—the foundational basis of [[brand]] and [[corporate culture]]. Without integrity, even the best products lose market trust once it collapses.
+
+- ❌ **"Integrity simply means not lying"** — The core of integrity is "upholding commitments even when there's a price to pay." Not lying is only the minimum standard; true integrity is sticking to principles even at personal loss. "Anyone can talk about reputation, but when you need to actually 'uphold' your reputation, many people fall short."
+
+- ❌ **"Integrity and Ben Fen are the same thing"** — "Ben Fen encompasses and goes beyond integrity." Integrity means keeping commitments once made; Ben Fen means doing what should be done even without commitment. [[Ben Fen]] sets a higher standard.
+
+---
+
+## 💬 Original Quotes
+
+> "Honesty and integrity—integrity. This is the shared characteristic of all great enterprises and the biggest 'funnel' for companies that get into trouble." (Source: Business Logic, 2010-10-22)
+
+> "'Keeping promises,' or integrity or Ben Fen, only manifests itself when there's a price to pay." (Source: Business Logic, 2013-02-26)
+
+> "Reputation isn't just talk—only when a cost must be paid do we discover who actually upholds (keeps) their reputation. Principles shouldn't be time-dependent." (Source: Business Logic, 2012-11-17)
+
+> "Companies lacking integrity probably won't end well." (Source: Business Logic, 2015-08-14)
+
+> "Ben Fen encompasses and goes beyond integrity. Companies or people practicing Ben Fen always inspire goodwill and are trustworthy." (Source: Business Logic)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Fundamental Duty (Ben Fen)]] · [[Corporate Culture]] · [[Pursuit Beyond Profit]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Brand]] · [[Standards for Good Companies]] · [[Moat]]
+
+**Related Company Cases**
+[[BBK]] · [[OPPO]] · [[Apple]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

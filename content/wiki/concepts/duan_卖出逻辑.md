@@ -13,9 +13,114 @@ uuid: 76c457a6-28d6-4818-b9cf-c821f937ed84
 
 :::lang eng
 
-# 卖出逻辑
+# Selling Logic
 
-(English translation pending...)
+> **Selling has nothing to do with purchase cost—the only reason you shouldn't use is "I've already made money"**
+
+---
+
+## 📌 Concept Explanation
+
+**Selling logic = selling decisions completely unrelated to purchase cost—only look at whether company's current value remains reasonable or if there are better alternatives.**
+
+You bought a house for 1 million. Now market price rose to 1.5 million, someone making offer. Should you sell? Not looking at "I made 500k" but: how much is this house worth now? Are better places to put this money? If still worth it, don't sell; if better alternatives exist, switch. Nothing to do with what you originally paid.
+
+---
+
+## 💡 Core Understanding
+
+**1. Selling completely unrelated to purchase cost—the only reason not to use is "I've already made money."**
+
+Focus should be on company [[discounted future cash flow]], not costs and profits/losses. Putting focus wrong place makes it easy to sell good companies found with great difficulty at cheap prices.
+
+**2. Legitimate reasons for selling: found better alternative, or discovered bought wrong.**
+
+Duan sold [[NetEase]] because "needed to switch to GE and Yahoo"—not because of how much rose but because had better destination. Another legitimate reason discovering bought wrong—must sell immediately no matter loss amount; at that moment cost always smallest.
+
+**3. Discovering bought wrong must sell immediately—don't use "long-term investing" to comfort yourself into continuing holding.**
+
+When discovering mistake correct immediately—no matter cost always smallest cost. [[Long-termism]] premise is buying right, not buy anything and never sell.
+
+**4. Key to holding good companies is truly understanding them, not willpower.**
+
+Main reason can hold is understanding of company and its business plus [[ordinary mind]]—don't think about purchase cost; put focus on understandable future cash flows.
+
+**5. Three legitimate situations for selling: fundamental changes, better opportunities, severely overvalued.**
+
+From Duan's actual operations:
+- **Fundamental changes:** discovered bought wrong; company's business model or corporate culture has fundamental problems
+- **Better opportunities:** have cheaper good companies to replace ([[opportunity cost]])
+- **Severely overvalued:** price far exceeds reasonable valuation; discounted future cash flow doesn't support
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** When should I sell stocks?
+
+**A:** Reasons to sell may be many—the only reason not to use is "I've already made money." (Investment Logic)
+
+---
+
+**Q:** Is long-term holding core of value investing?
+
+**A:** I always feel saying value investing should involve long-term holding misunderstands value investing. Biggest misunderstanding none greater than "long-term holding equals value investing." But having bought cheap good stock best not轻易sell lightly. (2010-03-25, Investment Logic)
+
+---
+
+**Q:** Is value investing long-term investing?
+
+**A:** Value investing is long-term investing (viewing enterprise from long-term perspective), but long-term investing isn't necessarily value investing (stubbornly holding one stock). Value investing's long-term holding only valid under premise of having bought right stock. (2010-12-02, Investment Logic)
+
+---
+
+**Q:** What if discovered bought wrong?
+
+**A:** When discover mistake correct immediately—no matter cost always smallest cost. Remember long ago our company asked me responsible for RMB idle fund investment. When we started buying maybe didn't understand enough, couldn't fully see clearly. Later felt bought wrong—finally lost small money selling all switched to Moutai. If hadn't corrected error timely might still losing money today. (2018-07, Investment Logic)
+
+---
+
+## 📖 Case Analysis
+
+**NetEase: Held 8-9 years, sold after rising 100+ times**
+
+Duan held NetEase 8-9 years, didn't sell even when rose dozens of times midway, finally sold after rising 100+ times. Reason wasn't "rose a lot" but "needed to switch to GE and Yahoo"—had better destination. This typical case of "better opportunity" triggering sale.
+
+> "Before selling most NetEase my thinking was: this company's discounted future cash flow far exceeded then market value so I didn't sell." (Investment Logic)
+
+**Company internal investment: Loss selling switching to Moutai**
+
+Duan responsible for company RMB investment—discovered bought wrong, lost small money selling all switched to Moutai. Typical case of "discovering bought wrong sell immediately"—don't wait for breakeven, don't use "long-term investing" comfort self.
+
+> "If hadn't corrected error timely might still losing money today. Losing money selling stocks not easy—but if understand sunk cost and opportunity cost concepts becomes much easier." (2018-07, Investment Logic)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Made money so should lock in profit, sell in time to secure gains"** — "Only reason not to use is 'I've already made money.'" If company still cheap, selling after making money actually wrong—held [[NetEase]] 8-9 years, didn't sell even when rose dozens of times midway, finally sold after 100+ times.
+
+- ❌ **"Lost money so hold waiting for breakeven, can't cut losses"** — "Discover mistake correct immediately—no matter cost always smallest cost." Losing money isn't reason not to sell; bought wrong is exactly when should sell most.
+
+- ❌ **"Long-term holding is good investment strategy—buy and never sell"** — "In my understanding 'not sell' refers to 'absolutely' good stocks. Long-term holding definitely under premise of having bought right good stock." Long-term holding premise is bought right, not buy anything and never sell.
+
+- ❌ **"Value investors never sell stocks"** — "Value investing is long-term investing (viewing enterprise from long-term perspective), but long-term investing not necessarily value investing (stubbornly holding one stock)." (2010-12-02)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Buying Stocks is Buying Companies]] · [[Discounted Future Cash Flow]] · [[Buying Logic]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Concentrated Investing]]
+
+**Related Company Cases**
+[[NetEase]] (held 8-9 years, sold after 100+ times gain switching to GE and Yahoo)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

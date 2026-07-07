@@ -13,9 +13,85 @@ uuid: 8cbecf63-433a-4759-a571-459c5f03a7d9
 
 :::lang eng
 
-# 差异化
+# Differentiation
 
-(English translation pending...)
+> **Products without differentiation ultimately left with only price wars**
+
+---
+
+## 📌 Concept Explanation
+
+**Differentiation = something users need but other competitors cannot satisfy; products without differentiation difficult earn big money long-term.**
+
+Two noodle shops same street one serves ordinary ramen other has exclusive secret recipe beef ramen. Ordinary ramen no different from neighbor can only compete lowering price; exclusive beef ramen people come specifically eat no price war needed. Duan's differentiation exactly this—you have something others don't have users won't switch just because slightly cheaper elsewhere.
+
+---
+
+## 💡 Core Understanding
+
+**1. Products without differentiation difficult earn big money long-term—differentiation prerequisite good [[business model]].**
+
+[[Apple]] earned big money because Apple sells iPhone—iPhone has differentiation others cannot satisfy.
+
+**2. Differentiation determines industry competition pattern—without differentiation ultimately only price wars.**
+
+While cereal iPhone differentiated products users won't switch because cheaper—this [[moat]] source.
+
+**3. Differentiation things constantly changing—companies able continuously create new differentiation truly good companies.**
+
+This why [[moat]] needs continuous maintenance—today's differentiation tomorrow may become standard feature.
+
+**4. Long-term maintainable differentiation is moat—differentiation moat source not just result.**
+
+(2019-08-02) Duan's most direct definition relationship between differentiation and moat. Differentiation moat underlying logic: has differentiation then has [[pricing power]]; has pricing power then has moat.
+
+**5. Online games quite differentiated products—look similar but player community feeling stickiness extremely strong.**
+
+(2012-05-02) Important judgment basis for Duan buying [[NetEase]]—understood online games differentiation not graphics but community player relationships this differentiation extremely difficult for competitors replicate.
+
+---
+
+## 💬 Original Quotes
+
+> **Simply put products without differentiation difficult earn big money long-term. Apple earned big money because Apple sells iPhone others similarly ha. Briefly explain differentiation: things users need but other competitors cannot satisfy." (Source: Business Logic, 2018-11-05)
+
+> **Products without differentiation business models basically not good business models—so investing should avoid companies where products difficult long-term differentiate e.g. airlines." (Source: Business Logic)
+
+> **Products without differentiation ultimately see price wars." (Source: Business Logic, 2015-03-03)
+
+> **Companies able continuously produce user-liked differentiated products often already have very good business model." (Source: Business Logic, 2012-05-02)
+
+> **Differentiation refers to product satisfying one or more needs others cannot satisfy. Long-term maintainable differentiation is moat." (Source: Business Logic, 2019-08-02)
+
+> **Price wars generally happen when product differentiation very small. Wine highly differentiated thing at least feels so. See's Candies also highly differentiated product." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-01-14)
+
+> **Online games actually also quite differentiated product although non-players look similar but for core players inside games community feeling differences actually huge not easy switch." (Source: Business Logic, 2012-05-02)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Fiercely competitive industries no good companies should avoid"** — Key not fierce competition but whether has differentiation. [[Apple]] Gree both in fiercely competitive industries but because of differentiation still earn big money. Should truly avoid industries where "products difficult long-term differentiate" e.g. airlines.
+
+- ❌ **"Differentiation means technology leadership only high-tech companies have differentiation"** — Differentiation can come many places—taste (cereal) location (retail) brand (Coca-Cola) community feel (online games). Not necessarily technology anything "users need but others cannot satisfy" equals differentiation.
+
+- ❌ **"Once established differentiation can permanently maintain"** — "'Differentiation' things constantly changing when everyone has 'differentiation' becomes basic requirement." Differentiation needs continuous creation also why [[moat]] needs continuous maintenance reason.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Business Model]] · [[Pursuit Beyond Profit]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Moat]] · [[Pricing Power]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] (iPhone differentiation) · Gree (air conditioner differentiation) · [[NetEase]] (game differentiation)
+
+**Related People**
+[[Duan Yongping]] · [[Munger]]
 
 :::
 

@@ -13,9 +13,83 @@ uuid: 6553a4df-26a8-4186-9f99-b602415bb91a
 
 :::lang eng
 
-# 市场先生
+# Mr. Market
 
-(English translation pending...)
+> **The market is an emotional quotation machine, not your teacher—it is your servant.**
+
+---
+
+## 📌 Concept Analysis
+
+**Mr. Market = An emotional neighbor who comes to you every day with a price quote. When he's happy, he quotes high prices; when he's depressed, he quotes low prices. You can take advantage of him, but you don't need to pay attention to him.**
+
+You and a neighbor jointly run a bun shop. This neighbor knocks on your door every morning and offers a price—either he buys your shares or you buy his shares. Sometimes he's in a good mood and offers a high price; sometimes he's in a bad mood and offers a low price. You can completely ignore him—as long as you know what the bun shop is truly worth, his moods are irrelevant to you. This neighbor is Mr. Market.
+
+---
+
+## 💡 Core Understanding
+
+**1. The market is a voting machine in the short run and a weighing machine in the long run—short-term prices are determined by emotion; long-term prices by [[intrinsic value]].**
+
+Duan Yongping agrees with Graham's judgment: short-term stock prices are determined by supply and demand of buying and selling, while long-term stock prices are determined by intrinsic value. Short-term fluctuations relate to trading behavior, but in the long run they are actually irrelevant.
+
+**2. The market is "effective," but not "promptly effective"—the market will eventually reflect value, but not at every moment.**
+
+Duan Yongping has a unique understanding of market effectiveness: the market's effectiveness is not immediate, but rather sooner or later—the market will eventually reflect [[intrinsic value]], so it is effective. This does not mean the market is correct at all times, but that it will eventually be correct.
+
+**3. Volatility is a friend, not an enemy—the more emotional the market becomes, the more opportunities arise to buy good companies at low prices.**
+
+True investors like volatility. The more depressed Mr. Market becomes, the more opportunities investors have—the greater the market fluctuation, the higher the probability that ultra-low prices appear for good companies. During declines, the question should not be "should I sell?" but rather "is there an opportunity to add to my position?"
+
+**4. The very notion of bull and bear markets reflects speculative thinking—[[value investors]] do not need to judge whether it's a bull or bear market.**
+
+Talk of bull and bear markets means keeping your eyes on others' (the market's) performance. Value investing only cares about whether something is cheap, not about others' opinions. Right business, right people, [[margin of safety|right price]] have no necessary relationship with bull or bear markets—but the probability of right price appearing during a "bear market" is indeed much higher than during a "bull market." When right price appears, the buyer does not need to know whether it is currently a "bull" or "bear" market.
+
+---
+
+## 🛠 How to Practice
+
+When facing market fluctuations, ask only one question: **Has the company's [[intrinsic value]] changed?**
+
+- If it hasn't, a falling stock price = Mr. Market is in a bad mood today. It's an opportunity to add to your position, not a signal to sell.
+- If it has (the company's fundamentals have deteriorated), only then should you reassess whether to continue holding.
+
+When facing a decline, if you want to buy more and have the capacity to do so, then the drop should make you happy; if you don't want to buy, you should try to ignore it—this is Duan Yongping's standard posture when facing market fluctuations.
+
+During a big bull market, if you cannot find enough good companies at sufficiently cheap prices, holding cash is actually the correct choice—even though this is emotionally difficult to achieve, requiring rationality and courage.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"The market has fallen, meaning the company has gotten worse, so I should sell"** — Correct view: A falling stock price just means Mr. Market is in a bad mood today; it has nothing to do with the company's [[intrinsic value]]. "Good companies are unrelated to whether stock prices fluctuate. If you want to buy more and have the ability to buy more, then you should be happy about the drop; otherwise, you should try to ignore it." (Source: Duan Yongping Investment Q&A (Investment Logic), 2015-12-10; 2013-02-12)
+
+- ❌ **"It's currently a bull/bear market, so I should buy/sell"** — Correct view: [[Value investing]] only cares about whether something is cheap, not about others' opinions. "Thinking about bull and bear markets is itself speculation, not a matter of degree. Value investing only considers whether something is cheap, not others' opinions, so one should not consider it." The only criterion for buying is: relative to [[intrinsic value]], is the price cheap enough? (Source: Duan Yongping Investment Q&A (Investment Logic), 2015-06-28; 2010-05-23)
+
+---
+
+## 💬 Original Quotes
+
+> "In the short run, the market is a voting machine; in the long run, it is a weighing machine." — Graham (cited by Duan Yongping; Source: Duan Yongping Investment Q&A (Investment Logic), 2011-11-15)
+
+> "I strongly believe in 'market efficiency theory,' but the market's efficiency is not immediate—sooner or later. What this means is that the market will eventually reflect value, which is why it is efficient." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-11)
+
+> "Volatility is a friend." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-05-10)
+
+> "Bull and bear markets are just the market's views. What matters most—and indeed the only thing that matters—in investing is understanding the company's future. If you can't understand it, sit on the sidelines. Betting on bull or bear markets is dangerous. If you're buying a non-public company, what does it matter how many points the stock market is at?" — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-07-23)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Intrinsic Value]] · [[Buying Stocks Means Buying Companies]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Margin of Safety]] · [[Buying Logic]] · [[Ordinary Mind]] · [[Long-termism]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Graham]]
 
 :::
 

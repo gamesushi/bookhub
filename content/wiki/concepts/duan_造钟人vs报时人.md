@@ -13,9 +13,80 @@ uuid: f84dad49-88c7-481d-b9c9-f42b5da8eb4e
 
 :::lang eng
 
-# 造钟人 vs 报时人
+# Clock Builder vs. Time Teller
 
-(English translation pending...)
+> **"Built to Last is a great book—but it cost me the opportunity to invest in Apple early."**
+
+---
+
+## 📌 Concept Analysis
+
+Concept from *Built to Last*:
+
+- **Time Teller:** Leaders who drive companies through personal charisma and talent—company success depends on them personally; after they leave, the company declines.
+- **Clock Builder:** Leaders who build systems, culture, and mechanisms—company success depends on the system they built; after they leave, the company continues operating.
+
+**Core difference:** A time teller tells you what time it is; a clock builder builds a clock that tells time by itself.
+
+---
+
+## 💡 Core Understanding
+
+**1. Jobs ultimately was a clock builder, not a time teller—this judgment made Duan Yongping miss early Apple.**
+
+After first reading *Built to Last*, Duan Yongping categorized Jobs as a time teller, thus missing the opportunity to invest in [[Apple]] early. Later he "suddenly realized he's actually an excellent clock builder"—Jobs established Apple's [[corporate culture]], Apple University, cultivated Tim Cook—these are all clocks he built.
+
+**2. A good business shouldn't depend on one superstar—otherwise it isn't truly a good business.**
+
+Buffett says "if a business requires a superstar to produce good results, then that business itself wouldn't be considered a good business." The Mayo Clinic's success will continue even though you have no idea who its CEO is—this demonstrates the value of a system built by a clock builder.
+
+**3. To judge clock builder vs. time teller, look at whether the company can continue operating after this person leaves.**
+
+Duan Yongping says "Today, Jobs' role isn't nearly as significant anymore. Even if Jobs didn't plan to return, today's Apple would continue forward on momentum alone." This is his core basis for ultimately judging Jobs as a clock builder.
+
+---
+
+## 🛠 How to Practice
+
+**To judge whether a company has a clock builder or time teller, there's only one core question:**
+
+Can the company continue normal operations after this person leaves?
+
+- **Look at management succession design:** Good clock builders actively cultivate successors and establish systems and culture. [[Duan Yongping]]'s assessment of [[Apple]]: Jobs cultivated Tim Cook, established Apple University—this proves he's a clock builder.
+- **Look at whether [[corporate culture]] can self-operate:** When a time teller leaves, company culture disappears; culture built by a clock builder transcends individuals.
+- **Look at company decisions under pressure:** Systems built by clock builders operate automatically during crises; time tellers require constant personal judgment.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Are you bullish on Apple's corporate culture or its CEO?
+
+**A:** I used to consistently think Jobs was a time teller, but recently suddenly felt only Jobs' Apple could never have become what it is today. Today, Jobs' role isn't nearly as significant. Even if Jobs didn't plan to return, today's Apple would continue forward on its own momentum.
+
+*Source: Business Logic, 2011-01-22*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Jobs was a time teller; Apple's success depended entirely on him personally—it would decline after his departure"** — "Only Jobs' Apple could never have become today's Apple" —Jobs built Apple's corporate culture, Apple University, cultivated Tim Cook—all clocks he built. "Interestingly, Microsoft reached the same conclusion I did: without Jobs, Apple became even more formidable." (2012-01-25, 2011-01-22)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Business Model]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Moat]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] · [[BBK]] · [[OPPO]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

@@ -13,9 +13,97 @@ uuid: adec08fc-71e6-4e42-96f4-31afb6126ce5
 
 :::lang eng
 
-# 滚雪球（长长的坡，厚厚的雪）
+# Rolling a Snowball (Long Slope, Thick Snow)
 
-(English translation pending...)
+> **Good company = Long slope × thick snow—both are indispensable.**
+
+---
+
+## 📌 Concept Analysis
+
+**Rolling a snowball = A company that can sustain compound growth on a sufficiently long track with sufficiently thick competitive advantages.**
+
+Have you ever seen a snowball being rolled? The snowball gets bigger and bigger, requiring two conditions: the slope must be long enough (otherwise it stops when it reaches the bottom), and the snow must be thick enough (otherwise it gets smaller as you roll). Good companies are the same—industry space must be large (long slope), [[moat]] must be deep (thick snow). With only long slope but no thick snow, the snowball won't grow large; with only thick snow but no long slope, the snowball can't roll far.
+
+---
+
+## 💡 Core Understanding
+
+**1. "Long slope" refers not just to the industry but to whether the enterprise itself can go the distance.**
+
+Duan Yongping explicitly stated: "The 'long slope' here doesn't only refer to the industry—it also includes whether the enterprise itself can sustain long-term running, so [[corporate culture]] is important." An industry may have huge space, but if corporate culture is problematic, it still can't run far. The prerequisite for [[built to last]] is having the ability to keep running, not merely standing on a large track.
+
+**2. "Thick snow" refers to [[moat]]—the thickness of competitive advantage.**
+
+Companies pursuing "price-performance ratio" typically lack both long slopes and thick snow. Duan Yongping says: "Most companies that pursue 'price-performance ratio' are probably just making excuses for their low prices. Long-lived companies probably don't emphasize this concept much—the people know what's good. Good products aren't cheap." Price competition consumes snow rather than accumulating it.
+
+**3. Only companies with long slopes and thick snow are worth holding with [[long-termism]].**
+
+When Duan Yongping invested in [[Tencent]], these four words captured his thinking: "Long slope, thick snow!" His assessment of [[Apple]] was the same—Apple sits on a long slope with thick snow. Such companies don't need frequent trading; time itself is a friend. Conversely, for companies with "short slopes and thin snow," no amount of折腾 helps.
+
+**4. Amazon is a special case: long slope but thin snow.**
+
+Duan Yongping said: "Amazon? Of course it's a long slope, but the snow up there isn't very thick—how else could they sustain losses for 20 years?" This shows that long slope and thick snow are two independent dimensions that shouldn't be confused. The ideal combination requires both; with only long slope but no thin snow, a company must continuously invest heavily to maintain competitiveness.
+
+---
+
+## 🛠 How to Practice
+
+**To judge whether a company has "long slope, thick snow," ask two questions:**
+
+1. **How long is the slope?** Will this industry still exist in 10 years? How much market space remains? More importantly, can this company's [[corporate culture]] and management support its continued run along this slope?
+2. **How thick is the snow?** What is this company's [[moat]]? Is it brand, user stickiness, cost advantage, or network effect? Does this moat deepen over time or get eroded?
+
+**A reverse test:** If a company mainly attracts users through "price-performance ratio" (low prices), it likely lacks both long slope and thick snow—price competition erodes moats rather than building them.
+
+---
+
+## 📖 Case Analysis
+
+**[[Moutai]]: A classic example of long slope and thick snow**
+
+Duan Yongping said: "Moutai certainly qualifies! Long slope, thick snow, though it occasionally loses a little bit of snow." Moutai's "slope" is China's long-term demand for premium baijiu; its "snow" is brand moat and pricing power—both extremely difficult to replicate.
+
+*Source: Business Logic, 2017-03-17*
+
+**[[Tencent]]: Core judgment at time of purchase**
+
+In October 2018, Duan Yongping began building a position in Tencent. His judgment came down to four words: "Long slope, thick snow!" He also stated Tencent would likely earn 200-300 billion RMB annually within 10-15 years.
+
+*Source: Business Logic, 2018-10-15*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Large industry means long slope"** — Correct view: Duan Yongping said "the 'long slope' here doesn't only refer to the industry—it includes whether the enterprise itself can sustain long-term running, so corporate culture is important." A large industry with poor corporate culture still can't run far. *(Source: Business Logic, 2017-03-18)*
+
+- ❌ **"Companies with good price-performance ratios have competitive advantages"** — Correct view: "Those pursuing 'price-performance ratio' probably lack both long slopes AND thick snow." Price competition erodes moats rather than building them. *(Source: Business Logic, 2017-03-17)*
+
+---
+
+## 💬 Original Quotes
+
+> "Apple fits, right? Apple is on a long slope, and the snow seems thick too.... Moutai certainly qualifies! Long slope, thick snow, though it occasionally loses a little bit of snow.... Those pursuing 'price-performance ratio' probably lack both long slopes AND thick snow." (Source: Business Logic, 2017-03-17)
+
+> "The 'long slope' here doesn't only refer to the industry—it also includes whether the enterprise itself can sustain long-term running, so corporate culture is important." (Source: Business Logic, 2017-03-18)
+
+> "Most companies that pursue 'price-performance ratio' are probably just making excuses for their low prices. Long-lived companies probably don't emphasize this concept much—the people know what's good. Good products aren't cheap." (Source: Business Logic, 2017-03-25)
+
+> "Long slope, thick snow! I've indeed invested some recently, though the proportion is still small." (Source: Business Logic, 2018-10-15)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Business Model]] · [[Moat]] · [[Corporate Culture]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Long-termism]] · [[Built to Last]] · [[Standards for Good Companies]]
+
+**Related Cases**
+[[Apple]] · [[Moutai]] · [[Tencent]] · [[NetEase]]
 
 :::
 

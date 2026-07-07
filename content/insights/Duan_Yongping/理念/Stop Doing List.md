@@ -13,9 +13,88 @@ uuid: babad187-44c7-4d22-965c-293ad16ee74f
 
 :::lang eng
 
-# Stop Doing List（不为清单）
+# Stop Doing List (Not-To-Do List)
 
-(English translation pending...)
+> **Not doing wrong things is more important than doing right things**
+
+---
+
+## 📌 Concept Explanation
+
+**Stop Doing List = Upon discovering error, stop immediately—through continuous elimination of errors, let correct things naturally emerge.**
+
+Most people think "what must I do to succeed?" but Duan thinks **"what must I NOT do to avoid failure?"**
+
+This isn't a technique, isn't a formula, but a **mode of thinking**: discover error → stop immediately → minimum cost.
+
+---
+
+## 💡 Core Understanding
+
+- **Stop Doing List is a mode of thinking, not a technique.** "Stop Doing List addresses doing the right thing. It's not a skill or formula but a mode of thinking: if you discover error, stop immediately because at that moment cost is minimized."
+- **Stop Doing List is built item by item—there are no shortcuts.** "Stop Doing List has no shortcuts—you must accumulate it yourself, build it item by item, comprehend it through experience. Stop doing means when you discover error, stop. Over time effects become obvious. Many people can't let go of immediate temptations—30 years later still stuck there."
+- **Excellence is accumulated bit by bit.** "Excellence is accumulated bit by bit; this list too is built item by item through distilling successful experiences and summarizing error experiences."
+
+---
+
+## 🛠 How to Practice
+
+**Duan Yongping's personal Stop Doing List (investing portion):**
+
+1. **No long-term interest-bearing loans** → Maximum survival chances when crisis arrives
+2. **No shorting** → Once shorted Baidu lost $100-200 million—a profound lesson
+3. **No short-term speculation** → Walking frequently by river's edge, get wet once, wet forever
+4. **Don't do what you don't understand** → Don't touch what you can't grasp—better to miss opportunities than commit major errors
+5. **Don't make 20 decisions per year** → 20 investment decisions in a lifetime suffice
+
+---
+
+## 📖 Case Study
+
+**[[OPPO]]/[[vivo]] Corporate Stop Doing List:**
+
+- **No sales department** → No need to negotiate business—all customers same price
+- **No individual price negotiations with customers** → Saves massive amounts of both parties' time—accumulated over 10-20 years it's terrifying
+- **No OEM** → OEM products lack [[differentiation]], hard to profit
+- **No interest-bearing loans** → Never collapse due to funding chain rupture
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **Misconception 1**: Stop Doing List is negative—only knowing what not to do,不如 actively doing more things.
+  ✅ **Correction**: "Not doing wrong things is more important than doing right things." Through eliminating errors, correct things naturally emerge—a more efficient path to success, not passive conservatism. (Source: Stanford SDL Dialogue, 2018-09-30)
+
+- ❌ **Misconception 2**: Knowing what shouldn't be done means you can do it.
+  ✅ **Correction**: "Many people frequently do things they know are wrong because they can't resist temptation of short-term interests." Huge gap exists between knowing and doing—requires long-term accumulation and self-discipline. (Source: Stanford SDL Dialogue, 2018-09-30)
+
+---
+
+## 💬 Original Quotes
+
+> "Not doing wrong things is more important than doing right things." (Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "Stop Doing List addresses doing the right thing. It's not a skill or formula but a mode of thinking: if you discover error, stop immediately because at that moment cost is minimized." (Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "Stop Doing List has no shortcuts—you must accumulate it yourself, build it item by item, comprehend through experience. Stop doing means when you discover error, stop. Over time effects become obvious. Many people can't let go of immediate temptations—30 years later still stuck there." (Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "Excellence is accumulated bit by bit; this list too is built item by item through distilling successful experiences and summarizing error experiences." (Source: Stanford SDL Dialogue, 2018-09-30)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Ben Fen]] · [[Ordinary Mindset]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Long-termism]] · [[Circle of Competence]]
+
+**Related Company Cases**
+[[BBK]] · [[OPPO]] · [[vivo]]
+
+**Related Figures**
+[[Duan Yongping]]
 
 :::
 

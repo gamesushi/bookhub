@@ -13,9 +13,108 @@ uuid: ef29920f-faee-4613-88b4-fb0a1646e5bb
 
 :::lang eng
 
-# 市盈率（PE）
+# Price-to-Earnings Ratio (PE)
 
-(English translation pending...)
+> **PE is a rearview mirror — it looks at the past, but you buy the future**
+
+---
+
+## 📌 Concept Analysis
+
+**Price-to-Earnings (PE) = historical data; for reference only, not as a buy criterion.**
+
+When you drive, the rearview mirror tells you what's behind you but can't show you the road ahead. PE is that rearview mirror — it reflects the company's past earnings, while buying stocks means buying the company's future cash flow. Driving while staring at the rearview mirror will inevitably lead to trouble.
+
+---
+
+## 💡 Core Understanding
+
+**1. PE is historical data and cannot be used alone as a criterion for buying or not buying.**
+
+PE reflects the company's past earnings, while [[discounted future cash flow]] is where the company's true value lies. A company with low PE doesn't mean it's cheap — General Motors' PE was around 5x long-term, yet it had massive debt and eventually went bankrupt. A company with high PE doesn't mean it's expensive — if you're confident about its high growth, high PE is acceptable.
+
+**2. Duan Yongping uses not the reported PE but "PE relative to future long-term real profits."**
+
+The PE he refers to is your own judgment of the company's future long-term earning power, not the number on financial reports. These are fundamentally different things. The core of [[rough estimation]] is: what multiple of PE you're willing to pay depends entirely on your own judgment of the company's future and your own capital's [[opportunity cost]] — it has nothing to do with the market.
+
+**3. 12x PE is a rough reference line, but not an iron rule.**
+
+Duan Yongping mentioned that what PE multiple is appropriate relates to average long-term interest rates — around 12x long-term PE should be fine. But he emphasized this is only a rough reference, not a standard answer — he himself said "I actually don't know what PE to give." What truly matters is your judgment of the company's [[intrinsic value]], not applying a formulaic multiple.
+
+**4. Companies with extremely low PE are often problematic companies.**
+
+This contradicts many people's intuition — many assume low PE means cheap, but behind low PE often lie risks the market has already seen. Low PE companies outside your [[circle of competence]] — don't touch.
+
+---
+
+## 🛠 How to Practice
+
+**The right way to use PE:**
+
+1. **Use PE as reference, not as criterion.** When you see a company's PE, first ask yourself: does this PE correspond to past or future earnings? If the company is in a high-growth phase, current high PE doesn't mean expensive; if earnings are declining, low PE doesn't mean cheap.
+2. **Recalculate PE using "future long-term real profits."** Don't use the reported PE directly — estimate the company's average annual profit over the next 5–10 years, then divide current market cap by this number to get your own "real PE."
+3. **Combine with [[opportunity cost]].** What multiple of PE you're willing to pay depends on what return your capital can get elsewhere. If your capital can earn a 20x PE return elsewhere, then a stock at 60x PE is unreasonable.
+
+---
+
+## ❓ Selected Q&A
+
+**Q**: Do you care about the PE ratio of stocks you invest in?
+
+**A**: I look at it but don't focus on it. PE is historical data; we're buying future cash flows. So unless you can see the future from history, it's meaningless. Compared to PE, I use E/E more to evaluate an enterprise.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01*
+
+---
+
+**Q**: Even for good companies, beyond what PE multiple should one not buy?
+
+**A**: Having such thoughts shows you still don't understand companies. For example, when Netease was still losing money...
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2013-03-26*
+
+---
+
+**Q**: What PE multiple is appropriate?
+
+**A**: What PE multiple is appropriate relates to average long-term interest rates — 12x long-term PE should be fine. I generally use around this number too.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2011-01-05*
+
+---
+
+## ⚠️ Common Pitfalls
+
+- ❌ **"Low PE means cheap and worth buying"** — Correct answer: Duan Yongping said "Generally speaking, companies with very low PE are likely problematic. Unless you understand them well, better not touch." GM's PE was around 5x long-term, yet it eventually went bankrupt. *(Source: Investment Logic, 2011-06-17)*
+
+- ❌ **"High PE means expensive and shouldn't be bought"** — Correct answer: "For high-growth enterprises, somewhat higher PE is acceptable, as long as you're certain of their high growth. If you understand [[discounted future cash flow]], this question won't arise."*(Source: Investment Logic, 2011-04-05)*
+
+- ❌ **"Use reported PE to judge valuation"** — Correct answer: The PE Duan Yongping refers to means "PE relative to future long-term real profits, not the ordinary PE on financial reports." *(Source: Investment Logic, 2011-10-01)*
+
+---
+
+## 💬 Original Quotes
+
+> "PE is historical data; we're buying future cash flows." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01)
+
+> "The P/E ratio is a rearview mirror and cannot serve as a criterion for whether to invest. What matters is future earning power — if you don't understand it, no matter how low, don't touch." (Source: Duan Yongping Investment Q&A (Investment Logic), 2019-09-16)
+
+> "Never be misled by PE because it's historical data and may not indicate the future. The PE I generally refer to is PE relative to future long-term real profits, not the ordinary PE on financial reports. What PE you're willing to pay depends entirely on your own ability or the opportunity cost of your capital — it actually has nothing to do with the market." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-10-01)
+
+> "Generally speaking, companies with very low PE are likely problematic. Unless you understand them well, better not touch." (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-06-17)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[未来现金流折现]] · [[内在价值]] · [[毛估估]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[机会成本]] · [[安全边际]] · [[买入逻辑]]
+
+**Related Cases**
+[[网易]] · [[苹果]] · [[茅台]]
 
 :::
 

@@ -1195,8 +1195,6 @@ Here's a summary of major developments at our non-insurance businesses:
 
 :::lang chs
 
-- MidAmerican Energy's earnings grew in 2002 and will likely do so again this year. Most of the increase, both present and expected, results from the acquisitions described earlier. To fund these, Berkshire purchased $1,273 million of MidAmerican junior debt (bringing our total holdings of these 11% obligations to $1,728 million) and aIso invested $402 million in a "common-equivalent" stock. We now own (on a fully-diluted basis) 80.2% of MidAmerican's equity. MidAmerican's financial statements are presented in detail on page 37.
-- 
 MidAmerican Energy2002年的收益稳定增长，展望明年仍将维持这一态势。不论是现在还是将来，收益的增长主要来自于先前提过的并购案。为了支持MidAmerican Energy的[[Acquisitions|收购]]，[[Berkshire_Hathaway|伯克希尔]]已买进该公司发行12.73亿美元的次级债（此举使得我们累计持有这种年息11%的[[Bonds|债券]]达到17.28亿美元），另外我们还投资了约4.02亿美元的普通股，总计[[Berkshire_Hathaway|伯克希尔]]现在持有（在完全稀释基础下）MidAmerican Energy80.2%的股权。该公司详细的财务报表请参阅第37页。
 
 :::
@@ -2681,15 +2679,14 @@ Again, please vote only if there is a reasonable chance that you will be attendi
 
 :::lang chs
 
-Warren E. Buffett
+沃伦·E·巴菲特
 [[Warren_Buffett|沃伦·巴菲特]]
 
 :::
 
 :::lang chs
 
-Chairman of the Board
-董事会主席
+董事长董事会主席
 
 :::
 

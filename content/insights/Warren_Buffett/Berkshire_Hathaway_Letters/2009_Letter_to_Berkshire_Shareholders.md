@@ -535,15 +535,9 @@ An old Wall Street joke gets close to our experience:
 
 :::lang chs
 
-> Customer: Thanks for putting me in XYZ stock at 5. I hear it’s up to 18. 
->
 > 客户：“很感谢你帮助我以 5美元的价格买进了 XYZ 股票，我听说现在它已经涨到 18 美元了。”
 > 
-> Broker: Yes, and that’s just the beginning. In fact, the company is doing so well now, that it’s an even better buy at 18 than it was when you made your purchase. 
->
 > 经纪人：“是的，这才刚刚开始呢。事实上，由于该公司表现强劲，相比 5 美元时，现在在 18 美元买进甚至会更好。”
-> 
-> Customer: Damn, I knew I should have waited.
 > 
 > 客户：“见鬼。我就知道我应该再等等的。”
 

@@ -13,124 +13,116 @@ uuid: 35feb20f-d2ab-4256-967b-7351450c5c4a
 
 :::lang eng
 
-# 雅虎
+# Yahoo
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 雅虎
-
-> 买雅虎是为了买淘宝，美国投资者还没开始看淘宝，这才是便宜的机会
+> Buying Yahoo was to buy Taobao — American investors hadn't started looking at Taobao yet, and that's why it was a cheap opportunity
 
 ---
 
-## 🏢 公司简介
+## 🏢 Company Profile
 
-雅虎（Yahoo）是段永平在美股的重要投资案例之一，也是他最详细阐述[[未来现金流折现]]估值方法的案例。段永平买雅虎的核心逻辑不是看好雅虎本身，而是通过雅虎间接持有阿里巴巴集团（含淘宝、支付宝）40%的股份——这部分资产在当时几乎是"白送的"。
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的判断 |
-|------|------|------------|
-| 2010年2月 | 买入雅虎，市值约215亿美元 | "Yahoo便宜的理由非常简单"，实际只花70亿就能买到 |
-| 2010年3月 | 继续加仓 | "怎么看都值30块钱"，当时股价约15块 |
-| 2010年4月 | 详细拆解估值逻辑 | 每股净现金3美元 + 上市资产6.7美元 + 雅虎本身9.6美元 = 19.3美元，淘宝部分是"白送的" |
-| 持有期间 | 卖出网易换入雅虎 | "我卖的理由是需要换GE和Yahoo" |
-| 后期 | 卖出雅虎换入苹果 | "后来又都换了苹果" |
+Yahoo is one of [[Duan Yongping]]'s important US stock investment cases, and also the case where he most thoroughly explained his [[discounted cash flow]] valuation method. Duan Yongping's core logic for buying Yahoo wasn't optimism about Yahoo itself, but indirectly holding 40% of Alibaba Group (including Taobao, Alipay) through Yahoo — this portion of assets at the time was essentially "free."
 
 ---
 
-## 💡 段永平为什么买雅虎
+## 📅 Investment Timeline
 
-**核心逻辑：买雅虎是为了买淘宝和阿里巴巴集团**
-
-"我想我从一开始就说的很清楚，我买yahoo是为了买淘宝和阿里巴巴集团。所以yahoo只要过得去就可以了。"（来源：投资逻辑篇，2010-06-01）
-
-**估值拆解（2010年，每股约15美元时）：**
-
-| 资产 | 每股价值（美元） |
-|------|--------------|
-| 净现金 | 3 |
-| Yahoo日本（30%）+ 阿里巴巴香港上市部分（30%） | 6.7 |
-| 雅虎本身（按12倍PE，每股盈利0.8美元） | 9.6 |
-| **小计（不含淘宝）** | **19.3** |
-| 阿里巴巴集团40%（含淘宝、支付宝，段永平估500亿） | 白送 |
-
-"不管大家对淘宝的前景怎么看，我对美国大部分投资者的理解是他们根本还没开始看淘宝呢。也许这才是yahoo可以便宜的机会吧。"（来源：投资逻辑篇，2010-04-03）
+| Time | Event | Duan Yongping's Judgment |
+|------|-------|-------------------------|
+| February 2010 | Bought Yahoo; market cap ~$21.5 billion | "The reason Yahoo is cheap is very simple"; actual cost only ~$7 billion |
+| March 2010 | Continued adding position | "Worth $30 however you look at it"; stock price around $15 then |
+| April 2010 | Detailed breakdown of valuation logic | Per-share net cash $3 + listed assets $6.7 + Yahoo itself $9.6 = $19.30; Taobao portion is "free" |
+| During holding period | Sold NetEase to rotate into Yahoo | "My reason for selling was needing to rotate into GE and Yahoo" |
+| Later | Sold Yahoo to rotate into Apple | "Later everything got rotated into Apple" |
 
 ---
 
-## 💡 这个案例的核心价值
+## 💡 Why Duan Yongping Bought Yahoo
 
-**1. 隐性资产的识别**
+**Core Logic: Buying Yahoo Was to Buy Taobao and Alibaba Group**
 
-雅虎是段永平明确提到的"有隐性资产没有在账面体现的上市公司"案例之一。阿里巴巴集团（未上市部分）的价值完全没有反映在雅虎的财报里，但这恰恰是最大的价值所在。
+"I think I've been clear from the beginning — I bought Yahoo to buy Taobao and Alibaba Group. So as long as Yahoo is decent, that's fine." (Source: Investment Logic, 2010-06-01)
 
-**2. [[毛估估]]的完整示范**
+**Valuation Breakdown (2010, when per share ~$15):**
 
-段永平在这个案例里展示了他的估值方法：不追求精确，只判断"这个价格明显便宜"。"我毛估估地认为美国Yahoo大概值15左右，其他投资价值也值15左右。"（来源：投资逻辑篇，2010-03-01）
+| Asset | Value per Share (USD) |
+|-------|---------------------|
+| Net cash | 3 |
+| Yahoo Japan (30%) + Alibaba HK listed portion (30%) | 6.7 |
+| Yahoo itself (at 12x PE, EPS $0.8) | 9.6 |
+| **Subtotal (excluding Taobao)** | **19.3** |
+| Alibaba Group 40% (including Taobao, Alipay; Duan estimated ¥50B value) | Free |
 
-**3. 现金流折现的教学案例**
-
-段永平以雅虎为原型，创造了"美国虎牙"这个虚构公司，详细演示了[[未来现金流折现]]的计算方法，是整个知识库里最完整的估值教学案例。
-
-**4. 机会成本驱动的换仓逻辑**
-
-段永平先卖网易换雅虎，后卖雅虎换苹果，每一次换仓都是基于[[机会成本]]判断——哪个更便宜就持有哪个，而不是因为看空某个公司。
-
----
-
-## ❓ 精选问答
-
-**问**：您有投资过有隐性资产没有在账面体现的上市公司吗？
-
-**答**：有。yahoo就是。当年Uhal也是。
-
-*来源：段永平投资问答录(投资逻辑篇)，2010-03-27*
+"No matter what everyone thinks about Taobao's prospects, my understanding of most American investors is that they haven't even started looking at Taobao yet. Perhaps this is exactly why Yahoo can be cheap." (Source: Investment Logic, 2010-04-03)
 
 ---
 
-**问**：雅虎有什么优势么？
+## 💡 Core Value of This Case
 
-**答**：我想我从一开始就说的很清楚，我买yahoo是为了买淘宝和阿里巴巴集团。所以yahoo只要过得去就可以了。阿里巴巴的企业文化是我在中国企业里迄今见到的写的最好的企业文化。拥有这么好的企业文化再加上已经找到的这么好的生意模式，阿里巴巴想不成功都不容易啊。这也是我愿意买Yahoo的最重要的原因！
+**1. Identifying Hidden Assets**
 
-*来源：段永平投资问答录(投资逻辑篇)，2010-04-04 / 2010-06-01*
+Yahoo was one of the cases Duan Yongping explicitly mentioned of "listed companies with hidden assets not reflected on their books." The value of Alibaba Group (unlisted portion) wasn't reflected in Yahoo's financial reports at all — yet this was precisely where the greatest value lay.
 
----
+**2. Complete demonstration of [[rough estimation]]**
 
-**问**：如果有200亿，你会怎么做？
+Duan Yongping demonstrated his valuation method in this case: not pursuing precision, only judging "this price is obviously cheap." "My rough estimate is that US Yahoo is worth around 15, and other investment value is also worth around 15." (Source: Investment Logic, 2010-03-01)
 
-**答**：呵呵，现在我有200亿我就把Yahoo买下来。
+**3. Teaching case for discounted cash flow**
 
-*来源：段永平投资问答录(投资逻辑篇)，2010-03-26*
+Using Yahoo as a prototype, Duan Yongping created the fictional company "US Tiger Tooth" to demonstrate the calculation method for [[discounted cash flow]] in detail — the most complete valuation teaching case in the entire knowledge base.
 
----
+**4. Opportunity cost-driven rotation logic**
 
-## 💬 原文摘录
-
-> "我觉得Yahoo便宜的理由非常简单：……按市值算，现在买yahoo实际上只要花70亿左右。……对了，忘了说淘宝和支付宝。我说不清淘宝和支付宝值多少钱，但好像没那么重要，因为无论值多少都是白给的。不过也不是那么不重要，因为这是我买yahoo的最大理由。"（来源：段永平投资问答录(投资逻辑篇)，2010-02-08）
-
-> "不管大家对淘宝的前景怎么看，我对美国大部分投资者的理解是他们根本还没开始看淘宝呢。也许这才是yahoo可以便宜的机会吧。等个几年之后，也许大家就慢慢注意到那一块了。"（来源：段永平投资问答录(投资逻辑篇)，2010-04-03）
-
-> "没有阿里巴巴集团的话，yahoo就不便宜了。"（来源：段永平投资问答录(投资逻辑篇)，2010-03-03）
+Duan Yongping first sold NetEase to rotate into Yahoo, later sold Yahoo to rotate into Apple — each rotation was based on [[opportunity cost]] judgment — hold whichever is cheaper, not because of bearishness on any particular company.
 
 ---
 
-## 📚 投资启示
+## ❓ Selected Q&A
 
-1. **隐性资产是最大的机会**：市场定价往往只看财报，看不见的资产（未上市公司股权）往往是最大的价值所在。
-2. **[[毛估估]]不需要精确**：不需要算清楚淘宝到底值多少，只需要判断"无论值多少都是白给的"，这就够了。
-3. **换仓的本质是[[机会成本]]**：卖网易换雅虎，卖雅虎换苹果，每一步都是在问"哪个更便宜"，而不是"哪个会涨"。
+**Q**: Have you ever invested in listed companies with hidden assets not reflected on books?
+
+**A}: Yes. Yahoo was one. Uhal back then too.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-27*
 
 ---
 
-## 🔗 相关笔记
+**Q**: Does Yahoo have any advantages?
 
-[[段永平]] · [[阿里巴巴]] · [[毛估估]] · [[未来现金流折现]] · [[内在价值]] · [[机会成本]] · [[安全边际]]
+**A}: I think I've been clear from the beginning — I bought Yahoo to buy Taobao and Alibaba Group. So as long as Yahoo is decent, that's fine. Alibaba's corporate culture is the best-written corporate culture I have ever seen among Chinese companies. Having such excellent corporate culture plus having already found such an excellent business model, it would be hard for Alibaba not to succeed! This is also the most important reason I'm willing to buy Yahoo!
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-04 / 2010-06-01*
+
+---
+
+**Q}: If you had ¥20 billion, what would you do?
+
+**A}: Hehe, if I had ¥20 billion now I'd just buy Yahoo.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-26*
+
+---
+
+## 💬 Original Excerpts
+
+> "I think the reason Yahoo is cheap is very simple: ...based on market cap, buying Yahoo now actually costs only around ¥7 billion. ...By the way, forgot to mention Taobao and Alipay. I can't say exactly how much Taobao and Alipay are worth, but it doesn't seem too important, because no matter what they're worth, they're free. Though not entirely unimportant either, since this is my biggest reason for buying Yahoo." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-08)
+
+> "No matter what everyone thinks about Taobao's prospects, my understanding of most American investors is that they haven't even started looking at Taobao yet. Perhaps this is exactly why Yahoo can be cheap. After a few years, perhaps people will gradually notice that piece." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-03)
+
+> "Without Alibaba Group, Yahoo wouldn't be cheap." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-03)
+
+---
+
+## 📚 Investment Insights
+
+1. **Hidden assets are the biggest opportunities**: Market pricing often looks only at financial reports; invisible assets (unlisted company equity stakes) often represent the greatest value.
+2. **[[Rough estimation]] doesn't need precision**: No need to figure out exactly how much Taobao is worth; only need to judge that "no matter what it's worth, it's free" — that's enough.
+3. **The essence of rotation is [[opportunity cost]]**: Selling NetEase to buy Yahoo, selling Yahoo to buy Apple — each step asks "which one is cheaper?" not "which one will go up?"
+
+---
+
+## 🔗 Related Notes
+
+[[Duan Yongping]] · [[Alibaba]] · [[Rough Estimation]] · [[Discounted Cash Flow]] · [[Intrinsic Value]] · [[Opportunity Cost]] · [[Margin of Safety]]
 
 :::

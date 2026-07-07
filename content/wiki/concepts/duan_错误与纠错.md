@@ -13,9 +13,113 @@ uuid: 405ccb30-ca4b-47bd-ac36-75e9309160e5
 
 :::lang eng
 
-# 错误与纠错
+# Mistakes and Correction
 
-(English translation pending...)
+> **Admitting mistakes is the hardest thing, but not correcting after discovering an error is the greatest mistake.**
+
+---
+
+## 📌 Concept Analysis
+
+**Mistakes and correction = Mistakes are inevitable, but persisting in error after discovering it is the real mistake; the speed at which you admit errors determines the size of your losses.**
+
+You're playing golf and hit the ball into the water. That stroke is already lost—you have two choices: regret this stroke and affect your next one; or accept it and focus on how to play the next stroke. In Duan Yongping's investment philosophy, "mistakes" themselves aren't the problem—"not admitting mistakes" is fatal. The difference between a good golfer and a bad one isn't who never makes mistakes but whose error rate is lower and who can recover faster from mistakes.
+
+---
+
+## 💡 Core Understanding
+
+**1. Mistakes are inevitable—the difference between masters and ordinary people lies in lower error rates, not never making mistakes.**
+
+This is the investment philosophy Duan Yongping distilled from golf. [[Buffett]] bought many wrong stocks, but his overall error rate was extremely low—"When investing in stocks, we expect every investment to succeed. In our 38 years of operating Berkshire, the ratio of profitable investments to losing investments was approximately 100:1." This is the true moat.
+
+**2. Not correcting after discovering an error is the biggest mistake—"sunk cost" is the most dangerous psychological trap.**
+
+This describes Duan Yongping's most common error pattern—because large costs have already been invested, people are unwilling to admit mistakes and stop losses. The core of [[doing the right thing]] is: correct immediately upon discovery—"whatever the cost, it's the minimum cost."
+
+**3. Good [[corporate culture]] is an error-correction system that enables companies to discover errors early and correct them quickly.**
+
+One important dimension by which Duan Yongping evaluates companies is their error-correction ability: "It seems companies like Google have much stronger error-correction capabilities than those like Panasonic—they adjust much faster." Companies with weak correction abilities often persist in directional errors once made.
+
+**4. In investing, admitting mistakes concretely means: discovering you bought wrong—sell immediately regardless of how much you've lost.**
+
+An important trigger condition for [[selling logic]] is: discovering that the original buying judgment was wrong (not because stock prices fell, but because the company itself has problems). Continuing to hold at this point isn't [[long-termism]]; it's using "long-term" as cover for unwillingness to admit mistakes.
+
+---
+
+## 🛠 How to Practice
+
+**Distinguish between two types of errors:**
+
+1. **Execution-level errors** (errors during "doing things right"): These are part of the learning process—tolerable; key is learning from them and reducing probability. Like occasionally hitting a golf ball into water—it's normal.
+2. **Directional-level errors** (errors in "doing the right thing"): These must be corrected immediately with zero tolerance. Like discovering you've taken the wrong road—you must turn back immediately; don't continue just because "I've come so far."
+
+**Investment error-correction checklist:**
+
+Reassess whether you bought wrong when discovering:
+- Company's [[corporate culture]] has fundamental problems (not short-term performance fluctuations)
+- Company's [[business model]] has fundamentally changed
+- Original buying rationale no longer holds
+
+Note: Stock price decline itself isn't a correction signal—changes in company fundamentals are.
+
+---
+
+## 📖 Case Analysis
+
+**Buffett's investment in Energy Future Holdings (2012): Admitting errors without delay**
+
+Buffett invested about $2 billion in power company Energy Future Holdings, later facing risk of total loss. Duan Yongping commented: "That means potentially losing about 1% of market cap...relative to what old Buffett could earn investing these years, this really doesn't amount to much. It's like hitting one bad shot in golf, but overall score remains excellent. As long as you play, mistakes are inevitable—winners are those with low error rates." This is a positive example of "mistakes are inevitable but what matters is the final score."
+
+*Source: Investment Logic, 2012-02-28*
+
+---
+
+**[[Tesla]] (before 2019): Made money but later discovered flawed logic**
+
+When asked "Have you ever made trades where you made money but afterward discovered the facts or logic were wrong?" the first example Duan Yongping gave was Tesla: "My Tesla case is typical." He made considerable money on Tesla but ultimately sold everything because he "couldn't understand" it, admitting his original buying logic was wrong. This case demonstrates: good outcomes don't equal good decisions—using results to validate decisions is dangerous.
+
+*Source: Business Logic, 2018-10*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"I've lost so much—let me wait and see"** — This is the sunk cost trap. "Many people commit the foolish error of continuing to wait—I've already invested tens of millions here, how can I stop now?" Amounts already lost are history and cannot justify continued holding.
+
+- ❌ **"Good companies don't make mistakes"** — "When good companies make mistakes, they're often buying opportunities." Good companies make mistakes too—the difference is they rarely make fundamental principle errors and have strong correction capabilities. Equating "good companies" with "companies that never err" causes many missed buying opportunities.
+
+- ❌ **"Admitting mistakes shows weakness"** — Duan Yongping repeatedly emphasizes that admitting mistakes is the hardest but also most important thing. "The Japanese refusal to admit mistakes actually resembles us somewhat." Not admitting mistakes isn't strength—it's what turns small mistakes into big ones.
+
+---
+
+## 💬 Original Quotes
+
+> "The difference between masters and other players lies in low error rates, not how many good shots they hit." (Source: Investment Logic, 2011-09-07)
+
+> "As long as you're playing, mistakes are inevitable—winners are those with low error rates." (Source: Investment Logic, 2012-02-28)
+
+> "We've avoided many errors; lower mistake rates mean higher success probabilities. My investing works the same way. Like golf—you pursue overall score and enjoyment, not hole-in-one." (Source: Business Logic)
+
+> "Good corporate culture isn't omnipotent, but it helps companies avoid fundamental principle errors and enables early error discovery." (Source: Business Logic, 2011-02-18)
+
+> "There's no perfect golf, no perfect investing—it's the same with life." (Source: Investment Logic, 2012-12-20)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Doing the Right Thing]] · [[Stop Doing List]] · [[Corporate Culture]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Selling Logic]] · [[Ordinary Mind]] · [[Long-termism]]
+
+**Related Company Cases**
+[[Alibaba]] (Wei Zhe incident) · [[GE]] (admitting errors after financial crisis) · [[Tesla]] (made money but logic was flawed)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

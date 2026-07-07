@@ -28,7 +28,7 @@ related: []
 
 ---
 
-# BERKSHIRE HATHAWAY INC.
+# 伯克希尔·哈撒韦公司
 
 :::lang eng
 
@@ -1380,21 +1380,20 @@ February 22, 2025
 
 :::lang chs
 
-Warren E. Buffett  
-[[Warren_Buffett|沃伦·巴菲特]]
+沃伦·E·巴菲特[[Warren_Buffett|沃伦·巴菲特]]
 
 :::
 
 :::lang chs
 
-Chairman of the Board
+董事长
 董事长
 
 :::
 
 ---
 
-# Berkshire's Performance vs. the S&P 500
+# 伯克希尔业绩 vs. 标普 500
 
 :::lang common
 

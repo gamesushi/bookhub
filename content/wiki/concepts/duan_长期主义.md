@@ -15,7 +15,97 @@ uuid: 1f5bf97d-dd28-4b8e-887b-0dbb1876a1b4
 
 # Long-termism
 
-(English translation pending...)
+> **If you don't plan to hold a stock for 10 years, definitely don't plan to hold it for 10 days.**
+
+---
+
+## 📌 Concept Analysis
+
+**Long-termism = Think clearly before buying what this company will look like in 10 years—don't buy first and figure it out later.**
+
+You plant an apple tree. No fruit in year one, none in year two either—will you dig it up? If before planting you knew it would take 5 years to bear fruit, you wouldn't worry about the lack of fruit in the first two years. Long-termism means exactly this: think clearly "what will this company be like in 10 years" before buying, rather than checking stock prices every day afterward.
+
+---
+
+## 💡 Core Understanding
+
+**1. Long-termism is primarily a pre-purchase way of thinking, not a post-purchase holding strategy.**
+
+The key isn't "hold for 10 years" but thinking clearly before purchase—if you're certain this company will be no good in 10 years, you shouldn't buy now. This mode of thought itself is a competitive advantage. Those who focus on [[discounted future cash flow]] naturally stand on a different dimension rather than staring at next week's stock price.
+
+**2. Long-termism doesn't mean "buy and never sell"—this is the biggest misconception.**
+
+The prerequisite for long-term holding is having bought the right company. [[Buying stocks means buying companies]] is viewing a business from a long-term perspective, but stubbornly clinging to a lousy stock isn't [[value investing]]—these are two different things that shouldn't be confused. Even more dangerous is another scenario: only after losing money do people switch to saying "I'm a long-term investor." When discovering you bought wrong, sell immediately—don't comfort yourself with "long-term." This is one with [[selling logic]].
+
+**3. Long-term orientation, doing right things, and thinking about essence are fundamentally the same thing.**
+
+[[Ben Fen (Fundamental Duty)]]'s core is doing the right thing. Long-termism isn't a time strategy but a mindset—starting from fundamentals and only doing truly correct things. Together with [[Ordinary Mind]], this forms the underlying logic of Duan Yongping's investment psychological cultivation.
+
+---
+
+## 🛠 How to Practice
+
+**Before buying, ask yourself three questions:**
+
+1. **Will this company still exist in 10 years?** If you have no confidence on this question, you shouldn't buy. It's not about predicting the future—it's about clearly establishing whether this company's long-term logic holds.
+2. **Is your buying reason long-term logic or short-term catalyst?** If your reason for buying is "earnings report coming out soon" or "favorable industry policy," that isn't long-termism—that's speculation. Long-term logic should be based on the company's [[business model]], [[moat]], and [[corporate culture]].
+3. **If the stock price drops 30% tomorrow, would your judgment change?** If yes, your long-term logic wasn't solid enough to begin with. True long-termists only think "should I add to my position?" when prices fall, not "should I sell?"
+
+**During holding, there's only one thing to check:**
+
+Does the original long-term buying logic still hold? If yes, price fluctuations are irrelevant to you. If no (not because price fell but because company fundamentals changed), reassess rather than comforting yourself with "I'm a long-term investor" while continuing to hold.
+
+---
+
+## 📖 Case Analysis
+
+**[[NetEase]] (2002): Adding positions even at 20-30x gains; ultimately held for 8-9 years**
+
+In 2002, [[NetEase]]'s stock price fell below $1 facing delusion risk; market sentiment was extremely pessimistic. [[Duan Yongping]] bought—the reasoning was simple: his experience building Subor gave him deep understanding of the gaming industry, and he was certain this market would be huge. He said: "When something worth 10 yuan has someone crying and begging to sell it to you for 1 yuan, why would you need courage?" — He had thought things through clearly before buying, so when it rose 20-30x, instead of selling, he actually added more.
+
+*Source: Investment Logic, 2011-05-08*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Buying and never selling equals long-termism"** — The prerequisite for long-term holding is buying correctly. Clinging to a lousy stock just uses the word "long-term" to mask unwillingness to admit mistakes.
+
+- ❌ **"Claiming to be a long-term investor after losing money"** — This is the most dangerous self-deception. Buy wrong = sell immediately; it has nothing to do with how long you've held.
+
+- ❌ **"Long-termism means ignoring short-term—doing nothing"** — Not doing nothing, but focusing on different things. Long-termists care whether a company's long-term value is accumulating, not where short-term prices sit.
+
+- ❌ **"As long as it's a good company, I can hold long-term even without understanding it"** — "My understanding of Vanke was far less than my understanding of NetEase, so earning less makes sense." The prerequisite for long-term holding is truly understanding a company—if it's outside your [[circle of competence]], even if bought you can't hold it, let alone hold long-term. *(Source: Investment Logic, 2010-03-18)*
+
+---
+
+## 💬 Original Quotes
+
+> "If you don't plan to hold a stock for 10 years, definitely don't plan to hold it for 10 days—otherwise you're just 'speculating.'" (Source: Investment Logic, 2011-12-13)
+
+> "Value investing IS long-term investing (viewing a company from a long-term perspective), but long-term investing isn't necessarily value investing (stubbornly clinging to one stock). Value investing's long-term holding only applies when you've bought the right stock." (Source: Investment Logic, 2010-12-02)
+
+> "Many people only remember 'long-term' when they're 'trapped'...such decisions usually lead to greater losses." (Source: Investment Logic, 2011-12-13)
+
+> "People who focus on the long term have huge competitive advantages over those who focus on the short term, which further reinforces my commitment to focusing long-term." (Source: Investment Logic)
+
+> "Thinking about essence, doing the right things, and thinking 10 years ahead are all the same thing." (Source: Investment Logic, 2019-07-14)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Buying Stocks Means Buying Companies]] · [[Standards for Good Companies]] · [[Circle of Competence]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Selling Logic]] · [[Concentrated Investing]] · [[Lock Position for Ten Years]]
+
+**Related Company Cases**
+[[NetEase]] (held 8-9 years)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

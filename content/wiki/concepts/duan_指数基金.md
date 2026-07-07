@@ -13,9 +13,88 @@ uuid: edeaad88-ab06-4069-a0b2-7538c902bf69
 
 :::lang eng
 
-# 指数基金
+# Index Funds
 
-(English translation pending...)
+> **People who don't understand investing should stay away from the stock market; if you must invest, index funds are an excellent choice.**
+
+---
+
+## 📌 Concept Analysis
+
+**Index funds = For ordinary investors without deep research capabilities, buying low-fee index funds is a more rational choice than picking stocks themselves—but this isn't Duan Yongping's own choice because he finds it "too boring."**
+
+You can't cook, but you need to eat. The best option isn't to cook haphazardly yourself but to go to a reliable restaurant. Index funds are that "reliable restaurant"—they won't give you the best food, but they guarantee you won't get sick from your own bad cooking. Duan Yongping's attitude toward index funds is clear: he doesn't invest in them himself, but he often recommends them to friends who don't understand investing.
+
+---
+
+## 💡 Core Understanding
+
+**1. The core advantage of index funds is low fees and full diversification, not "beating the market."**
+
+Duan Yongping cites Munger's view, emphasizing that the value of index funds lies in low friction costs, not active management ability. Fees are the enemy of long-term compounding—"if you plan to hold for 30 years, you'll find annual fees above 1% somewhat crazy."
+
+**2. Index funds are suitable for those who "don't understand," not a universal solution for everyone.**
+
+Duan Yongping's logic is very clear: if you truly understand a certain company, [[concentrated investing]] in companies you understand yields better returns; if you don't understand, index funds are much safer than randomly picking stocks.
+
+**3. "Investing in indices means investing in the country"—the essence of index funds is a bet on an economy's long-term development.**
+
+This statement points out the underlying logic of index funds: you're not buying one company but the average performance of the entire economy. This is also why Duan Yongping recommends broad-based indices like the S&P 500 rather than sector indices or theme funds—"before buying an index, it's best to have a general understanding of what the index is."
+
+**4. For people who truly understand investing, index funds aren't the optimal choice.**
+
+Duan Yongping acknowledges that most people are suited for index funds, but he himself chooses [[concentrated investing]] in a few companies he truly understands. This isn't a contradiction—it's a rational choice based on [[circle of competence]]: within his circle of competence, concentrated investing outperforms indices; outside it, index funds beat random stock picking.
+
+---
+
+## 🛠 How to Practice
+
+**If you choose index funds, note the following:**
+
+1. **Choose ultra-low-fee broad-based indices:** Duan Yongping recommends index funds like the S&P 500 with extremely low fees (around 0.05%), not actively managed funds or sector ETFs with fees exceeding 1%.
+2. **Buy when the market is pessimistic:** Duan Yongping says "for most people who don't have much time to analyze companies, perhaps buying suitable indices during stock market crashes is a pretty good method—relatively safe, and you'll sleep well."
+3. **Hold with a long-term perspective:** The logic of index funds aligns with [[long-termism]]—you're buying long-term economic growth; short-term fluctuations aren't reasons to sell.
+
+**If you want to outperform the index, the prerequisite is:**
+
+You've truly understood a certain company and it falls within your [[circle of competence]]. Otherwise, thinking you understand when you don't and randomly picking stocks will likely result in underperformance versus the index.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Buying high-fee actively managed funds is better than index funds"** — "Those who recommend other financial products to you are usually doing so to collect commissions and fees." In the long run, high fees are compounding's enemy; most actively managed funds fail to beat low-fee index funds.
+
+- ❌ **"Index funds suit everyone"** — Index funds suit those who "don't understand." If you truly understand a certain company, concentrated investing in companies you understand yields better returns. "Either buy companies because you know them relatively well, or buy indices when they're low—the risk is relatively small."
+
+- ❌ **"Once you buy index funds, you can ignore them"** — Index funds also need to be bought at appropriate prices. "That's how I understand it too (buy when most people are panicking, sell when most people are greedy)." Buying index funds when the market is extremely overvalued similarly carries the risk of poor long-term returns.
+
+---
+
+## 💬 Original Quotes
+
+> "I don't invest in index funds myself; I find them too boring. However, people who don't understand investing should stay away from the stock market—if you must invest, index funds are an excellent choice." (Source: Investment Logic, 2014-06-14)
+
+> "Investing in indices means investing in the country." (Source: Investment Logic, 2013-05-20)
+
+> "For most people who don't have much time to analyze companies, perhaps buying suitable indices during stock market crashes is a pretty good method—relatively safe, and you'll sleep well." (Source: Investment Logic, 2010-05-16)
+
+> "The vast majority of people are suited for index funds. That's my feeling as well. Investing..." (Source: Investment Logic)
+
+> "Why would you plan to hold a stock for 10 days if you're not planning to hold it for 10 years? If you plan to hold for 30 years, you'll find annual fees above 1% somewhat crazy." (Source: Investment Logic, 2015-09-10)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Long-termism]] · [[Value Investing]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Concentrated Investing]] · [[Opportunity Cost]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

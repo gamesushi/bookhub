@@ -15,103 +15,95 @@ uuid: 12a807d1-d728-4764-91b0-ee1337712acb
 
 :::lang eng
 
-# 拼多多
+# PDD (Pinduoduo)
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 拼多多
-
-> **"Costco + Disney"——段永平最重要的中国互联网投资**
+> **"Costco + Disney" — Duan Yongping's Most Important Chinese Internet Investment**
 
 ---
 
-## 🏢 公司简介
+## 🏢 Company Profile
 
-[[拼多多]]是[[黄峥]]创立的电商平台，也是[[段永平]]最重要的中国互联网投资。段永平在拼多多 IPO 前就参与了 Pre-IPO 投资，理由是"我对黄峥有很高的信任度"。他用"Costco + Disney"来定义拼多多的[[生意模式]]——这是他认为最准确的描述。
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的判断 |
-|------|------|------------|
-| 2018年7月10日 | 拼多多 IPO 前 | "我计划再一次买点 PreIPO" |
-| 2018年7月22日 | 拼多多上市 | "给他10年时间，大家会看到他们厉害的地方" |
-| 2018年7月28日 | 上市后加仓 | "我今天也买了些拼多多……我已经好些年没有买公司的欲望了" |
-| 2018年7月31日 | 持续看好 | "未来拼多多这个流量，怎么着一年200-300亿（人民币）的利润似乎不应该是问题" |
-| 2018年9月 | 定性为风投 | "这确实是我目前的观点，所以一直不建议大比例投入" |
-| 2019年4月 | 持续持有 | "Costco + Disney，这个定义有点意思" |
+[[PDD]] is an e-commerce platform founded by [[Colin Huang]], and also [[Duan Yongping]]'s most important Chinese internet investment. Duan Yongping participated in Pre-IPO investing before PDD's IPO, with the reason being "I have a high level of trust in Colin Huang." He used "Costco + Disney" to define PDD's [[business model]] — what he considers the most accurate description.
 
 ---
 
-## 💡 段永平为什么投资拼多多
+## 📅 Investment Timeline
 
-- **对[[黄峥]]的信任**：[[段永平]]说"我还没用过拼多多但我对黄峥有很高的信任度！给他10年时间，大家会看到他们厉害的地方的"——这是[[能力圈]]在人的判断上的体现。
-- **"Costco + Disney"的[[生意模式]]**：段永平说"Costco + Disney，这个定义有点意思，也很难找到更好的定义了"——好的[[生意模式]]一句话就能说清楚。
-- **[[差异化]]竞争**：拼多多服务的是"五环外"用户，是未曾深耕的差异化市场——这与段永平的[[差异化]]理念一致。
-- **[[本分]]文化的传承**：段永平说黄峥"在段总的影响下，逐渐建立了本分文化，消费者导向，差异化竞争"——这是[[步步高]]文化的传承。
-- **[[企业文化]]的力量**：段永平说"我相信企业文化的力量！拼多多股票10年内是我是不会考虑卖的，但有机会我会继续买。"
-
----
-
-## 💡 段永平如何定性这笔投资
-
-段永平明确把拼多多定性为"风投"，而非他通常的价值投资：
-
-> "这里风投的意思是：这么一帮人，这样一种文化，这样一个生意模式，如果一直这么发展下去，10年后跟淘宝平分天下还是有可能的吧？如果他们做到了，股东回报自然高。风险的部分在哪里呢？我要知道就不是风投了。" — 段永平（来源：商业逻辑篇，2018-09-02）
-
-这与他投[[网易]]的逻辑不同——投网易时他"非常懂游戏，当时非常确定他们将来会赚很多钱"；投拼多多时他坦承"目前的水平依然不知道他们未来能不能赚到符合目前市值的利润"。
+| Time | Event | Duan Yongping's Judgment |
+|------|-------|-------------------------|
+| July 10, 2018 | Before PDD IPO | "I plan to buy some more Pre-IPO" |
+| July 22, 2018 | PDD listed | "Give them 10 years and everyone will see where they excel" |
+| July 28, 2018 | Added position after listing | "I bought some Pinduoduo today... I haven't had the desire to buy company stock for many years" |
+| July 31, 2018 | Continued bullish stance | "In the future PDD's traffic should easily generate ¥20–30 billion (RMB) annual profit without much difficulty" |
+| September 2018 | Characterized as venture investment | "This is indeed my current view, so I've consistently not recommended large allocation" |
+| April 2019 | Continued holding | "Costco + Disney — this definition has some interesting meaning" |
 
 ---
 
-## 💬 原文摘录
+## 💡 Why Duan Yongping Invested in PDD
 
-> "我还没用过拼多多但我对黄峥有很高的信任度！给他10年时间，大家会看到他们厉害的地方的。拼多多才成立不到三年，有些毛病很正常。我觉得10年后他们会非常厉害，如果能够有10年的话。" — 段永平（来源：商业逻辑篇，2018-07-22）
-
-> "Costco + Disney，这个定义有点意思，也很难找到更好的定义了。" — 段永平（来源：商业逻辑篇，2019-04-25）
-
-> "我计划再一次买点 PreIPO。也许10年后人们会发现拿着望远镜也找不到对手的年代已经过去了。" — 段永平（来源：商业逻辑篇，2018-07-10）
-
-> "我今天（7.28）也买了些拼多多。虽然我已经有不少了，而且价格便宜很多，但我还是想再多买些。我已经好些年没有买公司的欲望了，但我觉得有机会的话，我会多买些拼多多。我相信企业文化的力量！拼多多股票10年内是我是不会考虑卖的，但有机会我会继续买。" — 段永平（来源：商业逻辑篇，2018-07-28）
-
-> "如果拼多多能渡过他的难关的话，未来拼多多这个流量，怎么着一年200-300亿（人民币）的利润似乎不应该是问题吧？" — 段永平（来源：商业逻辑篇，2018-07-31）
-
-> "唯一我觉得可以做风投的理由就是，在目前这种成长情况下，我相信他们的好文化最终会有不错的概率会带来好结果。" — 段永平（来源：商业逻辑篇，2018-08-31）
-
-> "我相信他们本分的文化会让他们找到非急功近利的办法的。" — 段永平（来源：商业逻辑篇，2018-09-05）
+- **Trust in [[Colin Huang]]**: [[Duan Yongping]] said "I haven't even used Pinduoduo but I have a high level of trust in Colin Huang! Give them 10 years and everyone will see where they excel" — this embodies [[circle of competence]] applied to judging people.
+- **"Costco + Disney" [[business model]]**: Duan Yongping said "Costco + Disney — this definition has some interesting meaning, and it would be hard to find a better definition" — good [[business model]] can be explained in one sentence.
+- **[[Differentiation]] competition**: PDD serves users "outside the Fifth Ring Road" — an untapped differentiated market, consistent with Duan Yongping's [[differentiation]] philosophy.
+- **Inheritance of [[doing the right things]] culture**: Duan Yongping said Colin Huang "under Duan's influence gradually built a doing-the-right-things culture: consumer orientation, differentiated competition" — inheritance of [[BBK]]'s culture.
+- **Power of [[corporate culture]]**: Duan Yongping said "I believe in the power of corporate culture! I won't consider selling PDD shares within 10 years, but I'll continue buying when opportunities arise."
 
 ---
 
-## ⚠️ 常见误区
+## 💡 How Duan Yongping Characterized This Investment
 
-- ❌ **"段永平投拼多多是因为看懂了拼多多的商业模式"** — 正解：段永平明确说"我投拼多多确实是因为喜欢黄峥"，并把这笔投资定性为"风投"，坦承"目前的水平依然不知道他们未来能不能赚到符合目前市值的利润"。（来源：商业逻辑篇，2018-09-02）
+Duan Yongping explicitly characterized PDD as a "venture investment," not his usual value investing:
 
-- ❌ **"段永平推荐大家买拼多多"** — 正解：段永平明确说"我从来没推荐过大家投资拼多多，目前也不会推荐，因为我不清楚拼多多到底最后会如何，所以觉得顶多只能按风投的标准去看拼多多。"（来源：商业逻辑篇，2019-05-28）
+> "By venture investment I mean: with such a group of people, such a culture, such a business model — if they continue developing like this, isn't it possible that in 10 years they'll split the market evenly with Taobao? If they achieve that, shareholder returns naturally will be high. Where's the risk part? If I knew that, it wouldn't be venture investing." — Duan Yongping (Source: Business Logic, 2018-09-02)
 
----
-
-## 📚 投资启示
-
-- **投人比投公司更重要**：段永平投拼多多，核心是对[[黄峥]]的信任——"我了解他，我信任他"。这是[[能力圈]]在人的判断上的体现。
-- **好的[[生意模式]]一句话就能说清楚**："Costco + Disney"——这正是[[巴菲特]]说的"伟大的生意一般只要一个paragraph就可以说得很清楚"。
-- **[[长期主义]]的眼光**：段永平说"给他10年时间"——这是[[长期主义]]在投资中的体现。
-- **风投与价值投资的区别**：段永平把拼多多定性为风投，而非他通常的价值投资——这说明他对自己的[[能力圈]]边界有清醒认识，不确定的事情不会大比例投入。
+This differs from his logic for investing in [[NetEase]] — for NetEase he was "very certain about gaming and very sure they'd make lots of money in the future"; for PDD he admitted "at my current level I still don't know whether they can earn profits matching their current market cap."
 
 ---
 
-## 🔗 相关笔记
+## 💬 Original Excerpts
 
-**相关概念**
-[[生意模式]] · [[差异化]] · [[本分]] · [[长期主义]] · [[能力圈]] · [[企业文化]]
-**相关人物**
-[[段永平]] · [[黄峥]]
-**相关公司**
-[[腾讯]] · [[苹果]] · [[茅台]] · [[网易]]
-**相关主题**
-[[好公司的标准]] · [[段永平的经典投资案例]]
+> "I haven't even used Pinduoduo but I have a high level of trust in Colin Huang! Give them 10 years and everyone will see where they excel. Pinduoduo hasn't even been established for three years yet; having some issues is normal. I think in 10 years they'll be very impressive, assuming they have 10 years." — Duan Yongping (Source: Business Logic, 2018-07-22)
+
+> "Costco + Disney — this definition has some interesting meaning, and it would be hard to find a better definition." — Duan Yongping (Source: Business Logic, 2019-04-25)
+
+> "I plan to buy some more Pre-IPO. Perhaps 10 years from now people will discover that the era when you couldn't find competitors even with a telescope has passed." — Duan Yongping (Source: Business Logic, 2018-07-10)
+
+> "I bought some Pinduoduo today (July 28). Although I already hold quite a bit at much cheaper prices, I still wanted to buy more. I haven't had the desire to buy company stock for many years, but if opportunities come up, I'll buy more Pinduoduo. I believe in the power of corporate culture! I won't consider selling Pinduoduo shares within 10 years, but I'll continue buying when opportunities arise." — Duan Yongping (Source: Business Logic, 2018-07-28)
+
+> "If Pinduoduo can get through its difficulties, then in the future PDD's traffic should easily generate ¥20–30 billion (RMB) annual profit without much difficulty, right?" — Duan Yongping (Source: Business Logic, 2018-07-31)
+
+> "The only reason I feel justified making a venture investment is that under current growth conditions, I believe their good culture will ultimately have decent probability of delivering good results." — Duan Yongping (Source: Business Logic, 2018-08-31)
+
+> "I believe their doing-the-right-things culture will lead them to find non-short-termist solutions." — Duan Yongping (Source: Business Logic, 2018-09-05)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Duan Yongping invested in PDD because he understood PDD's business model"** — Correction: Duan Yongping explicitly said "I invested in PDD because I like Colin Huang," and characterized this investment as "venture investment," admitting "at my current level I still don't know whether they can earn profits matching their current market cap." (Source: Business Logic, 2018-09-02)
+
+- ❌ **"Duan Yongping recommended everyone buy PDD"** — Correction: Duan Yongping explicitly said "I've never recommended anyone invest in Pinduoduo, and won't recommend now either, since I don't know how Pinduoduo will ultimately turn out, so I think at most you can only look at Pinduoduo by venture investment standards." (Source: Business Logic, 2019-05-28)
+
+---
+
+## 📚 Investment Insights
+
+- **Investing in people is more important than investing in companies**: The core reason Duan Yongping invested in PDD was trust in [[Colin Huang]] — "I understand him, I trust him." This is [[circle of competence]] applied to judging people.
+- **Good [[business model]] can be explained in one sentence**: "Costco + Disney" — exactly what [[Buffett]] said: "Great businesses can usually be explained clearly in one paragraph."
+- **[[Long-termism]] perspective**: Duan Yongping said "give them 10 years" — embodiment of [[long-termism]] in investing.
+- **Difference between venture investing and value investing**: Duan Yongping characterized PDD as venture investment rather than his usual value investing — showing he has clear awareness of his [[circle of competence]] boundaries; he won't allocate heavily to uncertain matters.
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Business Model]] · [[Differentiation]] · [[Doing the Right Things]] · [[Long-termism]] · [[Circle of Competence]] · [[Corporate Culture]]
+**Related People**
+[[Duan Yongping]] · [[Colin Huang]]
+**Related Companies**
+[[Tencent]] · [[Apple]] · [[Moutai]] · [[NetEase]]
+**Related Topics**
+[[Criteria for Good Companies]] · [[Duan Yongping's Classic Investment Cases]]
 
 :::

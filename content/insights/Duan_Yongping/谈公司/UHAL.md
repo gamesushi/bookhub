@@ -17,15 +17,110 @@ uuid: 45ec8e74-886b-43f6-9e75-9593937bb548
 
 # UHAL（U-Haul）
 
-(English translation pending...)
+# UHAL (U-Haul)
+
+> **"My algorithm is simple: a friend told me UHAL had net assets of over $50. I didn't quite believe it, since the stock was trading around $5 at the time. Then I asked different people to verify it, and indeed there was around $50 in net assets — so I bought."** — Duan Yongping (2010-03-09)
+
+---
+
+## 🏢 Basic Information
+
+- **Industry**: Moving / Truck Rental Services
+- **Purchase Time**: Around 2003, when UHAL entered bankruptcy protection
+- **Purchase Price**: Around $5 (net assets ~$50)
+- **Investment Return**: Multi-bagger (later rose to nearly $100)
+- **Characteristics**: Cigar butt stock, hidden asset investment
+
+---
+
+## 💡 Duan Yongping's Core Views
+
+### Why Buy UHAL?
+
+> My algorithm is simple: a friend told me UHAL had net assets of over $50. I didn't quite believe it, since the stock was trading around $5 at the time. Then I asked different people to verify it, looked at it myself, and indeed there was around $50 — so I bought. This kind of opportunity is what Buffett calls "pennies from heaven," right? The key point: your bucket has to be big enough, or you won't catch much. (2010-03-09)
+
+### UHAL's Core Business
+
+> Through a series of investigations, Duan Yongping discovered that UHAL's core business operations were sound with outstanding competitive advantages, stable revenue, and abundant cash flow. As long as the company could cut its losses by exiting high-risk investments and selling some commercial real estate, its financial numbers would improve immediately. (*The Nature of Investing*)
+
+---
+
+## 💡 Deep Dive into UHAL's Investment Logic
+
+UHAL is one of Duan Yongping's rare "cigar butt" investments, differing from his usual "good companies at good prices" approach:
+
+**Why Is This a Cigar Butt?**
+- Stock price $5, net assets $50 — enormous price discount (90% discount)
+- Company entered bankruptcy protection; extreme market panic
+- Core business (moving/truck rental) remained healthy — only the capital structure had problems
+
+**Relationship with Duan Yongping's Usual Strategy**
+Duan Yongping described this as "pennies from heaven" — this kind of opportunity is extremely rare and not part of his regular strategy. He typically focuses more on good business models rather than asset discounts. But when the discount is this extreme (90%), even an average business model makes it worth buying.
+
+**The Meaning of "Your Bucket Must Be Big Enough"**
+> "The most important thing is that your bucket must be big enough, or you won't catch much."
+
+This means: when pennies fall from heaven, you need sufficient position size to catch them. Maintaining ample cash/reserve capacity allows you to buy heavily when extreme opportunities arise.
+
+---
+
+## ❓ Selected Q&A
+
+**Q**: What kind of investment opportunity is UHAL?
+
+**A**: Yes, Yahoo was one back then, and UHAL was too (a listed company with hidden assets not reflected on the balance sheet). (2010-03-26, Investment Logic Series)
+
+---
+
+**Q**: What are UHAL's hidden assets?
+
+**A**: Sometimes there are. For example, when I bought UHAL, it was exactly this situation. The real estate owned by UHAL was very valuable, but the financial statements couldn't reflect it. (2010-05-11, Investment Logic Series)
+
+---
+
+**Q**: How did you make the UHAL investment decision?
+
+**A**: I mainly asked people to look at the assets, not to verify authenticity. UHAL's asset situation was very complex — it took a long time (several weeks) to fully understand. (2012-02-02, Investment Logic Series)
+
+---
+
+**Q**: How should we understand "regrettably I happened to buy right at the bottom, so I didn't buy enough"?
+
+**A**: Regrettably, I happened to buy right at the bottom, so I didn't buy enough. (2012-02-02, Investment Logic Series)
+
+---
+
+**Q**: How does UHAL differ from investments like NetEase and Apple?
+
+**A**: (Duan Yongping didn't compare them directly, but we can infer from his investment logic) UHAL is a typical "asset discount" type investment, while NetEase and Apple are "business model" type investments. The former relies on extreme undervaluation of price; the latter relies on deep understanding of the company's future cash flows. Both are value investing, but they take different paths.
+
+---
+
+## 📚 Investment Lessons
+
+The UHAL case demonstrates:
+1. **Value of Hidden Assets**: Financial statements cannot reflect all value; deep research is required
+2. **Application of [[毛估估]] (Rough Estimate)**: No need for precise calculations — a rough judgment suffices ($5 to buy $50 of net assets)
+3. **Bucket Must Be Big Enough**: When pennies fall from heaven, have enough position size ready
+4. **Cut Losses to Survive**: When good companies make mistakes, it's often a buying opportunity
+5. **Take Time to Research**: "It took a long time (several weeks) to fully understand" — even rough estimates require serious research
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[毛估估]] · [[安全边际]] · [[买股票就是买公司]]
+**Related Person**
+[[段永平]]
+**Related Topics**
+[[段永平的经典投资案例]] · [[如何研究一家公司]]
 
 :::
 
 :::lang chs
 
-# UHAL（U-Haul）
-
-> **"我的算法很简单，就是朋友告诉我uhal有50块以上的净资产，我不太相信，因为当时股价在5块左右，然后找不同的人查了一下，确实是有50左右，就买了"** — 段永平（2010-03-09）
+# U-Haul 公司（UHAL）> **"我的算法很简单，就是朋友告诉我uhal有50块以上的净资产，我不太相信，因为当时股价在5块左右，然后找不同的人查了一下，确实是有50左右，就买了"** — 段永平（2010-03-09）
 
 ---
 

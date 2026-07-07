@@ -13,9 +13,94 @@ uuid: ce0cfeee-c01c-4d90-858f-788fe5a0e6c1
 
 :::lang eng
 
-# Ben Fen (Duty/Integrity)
+# Fundamental Duty (Ben Fen)
 
-(English translation pending...)
+> **The bottom line for investing and for life—knowing what you shouldn't do is more important than knowing what you should do.**
+
+---
+
+## 📌 Concept Analysis
+
+**Fundamental Duty (Ben Fen) = Only do what you believe is right, firmly refuse to do what you shouldn't do, and don't be tempted by short-term gains.**
+
+A chef is offered a high price to adulterate ingredients but refuses—not because he calculated the costs and benefits, but because "this isn't something I should do." He doesn't need to rethink "should I do this?" every time, because that line is fixed in his heart. What Duan Yongping calls "Ben Fen" means exactly this—there are some things that no matter how profitable they are, you simply won't do them.
+
+---
+
+## 💡 Core Understanding
+
+**1. Ben Fen = Doing the right thing + doing things right; the core is immediately stopping when you discover something is wrong.**
+
+It's not about how much you do, but about firmly not doing what shouldn't be done. [[Stop Doing List]] is the practical manifestation of Ben Fen—[[BBK]]'s refusal to do OEM work, no haggling, no credit sales: each rule is a concrete expression of Ben Fen.
+
+**2. The essence of Ben Fen is "not taking advantage of others"—this is precisely a true [[moat]].**
+
+Many people think Ben Fen is moral preaching with nothing to do with making money. But Duan Yongping believes the culture of "not taking advantage of others" is the real reason [[BBK]] can succeed in long-term partnerships—Ben Fen isn't a slogan; it's commercial credit that accumulates over time.
+
+**3. Ben Fen is a tool for self-examination, not a "demon-revealing mirror" for judging others.**
+
+Duan Yongping explicitly says it's inappropriate to always use "Ben Fen" to measure others. First and foremost, Ben Fen is self-discipline—only those who constantly have this thought in mind and can measure their own behavior against Ben Fen at all times are getting close. Together with [[Ordinary Mind]], this forms the core secret of [[BBK]][[corporate culture]].
+
+---
+
+## 🛠 How to Practice
+
+**When faced with temptation, ask yourself one question: Is this something I should be doing?**
+
+Not "can this make money?" Not "everyone else is doing it, should I too?" But "is this consistent with Ben Fen?" Duan Yongping's approach is to establish his own [[Stop Doing List]]—explicitly listing those "things you shouldn't do," and once confirmed, firmly avoiding them without re-weighing them each time.
+
+**In investing, Ben Fen means:**
+- Don't buy companies you don't understand, even if others made money from them
+- Don't change your judgment just because stock prices rose
+- If you discover you bought wrong, admit it immediately, sell immediately—don't use "long-termism" to comfort yourself into continuing to hold
+
+---
+
+## 📖 Case Analysis
+
+**[[BBK]]: Building long-term commercial credit through Ben Fen**
+
+[[BBK]] adheres to rules such as "no OEM, no haggling, no credit sales, no delayed payments" in its operations. These rules may seem to sacrifice short-term interests, but [[Duan Yongping]] believes this is precisely why BBK can succeed in long-term cooperation. He says: "Our success rate in cooperating with others does seem somewhat higher than average." — Ben Fen accumulates others' trust in you, which is a true moat.
+
+*Source: Business Logic, 2010-03-12*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Ben Fen means being honest and conservative—you'll miss many opportunities"** — "Doing the right thing essentially means stopping as soon as you discover something is wrong; whatever the cost, it's the smallest cost." Ben Fen isn't about inaction—it's about going all out in the right direction while firmly refusing to do wrong things.
+
+- ❌ **"Ben Fen is moral preaching unrelated to making money"** — "Not taking advantage of others" is BBK's culture, and this is precisely why they can succeed in long-term partnerships. Ben Fen is a real [[moat]], not a slogan.
+
+- ❌ **"Ben Fen is a standard for demanding things of others"** — "Personally, I think it's inappropriate to always use 'Ben Fen' as a 'demon-revealing mirror' to judge others." Ben Fen is first and foremost a tool for self-examination.
+
+---
+
+## 💬 Original Quotes
+
+> "'Keeping promises,' or integrity or Ben Fen, only manifests itself when there's a price to pay." (Source: Business Logic, 2013-02-26)
+
+> "Ben Fen encompasses and goes beyond integrity. Companies or people practicing Ben Fen always inspire goodwill and are worthy of trust." (Source: Business Logic)
+
+> "Personally, I think it's inappropriate to always use 'Ben Fen' as a 'demon-revealing mirror' to judge others. Only those who keep this thought constantly in mind and can measure their own behavior against Ben Fen at all times are approaching understanding." (Source: Business Logic, 2010-03-12)
+
+> "Doing the right thing means—as soon as you discover an error, correct it immediately; whatever the cost, it's the minimum cost." (Source: Business Logic, 2011-02-21)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Circle of Competence]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Long-termism]] · [[Stop Doing List]]
+
+**Related Company Cases**
+[[BBK]] · [[OPPO]] · [[vivo]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

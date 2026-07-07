@@ -13,9 +13,121 @@ uuid: ab8cd643-1287-49db-8a1b-3cb076062e29
 
 :::lang eng
 
-# 保健因子与激励因子
+# Hygiene Factors and Motivators
 
-(English translation pending...)
+> **Money is a hygiene factor—less is unacceptable, more is useless**
+
+---
+
+## 📌 Concept Explanation
+
+**Hygiene factors = things that cause problems if lacking but don't improve things if abundant; Motivators = things that truly make people engage from the heart.**
+
+Imagine this: you go to work every day. The company restroom being clean is a basic requirement—if it's dirty you'll be very unhappy, but no matter how clean, it won't make you work harder. This is a hygiene factor—its function is "preventing things from getting worse," not "making you better." Salary is the same: paying too little makes people leave, but paying more won't make already hardworking people work harder. What truly drives people to go all out is doing meaningful work, being recognized, having a sense of achievement—these are motivators.
+
+---
+
+## 💡 Core Understanding
+
+**1. Money is a hygiene factor, not a motivator.**
+
+It's actually a hygiene factor—things where more is useless and less is unacceptable. If employees are already working hard, giving more money won't make them work harder, but giving less will cause people to leave. So how much you pay actually reflects the fairness principle in [[benfen]]—the company should pay employees what they've been promised; paying more or less both destroy fairness.
+
+**2. Stock incentives are essentially "stock hygiene," not motivation.**
+
+Many people treat stock incentive plans as magic for retaining talent, but Duan Yongping's judgment is: without stock you might not retain people, but having stock doesn't necessarily motivate them. This aligns with [[corporate culture]] logic—what truly makes people stay is sense of identification and mission, not stocks.
+
+**3. Motivators are "things unrelated to money that make everyone happy working together."**
+
+Motivators are probably those things unrelated to money that make everyone happy working together—also called [[pursuit beyond profit]]. This is the core of "right culture" in [[standards for good companies]]—good [[corporate culture]] itself is the strongest motivator.
+
+**4. Team cohesion can't be improved by adding money, but reducing money has significant destructive power.**
+
+Improving team cohesion by adding money is useless, but reducing money has significant destructive power. This asymmetry is important: hygiene factors' function is one-directional—only the destructive power of "not enough," no constructive power of "more." Cohesion from [[teamwork]] comes from [[corporate culture]], not compensation packages.
+
+**5. Reasons for not working hard aren't necessarily related to money.**
+
+If employees don't work hard, giving more money may not solve the problem—you must first clarify why they're not working hard. In many cases it's not about money but issues with [[corporate culture]], "right people" matching in [[standards for good companies]]—suitability in [[teamwork]] hasn't been resolved.
+
+---
+
+## 🛠 How to Practice
+
+1. **Get hygiene factors right first:** Compensation should be fair, fulfill promises, avoid creating a sense of "favor." OPPO giving year-end bonuses to departing employees is the ultimate embodiment of this principle—that's what employees deserve, not a boss's favor.
+2. **Don't use raises to solve motivation problems:** If team morale is low, find the reason first—is there a problem with [[corporate culture]], or wrong people selection per [[standards for good companies]]? Money can only treat symptoms, not root causes.
+3. **Motivators depend on culture building:** What truly engages people is meaningful work, recognition of values, doing things with like-minded people. This is the management version of [[pursuit beyond profit]].
+4. **Give stock, but don't expect it to motivate people:** Stock is hygiene—without it there will be problems, but having it doesn't mean people will try harder. True motivation comes from [[corporate culture]] identification.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Brother Duan, what do you think of stock incentive plans?
+
+**A:** Actually they're hygiene plans, but people insist on calling them incentive plans.
+
+*Source: Business Logic, 2013-06-26*
+
+---
+
+**Q:** Money-related things are hygiene factors—Brother Duan, could you talk about motivators?
+
+**A:** They're basically those things unrelated to money that make everyone happy working together—also called pursuit beyond profit.
+
+*Source: Business Logic, 2013-06-20*
+
+---
+
+**Q:** If employees aren't yet working very hard, will giving more money (or raises) make them work harder?
+
+**A:** You need to figure out why they're not working hard first. In many cases it's not necessarily related to money. In any situation, having less will always cause problems.
+
+*Source: Business Logic, 2011-02-18*
+
+---
+
+**Q:** Company cohesion isn't strong—we want to establish a core employee profit-sharing mechanism. What proportion of profit distribution would be scientific and motivating for everyone?
+
+**A:** Weak cohesion has nothing to do with whether we recruit or not. I don't know what proportion would be scientific and motivating for everyone. Money is a hygiene factor—more is useless, less is unacceptable. Meaningingiving more money doesn't have motivational effect, but less means everyone will leave. I suggest reading these two books: *Built to Last* and *Good to Great*—maybe they'll provide inspiration?
+
+*Source: Business Logic, 2019-03-23*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Under heavy reward there must be brave men—pay more and employees will be motivated"** — Correct understanding: Duan says "in business operations, relying on paying more to motivate employees actually has no effect." (Source: Business Logic, 2011-02-18)
+
+- ❌ **"Stock incentives are the best way to retain talent"** — Correct understanding: Duan says "so-called stock incentives are actually stock hygiene—without this you might not retain people, but having it doesn't necessarily motivate people." (Source: Business Logic, 2011-05-27)
+
+- ❌ **"Bosses giving employees bonuses is a favor"** — Correct understanding: Duan says "bosses giving employees raises or bonuses are actually what employees deserve—I really dislike that 'favor' feeling." (Source: Business Logic, 2018-09-20)
+
+---
+
+## 💬 Original Quotes
+
+> "Money is actually a hygiene factor—more is useless, less is unacceptable. If employees are already working hard, giving more money won't make them work harder, but giving less will fail to retain people. So how much you pay actually reflects fairness." (Source: Business Logic, 2011-02-18)
+
+> "So-called stock incentives are actually stock hygiene—without this you might not retain people, but having it doesn't necessarily motivate people." (Source: Business Logic, 2011-05-27)
+
+> "They're basically those things unrelated to money that make everyone happy working together—also called pursuit beyond profit." (Source: Business Logic, 2013-06-20)
+
+> "Improving team cohesion by adding money is useless, but reducing money has significant destructive power." (Source: Business Logic, 2011-02-18)
+
+> "Bosses giving employees raises or bonuses are actually what employees deserve—I really dislike that 'favor' feeling." (Source: Business Logic, 2018-09-20)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Pursuit Beyond Profit]] · [[Benfen]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Teamwork]] · [[Standards for Good Companies]] · [[Built to Last]]
+
+**Related Cases**
+[[OPPO]] · [[Welch]]
 
 :::
 

@@ -18,117 +18,109 @@ uuid: ae051357-0922-4e59-bc49-0038fb895044
 
 # OPPO & vivo
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# OPPO & vivo
-
-> **步步高文化的最佳传承——"OPPO厉害是因为OPPO有厉害的文化和厉害的团队"**
+> **The best inheritance of BBK culture — "OPPO is strong because OPPO has strong culture and a strong team"**
 
 ---
 
-## 🏢 公司简介
+## 🏢 Company Profile
 
-[[OPPO]]和[[vivo]]是[[步步高]]旗下的两大手机品牌，也是[[段永平]][[企业文化]]理念的最完整传承。两家公司都严格遵守步步高的[[Stop Doing List]]：不代工、不借有息贷款、不单独和客户谈价钱。段永平说"OPPO跟苹果比，我们在做对的事情上是一样的"——这是他对OPPO/vivo最高的评价。
-
----
-
-## 📅 发展时间线
-
-| 时间 | 事件 | 核心逻辑 |
-|------|------|---------|
-| 2004年前后 | OPPO品牌成立 | 从步步高分拆，继承步步高文化基因 |
-| 2008-2011年 | 功能机时代 | 靠[[差异化]]（音乐手机）建立品牌 |
-| 2011年 | OPPO蓝光机获PCMag读者选择奖 | "OPPO和APPLE其实有很多相同的基因" |
-| 2012-2013年 | 智能手机转型，面临巨大困难 | "当时OPPO和vivo都面临很大困难，我们当时不是很确定我们是否能过得去" |
-| 2013年中 | 转型成功 | "12年没亏钱，13年没亏钱，但12-13年那一整年亏了非常多的钱，到13年中终于挺过来了" |
-| 2015年后 | 成为全球手机巨头 | "OPPO是唯一一家成功从功能机时代转型智能手机时代的品牌" |
-| 2019年 | 离职员工照发年终奖 | "过去20多年都是如此，那是契约精神里的东西" |
+[[OPPO]] and [[vivo]] are the two major smartphone brands under [[BBK]], and also represent the most complete inheritance of [[Duan Yongping]]'s [[corporate culture]] philosophy. Both companies strictly follow BBK's [[Stop Doing List]]: no OEM, no interest-bearing loans, no individual price negotiations with customers. Duan Yongping said "Compared to Apple, OPPO is the same as us in doing the right things" — this is his highest assessment of OPPO/vivo.
 
 ---
 
-## 💡 OPPO/vivo 的核心竞争力
+## 📅 Development Timeline
 
-- **严格的[[Stop Doing List]]**：[[段永平]]说OPPO/vivo的Stop Doing List包括：不代工（保持[[差异化]]）、不借有息贷款（保持财务健康）、不单独和客户谈价钱（统一定价，保护品牌）。最早提出不做OEM的就是现在OPPO的CEO陈明永。（来源：商业逻辑篇，2016-10-12）
-- **[[企业文化]]的传承**：段永平说"OPPO厉害是因为OPPO有厉害的文化和厉害的团队同时还赶上了好产品和好模式，其实vivo也很厉害啊，原因也是一样的。"（来源：商业逻辑篇，2019-05-22）
-- **[[差异化]]而非价格战**：段永平说"性价比都是给自己性能不好找的借口"——OPPO/vivo坚持做有差异化的产品，不打价格战。（来源：斯坦福SDL对话，2018-09-30）
-- **[[本分]]是核心价值观**：不代工、不借有息贷款——这些都是[[本分]]在企业经营中的具体体现，是"做对的事情"的实践。
-- **渠道差异化**：OPPO/vivo建立了强大的线下渠道网络，这是与小米等互联网手机品牌的核心差异——这也是[[差异化]]战略的体现。
-- **危机中坚守原则**：2012-2013年转型最困难时，段永平说"如果我们要倒下的话，一定不要倒的很难看，不要欠员工钱，不要欠供应商钱，要尽量保护代理商"——这是[[本分]]在危机中的体现。（来源：商业逻辑篇，2019-05-22）
-
----
-
-## 💡 OPPO 与苹果的基因相似性
-
-段永平认为OPPO和苹果有很多相同的基因，这也是他能看懂苹果的重要原因：
-
-> "OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2011-08-07）
-
-> "我一直觉得OPPO的企业和产品文化有很多地方和苹果很相近，也许有一天OPPO也可以像当年SONY改变世界对日本产品印象那样改变世界对中国产品的印象。" — 段永平（来源：商业逻辑篇，2011-11-02）
-
-2011年，OPPO蓝光机获得PCMag读者选择奖，PCMag专门把OPPO与苹果相比，写道："苹果不生产蓝光机，即使它生产，我们认为OPPO仍然会在用户满意度上击败它。"段永平说："弟兄们干得真是不错啊！"（来源：商业逻辑篇，2011-11-02）
+| Time | Event | Core Logic |
+|------|-------|-----------|
+| Around 2004 | OPPO brand established | Spin-off from BBK, inheriting BBK's cultural DNA |
+| 2008–2011 | Feature phone era | Built brand through [[differentiation]] (music phones) |
+| 2011 | OPPO Blu-ray player won PCMag Readers' Choice Award | "OPPO and APPLE actually share many of the same genes" |
+| 2012–2013 | Smartphone transition, faced huge difficulties | "At that time both OPPO and vivo faced great difficulties; we weren't very sure we could make it through" |
+| Mid-2013 | Successful transition | "Didn't lose money in '12, didn't lose money in '13, but lost a huge amount throughout '12–'13, finally made it through by mid-'13" |
+| After 2015 | Became global smartphone giant | "OPPO was the only brand to successfully transition from feature phones to smartphones" |
+| 2019 | Departing employees still received year-end bonuses | "This has been the case for over 20 years — it's about honoring contracts" |
 
 ---
 
-## 💡 不做OEM的决策背后
+## 💡 OPPO/vivo's Core Competitive Advantages
 
-段永平详细讲述了为什么OPPO/步步高坚持不做OEM（来源：商业逻辑篇，2016-10-12）：
-
-> "最早提出不做OEM的就是现在OPPO的CEO陈明永，不记得是哪年了，大概可能有20年了吧。为什么我们不做OEM呢？长远来讲，我们想建立自己的品牌，我们需要把所有的资源投入到我们自己的产品上。做OEM有很专业的公司，他们有很专业的办法去满足很多不同的客户的不同的要求，我们根本就没有精力去做这些事情，所以长远来说我们是会输给那些专业做OEM的公司的，既然知道长远会做不过别人，那我们干脆就不做。"
-
-段永平还讲了一个细节：沃尔玛供应商曾要下100万台VCD的单子，他在电话里直接拒绝，对方问"难道价钱你都不想谈吗"，段永平说"对的，不管什么价钱我都拒绝"。
-
----
-
-## 💡 契约精神：离职员工照发年终奖
-
-2019年，OPPO离职员工照发年终奖的新闻引发广泛关注。段永平说：
-
-> "过去20多年都是如此，那是契约精神里的东西，没什么好说的。" — 段永平（来源：商业逻辑篇，2019-04-20）
-
-这是[[本分]]文化在员工关系上的具体体现——"不赊账、不拖付货款、不晚发工资、不做不诚信的事情"。
+- **Strict [[Stop Doing List]]**: [[Duan Yongping]] said OPPO/vivo's Stop Doing List includes: no OEM (maintain [[differentiation]]), no interest-bearing loans (maintain financial health), no individual price negotiations with customers (unified pricing to protect brand). Chen Mingyong — now OPPO's CEO — was the first to propose not doing OEM work. (Source: Business Logic, 2016-10-12)
+- **Inheritance of [[corporate culture]]**: Duan Yongping said "OPPO is strong because OPPO has strong culture and a strong team while also having good products and a good business model — actually vivo is also strong for the same reasons." (Source: Business Logic, 2019-05-22)
+- **[[Differentiation]] rather than price wars**: Duan Yongping said "talking about price-performance ratio is just an excuse for poor product performance" — OPPO/vivo insists on making differentiated products, not engaging in price wars. (Source: Stanford SDL Dialogue, 2018-09-30)
+- **[[Doing the right things]] as core value**: No OEM, no interest-bearing loans — these are concrete embodiments of [[doing the right things]] in business operations, practice of "doing the right things".
+- **Channel differentiation**: OPPO/vivo built powerful offline channel networks, representing core differentiation from internet phone brands like Xiaomi — another embodiment of [[differentiation]] strategy.
+- **Upholding principles during crisis**: During the most difficult period of transition (2012–2013), Duan Yongping said "If we're going to fall, let's not fall ugly — don't owe employees money, don't owe suppliers money, try to protect distributors" — this embodies [[doing the right things]] during crisis. (Source: Business Logic, 2019-05-22)
 
 ---
 
-## 💬 原文摘录
+## 💡 Genetic Similarity Between OPPO and Apple
 
-> "OPPO跟苹果比，我们在做对的事情上是一样的，但是在把事情做对上可能有些差距。但我们有积累。" — 段永平（来源：斯坦福SDL对话，2018-09-30）
+Duan Yongping believes OPPO and Apple share many of the same genes — this is also one important reason he could understand Apple:
 
-> "不代工（代工的产品没有大的差异化，很难有利润）。" — 段永平（谈OPPO/vivo的Stop Doing List，来源：斯坦福SDL对话，2018-09-30）
+> "OPPO and APPLE actually share many of the same genes — this is also one reason I ultimately came to understand APPLE." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-08-07)
 
-> "性价比，都是给自己找借口。" — 段永平（来源：斯坦福SDL对话，2018-09-30）
+> "I've always felt that OPPO's corporate and product culture has much in common with Apple. Perhaps someday OPPO can change the world's impression of Chinese products just like SONY changed the world's impression of Japanese products back then." — Duan Yongping (Source: Business Logic, 2011-11-02)
 
-> "OPPO厉害是因为OPPO有厉害的文化和厉害的团队同时还赶上了好产品和好模式，其实vivo也很厉害啊，原因也是一样的。" — 段永平（来源：商业逻辑篇，2019-05-22）
-
-> "当时OPPO和vivo都面临很大困难，我们当时不是很确定我们是否能过得去，所以当时大家达成一个共识：如果我们要倒下的话，一定不要倒的很难看，不要欠员工钱，不要欠供应商钱，要尽量保护代理商……" — 段永平（来源：商业逻辑篇，2019-05-22）
-
-> "过去20多年都是如此，那是契约精神里的东西，没什么好说的。" — 段永平（来源：商业逻辑篇，2019-04-20）
-
-> "OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2011-08-07）
+In 2011, OPPO's Blu-ray player won the PCMag Readers' Choice Award. PCMag specifically compared OPPO with Apple, writing: "Apple doesn't make Blu-ray players, but even if they did, we believe OPPO would still beat them in user satisfaction." Duan Yongping said: "Brothers really did an excellent job!" (Source: Business Logic, 2011-11-02)
 
 ---
 
-## 📚 投资启示
+## 💡 The Decision Behind Not Doing OEM
 
-- **[[企业文化]]的可复制性**：OPPO/vivo证明了好的企业文化可以在不同的公司里复制——步步高的文化基因在两家公司里都得到了传承。
-- **[[Stop Doing List]]的力量**：不代工、不借有息贷款——这些"不做"的决定，让OPPO/vivo在竞争激烈的手机市场中保持了健康的财务状况和品牌溢价。
-- **危机中的[[本分]]**：最困难时坚持不欠员工钱、不欠供应商钱——这是[[本分]]最真实的体现，也是最终能挺过来的根本原因。
-- **理解OPPO是理解苹果的钥匙**：段永平说"OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一"——这说明段永平对苹果的理解，很大程度上来自他在消费电子行业20多年的亲身经历。
+Duan Yongping detailed why OPPO/BBK insists on not doing OEM (Source: Business Logic, 2016-10-12):
+
+> "Chen Mingyong — now OPPO's CEO — was the first to propose not doing OEM; forget which year but probably around 20 years ago. Why don't we do OEM? Long-term, we want to build our own brand and need to invest all resources into our own products. There are very professional companies doing OEM; they have very professional methods to meet different requirements from many different clients. We simply don't have energy to do those things, so long-term we would lose to those professional OEM companies. Since we know long-term we can't beat them, we simply won't do it."
+
+Duan Yongping also shared a detail: A Walmart supplier once wanted to place an order for 1 million VCD units. He rejected it directly on the phone. The other party asked "You don't even want to discuss price?" Duan Yongping said "That's right — at any price, I refuse."
 
 ---
 
-## 🔗 相关笔记
+## 💬 Contract Spirit: Year-end Bonuses for Departing Employees
 
-**相关概念**
-[[企业文化]] · [[Stop Doing List]] · [[差异化]] · [[本分]] · [[护城河]]
-**相关人物**
-[[段永平]]
-**相关公司**
-[[步步高]] · [[苹果]]（对标公司）
-**相关主题**
-[[好公司的标准]] · [[Stop Doing List]]
+In 2019, news that OPPO paid year-end bonuses even to departing employees drew widespread attention. Duan Yongping said:
+
+> "This has been the case for over 20 years — it's about contract spirit, nothing worth discussing." — Duan Yongping (Source: Business Logic, 2019-04-20)
+
+This is a concrete embodiment of [[doing the right things]] culture in employee relations — "no credit purchases, no delayed payments, no late salary payments, no dishonest practices".
+
+---
+
+## 💬 Original Excerpts
+
+> "Compared to Apple, OPPO is the same as us in doing the right things, though there may be some gaps in doing things right. But we have accumulation." — Duan Yongping (Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "No OEM (OEM products lack significant differentiation and are hard to profit from)." — Duan Yongping (Discussing OPPO/vivo's Stop Doing List, Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "Price-performance ratio is just making excuses for yourself." — Duan Yongping (Source: Stanford SDL Dialogue, 2018-09-30)
+
+> "OPPO is strong because OPPO has strong culture and a strong team while also having good products and a good business model — actually vivo is also strong for the same reasons." — Duan Yongping (Source: Business Logic, 2019-05-22)
+
+> "At that time both OPPO and vivo faced great difficulties; we weren't very sure we could make it through, so everyone reached a consensus then: If we're going to fall, let's not fall ugly — don't owe employees money, don't owe suppliers money, try to protect distributors..." — Duan Yongping (Source: Business Logic, 2019-05-22)
+
+> "This has been the case for over 20 years — it's about contract spirit, nothing worth discussing." — Duan Yongping (Source: Business Logic, 2019-04-20)
+
+> "OPPO and APPLE actually share many of the same genes — this is also one reason I ultimately came to understand APPLE." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2011-08-07)
+
+---
+
+## 📚 Investment Insights
+
+- **Replicability of [[corporate culture]]**: OPPO/vivo proved good corporate culture can be replicated across different companies — BBK's cultural genes were inherited by both companies.
+- **Power of [[Stop Doing List]]**: No OEM, no interest-bearing loans — these decisions "not to do" allowed OPPO/vivo to maintain healthy finances and brand premium in the fiercely competitive phone market.
+- **[[Doing the right things]] during crisis**: Insisting on not owing employees or suppliers during the hardest times — this is the truest embodiment of [[doing the right things]], and the fundamental reason they ultimately pulled through.
+- **Understanding OPPO is key to understanding Apple**: Duan Yongping said "OPPO and APPLE actually share many of the same genes — this is also one reason I ultimately came to understand APPLE" — showing his understanding of Apple largely comes from over 20 years of firsthand experience in consumer electronics.
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Corporate Culture]] · [[Stop Doing List]] · [[Differentiation]] · [[Doing the Right Things]] · [[Moat]]
+**Related People**
+[[Duan Yongping]]
+**Related Companies**
+[[BBK]] · [[Apple]] (benchmark company)
+**Related Topics**
+[[Criteria for Good Companies]] · [[Stop Doing List]]
 
 :::

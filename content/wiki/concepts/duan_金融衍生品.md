@@ -13,9 +13,100 @@ uuid: a9181702-4223-4d5c-b22f-e9c99aa0cc5b
 
 :::lang eng
 
-# 金融衍生品
+# Financial Derivatives
 
-(English translation pending...)
+> **Don't short, don't borrow, don't do what you don't understand—keep these three rules and it's hard to get wiped out.**
+
+---
+
+## 📌 Concept Analysis
+
+**Financial derivatives (from Duan Yongping's perspective) = A class of tools with unlimited risk; the best strategy is to avoid them entirely.**
+
+You go to a casino—a gambler can at most lose their principal. But shorting is like borrowing money from the casino to gamble—if you lose, not only do you lose your principal, you're also in massive debt. The danger of financial derivatives (especially shorting and leverage) lies in: losses have no upper limit while gains have an upper limit. This is completely opposite to [[value investing]] logic.
+
+---
+
+## 💡 Core Understanding
+
+**1. Shorting has unlimited risk—one mistake can be fatal.**
+
+Even if your judgment is correct, the market may only return to rationality after you've gone bankrupt. The Volkswagen short-selling case is a classic example: judgment was right, but market mania pushed it to the extreme.
+
+**2. Don't short, don't borrow, don't do what you don't understand—these are the three precepts Buffett gave Duan Yongping.**
+
+These three rules represent [[Stop Doing List]]'s core embodiment in the investment realm.
+
+**3. Shorting is a zero-sum game—very few people succeed long-term through shorting.**
+
+Going long means sharing in a company's growth fruits; shorting means betting on a company's failure. The former is a positive-sum game, the latter zero-sum—their long-term expected values are completely different.
+
+**4. For companies you dislike, simply avoiding them suffices—no need to short them.**
+
+This extends the [[circle of competence]] principle: for things outside your circle of competence, not doing anything is the best strategy.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Is it true that shorting has unlimited risk—one mistake can be fatal?
+
+**A:** It's indeed very dangerous. Reasons not to short: when shorting, you face not only fundamentals but also market mania. Anyone can make mistakes, but mistakes while shorting can expose you to infinite risk—just look at the case of shorting VW from a few years ago to understand.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2012-06-26*
+
+---
+
+**Q:** Would you consider margin selling Tencent shares?
+
+**A:** I will never short any stock again. I don't think Tencent at 200 yuan is outrageously expensive. Shorting faces infinite risk—I won't do it.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic)*
+
+---
+
+**Q:** Where did these three rules come from: don't short, don't borrow, don't do what you don't understand?
+
+**A:** I asked Buffett what things shouldn't be done in investing, and he told me: don't short, don't borrow, most importantly don't do what you don't understand. Over these years, I've lost hundreds of millions of dollars in investing, and every loss came from violating old Buffett's teachings. The big money I made was all earned in areas I truly understood.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-04*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Shorting is a good tool for hedging risk"** — Correct view: "Shorting is stupid!" (Source: Investment Logic, 2013-03-04). The best way to hedge risk is to buy companies you truly understand, not use derivatives to hedge.
+
+- ❌ **"I've determined this company is a scam, so shorting it should be fine"** — Correct view: "Just avoid companies you dislike—never ever short them because one wrong call will make you miserable for a long time, perhaps a very long time." (Source: Investment Logic) Even if judgment is correct, market mania could bankrupt you first.
+
+- ❌ **"Using leverage to amplify returns is fine as long as I'm right"** — Correct view: "Don't short, don't margin, don't do what you don't understand. It's never too late to understand this." (Source: Investment Logic) Borrowing to invest forces you into wrong decisions precisely when you most need to stay calm.
+
+---
+
+## 💬 Original Quotes
+
+> "Don't short, don't borrow, and most importantly don't do what you don't understand. Over these years, I've lost hundreds of millions of dollars in investing, and every loss came from violating old Buffett's teachings." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-04)
+
+> "Shorting is stupid!" (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-03-04)
+
+> "Long-term, very few people succeed through shorting—it's such a difficult road, better not taken." (Source: Duan Yongping Investment Q&A (Investment Logic))
+
+> "Just avoid companies you dislike—never ever short them because one wrong call will make you miserable for a long time, perhaps a very long time." (Source: Duan Yongping Investment Q&A (Investment Logic))
+
+> "Don't short, don't margin—and dying becomes much harder." (Source: Duan Yongping Investment Q&A (Investment Logic), 2001)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Stop Doing List]] · [[Circle of Competence]] · [[Value Investing]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Concentrated Investing]] · [[Margin of Safety]] · [[Mistakes and Correction]]
+
+**Related People**
+[[Buffett]] · [[Duan Yongping]]
 
 :::
 

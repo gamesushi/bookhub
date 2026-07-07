@@ -15,112 +15,104 @@ uuid: 67173812-1dd1-458b-8390-9c694c6543fa
 
 :::lang eng
 
-# 阿里巴巴（通过雅虎间接持有）
+# Alibaba (Held Indirectly via Yahoo)
 
-(English translation pending...)
-
-:::
-
-:::lang chs
-
-# 阿里巴巴（通过雅虎间接持有）
-
-> **"阿里巴巴的企业文化是我在中国企业里迄今见到的写的最好的企业文化"** — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-04-04）
+> **"Alibaba's corporate culture is the best-written corporate culture I have ever seen among Chinese companies."** — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-04)
 
 ---
 
-## 🏢 基本信息
+## 🏢 Basic Information
 
-- **行业**：电商/科技
-- **段永平持仓**：通过买入雅虎（Yahoo）间接持有阿里巴巴
-- **买入逻辑**：买Yahoo是为了买淘宝和阿里巴巴集团
-
----
-
-## 📅 投资时间线
-
-| 时间 | 事件 | 段永平的判断 |
-|------|------|------------|
-| 2010年2月 | 大量买入雅虎 | "Yahoo便宜的理由非常简单"，市值215亿，扣除现金和持股，实际只花70亿 |
-| 2010年3月 | 持续买入 | "我毛估估地认为美国Yahoo大概值15左右，其他投资价值也值15左右" |
-| 2010年 | 持有期间 | "我买yahoo是为了买淘宝和阿里巴巴集团，所以yahoo只要过得去就可以了" |
-| 2013年 | 预测阿里估值 | "我认为阿里早晚能赚100亿美金以上，阿里会是1000亿美金的公司" |
-| 后来 | 卖出雅虎 | 换仓GE等其他标的 |
+- **Industry**: E-commerce / Technology
+- **Duan Yongping's Holding**: Held indirectly through buying Yahoo (Yahoo)
+- **Investment Logic**: Bought Yahoo to acquire Taobao and Alibaba Group
 
 ---
 
-## 💡 段永平的核心观点
+## 📅 Investment Timeline
 
-**1. 为什么通过雅虎买阿里巴巴？**
-
-段永平的估值逻辑非常清晰："我觉得Yahoo便宜的理由非常简单：现在Yahoo的市值是215亿左右，现金45亿左右，Yahoo日本和阿里巴巴香港上市公司属于Yahoo的部分大概有100亿左右。所以按市值算，现在买yahoo实际上只要花70亿左右。"
-
-而这70亿的Yahoo本身每年盈利5-7亿，加上与微软合作节省的5-6亿，盈利能力在10亿以上。"对了，忘了说淘宝和支付宝。我说不清淘宝和支付宝值多少钱，但好像没那么重要，因为无论值多少都是白给的。"（来源：段永平投资问答录(投资逻辑篇)，2010-02-08）
-
-**2. 为什么看好阿里巴巴？**
-
-"阿里巴巴的[[企业文化]]是我在中国企业里迄今见到的写的最好的企业文化。拥有这么好的企业文化再加上已经找到的这么好的[[生意模式]]，阿里巴巴想不成功都不容易啊。这也是我愿意买Yahoo的最重要的原因！"（来源：段永平投资问答录(投资逻辑篇)，2010-04-04）
-
-**3. 对淘宝的担心**
-
-"我对淘宝的担心主要是如果他们太强势的情况下会不会作恶的问题。现在淘宝的成长非常好，但对假冒伪劣产品的打击好像还不够认真……如果找不到长期有效的办法去限制和杜绝的话，淘宝有可能会成为一个假冒伪劣产品的集散地……不过，以我对马云的认识，我觉得他绝对不是个短视的人，一定会找到办法解决的。"（来源：段永平投资问答录(投资逻辑篇)，2010-02-09）
-
-**4. 对阿里估值的预测**
-
-"我认为阿里早晚能赚一年100亿美金以上，这个数字可能在5年左右就能看到了。"——段永平在2013年就预测阿里会是1000亿美金的公司。（来源：段永平投资问答录(投资逻辑篇)，2013-03-20）
+| Time | Event | Duan Yongping's Judgment |
+|------|-------|-------------------------|
+| February 2010 | Heavy buying of Yahoo | "The reason Yahoo is cheap is very simple" — market cap $21.5 billion, minus cash and holdings, actual cost only ~$7 billion |
+| March 2010 | Continued buying | "My rough estimate is that US Yahoo is worth about 15, and other investment value is also worth about 15" |
+| 2010 | During holding period | "I bought Yahoo to buy Taobao and Alibaba Group, so as long as Yahoo is decent, that's fine" |
+| 2013 | Predicting Alibaba valuation | "I think Alibaba will eventually earn over $10 billion a year; it will be a $100 billion company" |
+| Later | Sold Yahoo | Rotated into GE and other positions |
 
 ---
 
-## ❓ 精选问答
+## 💡 Duan Yongping's Core Views
 
-**问**：买雅虎的逻辑是什么？
+**1. Why buy Alibaba through Yahoo?**
 
-**答**：我想我从一开始就说的很清楚，我买yahoo是为了买淘宝和阿里巴巴集团。所以yahoo只要过得去就可以了。（来源：段永平投资问答录(投资逻辑篇)，2010-06-01）
+Duan Yongping's valuation logic was very clear: "I think the reason Yahoo is cheap is very simple: Yahoo's market cap is around $21.5 billion right now, cash is around $4.5 billion, Yahoo Japan and Alibaba's Hong Kong listed portion belonging to Yahoo are worth around $10 billion. So based on market cap, buying Yahoo now actually only costs around $7 billion."
 
----
+And this $7 billion Yahoo itself earns $500–700 million per year, plus $500–600 million saved from the Microsoft partnership, for earning power over $1 billion. "By the way, I forgot to mention Taobao and Alipay. I can't say exactly how much Taobao and Alipay are worth, but it doesn't seem too important, because no matter what they're worth, they're free." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-08)
 
-**问**：没有阿里巴巴集团的话，雅虎便宜吗？
+**2. Why bullish on Alibaba?**
 
-**答**：没有阿里巴巴集团的话，yahoo就不便宜了。（来源：段永平投资问答录(投资逻辑篇)，2010-03-03）
+"Alibaba's [[corporate culture]] is the best-written corporate culture I have ever seen among Chinese companies. Having such excellent corporate culture plus having already found such an excellent [[business model]], it would be hard for Alibaba not to succeed! This is also the most important reason I'm willing to buy Yahoo!" (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-04)
 
----
+**3. Concerns about Taobao**
 
-**问**：对淘宝的担心是什么？
+"My main concern about Taobao is whether they might do evil if they become too dominant. Right now Taobao's growth is excellent, but their crackdown on counterfeit and shoddy products doesn't seem serious enough... If they can't find a long-term effective way to restrict and eliminate this, Taobao could become a distribution hub for counterfeits... However, based on my understanding of Jack Ma, I feel he's absolutely not a short-sighted person, and will definitely find a solution." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-09)
 
-**答**：我对淘宝的担心主要是如果他们太强势的情况下会不会作恶的问题。现在淘宝的成长非常好，但对假冒伪劣产品的打击好像还不够认真。虽然"国情"是个不错的借口，但如果找不到长期有效的办法去限制和杜绝的话，淘宝有可能会成为一个假冒伪劣产品的集散地，这对在淘宝上认真做生意的大多数商家来讲会有很大伤害，同时也会摧毁淘宝的reputation。不过，以我对马云的认识，我觉得他绝对不是个短视的人，一定会找到办法解决的。（来源：段永平投资问答录(投资逻辑篇)，2010-02-09）
+**4. Prediction on Alibaba's Valuation**
 
----
-
-## 💬 原文金句
-
-> "阿里巴巴的企业文化是我在中国企业里迄今见到的写的最好的企业文化。拥有这么好的企业文化再加上已经找到的这么好的生意模式，阿里巴巴想不成功都不容易啊。这也是我愿意买Yahoo的最重要的原因！" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-04-04）
-
-> "我想我从一开始就说的很清楚，我买yahoo是为了买淘宝和阿里巴巴集团。所以yahoo只要过得去就可以了。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-06-01）
-
-> "对了，忘了说淘宝和支付宝。我说不清淘宝和支付宝值多少钱，但好像没那么重要，因为无论值多少都是白给的。不过也不是那么不重要，因为这是我买yahoo的最大理由。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-02-08）
-
-> "没有阿里巴巴集团的话，yahoo就不便宜了。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-03-03）
+"I think Alibaba will eventually earn over $10 billion a year, and this number may be visible within about 5 years." — Duan Yongping predicted in 2013 that Alibaba would be a $100 billion company. (Source: Duan Yongping Investment Q&A (Investment Logic), 2013-03-20)
 
 ---
 
-## 📚 投资启示
+## ❓ Selected Q&A
 
-- **[[企业文化]]是最重要的[[护城河]]**：段永平买阿里，最重要的原因是企业文化——"写的最好的企业文化"
-- **间接投资的逻辑**：通过雅虎间接持有阿里，是一种创造性的[[安全边际]]思维——Yahoo本身就值那个价，阿里是"白给的"
-- **[[毛估估]]的威力**：段永平不精算，但大致一算就能看出便宜——这是[[内在价值]]判断的实践
-- **关注长期**：段永平对淘宝的担心是长期的（会不会作恶），不是短期的（季度业绩）
+**Q**: What's the logic for buying Yahoo?
+
+**A**: I think I've been clear from the beginning — I bought Yahoo to buy Taobao and Alibaba Group. So as long as Yahoo is decent, that's fine. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01)
 
 ---
 
-## 🔗 相关笔记
+**Q**: Without Alibaba Group, would Yahoo be cheap?
 
-**相关概念**
-[[企业文化]] · [[生意模式]] · [[护城河]] · [[安全边际]] · [[毛估估]]
-**相关人物**
-[[段永平]]
-**相关公司**
-[[腾讯]] · [[拼多多]] · [[亚马逊]]
-**相关主题**
-[[如何判断一家好公司]] · [[段永平的经典投资案例]]
+**A**: Without Alibaba Group, Yahoo wouldn't be cheap. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-03)
+
+---
+
+**Q**: What are your concerns about Taobao?
+
+**A**: My main concern about Taobao is whether they might do evil if they become too dominant. Right now Taobao's growth is excellent, but their crackdown on counterfeit and shoddy products doesn't seem serious enough. While "national conditions" might be a good excuse, if they can't find a long-term effective way to restrict and eliminate this, Taobao could become a hub for counterfeits, which would greatly harm most merchants who do business seriously on Taobao, while also destroying Taobao's reputation. However, based on my understanding of Jack Ma, I feel he's absolutely not a short-sighted person, and will definitely find a solution. (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-09)
+
+---
+
+## 💬 Original Quotes
+
+> "Alibaba's corporate culture is the best-written corporate culture I have ever seen among Chinese companies. Having such excellent corporate culture plus having already found such an excellent business model, it would be hard for Alibaba not to succeed! This is also the most important reason I'm willing to buy Yahoo!" — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-04-04)
+
+> "I think I've been clear from the beginning — I bought Yahoo to buy Taobao and Alibaba Group. So as long as Yahoo is decent, that's fine." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-06-01)
+
+> "By the way, I forgot to mention Taobao and Alipay. I can't say exactly how much Taobao and Alipay are worth, but it doesn't seem too important, because no matter what they're worth, they're free. Though it's not entirely unimportant either, since this is the biggest reason I bought Yahoo." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-02-08)
+
+> "Without Alibaba Group, Yahoo wouldn't be cheap." — Duan Yongping (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-03)
+
+---
+
+## 📚 Investment Insights
+
+- **[[Corporate culture]] is the most important [[moat]]**: The most important reason Duan Yongping bought Alibaba was its corporate culture — "the best-written corporate culture"
+- **Logic of indirect investment**: Holding Alibaba indirectly through Yahoo is a creative [[margin of safety]] approach — Yahoo itself is worth that price, and Alibaba is "free"
+- **Power of [[rough estimation]]**: Duan Yongping doesn't calculate precisely, but a rough calculation reveals it's cheap — this is practice of [[intrinsic value]] judgment
+- **Focus on the long term**: Duan Yongping's concerns about Taobao are long-term (whether they'll do evil), not short-term (quarterly performance)
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[Corporate Culture]] · [[Business Model]] · [[Moat]] · [[Margin of Safety]] · [[Rough Estimation]]
+**Related People**
+[[Duan Yongping]]
+**Related Companies**
+[[Tencent]] · [[PDD]] · [[Amazon]]
+**Related Topics**
+[[How to Judge a Good Company]] · [[Duan Yongping's Classic Investment Cases]]
 
 :::

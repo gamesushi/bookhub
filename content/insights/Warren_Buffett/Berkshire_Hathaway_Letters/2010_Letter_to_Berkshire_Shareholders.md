@@ -126,7 +126,7 @@ The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-ta
 
 :::
 
-# BERKSHIRE HATHAWAY INC.
+# 伯克希尔·哈撒韦公司
 
 :::lang eng
 
@@ -2826,7 +2826,7 @@ P.S. Another minor request: Please turn down all proposals for me to speak, make
 附：另一个小小的请求： 请拒绝所有让我发言、捐款、与盖茨基金会交涉等的提议。有时，这些让你充当中间人的请求会伴随着 "问问也无妨"。如果你直接说 "不"，我们双方都会好受些。作为额外的帮助，不要建议他们写信或打电话给我。将 76 项业务乘以 "我想他会对这个感兴趣 "的周期性，你就会明白为什么最好立即坚决地说不。
 
 :::
-# A letter sent in 1939 by Ernest
+# 欧内斯特于 1939 年写的一封信
 
 :::lang eng
 

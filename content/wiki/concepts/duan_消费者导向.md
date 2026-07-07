@@ -13,9 +13,97 @@ uuid: 8bc83865-b6c7-4af3-92fd-74396703f38d
 
 :::lang eng
 
-# 消费者导向
+# Consumer Orientation
 
-(English translation pending...)
+> **Only a very few enterprises truly have consumer orientation in their bones—these companies are often eventually called "great companies."**
+
+---
+
+## 📌 Concept Analysis
+
+**Consumer orientation = When making product decisions, the enterprise bases them on considering the experience of end consumers, not on whether it sells well now (market orientation) or whether it makes money (profit orientation).**
+
+Three types of companies: profit-oriented ones ask "how much can this make?" market-oriented ones ask "does this sell well now?" consumer-oriented ones ask "does this improve consumers' lives?" Duan Yongping says only this third type of company can possibly become great—but it's also the hardest to achieve because it requires forgoing many short-term benefits.
+
+---
+
+## 💡 Core Understanding
+
+**1. Consumer orientation vs. market orientation: the former looks long-term; the latter looks short-term.**
+
+Consumers often decide their preferences based only on existing products, so "market orientation" easily falls into shortsightedness. "Consumer orientation" companies take a longer view and have higher probability of producing "great products."
+
+**2. Consumer orientation requires "pursuit beyond profit"; otherwise it's unachievable.**
+
+Companies without [[pursuit beyond profit]] rarely have genuine consumer-oriented culture—because consumer orientation often means short-term losses.
+
+**3. Only very few enterprises truly achieve consumer orientation.**
+
+Consumer orientation isn't a slogan but a deeply ingrained [[corporate culture]]—Apple is the most typical case.
+
+**4. Consumer orientation applies universally across all industries.**
+
+This isn't some industry-specific rule but the shared gene of all good companies. In BBK's core values, consumer orientation is one of the most important items.
+
+---
+
+## 🛠 How to Practice
+
+To judge whether a company truly has consumer orientation, don't look at what they say—look at what they do:
+
+- **Look at whether they're willing to sacrifice short-term profits for consumer experience:** Apple would rather not launch large-screen phones than launch products that aren't "great enough."
+- **Look at how they handle consumer complaints:** After iPhones cracked from drops, Apple prioritized replacement for existing customers rather than making old and new customers wait in the same queue. "They truly put consumers first."
+- **Look at whether product decisions are based on consumer experience:** "Product design is certainly consumer-oriented. Technology is hidden inside the product and serves the product. Without strong technology, you cannot achieve consumer orientation."
+
+---
+
+## 📖 Case Analysis
+
+**Apple: Taking consumer orientation to the extreme**
+
+Duan Yongping's assessment of Apple: "Jobs is truly an extraordinarily brilliant 'consumer orientation' master and marketing master. Many of their product trade-offs are breathtaking—no one else in the industry dared do some of what they did." Apple's single-product strategy, extreme pursuit of product experience, and preference for not launching anything over launching something not "great enough"—these are all concrete manifestations of consumer orientation. "Apple is a rare enterprise capable of maintaining long-term focus on 'doing the right thing.'"
+
+*Source: Business Logic, 2010-05-25; 2013-02-13*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Consumer orientation means doing whatever consumers say"** — "Consumers often decide their preferences based only on existing products, so they frequently appear shortsighted." True consumer orientation means understanding consumers' deep needs, not simply satisfying surface demands. Jobs didn't conduct focus group research, yet he understood what consumers truly needed better than anyone.
+
+- ❌ **"Market orientation and consumer orientation are about the same"** — "The difference between profit orientation and consumer orientation is life or death in the long run." Market orientation looks at current sales; consumer orientation looks at consumers' long-term experience. They may appear similar in the short term but diverge enormously in the long term.
+
+- ❌ **"Consumer orientation only suits consumer goods industries"** — "Consumer orientation applies universally." Whatever the industry, ultimately some user group must be served—the logic of consumer orientation applies throughout.
+
+---
+
+## 💬 Original Quotes
+
+> "Literally understood, 'consumer orientation' refers to enterprises basing product decisions on considering the experience of end consumers." (Source: Business Logic, 2013-04-07)
+
+> "Only a very few enterprises truly possess 'consumer orientation' in their bones while also having the capability to implement it—and these companies are often eventually called 'great companies.'" (Source: Business Logic, 2013-04-07)
+
+> "Achieving 'consumer orientation' requires having a pursuit 'beyond profit,' or being able to forgo some short-term interests to create the best products that satisfy consumers' real needs." (Source: Business Logic, 2013-04-07)
+
+> "Consumer orientation applies universally. Technical skills can be learned by anyone, but our success comes because we have a consumer-oriented culture." (Source: Business Logic)
+
+> "Jobs is truly an extraordinarily brilliant 'consumer orientation' master and marketing master. Many of their product trade-offs are breathtaking." (Source: Business Logic, 2010-05-25)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Pursuit Beyond Profit]] · [[Corporate Culture]] · [[Fundamental Duty]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Good Products]] · [[Innovation]] · [[Brand]] · [[Standards for Good Companies]]
+
+**Related Company Cases**
+[[Apple]] · [[BBK]] · [[OPPO]] · [[Moutai]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

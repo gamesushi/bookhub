@@ -13,9 +13,91 @@ uuid: 4e1afa22-62c1-42b1-a29e-49c96aed8a66
 
 :::lang eng
 
-# 宏观与市场
+# Macro and Markets
 
-(English translation pending...)
+> **Buffett and I didn't achieve today's success by successfully predicting macro economy and betting on it**
+
+---
+
+## 📌 Concept Explanation
+
+**Macro and markets = understanding macro economy necessary but adjusting investment based on macro predictions wrong; real investment decisions should build on specific company understanding not macro trend judgment.**
+
+Weather forecast says rain tomorrow—would you therefore not go out? If important things to do you'd bring umbrella not cancel plans. Duan's attitude toward macro economy like this—understand it but don't let it dictate investment decisions. Macro background; company protagonist.
+
+---
+
+## 💡 Core Understanding
+
+**1. Understanding macro necessary but not tool for predicting markets.**
+
+Duan doesn't say macro unimportant but macro's role "understanding economic phenomena" not "continuously adjusting investment based on short-term macro data." "Having no concept of macro economy at all also hard understand micro economy. So-called macro economy understanding should be understanding economic phenomena not spending much time continuously adjusting 'investment' based on short-term macro data."
+
+**2. Macro prediction extremely limited help for investing—even economists can't do it.**
+
+Duan's graduate study econometrics (macro economy) but explicitly says: "don't think that much help for investing otherwise economists would all be great investors."
+
+**3. Truly understood company—macro fluctuations minimal impact on your judgment.**
+
+When discussing Moutai Duan says: "Investing Moutai doesn't need look at macro environment as long as Moutai's business model unchanged people still need drink this wine macro fluctuations merely temporary interference." Natural extension of [[circle of competence]] and [[intrinsic value]] thinking—if truly understood company's [[business model]] macro just noise.
+
+**4. Buffett and Duan's success not from macro prediction.**
+
+This statement directly negates "macro prediction → investment decision" logic chain. Their success comes from deep understanding of specific companies not macro trend judgment.
+
+---
+
+## 🛠 How to Practice
+
+**Correct way use macro information:**
+
+1. **As background understanding not decision basis:** Understand current interest rate environment economic cycle roughly which stage helps understand company environment shouldn't become buy/sell trigger.
+2. **Use macro identify extreme sentiment:** Market extremely pessimistic (e.g. financial crisis) often when good companies mispriced buying opportunity. But utilizing market emotion not predicting macro trends.
+3. **Focus on company itself not macro data:** Daily watching macro data listening macro analysts' predictions waste time energy. Use time deeply understanding companies you follow higher return.
+
+**Simple test:**
+
+If your reason buying company "macro environment good" or "industry policy favorable" not "this company's [[business model]] and [[corporate culture]] very good" then buying logic fragile—macro environment can change anytime.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Can't invest when macro bad"** — "Macro things affect company far less than imagined." Truly good companies during bad macro often good buying opportunities because market sentiment pushes down even good company stock prices.
+
+- ❌ **"Learning macro economics enables good investing"** — "Seemingly never seen economist become great investor eventually." Macro economics and investing different fields. Macro economics studies overall economic phenomena; investing needs deep understanding specific companies.
+
+- ❌ **"Daily watching macro news necessary condition good investing"** — "Unless you understand otherwise these things only confuse you." Massive macro information creates noise causing action when shouldn't hesitate when should.
+
+---
+
+## 💬 Original Quotes
+
+> **Buffett and I didn't achieve today's success by successfully predicting macro economy and betting on it." (Source: Investment Logic, 2010-02-08)
+
+> **Having no concept of macro economy at all also hard understand micro economy. So-called macro economy understanding should be understanding economic phenomena not spending much time continuously adjusting 'investment' based on short-term macro data." (Source: Investment Logic, 2011-01-05)
+
+> **Macro things affect company far less than imagined." (Source: Investment Logic, 2010-02-08)
+
+> **Seemingly never seen economist become great investor eventually; seems economists not very good at investing. Don't know if they pay too attention to macro?" (Source: Investment Logic, 2011-10-24)
+
+> **Unless you understand otherwise these things only confuse you. However as investor think should still understand macro economy well at least general economic phenomena." (Source: Investment Logic, 2010-05-23)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Intrinsic Value]] · [[Business Model]]
+
+**Downstream concepts** (conclusions derived from this):
+[[How to View Market Fluctuations]] · [[Ordinary Mind]] · [[Long-termism]]
+
+**Related Company Cases**
+[[Moutai]] (no need watch macro environment)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

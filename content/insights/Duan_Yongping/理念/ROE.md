@@ -13,9 +13,81 @@ uuid: 8d811b65-c5cc-4453-a6ca-8c1cad2ed8de
 
 :::lang eng
 
-# ROE（净资产收益率）
+# Return on Equity (ROE)
 
-(English translation pending...)
+> **High ROE shows a company's strong ability to make money with shareholders' capital — but it's not the only criterion**
+
+---
+
+## 📌 Concept Analysis
+
+**ROE = how much profit a company generates using shareholders' net assets — an important reference metric for measuring [[business model]] quality, but not a sufficient condition for screening companies.**
+
+You open a shop with 100,000 yuan capital and earn 20,000 in a year — that's 20% ROE. Your neighbor also opens a shop with 100,000 yuan and earns 5,000 — that's 5% ROE. In terms of earning efficiency, your shop is clearly better. But if your shop was built on heavy borrowing, then this 20% is not so reliable — once you can't repay debts, the shop collapses. So ROE must be considered alongside debt levels.
+
+---
+
+## 💡 Core Understanding
+
+**1. Companies with high ROE generally have better [[business models]] — this is the most important reference value of ROE.**
+
+ROE reflects how efficiently a company uses shareholders' capital to generate profits. High ROE often means the company has a stronger [[moat]] and better business model. Duan Yongping said he also likes the ROE metric and further pointed out that one should actually look at ROA (Return on Assets), because ROE seems to exclude debt.
+
+**2. ROE is meaningful only without debt leverage — high ROE propped up by leverage is dangerous.**
+
+Duan Yongping especially emphasized that ROE must exclude the effect of debt leverage; otherwise you may be misled. General Motors' "return on equity" before bankruptcy is a typical counterexample — high ROE doesn't equal a good company; you need to see how that number came about.
+
+**3. ROE is a way of thinking, not a screening metric — don't mechanically select stocks by ROE.**
+
+ROE or ROA is helpful when understanding a company's [[business model]], but they're not sufficient conditions. Non-numerical things — [[corporate culture]], management, [[moat]] — are often more important than current numbers.
+
+**4. The key remains whether you can understand the company's future cash flow — ROE is just an auxiliary tool.**
+
+Growth companies may have very low ROE in early stages, but that doesn't mean they're bad companies. Duan Yongping himself said he bought [[Skyworth]] "without looking at ROE" because he judged the long-term logic of the color TV market, not current financial metrics.
+
+---
+
+## 🛠 How to Practice
+
+When looking at a company's ROE, ask yourself three questions:
+
+1. **Is this ROE propped up by debt?** First check the debt-to-asset ratio — high ROE under high debt is unreliable. Duan Yongping prefers looking at ROA because it excludes leverage effects.
+2. **Is ROE consistently stable?** One year of high ROE means nothing — look at 5–10 years of ROE trends to judge whether the [[moat]] truly exists.
+3. **Is low ROE because the company is poor or in a growth phase?** Growth companies invest heavily early on, resulting in very low ROE — at such times look at the logic of [[discounted future cash flow]], not current ROE.
+
+---
+
+## ⚠️ Common Pitfalls
+
+- ❌ **"High ROE means good company; just buy directly"** — "Do you know what GM's 'return on equity' was before bankruptcy?" High ROE may be propped up by high leverage and collapse when the economy downturns. ROE is merely an auxiliary tool for understanding [[business models]]; it cannot replace overall judgment of a company. (Source: Investment Logic Chapter)
+
+- ❌ **"Companies with low ROE aren't worth investing in"** — "Growth companies may have very low return on equity in their early stage." When Duan Yongping bought [[Netease]], Netease's financial metrics didn't look good, but he looked at long-term [[discounted future cash flow]], not current ROE. (Source: Investment Logic Chapter, 2011-02-13)
+
+---
+
+## 💬 Original Quotes
+
+> "I also like the ROE metric. Generally speaking, companies with high ROE have good business models. Actually what I want to say is ROA, because ROE doesn't seem to include debt?" — Duan Yongping (Source: Investment Logic Chapter, 2019-06-01)
+
+> "Without loans, companies with high return on equity are certainly good, indicating strong profitability. Companies with low return on equity generally aren't great, but growth companies may have very low return on equity in their early stages. The key is still whether you can understand the company's future (cash flow)." — Duan Yongping (Source: Investment Logic Chapter, 2011-02-13)
+
+> "ROE is not a screening metric — like intrinsic value, ROE is a way of thinking. ROE or ROA is helpful when understanding a company's business model, but not a sufficient condition." — Duan Yongping (Source: Investment Logic Chapter, 2019-06-02)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[生意模式]] · [[护城河]] · [[内在价值]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[好公司的标准]] · [[未来现金流折现]] · [[分红与回购]]
+
+**Related Company Cases**
+[[苹果]] (typical high-ROE case) · [[网易]] (early ROE wasn't high but long-term value immense) · [[创维]] (Duan Yongping bought without looking at ROE)
+
+**Related People**
+[[段永平]] · [[巴菲特]]
 
 :::
 
@@ -43,7 +115,7 @@ ROE反映的是公司用股东资金创造利润的效率，高ROE往往意味�
 
 **2. ROE必须在无负债前提下才有意义——靠杠杆堆出来的高ROE是危险的。**
 
-段永平特别强调，ROE要排除负债杠杆的影响，否则可能被误导。通用汽车（GM）破产前的“净资产收益率”就是典型反例——高ROE不等于好公司，还要看这个数字是怎么来的。
+段永平特别强调，ROE要排除负债杠杆的影响，否则可能被误导。通用汽车（GM）破产前的"净资产收益率"就是典型反例——高ROE不等于好公司，还要看这个数字是怎么来的。
 
 **3. ROE是思维方式，不是筛选指标——不能用ROE机械地选股。**
 
@@ -51,7 +123,7 @@ ROE或ROA在了解一个公司的[[生意模式]]时是有帮助的，但不是�
 
 **4. 关键还是看能不能看懂公司的未来现金流——ROE只是辅助工具。**
 
-成长型公司初期ROE可能很低，但这不代表公司不好。段永平自己说“没看过ROE”就买了[[创维]]，因为他判断的是彩电市场的长期逻辑，而不是当期财务指标。
+成长型公司初期ROE可能很低，但这不代表公司不好。段永平自己说"没看过ROE"就买了[[创维]]，因为他判断的是彩电市场的长期逻辑，而不是当期财务指标。
 
 ---
 

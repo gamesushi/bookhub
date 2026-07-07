@@ -13,9 +13,110 @@ uuid: 4474a161-4782-434c-b5a6-774e0cae8cd6
 
 :::lang eng
 
-# 牛市熊市策略
+# Bull and Bear Market Strategy
 
-(English translation pending...)
+> **Value investing has no bull or bear markets—only cheap and not cheap.**
+
+---
+
+## 📌 Concept Analysis
+
+**Bull and bear market strategy = Value investors fundamentally don't need to judge whether it's a bull or bear market; they only need to judge whether a company is cheap.**
+
+When you go to the vegetable market, you don't not buy just because "it's peak season today," nor do you buy extra just because "it's off-season today"—you only look at quality and price. Value investing follows this same logic: [[Mr. Market]] quotes every day; you only need to determine whether this price is reasonable, which has nothing to do with whether the market is "bull" or "bear."
+
+---
+
+## 💡 Core Understanding
+
+**1. The very notion of bull and bear markets reflects speculative thinking, not value investing language.**
+
+Duan Yongping believes that once you start thinking "is this currently a bull or bear market?" your starting point has already shifted. Value investors focus on a company's [[intrinsic value]], not the direction of market sentiment. [[Mr. Market]]'s emotions are unpredictable; bull/bear market judgments are all hindsight.
+
+**2. Bull and bear market talk is all hindsight—no one can predict in advance.**
+
+This means all strategies based on bull/bear judgments are essentially gambling on probabilities, not investing.
+
+**3. During "bear markets," [[margin of safety]] appears with higher probability—but this is a result, not a strategy.**
+
+Value investors like bear markets not because they identified a bear market but because there are more bargains during bear markets.
+
+**4. At any time, your strategy should be the same: find cheap good companies, buy and hold.**
+
+[[Doing the right thing]] doesn't change based on market environment; this is the same thing as [[long-termism]].
+
+---
+
+## 🛠 How to Practice
+
+**Don't ask "Is this a bull or bear market?" Ask "Is this company cheap now?"**
+
+1. **Ignore market sentiment labels:** When media start discussing extensively whether "a bull market has arrived" or we're in "bear market phase 3," these judgments provide no help for your investment decisions. All you need to do is check companies you follow—are prices reasonable?
+2. **Bear markets are opportunities—but not because it's "a bear market":** When the market crashes sharply, good companies often fall too, meaning [[margin of safety]] appears with higher probability. But your reason for buying should be "this company got cheaper," not "the bear market is here so I should buy."
+3. [[Ordinary Mind]] is the best bull/bear strategy:** Don't get excited in bull markets, don't panic in bear markets. [[Buying logic]] and [[selling logic]] should both be based on the company itself, not market sentiment.
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Does value investing consider bull and bear markets? Are bull and bear markets knowable? Can they be judged?
+
+**A:** Just look at the definitions. A so-called "bull market" (or bullish market) refers to a generally rising market with sustained upward movement over an extended period. A so-called "bear market" (or bearish market) refers to generally pessimistic conditions with sustained decline over a relatively extended period. Bull and bear market terminology is all hindsight—no one can predict it, or rather half the people can predict it, but beforehand nobody knows which half is right. Value investing only considers whether something is cheap, not others' opinions, so it shouldn't factor this in.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-05-23*
+
+---
+
+**Q:** People who discuss "investment strategies for bull and bear markets" inevitably have some speculative mindset, wouldn't you say?
+
+**A:** It should be called "to some degree" though even using that phrase may not be quite appropriate here. Thinking about bull and bear markets IS speculation—it's not a matter of degree.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2015-06-28*
+
+---
+
+**Q:** Bull and bear markets are just the market's views. What's most important in investing?
+
+**A:** Bull and bear markets are just the market's views. What matters most—and indeed the only thing—in investing is understanding the company's future. If you can't understand it, sit on the sidelines. Betting on bull or bear markets is dangerous. If you're buying a non-public company, what does it matter how many points the stock market is at?
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2012-07-23*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"The bear market is here—I should go all-in"** — Correct view: Your reason for buying should be "this company has gotten cheaper," not "the bear market is here." "Going all-in when companies you understand and like become cheap is usually correct—it has nothing to do with bull or bear markets, even though it might seem somewhat related." (Source: Investment Logic, 2012-07-08)
+
+- ❌ **"The bull market is here—I should reduce positions"** — Correct view: Triggers for [[selling logic]] are changes in company fundamentals or severe overvaluation, not "the bull market is here." "I've never seen anyone running a business who sells during bull markets and buys back during bear markets!" (Source: Investment Logic, 2015-06-28)
+
+- ❌ **"85% of people lose money in both bull and bear markets, proving the market is unpredictable"** — Correct view: The root cause of losses is "buying things you don't understand," not unpredictability of the market. "Buying what you don't understand is why 85% of people can lose money in both bull and bear markets." (Source: Investment Logic)
+
+---
+
+## 💬 Original Quotes
+
+> "Thinking about bull and bear markets IS speculation—not a matter of degree." (Source: Duan Yongping Investment Q&A (Investment Logic), 2015-06-28)
+
+> "Bull and bear market talk is all hindsight—no one can predict it, or rather half the people can predict it, but beforehand nobody knows which half is right." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-05-23)
+
+> "Right business, right people, right price have no necessary relationship with bull or bear markets, but 'right price' does appear with much higher probability during 'bear markets' than during 'bull markets.' However, when right price appears, buyers don't need to know whether it's currently 'bull' or 'bear.'" (Source: Duan Yongping Investment Q&A (Investment Logic), 2012-07-08)
+
+> "Shouldn't it always be the same?! At any time, doing the right thing must come first. For investing, if you can't figure out where a company will be in 5-10 years, best not to touch it." (Source: Duan Yongping Investment Q&A (Investment Logic), 2015-06-27)
+
+> "Personally, I think the terms 'bull market' and 'bear market' aren't value investing concepts. In fact, nobody really knows when it's a bull market and when it's a bear market (plenty of people know afterward), and most people lose money in both bull and bear markets." (Source: Duan Yongping Investment Q&A (Investment Logic), 2010-12-06)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Value Investing]] · [[Intrinsic Value]] · [[Mr. Market]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Buying Logic]] · [[Selling Logic]] · [[Margin of Safety]] · [[Ordinary Mind]] · [[Long-termism]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

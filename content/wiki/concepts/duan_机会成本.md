@@ -13,9 +13,76 @@ uuid: e6969668-c772-4639-b0a1-d4e2771fae03
 
 :::lang eng
 
-# 机会成本
+# Opportunity Cost
 
-(English translation pending...)
+> **Every "buy" decision means giving up another best alternative.**
+
+---
+
+## 📌 Concept Analysis
+
+**Opportunity Cost = The value of the best alternative you give up when making a choice.**
+
+You have 100,000 yuan—you could put it in a bank earning 3% interest, or buy a stock you're bullish on. If you buy the stock, your opportunity cost is that 3% risk-free interest. If the stock only rises 2% in a year, you've actually lost—not lost money, but lost opportunity. What Duan Yongping calls an "appropriate price" essentially means: this investment's return should clearly exceed the best alternative you can find.
+
+---
+
+## 💡 Core Understanding
+
+**1. "Holding" at each moment equals "buying"—opportunity cost is the core tool for judging whether to continue holding.**
+
+This means you make a decision every day: continue holding, or switch to something better? If the company you hold isn't the best choice available to you right now, you should switch.
+
+**2. Judging when to buy is essentially comparing opportunity costs—"appropriate price" means relative to your own opportunity cost.**
+
+**3. Opportunity cost is the sole basis for stock-switching decisions—choosing between two stocks is a comparison of opportunity costs.**
+
+**4. The minimum benchmark for opportunity cost is the risk-free rate—an investment return must clearly exceed the risk-free rate to be worthwhile.**
+
+If an investment's expected return can't even beat the risk-free rate, there's no point in doing it. "My understanding should relate to long-term interest rates. My understanding of investing is comparing against risk-free interest."
+
+---
+
+## 🛠 How to Practice
+
+Whenever you make a buy/hold/sell decision, ask yourself:
+
+1. **Is what I currently hold the best choice I can find right now?** If not, consider switching. "'Holding' at each point equals 'buying'"—don't lazily continue holding just because "I already own it."
+2. **Does this investment's expected return clearly exceed the risk-free rate?** If it's only slightly higher, considering risk and uncertainty, it may not be worth doing.
+3. **Is the reason for switching based on opportunity cost, or just because another stock "looks better"?** "Switching for the sake of switching will probably be wrong"—stock switching requires clear opportunity cost judgment, not gut feeling.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"As long as this stock can make money, it's worth holding"** — The standard for holding isn't "can it make money?" but "relative to other choices, is this the best choice?" "If you can confirm it's 40 cents vs. 90 cents, why not switch?" Opportunity cost thinking requires constant comparison, not staying still with one stock. (Source: Investment Logic, 2010-04-27)
+
+- ❌ **"Switching stocks is too much trouble; might as well keep holding"** — The basis for switching is opportunity cost, not convenience. "This is an opportunity cost question—only you can answer it. Of course, switching for the sake of switching will probably be wrong." What this means: if you can't confirm the new target is clearly better, don't switch; but if you can confirm it, you should switch. (Source: Investment Logic, 2018-10-09)
+
+---
+
+## 💬 Original Quotes
+
+> "Opportunity Cost refers to the maximum benefit forgone by choosing one option over alternatives. Every decision requires making a certain choice; the highest value among the abandoned options is the opportunity cost of that decision." — Duan Yongping (Source: Investment Logic, 2013-03-22)
+
+> "An appropriate price mainly refers to your own opportunity cost. If you're just leaving money in the bank earning 1%/year interest, then 8% annual return is very good—don't listen to stories about how neighbor Xiao Ma made lots of money, even if those stories are true." — Duan Yongping (Source: Investment Logic, 2019-05-17)
+
+> "'Holding' at each moment does indeed equal 'buying'—that's what opportunity cost means!" — Duan Yongping (Source: Investment Logic)
+
+> "Think about 10 years from now, relative to your own opportunity cost." — Duan Yongping (Source: Investment Logic, 2020-11-02)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Intrinsic Value]] · [[Circle of Competence]] · [[Buying Logic]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Selling Logic]] · [[Concentrated Investing]] · [[Margin of Safety]]
+
+**Related People**
+[[Duan Yongping]] · [[Munger]]
 
 :::
 

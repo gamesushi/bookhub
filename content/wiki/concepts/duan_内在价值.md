@@ -13,9 +13,85 @@ uuid: e34a5277-676e-4c71-9587-154aff1d4186
 
 :::lang eng
 
-# 内在价值
+# Intrinsic Value
 
-(English translation pending...)
+> **How much money a company can earn in the future, discounted to today's value—that is intrinsic value**
+
+---
+
+## 📌 Concept Explanation
+
+**Intrinsic value = all cash a company can generate over its remaining lifetime, discounted to present value.**
+
+You have an apple tree producing 100 jin of apples annually worth 100 yuan, expected to produce for 30 more years. How much is this tree "worth"? Not what it sells for today in the market, but summing up 30 years of future income and considering money loses value over time—discounted to today's price—that's intrinsic value. A stock's intrinsic value is this apple tree's price, unrelated to whether anyone wants to buy it today.
+
+---
+
+## 💡 Core Understanding
+
+**1. Intrinsic value isn't calculated—it's "roughly estimated"—the difficulty lies in understanding companies, not applying formulas.**
+
+The difficulty is in understanding companies to arrive at approximately correct intrinsic value. Anyone who tries to precisely calculate intrinsic value using [[discounted future cash flow]] formulas "shows they don't really understand what they're doing." [[Rough estimation]] is necessary—otherwise it's gambling.
+
+**2. Intrinsic value has nothing to do with market prices—prices fluctuate around value, but value itself isn't affected by market.**
+
+Being listed or not has nothing to do with intrinsic value, but often relates to price. Even if a company never goes public, its intrinsic value doesn't change. [[Mr. Market]]'s daily quoted prices are just his daily mood—not what company truly worth.
+
+**3. Intrinsic value is the only standard for buy/sell decisions—cheapness is relative to intrinsic value.**
+
+So-called "cheap" doesn't mean low stock price but stock price having discount relative to intrinsic value. "Perhaps you need to distinguish between low price and below value." This is foundation of [[margin of safety]] and starting point of [[buying logic]].
+
+**4. Intrinsic value is a way of thinking, not a number—"this is the only point you must believe in so-called value investing."**
+
+Asset value depends on (net) cash flows it can generate in future. Prices fluctuate around value, so prices are determined by value. This point is very useful at critical moments—if you don't truly believe this deep down, you're not yet a true "value" investor.
+
+---
+
+## 🛠 How to Practice
+
+Intrinsic value cannot be precisely calculated but can be "roughly estimated":
+
+1. **First ask: Will this company still exist 10 years from now?** If uncertain, no need to calculate—intrinsic value can't be estimated for companies with uncertain survival.
+2. **Then ask: Approximately how much can it earn each year?** No precision needed—just rough magnitude judgment: 1 billion or 10 billion per year? Fast or slow growth?
+3. **Finally ask: Is current price expensive or cheap relative to this estimate?** If clearly cheap (has [[margin of safety]]), consider buying. If uncertain, don't buy.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Intrinsic value can be precisely calculated with formulas"** — "Intrinsic value isn't calculated." Anyone trying to use formulas for precise calculation "shows they don't really understand what they're doing." Intrinsic value is thinking framework requiring deep company understanding; [[rough estimation]] is correct approach; precise calculation is actually misconception. (Source: Investment Logic, 2011-01-27)
+
+- ❌ **"Low stock price means cheap, high stock price means expensive"** — "Perhaps you need to distinguish between low price and below value." Cheapness is always relative to intrinsic value. A 1 yuan stock may be far more expensive than a 100 yuan stock—if former's intrinsic value is only 0.5 yuan while latter's is 200 yuan. (Source: Investment Logic, 2013-06-27)
+
+- ❌ **"Unlisted companies have no value"** — "Being listed or not relates nothing to intrinsic value, but often relates to price." Duan's own company (BBK) long unlisted but intrinsic value always existed. Value comes from company's ability to generate cash flow, not market recognition. (Source: Investment Logic, 2011-01-28)
+
+---
+
+## 💬 Original Quotes
+
+> "So-called intrinsic value is discounting future profits. If you can't estimate discounted value, what are you buying? Rough estimation is necessary—otherwise it's gambling." — Duan Yongping (Source: Investment Logic, 2010-05-11)
+
+> "Company intrinsic value is its future free cash flow discounting; current net worth should be included within future cash flows. Future cash flow discounting is just a concept or way of thinking." — Duan Yongping (Source: Investment Logic, 2011-01-27)
+
+> "Prices fluctuate around value, so prices are determined by value. This is the only point you must believe in so-called value investing—very useful at critical moments." — Duan Yongping (Source: Investment Logic, 2013-02-01)
+
+> "Intrinsic value is a very important concept providing the only logical means for evaluating relative attractiveness of investments and enterprises." — Buffett (quoted by Duan, Source: Investment Logic, 2012-07-28)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Buying Stocks is Buying Companies]] · [[Discounted Future Cash Flow]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Margin of Safety]] · [[Rough Estimation]] · [[Buying Logic]] · [[Mr. Market]] · [[Value Investing]]
+
+**Related Company Cases**
+[[NetEase]] (bought when intrinsic value severely undervalued) · [[Apple]] (estimating intrinsic value after deducting net cash)
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

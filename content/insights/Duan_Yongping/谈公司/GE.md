@@ -7,7 +7,7 @@ related:
 - 通用电气
 - 段永平错误案例
 publish: true
-title: GE（通用电气）
+title: GE (General Electric)
 title_chs: GE（通用电气）
 type: article
 uuid: 4b8fbc1c-4356-429f-95ed-c6c4909156eb
@@ -15,9 +15,79 @@ uuid: 4b8fbc1c-4356-429f-95ed-c6c4909156eb
 
 :::lang eng
 
-# GE（通用电气）
+# GE (General Electric)
 
-(English translation pending...)
+> **An investment mistake Duan Yongping admits — "Looking back today, I probably wouldn't have bought GE"**
+
+---
+
+## 🏢 Company Profile
+
+[[GE]] (General Electric) is a company [[段永平]] bought during the 2008-2009 financial crisis, and also one of his admitted investment mistakes. His reason for buying was optimism about GE's [[企业文化]], but he later discovered his understanding of GE "wasn't thorough enough" — exceeding the boundaries of his [[能力圈]].
+
+---
+
+## 📅 Investment Timeline
+
+| Time | Event | Duan Yongping's Judgment |
+|------|-------|-------------------------|
+| Before 2008 | Tracked GE for many years | Bullish on GE's corporate culture; considered it a century-old enterprise |
+| November 2008 | Started buying | During financial crisis, GE fell below $10; began building position |
+| 2009 | Bought more as it dropped, GE bottomed below $6 | "I just happily kept buying" |
+| 2009 | Saw CEO Jeff Immelt publicly admit mistakes | "Seemed like among all troubled companies, only GE came out admitting mistakes and reviewing countermeasures — this probably reflects different corporate culture" |
+| ~2010 | Sold GE, swapped into Apple and Yahoo | "My reason for selling was needing to swap into GE and Yahoo" |
+| 2017 | Retrospective reflection | "Looking back today, I probably wouldn't have bought GE — should've bought Apple at that time instead" |
+
+---
+
+## 💡 Why Duan Yongping Bought GE
+
+- **Bullish on [[企业文化]]**: [[段永平]] said "I dared to buy heavily into GE because as a business operator we had tracked GE's corporate culture for many years. Deep in my heart I believed GE was a great company." (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-02-07)
+- **Being "greedy" during the financial crisis**: Duan Yongping said "This was probably my turn to be 'greedy'" — he bought when others were fearful, aligning with [[安全边际]] logic.
+- **Seeing CEO admit mistakes**: Duan Yongping said "Among all companies that had problems then, seemed like only GE came out admitting mistakes and reviewing countermeasures — this probably reflects different corporate culture?"
+- **Clear valuation logic**: Duan Yongping said "How I calculated when buying GE: when GE fell below $10, I thought when GE was doing well they could earn almost $2. As long as the economy recovers, how could they not earn over $1? Since GE has always had a high rating long-term, assuming they can earn $1.5 and giving them 15x PE isn't that over $22.5?" (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-03-23)
+
+---
+
+## ⚠️ Why This Was a Mistake
+
+- **Exceeded [[能力圈]]**: Duan Yongping later said "Looking back today, I probably wouldn't have bought GE — should've bought Apple at that time instead. Because thinking back, my understanding of GE wasn't very thorough, but Apple is a company I can truly understand." (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2017-05-22)
+- **[[企业文化]] judgment error**: GE's culture was destroyed after Welch left; Duan Yongping didn't see this clearly at the time.
+- **Debt was an exception**: Duan Yongping generally doesn't buy companies with high debt loads; "GE was an exception" — this itself was a warning signal. (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-04-23)
+
+---
+
+## 💬 Excerpts from Original Text
+
+> "Looking back today, I probably wouldn't have bought GE — should've bought Apple at that time instead. Because thinking back, my understanding of GE wasn't very thorough, but Apple is a company I can truly understand. However, at the time I thought GE had good culture and the company should be able to turn crisis into opportunity." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2017-05-22)
+
+> "The money I've lost investing amounts to hundreds of millions USD — every single loss happened while going against Old Ba's teachings, while all big money earned came from areas I truly understand." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-02-04)
+
+> "I dared to buy heavily into GE because as a business operator we had tracked GE's corporate culture for many years. Deep in my heart I believed GE was a great company." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-02-07)
+
+> "How I calculated when buying GE: when GE fell below $10, I thought when GE was doing well they could earn almost $2.... Behind this lies something not so simple: my ability to firmly believe GE is a good company (Great company). When good companies make mistakes, their chances of recovering are actually very high. Plenty of people can calculate better than me, but knowing how to truly believe isn't easy." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2010-03-23)
+
+---
+
+## 📚 Investment Insights
+
+- **Be honest about [[能力圈]] boundaries**: Duan Yongping's understanding of GE was "felt the culture was decent," but this doesn't equal truly understanding — truly understanding requires years of industry experience like with [[网易]].
+- **[[企业文化]] changes**: Good corporate culture isn't permanent; it needs continuous maintenance. GE's culture was destroyed after Welch — something Duan Yongping didn't foresee.
+- **Debt is a risk signal**: Duan Yongping generally doesn't buy companies with heavy debt; GE was an exception — the exception itself should have been cause for caution.
+- **Opportunity cost**: Money used to buy GE would have yielded much higher returns if invested in Apple — showing investments within [[能力圈]] are optimal choices.
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[能力圈]] · [[企业文化]] · [[卖出逻辑]] · [[安全边际]]
+**Related People**
+[[段永平]]
+**Related Topics**
+[[段永平的错误与反思]]
+**Related Companies**
+[[苹果]] (should have bought) · [[网易]] (investment truly within circle of competence)
 
 :::
 
@@ -71,7 +141,7 @@ uuid: 4b8fbc1c-4356-429f-95ed-c6c4909156eb
 
 > "我在投资里亏掉的美金数以亿计，每一笔都是违背老巴教导的情况下亏的，而赚到的大钱也都是在自己真正懂的地方赚的。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-02-04）
 
-> "我当时敢重手买GE，是因为作为企业经营者，我们跟踪GE的企业文化很多年，我从心底认为GE是家伟大的公司。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-02-07）
+> "我当时敢重手买GE，是因为作为企业经营者，我们跟踪GE的企业文化很多年，我从心底认为GE是家伟大的公司。" — 段永平（来源：段永平投资问答录(投资逻辑篇），2010-02-07）
 
 > "我买GE时是怎么算的：当GE掉到10块钱以下时，我想GE好的时候能赚差不多两块钱……背后有一个不太简单的东西就是我能够坚信GE是家好公司（Great company），好公司犯错后能回来的机会非常大。其实比我会算的人大把，但知道如何坚信确实不容易。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2010-03-23）
 

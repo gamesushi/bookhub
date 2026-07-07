@@ -13,9 +13,82 @@ uuid: d89c2707-a66b-4641-8961-aea78fe4858a
 
 :::lang eng
 
-# 价值投资
+# Value Investing
 
-(English translation pending...)
+> **There is only one path to investing: buy a company's future cash flows—everything else is gambling**
+
+---
+
+## 📌 Concept Explanation
+
+**Value investing = when buying stocks, you buy the company's future cash flows (discounted), not anything else.**
+
+You're considering whether to buy a steamed bun shop. How do you judge whether it's worth buying? You'd look at how much this shop can earn each year, how many years it can keep earning, whether business will get better and better—then decide how much to pay. This is value investing logic. Conversely, if your reason for buying the bun shop is "this street is lively lately, I can flip it for a higher price," that's speculation, not investing.
+
+---
+
+## 💡 Core Understanding
+
+**1. Value investing is the only path to investing—there's no distinction between "value investing" and "other investing."**
+
+The word investing itself means buying [[discounted future cash flow]]; anything not based on this is speculation, not investing. "There is only one path to value investing."
+
+**2. The only standard distinguishing value investing from speculation: are you buying discounted future cash flow?**
+
+Many people's reasons for buying stocks have nothing to do with future cash flow—what the market thinks, IPOs always make money, restructuring concepts—none of these is value investing.
+
+**3. Value investing is simple but definitely not easy—simple refers to principles; difficult is understanding companies.**
+
+[[Circle of competence]] is the prerequisite for value investing. Companies outside your circle of competence, no matter how cheap, cannot be touched.
+
+**4. Value investing is not belief, it's common sense—if you can't get past "buying stocks means buying companies," don't call yourself a value investor.**
+
+Value investing isn't about belief. When you want to buy an entire company, would that be determined by belief? If you can't get past [[buying stocks is buying companies]], don't call yourself a value investor.
+
+---
+
+## 🛠 How to Practice
+
+Duan Yongping's advice for ordinary people:
+
+1. **First ask yourself: what is my reason for buying this stock?** If the reason has nothing to do with how much money this company can earn in the future (e.g., "recent upward trend," "restructuring rumors"), then it's not value investing—it's speculation.
+2. **Not doing what you don't understand is the first principle of value investing.** "If you ultimately truly cannot understand any enterprise, then touch nothing, and your investment performance will rank in the top 10-15% worldwide."—Buying [[index funds]] is the correct choice when you don't understand individual stocks.
+3. **Long-term holding is the result of value investing, not its purpose.** When you buy the right company, naturally you'll hold long-term; stubbornly holding without selling when you bought wrong is not value investing—it's refusing to admit mistakes.
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Long-term holding equals value investing"** — "I always feel that saying 'value investing should involve long-term holding' is a misunderstanding of value investing." Long-term holding is the result of value investing, not its definition. Stubbornly holding without selling when you bought the wrong company is not value investing—it's refusing to admit mistakes. "Long-term investment doesn't automatically equal value investing, but value investing is generally long-term." (Source: Investment Logic)
+
+- ❌ **"Value investing means buying cheap stocks"** — The core of value investing is buying companies whose [[intrinsic value]] is undervalued, not buying stocks with low prices. "Perhaps you need to distinguish between low price and below value." A stock with very low price may be far more expensive than a very high-priced stock—if the former's intrinsic value is even lower. (Source: Investment Logic, 2013-06-27)
+
+- ❌ **"Value investing is too hard, ordinary people can't learn it"** — "If you think value investing is hard, does that mean you have easier ways to make money?" The principles of value investing itself are simple—don't do what you don't understand. "Don't do things you don't understand! If you feel you ultimately truly cannot understand any enterprise, then touch nothing, and your investment performance will rank in the top 10-15% worldwide." (Source: Investment Logic, 2011-09-21)
+
+---
+
+## 💬 Original Quotes
+
+> "Actually value investing is so-called the only path of investing—otherwise what are you investing in?" — Duan Yongping (Source: Investment Logic, 2010-05-13)
+
+> "Investing is simple but definitely not easy. Simple refers to principles—that is, don't do what you don't understand; difficult means understanding and figuring out business is not easy." — Duan Yongping (Source: Investment Logic, 2013-03-26)
+
+> "Value investing fundamentally isn't a question of belief! When you want to entirely buy out a company you'd like to buy, would that be determined by belief? Buying stocks is buying companies, it's not a question of belief. If you can't get past this hurdle, absolutely don't call yourself a value investor." — Duan Yongping (Source: Investment Logic, 2011-05-09)
+
+> "Buying stocks is buying companies, buying companies means buying their future cash flow (discounted). However, understanding a company's long-term development is indeed not an easy matter. So most people ultimately not making money in the stock market is very reasonable." — Duan Yongping (Source: Investment Logic, 2014-08-18)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Buying Stocks is Buying Companies]] · [[Intrinsic Value]] · [[Discounted Future Cash Flow]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Circle of Competence]] · [[Margin of Safety]] · [[Long-termism]] · [[Concentrated Investing]] · [[Short Selling]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]] · [[Graham]]
 
 :::
 

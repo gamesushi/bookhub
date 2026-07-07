@@ -13,9 +13,113 @@ uuid: a60e1235-e453-402c-90a1-4140a377cffe
 
 :::lang eng
 
-# 团队合作
+# Teamwork
 
-(English translation pending...)
+> **Fit more important than qualification—group of suitable ordinary people can accomplish great things**
+
+---
+
+## 📌 Concept Explanation
+
+**Teamwork = finding culturally fit (suitable) people, not just capable (qualified) people.**
+
+You recruited super engineer but his values completely different from company—he'll become biggest troublemaker. Duan divides talent two dimensions: suitability (cultural fit) and qualification (work capability). Qualification can be cultivated; suitabilty hard change. This key to whether [[corporate culture]] can truly take root.
+
+---
+
+## 💡 Core Understanding
+
+**1. Suitability more important than qualification—first principle of team building.**
+
+—Means when recruiting, [[corporate culture]] identification first screening condition; capability secondary.
+
+**2. People with value mismatch firmly refuse no matter how capable.**
+
+—Consistent with [[benfen]] core spirit: rather slower ensure team cultural purity.
+
+**3. Internal talent cultivation long-term most efficient.**
+
+—Poaching entire teams short-term efficient but harmful [[corporate culture]] transmission damages industry ecosystem ultimately hurts self. Consistent with [[Built to Last]] logic: short-term shortcuts often long-term traps.
+
+**4. Senior management generally not hired externally because suitabilty too difficult cultivate.**
+
+—Important BBK/OPPO practice: core management must grow internally with deep [[corporate culture]] identification.
+
+---
+
+## 🛠 How to Practice
+
+**When recruiting first ask "fit?" then ask "qualified?":**
+
+1. **Cultural fit first gate:** Interview not only look at resume/capability more feel whether person's values consistent with company. "Suitability hard judge short-term—know after long time."
+2. **Qualification can be cultivated; suitability cannot compromise:** If person lacks capability but cultural match give time cultivate; if cultural mismatch no matter how capable don't want.
+3. **Internal cultivation priority over external poaching:** Especially senior management positions prioritize internal promotion ensuring [[corporate culture]] transmission uninterrupted.
+
+---
+
+## 📖 Case Analysis
+
+**BBK/OPPO: Don't actively poach; mainly internal cultivation**
+
+Duan explicitly stated BBK system "generally doesn't actively poach"; senior management basically not externally introduced. This principle ensured OPPO during rapid expansion [[corporate culture]] not diluted. "OPPO formidable because OPPO has formidable culture and formidable team while also catching good products."—culture and team parallel indispensable.
+
+*Source: Business Logic, 2018-09-30*
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** How build excellent enterprise team?
+
+**A:** (Duan Peking University lecture) Most important so-called personal character...you discover sometimes emptiness/substance visible...from our company angle my view always this most important so-called personal character...our company has one rule if person technically good at sales understands design but cannot cooperate with such person I don't want.
+
+*Source: Business Logic, 2005 Peking University Lecture*
+
+---
+
+**Q:** Improve team cohesion through stock distribution or high salary?
+
+**A:** I think best way improve team cohesion everyone share common values not just interests. Interests definitely absolute value often体现as relative value (certain proportion). Improving team cohesion most important still cultural identification.
+
+*Source: Business Logic*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Poaching competitor talent quick way boost team"** — Correct: "Generally poaching entire teams short-term efficient but long-term harmful corporate culture transmission also often appears harming others benefiting self ultimately hurting own company." (Source: Business Logic, 2011-03-08)
+
+- ❌ **"Capable people equal good talent"** — Correct: "Creating trouble for company often qualified but unsuitable people. Group suitable ordinary people together united accomplish great things." (Source: Business Logic, 2018-09-30)
+
+---
+
+## 💬 Original Quotes
+
+> **Talent suitability often more important than qualification. Suitability means talent's identification with corporate culture; qualification means capability executing specific tasks. Qualification improvable through training; suitability hard change." (Source: Business Logic, 2011-03-26)
+
+> **Values mismatch (match) people firmly refuse. Creating trouble often qualified but unsuitable people. Group suitable ordinary people together united accomplish great things." (Source: Business Logic, 2018-09-30)
+
+> **Cultivating self looks slow short-term but long-term often most efficient method." (Source: Business Logic, 2011-03-08)
+
+> **Senior management we generally don't introduce because difficult cultivate suitability." (Source: Business Logic, 2010-03-24)
+
+> **Without team success no individual success. Mutual trust candid communication integrate individual into team shared vision highest goal." (Source: Business Logic)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Benfen]] · [[Integrity and Credibility]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Built to Last]] · [[Standards for Good Companies]] · [[Clock Builder vs Time Teller]]
+
+**Related Company Cases**
+[[OPPO]] · [[BBK]]
+
+**Related People**
+[[Duan Yongping]]
 
 :::
 

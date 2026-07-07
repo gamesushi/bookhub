@@ -18,13 +18,116 @@ uuid: ae051357-0922-4e59-bc49-0038fb895044
 
 # OPPO & vivo
 
-(English translation pending...)
+> **The best inheritance of BBK culture — "OPPO is formidable because OPPO has formidable culture and a formidable team"**
+
+---
+
+## 🏢 Company Profile
+
+[[OPPO]] and [[vivo]] are the two major phone brands under [[步步高]], and also the most complete inheritance of [[段永平]]'s [[企业文化]] philosophy. Both companies strictly follow BBK's [[Stop Doing List]]: no OEM business, no interest-bearing loans, no individual price negotiations with customers. Duan Yongping said "Compared with Apple, OPPO is the same in doing the right things" — this is his highest evaluation of OPPO/vivo.
+
+---
+
+## 📅 Development Timeline
+
+| Time | Event | Core Logic |
+|------|-------|------------|
+| ~2004 | OPPO brand established | Spun off from BBK; inherited BBK's cultural DNA |
+| 2008-2011 | Feature phone era | Built brand through [[差异化]] (music phones) |
+| 2011 | OPPO Blu-ray player won PCMag Readers' Choice Award | "OPPO and APPLE actually share many similar genes" |
+| 2012-2013 | Smartphone transition faced huge difficulties | "Both OPPO and vivo faced great difficulties then; we weren't sure if we could survive" |
+| Mid-2013 | Transition succeeded | "Didn't lose money in '12, didn't lose money in '13, but lost enormous amounts throughout 2012-13 — finally pulled through by mid-'13" |
+| After 2015 | Became global phone giant | "OPPO is the only brand that successfully transitioned from feature phones to smartphones" |
+| 2019 | Resigned employees still received year-end bonuses | "This has been the case for 20+ years — it's part of honoring commitments" |
+
+---
+
+## 💡 OPPO/vivo's Core Competitive Strengths
+
+- **Strict [[Stop Doing List]]**: [[段永平]] said OPPO/vivo's Stop Doing List includes: no OEM business (maintain [[差异化]]), no interest-bearing loans (maintain financial health), no individual price negotiations with customers (uniform pricing to protect brand). The person who first proposed not doing OEM was Chen Mingyong, now CEO of OPPO. (Source: Business Logic Volume, 2016-10-12)
+- **Inheritance of [[企业文化]]**: Duan Yongping said "OPPO is formidable because OPPO has formidable culture and a formidable team, plus they caught good products and good models — actually vivo is formidable too, for the same reasons." (Source: Business Logic Volume, 2019-05-22)
+- **[[差异化]] over price wars**: Duan Yongping said "Value-for-money claims are just excuses for poor performance" — OPPO/vivo insist on making differentiated products rather than fighting price wars. (Source: Stanford SDL dialogue, 2018-09-30)
+- **[[本分]] as core value**: No OEM, no interest-bearing loans — these are concrete embodiments of [[本分]] in business operations, practicing "doing the right thing."
+- **Channel differentiation**: OPPO/vivo built powerful offline distribution networks — this is a core difference from internet phone brands like Xiaomi, embodying [[差异化]] strategy.
+- **Upholding principles during crisis**: During the most difficult 2012-2013 transition period, Duan Yongping said "if we were going to fall, we must not fall ugly — don't owe employees money, don't owe suppliers money, protect distributors as much as possible" — this embodies [[本分]] during crisis. (Source: Business Logic Volume, 2019-05-22)
+
+---
+
+## 💡 Genetic Similarity Between OPPO and Apple
+
+Duan Yongping believes OPPO and Apple share many genes — this is also one important reason he was able to understand Apple:
+
+> "OPPO and APPLE actually share many similar genes — this is also one reason I eventually understood APPLE." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2011-08-07)
+
+> "I've always felt OPPO's corporate and product culture has many similarities to Apple. Perhaps someday OPPO can change the world's impression of Chinese products just like SONY changed the world's impression of Japanese products back in the day." — Duan Yongping (Source: Business Logic Volume, 2011-11-02)
+
+In 2011, OPPO's Blu-ray player won PCMag's Readers' Choice Award. PCMag specifically compared OPPO with Apple, writing: "Apple doesn't make Blu-ray players, but even if they did, we believe OPPO would still beat them on user satisfaction." Duan Yongping said: "Brothers really did an excellent job!" (Source: Business Logic Volume, 2011-11-02)
+
+---
+
+## 💡 Behind the Decision Not to Do OEM
+
+Duan Yongping detailed why OPPO/BBK insists on not doing OEM business (Source: Business Logic Volume, 2016-10-12):
+
+> "The person who first proposed not doing OEM was Chen Mingyong, now OPPO's CEO — can't recall which year exactly, probably about 20 years ago now. Why don't we do OEM? In the long run we want to build our own brand; we need to put all resources into our own products. There are very professional companies doing OEM who have professional ways to meet many different clients' many different requirements. We simply don't have energy to do these things, so long-term we would lose to those professional OEM companies. Since we know long-term we can't beat them, we simply don't do it."
+
+Duan Yongping also shared a detail: A Walmart supplier once wanted to place an order for 1 million VCD players. He refused directly on the phone. The other party asked "You won't even discuss price?" Duan Yongping said "That's right — regardless of price, I refuse."
+
+---
+
+## 💬 Honoring Commitments: Resigned Employees Still Receive Year-End Bonuses
+
+In 2019, news that OPPO continued paying year-end bonuses to resigned employees attracted widespread attention. Duan Yongping said:
+
+> "This has been the case for 20+ years — it's part of honoring commitments, nothing worth discussing." — Duan Yongping (Source: Business Logic Volume, 2019-04-20)
+
+This is a concrete embodiment of [[本分]] culture in employee relations — "no credit purchases, no delayed payments to suppliers, no late salary payments, no dishonest practices."
+
+---
+
+## 💬 Excerpts from Original Text
+
+> "Compared with Apple, OPPO is the same in terms of doing the right things, though there may be some gaps in doing things right. But we have accumulation." — Duan Yongping (Source: Stanford SDL dialogue, 2018-09-30)
+
+> "No OEM (OEM products lack significant differentiation, making it hard to earn profits)." — Duan Yongping (discussing OPPO/vivo's Stop Doing List, Source: Stanford SDL dialogue, 2018-09-30)
+
+> "Value-for-money talk is all just excuses for oneself." — Duan Yongping (Source: Stanford SDL dialogue, 2018-09-30)
+
+> "OPPO is formidable because OPPO has formidable culture and a formidable team, plus they caught good products and good models — actually vivo is formidable too, for the same reasons." — Duan Yongping (Source: Business Logic Volume, 2019-05-22)
+
+> "At the time both OPPO and vivo faced great difficulties; we weren't sure if we could survive, so everyone reached a consensus: if we were going to fall, we must not fall ugly — don't owe employees money, don't owe suppliers money, protect distributors as much as possible..." — Duan Yongping (Source: Business Logic Volume, 2019-05-22)
+
+> "This has been the case for 20+ years — it's part of honoring commitments, nothing worth discussing." — Duan Yongping (Source: Business Logic Volume, 2019-04-20)
+
+> "OPPO and APPLE actually share many similar genes — this is also one reason I eventually understood APPLE." — Duan Yongping (Source: Duan Yongping Investment Q&A Record (Investment Logic Volume), 2011-08-07)
+
+---
+
+## 📚 Investment Insights
+
+- **Replicability of [[企业文化]]**: OPPO/vivo proves good corporate culture can be replicated across different companies — BBK's cultural gene has been inherited in both companies.
+- **Power of [[Stop Doing List]]**: No OEM, no interest-bearing loans — these "don't do" decisions allowed OPPO/vivo to maintain healthy financial status and brand premium in the fiercely competitive phone market.
+- **[[本分]] during crisis**: Insisting on not owing employees or suppliers during the hardest times — this is the truest embodiment of [[本分]], and also the fundamental reason they ultimately survived.
+- **Understanding OPPO is key to understanding Apple**: Duan Yongping said "OPPO and APPLE actually share many similar genes — this is also one reason I eventually understood APPLE" — this shows Duan Yongping's understanding of Apple comes largely from his 20+ years of firsthand experience in consumer electronics.
+
+---
+
+## 🔗 Related Notes
+
+**Related Concepts**
+[[企业文化]] · [[Stop Doing List]] · [[差异化]] · [[本分]] · [[护城河]]
+**Related People**
+[[段永平]]
+**Related Companies**
+[[步步高]] · [[苹果]] (benchmark company)
+**Related Topics**
+[[好公司的标准]] · [[Stop Doing List]]
 
 :::
 
 :::lang chs
 
-# OPPO & vivo
+# OPPO 与 vivo
 
 > **步步高文化的最佳传承——"OPPO厉害是因为OPPO有厉害的文化和厉害的团队"**
 
@@ -107,7 +210,7 @@ uuid: ae051357-0922-4e59-bc49-0038fb895044
 
 > "过去20多年都是如此，那是契约精神里的东西，没什么好说的。" — 段永平（来源：商业逻辑篇，2019-04-20）
 
-> "OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一。" — 段永平（来源：段永平投资问答录(投资逻辑篇)，2011-08-07）
+> "OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一。" — 段永平（来源：段永平投资问答录(投资逻辑篇），2011-08-07）
 
 ---
 
@@ -119,6 +222,7 @@ uuid: ae051357-0922-4e59-bc49-0038fb895044
 - **理解OPPO是理解苹果的钥匙**：段永平说"OPPO和APPLE其实有很多相同的基因，这也是我最后能看懂APPLE的原因之一"——这说明段永平对苹果的理解，很大程度上来自他在消费电子行业20多年的亲身经历。
 
 ---
+
 
 ## 🔗 相关笔记
 

@@ -13,9 +13,126 @@ uuid: 95a0d4e1-a17a-43ab-bc3f-63daae03c290
 
 :::lang eng
 
-# 收购
+# Acquisitions
 
-(English translation pending...)
+> **Acquisition success rates are generally very low—only companies with strong corporate culture have a somewhat higher probability of success.**
+
+---
+
+## 📌 Concept Analysis
+
+**Acquisitions (from Duan Yongping's perspective) = Using money to buy another company's business or brand, but you cannot purchase [[corporate culture]]—and differences in corporate culture are often the root cause of acquisition failure.**
+
+When two companies merge, it looks great on paper: combined assets, expanded market, synergies... But Duan Yongping says BBK doesn't take the M&A route. "Our approach may seem much slower in the short term, but from a 10- or 20-year perspective, it might actually be the fastest." Acquisitions appear to be shortcuts, but most of the time they're traps.
+
+---
+
+## 💡 Core Understanding
+
+**1. BBK doesn't follow the M&A route; slow is fast.**
+
+This is the same thing as [[long-termism]]—forgoing short-term scale expansion to focus on organic growth and accumulation of [[corporate culture]].
+
+**2. Acquisition success rates are extremely low; only companies with powerful culture have a chance.**
+
+The essence of acquisition is using one company's [[corporate culture]] to transform another—if your own culture isn't strong enough, acquisitions will only dilute your culture rather than transform the other party.
+
+**3. In brand acquisitions, there's only wrong buying, never wrong selling.**
+
+Geely acquiring Volvo, Lenovo acquiring IBM's PC division, Haier acquiring Sanyo's China regional brand—Duan Yongping believes sellers have nothing to worry about; it should be buyers who are concerned. Whether an acquired brand can truly be integrated and whether you can control it with your [[corporate culture]] is the key question.
+
+**4. VAM agreements are shortsighted behavior and especially dangerous for the investment-receiving party.**
+
+VAM (Valuation Adjustment Mechanism) agreements turn business operation into short-term games, forcing the investee to make shortsighted decisions to meet VAM targets—the opposite of [[long-termism]].
+
+**5. Spin-offs generally make no sense.**
+
+Duan Yongping uses a vivid analogy: "What would happen if you split the army, navy, and air force into separate listings?" — Spin-offs destroy overall synergy; they're often products of management failure, not value creation tools.
+
+**6. Buffett prefers acquisition targets that "generate cash" rather than "consume cash."**
+
+Buffett wrote in his shareholder letter: "For acquisition targets, we prefer those that 'generate cash' rather than 'consume cash.' Due to high inflation effects, more and more companies find they must reinvest every dollar earned just to maintain existing productivity. Even if these companies' accounting numbers look good, unless we see cold hard cash, we remain highly vigilant toward them." Duan Yongping cites this passage, which aligns with [[ROE]] and [[intrinsic value]] logic.
+
+---
+
+## 🛠 How to Practice
+
+To judge whether a company's acquisitions are trustworthy, the core question is: **Is this company's corporate culture strong enough to digest what it acquires?**
+
+- **Look at acquisition motivation:** Is it for genuine business synergies or just "getting bigger" for the sake of size? "If someone approaches M&A with the mindset 'big doesn't necessarily mean strong, but not big definitely means weak, so to become strong we must first get big,' the outcome will definitely be ugly."
+- **Look at corporate culture strength:** Acquisition success rates are extremely low; only companies with strong culture have a chance. If a company's own culture isn't clear, acquisitions will only bring chaos.
+- **Be wary of frequent acquirers:** "Be cautious with domestic companies that like to buy other companies." Frequent acquisitions are often means for management to cover up core business problems.
+- **Beware of VAM agreements:** Companies accepting VAM often sacrifice long-term value for short-term goals.
+
+---
+
+## 📖 Case Analysis
+
+**Google's acquisition of Motorola: Cultural differences were the biggest challenge**
+
+Duan Yongping's assessment of Google's acquisition of Motorola was: "Whoever buys Moto will struggle to have a good outcome, but when Google steps in it might be different. On one hand, it shows Google really got anxious; on the other hand, Google's culture is indeed powerful—maybe they have a chance? Either way, the cultural difference between Google and Moto is simply too enormous. If Google can pull off integrating Moto, that would be another Google miracle." He also pointed out that Google buying Motorola "definitely wasn't about buying Moto's business"—it was mainly for patents.
+
+*Source: Business Logic, 2011-08-19; 2012-01-24*
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** Midea has developed very quickly; its acquisitions and M&A activities have undeniably been successful. Do you think BBK might do the same?
+
+**A:** We won't go down the M&A path—that is, developing through acquisitions and mergers. Our approach may seem much slower in the short term, but from a 10- or 20-year perspective, it might actually be the fastest. It's tiring but very fulfilling.
+
+*Source: Business Logic, 2010-03-25*
+
+---
+
+**Q:** What problems tend to arise with frequent acquisitions?
+
+**A:** I don't know, but I know acquisition success rates are generally very low. Only companies with very strong corporate culture have a somewhat higher probability of success in acquisitions, such as Google, GE, etc.
+
+*Source: Business Logic, 2012-02-07*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Acquisitions are shortcuts to rapid growth"** — "If someone approaches M&A with the mindset 'big doesn't necessarily mean strong, but not big definitely means weak, so to become strong we must first get big,' the outcome will definitely be ugly." Acquisitions look like shortcuts, but most of the time they're traps because you cannot buy [[corporate culture]].
+
+- ❌ **"Spin-off listings can unlock subsidiary value"** — "Spin-offs generally make no sense." Splitting the army, navy, and air force into separate listings only destroys overall synergy; it's often a product of management failure.
+
+- ❌ **"VAM agreements protect investor interests"** — "Both parties to VAM tend to be shortsighted." VAM agreements are especially dangerous for the investment-receiving party, forcing management to sacrifice long-term value for short-term goals—the opposite of [[long-termism]].
+
+---
+
+## 💬 Original Quotes
+
+> "We won't go down the M&A path—that is, developing through acquisitions and mergers. Our approach may seem much slower in the short term, but from a 10- or 20-year perspective, it might actually be the fastest." (Source: Business Logic, 2010-03-25)
+
+> "Only companies with very strong corporate culture have a somewhat higher probability of success in acquisitions, such as Google, GE, etc." (Source: Business Logic, 2012-02-07)
+
+> "Generally speaking, there's mostly only wrong buying, never wrong selling." (Source: Business Logic, 2016-11-25)
+
+> "Both parties to VAM tend to be shortsighted. As the investor side, VAM always puts you in an invincible position; for those receiving investment, participating in VAM is incomprehensible." (Source: Business Logic, 2017-01-07)
+
+> "Spin-offs generally make no sense." (Source: Business Logic, 2010-04-29)
+
+> "For acquisition targets, we prefer those that 'generate cash' rather than 'consume cash.'" (Source: Business Logic, citing Buffett's shareholder letter, 1980)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Corporate Culture]] · [[Circle of Competence]] · [[Long-termism]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Diversification (Opposed)]] · [[Standards for Good Companies]] · [[Brand]]
+
+**Related Company Cases**
+[[BBK]] · [[GE]] · [[Apple]] · Geely · Lenovo
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 

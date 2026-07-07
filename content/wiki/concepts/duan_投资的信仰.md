@@ -13,9 +13,70 @@ uuid: dca30a01-a83a-476b-8543-0f30c7c3ec04
 
 :::lang eng
 
-# 投资的信仰
+# Faith in Investing
 
-(English translation pending...)
+> **Truly believing in your bones that "buying stocks means buying companies"—nothing can shake this conviction.**
+
+---
+
+## 📌 Concept Analysis
+
+**Faith in investing = Truly believing in your bones that "[[buying stocks means buying companies]]," believing that in the long run [[Mr. Market]] is a weighing machine, and not being shaken by short-term fluctuations.**
+
+A farmer plants crops believing that "sow in spring, reap in autumn"—no matter what the weather is like this year, he sows on schedule because he deeply believes in this law. Speculators check the weather forecast every day—if it rains today they don't plant, if it's sunny tomorrow they plant again—they have no faith, only emotions. What Duan Yongping calls investment faith is precisely this—you truly believe in your bones that [[standards for good companies|good companies]] practicing [[long-termism|long-term thinking]] will yield good returns, and you won't be shaken by short-term stock price declines.
+
+---
+
+## 💡 Core Understanding
+
+**1. Investment faith = Believing that in the long run [[Mr. Market]] is a weighing machine; for those without faith, the stock market is forever a voting machine.**
+
+Many people can say the phrase "buying stocks means buying companies," but extremely few truly understand and believe it in their bones. Saying it with your lips and believing it in your bones are two different things.
+
+**2. Faith is truly believing in something deep down; it cannot be shaken by certain things.**
+
+Specifically, it's believing that "companies with good long-term profits and net cash flows will see their stock prices catch up eventually"—this is based on understanding of [[intrinsic value]] and [[discounted future cash flow]], not blind optimism. Everyone has a speculative heart, which is why we need faith. [[Ordinary Mind]] is the psychological foundation that safeguards faith.
+
+**3. Faith is a prerequisite for "doing the right thing," while "doing things right" is a process.**
+
+Faith solves the direction problem; [[circle of competence]] and [[rough estimation]] solve the specific analysis problems.
+
+---
+
+## 💬 Original Quotes
+
+> "Investment faith means: believing that in the long run the stock market is a weighing machine; for those without faith, it will always be a voting machine." (Source: Investment Logic · Chapter 1 Section 1, 2013-05-17)
+
+> "The faith I speak of is what you truly believe in your bones—it cannot be shaken by certain events." (Source: Investment Logic · Chapter 1 Section 1, 2017-02-27)
+
+> "'Buying stocks means buying companies'—many people can say these words, but I've almost never met anyone who truly understands and believes them in their bones—among the people I know, probably no more than five (including Buffett and Munger)." (Source: Investment Logic · Chapter 1 Section 1, 2013-04-11)
+
+> "Actually, everyone has a speculative heart, which is exactly why we need faith." (Source: Investment Logic · Chapter 1 Section 1, 2013-02-01)
+
+> "You must believe. — Master Oogway" (Source: Investment Logic · Chapter 1 Section 1, 2012-05-20)
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Investment faith is blind optimism—believing the market will rise no matter what happens"** — Faith is "what you truly believe in your bones." Specifically, it's believing that "companies with good long-term profits and net cash flows will see their stock prices catch up eventually"—this is based on understanding of company value, not blind optimism.
+
+- ❌ **"With faith you don't need analysis—just buy and forget about it"** — Faith is a prerequisite for "doing the right thing," while "doing things right is a process." Faith solves the direction problem; you still need [[circle of competence]] and [[rough estimation]] to solve specific analysis problems.
+
+- ❌ **"Investment faith can be acquired through learning; reading books is enough to establish it"** — "The Way is indeed difficult to teach; one must realize it oneself. For someone who doesn't have the Way in their heart, whatever you say is useless." Faith requires genuine personal understanding and experience; it cannot be established simply through others' explanations.
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream Concepts** (prerequisites for understanding this concept):
+[[Buying Stocks Means Buying Companies]] · [[Fundamental Duty]]
+
+**Downstream Concepts** (conclusions derived from this):
+[[Ordinary Mind]] · [[Long-termism]] · [[Stop Doing List]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]] · [[Munger]]
 
 :::
 

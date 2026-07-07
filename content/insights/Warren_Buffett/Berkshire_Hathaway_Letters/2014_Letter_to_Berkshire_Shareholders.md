@@ -114,9 +114,7 @@ A note to readers: Fifty years ago, today’s management took charge at Berkshir
 
 :::
 
-# BERKSHIRE HATHAWAY INC.
-
-:::lang eng
+# 伯克希尔·哈撒韦公司:::lang eng
 
 **To the Shareholders of Berkshire Hathaway Inc.:**
 

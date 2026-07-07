@@ -146,7 +146,7 @@ The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-ta
 
 :::
 
-# BERKSHIRE HATHAWAY INC.
+# 伯克希尔·哈撒韦公司
 
 :::lang eng
 

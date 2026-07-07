@@ -15,7 +15,113 @@ uuid: 0b9c0a47-cbfc-4f94-9d12-851cf16310fb
 
 # Margin of Safety
 
-(English translation pending...)
+> **"My understanding of margin of safety is degree of company understanding not stock short-term price fluctuations"**
+
+---
+
+## 📌 Concept Explanation
+
+[[Duan Yongping]]'s margin of safety understanding differs from traditional definition:
+
+> My understanding of margin of safety is degree of company understanding not stock short-term price fluctuations. For great company sometimes small price difference 10 years later looks insignificant but missing good company over that small price difference could be big deal. (2020-10-15)
+
+**Traditional definition:** buying below intrinsic value; price discount equals margin of safety
+**Duan's definition:** degree of company understanding is margin of safety—more understanding more safety
+
+---
+
+## 💡 Core Understanding
+
+**1. Margin of safety essence is understanding not price discount.**
+
+Companies you don't understand no matter how cheap may not be cheap—if don't understand company cannot judge whether truly cheap.
+
+**2. Understanding determines position size—smaller perceived risk larger allocation.**
+
+This [[concentrated investing]] logical foundation—not arbitrarily heavy position but within [[circle of competence]] only dare heavy bet when truly understand.
+
+**3. Uncertainty dealt with by margin of safety; margin of safety comes from understanding.**
+
+Logic chain: deep research → increase understanding → reduce uncertainty → establish margin of safety → can place heavy bet.
+
+**4. Good business model itself part of margin of safety.**
+
+(2013-03-01, Investment Logic)
+
+**5. "Lock 10 years" perspective makes "margin of safety" meaning clearer.**
+
+From 10-year perspective small price differences almost negligible; true margin of safety comes from deep company understanding—will this company still exist in 10 years? Even better?
+
+---
+
+## ❓ Selected Q&A
+
+**Q:** What does margin of safety mean?
+
+**A:** My own understanding actually my degree of understanding about business to invest in. Smaller perceived risk larger proportion can allocate. (2011-06-29, Investment Logic)
+
+---
+
+**Q:** How deal with uncertainty?
+
+**A:** Uncertainty dealt with using margin of safety. (2011-05-09, Investment Logic)
+
+---
+
+**Q:** If you haven't understood what move are you making?
+
+**A:** If you haven't understood what move are you making? (2014-07-30, Investment Logic)
+
+---
+
+**Q:** Is good business model also margin of safety?
+
+**A:** Good business model enterprises high certainty (price) margin of safety can be smaller. Usually not much opportunity large margin of safety either. Can understand: business model and high certainty another form margin of safety. Otherwise relatively high uncertainty (price) margin of safety should be larger. (2013-03-01, Investment Logic)
+
+---
+
+**Q:** Old Ba's margin of safety refers price discount?
+
+**A:** Maybe what I said. I think old Ba's "margin of safety" actually refers understanding not price. From 10-year perspective buying 30% above lowest price actually not much. (2013-03-01, Investment Logic)
+
+---
+
+## 📖 Case Analysis
+
+**[[Apple]] (2011): Establishing margin of safety through understanding**
+
+When Duan bought Apple 2011 Apple approx 300B market cap held 100B net cash then profit maybe under 20B. His Apple understanding: next 5 years profit probably rise lot guess 50B. So thinking very simple: use ~200B market cap buy company earning near 20B/year currently next ~5 years will earn 50B/year or above. "Reaching this conclusion means understood. If don't understand absolutely must not touch—at least 20 years work needed for this understanding."
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2019-05-20*
+
+**[[UHAL]] (~2003): Hidden asset margin of safety**
+
+UHAL stock price ~$5 net assets ~$50. Duan's margin of safety came from deep company asset understanding—"took long time (several weeks) fully figure out." This understanding convinced him: even if company operations troubled asset value provided sufficient protection. This "price discount" meaning margin of safety but premise still deep understanding.
+
+*Source: Duan Yongping Investment Q&A (Investment Logic), 2010-03-09*
+
+---
+
+## ⚠️ Common Misconceptions
+
+- ❌ **"Margin of safety means buying cheap bigger discount safer"** — "I think old Ba's 'margin of safety' actually refers understanding not price." Companies you don't understand no matter how cheap not safe—cannot judge whether truly cheap. (2013-03-01)
+
+- ❌ **"Good companies need no margin of safety just buy"** — Good business model indeed can reduce price margin of safety requirements but not eliminate. "Good business model enterprises high certainty (price) margin of safety can be smaller"—smaller not none. (2013-03-01)
+
+- ❌ **"Margin of safety precise number like buying at 30% discount"** — Duan never precisely calculates margin of safety uses [[rough estimation]]. "From 10-year perspective buying 30% above lowest price actually not much." Margin of safety way of thinking not formula. (2013-03-01)
+
+---
+
+## 🔗 Related Nodes
+
+**Upstream concepts** (prerequisites for understanding this concept):
+[[Circle of Competence]] · [[Discounted Future Cash Flow]] · [[Buying Stocks is Buying Companies]]
+
+**Downstream concepts** (conclusions derived from this):
+[[Rough Estimation]] · [[Concentrated Investing]] · [[Buying Logic]]
+
+**Related People**
+[[Duan Yongping]] · [[Buffett]]
 
 :::
 
