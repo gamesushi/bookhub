@@ -721,9 +721,30 @@ span.lang-common {
     margin-top: 1.3rem;
   }
 
+  /* Force word-wrapping for headings, links, and text to prevent horizontal overflow */
+  h1, h2, h3, h4, h5, h6,
+  .article-title,
+  .breadcrumb-container,
+  .breadcrumb-element,
+  p, li, a {
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
+  }
+
+  /* Force wrap on underscores specifically for long chapter titles and breadcrumbs */
+  .article-title,
+  h1, h2, h3,
+  .breadcrumb-container,
+  .breadcrumb-element p {
+    word-break: break-all !important;
+  }
+
   /* --- 2. Layout & Spacing --- */
   .page > #quartz-body {
     padding: 0 !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    width: 100% !important;
+    max-width: 100vw !important;
   }
 
   .page > #quartz-body .center,
