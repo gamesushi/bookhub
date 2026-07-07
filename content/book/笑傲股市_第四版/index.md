@@ -1,3 +1,6 @@
+---
+title: "笑傲股市（第四版）"
+---
 # 笑傲股市（How to Make Money in Stocks）第四版
 
 > **作者**：威廉·欧奈尔（William J. O'Neil）  
