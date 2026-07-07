@@ -30,6 +30,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Annotations({
       provider: "local",
     }),
+    Component.ReadingProgress(),
   ],
   footer: Component.Footer({
     links: {

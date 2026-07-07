@@ -1,4 +1,5 @@
 export const folderTranslations: Record<string, string> = {
+  "book": "书库索引",
   "insights": "专题见解",
   "wiki": "百科维基",
   "Duan_Yongping": "段永平",

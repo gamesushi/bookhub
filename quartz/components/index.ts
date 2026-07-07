@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Annotations from "./Annotations"
+import ReadingProgress from "./ReadingProgress"
 
 import NounPreview from "./NounPreview"
 import LanguageToggle from "./LanguageToggle"
@@ -61,4 +62,5 @@ export {
   HomeHero,
   HomeRightSidebar,
   Annotations,
+  ReadingProgress,
 }

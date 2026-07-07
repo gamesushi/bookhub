@@ -675,3 +675,181 @@ span.lang-common {
     text-align: center;
   }
 }
+
+/* ===== MOBILE READING EXPERIENCE OPTIMIZATION ===== */
+/* Reading progress bar — driven by JS, visible on all screens */
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: linear-gradient(90deg, var(--lb-gold), var(--lb-gold-light));
+  z-index: 10000;
+  transition: width 80ms linear;
+  pointer-events: none;
+}
+
+@media (max-width: 800px) {
+  /* --- 1. Typography & Readability --- */
+  body {
+    font-size: 17px;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  article,
+  .popover-hint {
+    p, li, td, th, dd, dt {
+      line-height: 1.85;
+      letter-spacing: 0.03em;
+    }
+  }
+
+  h1, .article-title {
+    font-size: 1.5rem !important;
+    line-height: 1.35;
+    letter-spacing: -0.5px;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    margin-top: 1.3rem;
+  }
+
+  /* --- 2. Layout & Spacing --- */
+  .page > #quartz-body {
+    padding: 0 !important;
+  }
+
+  .page > #quartz-body .center,
+  .page > #quartz-body .page-header,
+  .page > #quartz-body .page-footer {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* Tighter blockquotes on mobile */
+  blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0.8rem;
+    padding-right: 0.4rem;
+  }
+
+  /* Tighter callout boxes on mobile */
+  .callout {
+    padding: 0.6rem 0.8rem;
+
+    .callout-content {
+      padding: 0;
+    }
+  }
+
+  /* Responsive tables — horizontal scroll with inertia */
+  .table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 0 8px;
+
+    > table {
+      margin: 0.5rem 0;
+      min-width: 480px; /* force scroll if table is wide */
+    }
+  }
+
+  /* --- 3. Sticky Top Bar with Glassmorphism --- */
+  .page > #quartz-body .sidebar.left:has(.explorer) {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background: rgba(var(--light-rgb, 250, 247, 242), 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    padding: 0.6rem 16px !important;
+    margin: 0;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.04);
+    transition: box-shadow 0.3s ease;
+  }
+
+  [saved-theme="dark"] .page > #quartz-body .sidebar.left:has(.explorer) {
+    background: rgba(30, 30, 30, 0.85);
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+  }
+
+  /* --- 4. Code Blocks --- */
+  pre {
+    font-size: 0.82rem;
+    border-radius: 8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 0.6rem 0.8rem;
+
+    > code {
+      font-size: 0.82rem;
+    }
+  }
+
+  code {
+    font-size: 0.85em;
+    word-break: break-word;
+  }
+
+  /* --- 5. Images --- */
+  article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  /* --- 6. Better paragraph spacing for long-form reading --- */
+  article p {
+    margin-bottom: 1.2em;
+  }
+
+  /* --- 7. Breadcrumbs compact on mobile --- */
+  .breadcrumb-container {
+    font-size: 0.8rem;
+    flex-wrap: wrap;
+    gap: 0;
+
+    .breadcrumb-element {
+      p {
+        margin: 0 0.2rem;
+      }
+    }
+  }
+
+  /* --- 8. Content meta compact --- */
+  .content-meta {
+    font-size: 0.8rem;
+  }
+
+  /* --- 9. Footer compact --- */
+  footer {
+    padding: 1rem 16px;
+    font-size: 0.85rem;
+  }
+
+  /* --- 10. KaTeX / Math responsive --- */
+  .katex-display {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 0.5rem 0;
+  }
+
+  /* Reading progress bar — thicker on mobile for touch visibility */
+  .reading-progress-bar {
+    height: 3px;
+  }
+}

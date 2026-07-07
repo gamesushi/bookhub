@@ -1,5 +1,6 @@
 ---
 title: "笑傲股市（第四版）"
+publish: true
 ---
 # 笑傲股市（How to Make Money in Stocks）第四版
 
