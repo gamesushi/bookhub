@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Annotations from "./Annotations"
 import ReadingProgress from "./ReadingProgress"
+import WeChatReader from "./WeChatReader"
 
 import NounPreview from "./NounPreview"
 import LanguageToggle from "./LanguageToggle"
@@ -63,4 +64,5 @@ export {
   HomeRightSidebar,
   Annotations,
   ReadingProgress,
+  WeChatReader,
 }

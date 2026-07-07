@@ -31,6 +31,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: "local",
     }),
     Component.ReadingProgress(),
+    Component.WeChatReader(),
   ],
   footer: Component.Footer({
     links: {
